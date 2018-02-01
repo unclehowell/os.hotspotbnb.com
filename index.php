@@ -1,4 +1,4 @@
-
+# location of this file /var/www/html/
 <?php $port = '8080';
       header('Location: '
     . ($_SERVER['HTTPS'] ? 'https' : 'http')
