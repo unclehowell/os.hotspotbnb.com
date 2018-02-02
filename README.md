@@ -23,3 +23,13 @@ c) Burn the Disc Image to a 32GB Micro SD Card (using a program like Win32 - htt
 d) Place in a Raspberry Pi 3 (Armhf) and boot up the Raspberry Pi
 
 # Step 2
+
+a) SSH into the hotspot using the default ip (cmd command: arp -a should find it)
+
+d) Enter the default username and password (dietpi:dietpi)
+
+c) Enter admin mode with the command (sudo su)
+
+d) Install the OpenHab-Configuration Menu 
+
+e) more to come .....
