@@ -1,11 +1,12 @@
 # Background
-Developing a low-cost solution to make your internet access free has not be easy. There are literally hundreds of hurdles which our team have been working to overcome since 2012. The resulting of our years of work is a small $20 USD micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. 
 
-This GitHub Repository contains all the code required for this Raspberry Pi to operate. You simpy download the Operating System, load it to a standard SD Card and insert it into the Raspberry Pi you have connected to your Wi-Fi router. 
+Developing a low-cost solution to make your internet access free for you, hasn't been easy. There are literally thousands of hurdles which our team have been working to overcome since around 2012. The result of our years of work is a small micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. And that's basically it, free internet access thereafter. Still a bit clunky with some bugs, but we couldn't wait anylonger to launch this worldwide for everyone to get their hands on. 
 
-There are two options below to help you get started on this journey with us. You can download a pre-configured SD Card Disc Image or if you're a little more tech savvy and want to understand exactly how this al works, you can manually configure your SD Card, like our team have, by going through our step-by-step manual configuration guide. 
+This GitHub Repository contains all the code required for the Raspberry Pi to function. Getting free internet is now as easy as downloading our Operating System, loading it to a standard SD Card and inserting it into the Raspberry Pi you intend to connect to your Home or Office Internet Router. 
 
-If you scroll to the bottom of this document you can read a more comprehesive description of how this Google Patented free internet technology solution makes it possible for anyone in the world to have free internet access without breaching any of todays high privacy & security standards. 
+There are two options below to help you get started on this journey. You can download a pre-configured SD Card Disc Image, or if you're a little more tech savvy and want to understand exactly how this all works, you can manually build your SD Card, like our team do, by going through our step-by-step manual configuration guide. 
+
+If you scroll to the bottom of this document you can also read a more comprehesive description of how our Google Patented free internet technology solution makes it possible for anyone in the world to have free internet access without breaching any of todays high privacy & security standards. We also sell the complete solution, boxed and ready to connect for $500 USD (email ccu@scottishbay.info to place your order)
 
 
 # Plug & Play Installation Guide
