@@ -1,4 +1,5 @@
 The latest Wave Operating System (for the Raspberry Pi 3 - Armhf) is avaliable for download here:
+(coming soon - still uploading - the Sd Card image has not been compressed, so it's the full 32GB sorry, will rectify soon)
 
 Usage Instructions:
 
