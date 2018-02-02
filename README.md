@@ -1,19 +1,19 @@
-The latest Wave Operating System (for the Raspberry Pi 3 - Armhf) is avaliable for download here:
-(coming soon - still uploading - the Sd Card image has not been compressed, so it's the full 32GB sorry, will rectify soon)
+# Simple Start Guide
 
-Usage Instructions:
+a) Download the WaveOS pre-configured SD Card image from this link: ###########
+* (The latest Wave Operating System (for the Raspberry Pi 3 - Armhf) is in the process of being compiled and compressed for a one-click download and installation and is scheduled to be published here before March 2018)
 
-a) use Etcher or Win32 to burn to a 32GB Micro SD Card. 
+b) use Etcher or Win32 to burn to a 32GB Micro SD Card. 
 
-b) Insert the SD Card into the Raspberry Pi and power it up.
+c) Insert the SD Card into the Raspberry Pi and power it up.
 
-c) Connect to the Wi-Fi Hotspot using the default password (makeitwave)
+d) Connect to the Wi-Fi Hotspot using the default password (makeitwave)
 
-d) Once connected enter the hostname 'wave/' into your web browser
+e) Once connected enter the hostname 'wave/' into your web browser
 
 Manually Configuration: 
 
-# Step 1
+# Manual Configuration: Step 1
 a) Download DietPi - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z
 
 b) Extract the Disc Image File
@@ -22,7 +22,7 @@ c) Burn the Disc Image to a 32GB Micro SD Card (using a program like Win32 - htt
 
 d) Place in a Raspberry Pi 3 (Armhf) and boot up the Raspberry Pi
 
-# Step 2
+# Manual Configuration: Step 2
 
 a) SSH into the hotspot using the default ip (cmd command: arp -a should find it)
 
@@ -30,6 +30,11 @@ d) Enter the default username and password (dietpi:dietpi)
 
 c) Enter admin mode with the command (sudo su)
 
-d) Install the OpenHab-Configuration Menu 
-
-e) more to come .....
+d) Install the OpenHab-Configuration Menu:
+  - sudo apt-get update
+  - sudo apt-get install git
+  - sudo git clone https://github.com/openhab/openhabian.git /opt/openhabian
+  - sudo ln -s /opt/openhabian/openhabian-setup.sh /usr/local/bin/openhabian-config
+  - sudo openhabian-config
+  
+....more coming 
