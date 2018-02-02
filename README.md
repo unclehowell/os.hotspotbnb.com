@@ -1,12 +1,12 @@
 # Background
 
-Developing a low-cost solution to make your internet access free for you, hasn't been easy. There are literally thousands of hurdles which our team have been working to overcome since around 2012. The result of our years of work is a small micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. And that's basically it, free internet access thereafter. Still a bit clunky with some bugs, but we couldn't wait anylonger to launch this worldwide for everyone to get their hands on. 
+Developing a low-cost solution to make your internet access free for you, hasn't been easy. There are literally thousands of hurdles which our team have been working to overcome since around 2012. The result of our years of work is a small micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. And that's basically it, free internet access thereafter. Still a bit clunky with some bugs, but we couldn't wait to launch this any longer. 
 
-This GitHub Repository contains all the code required for the Raspberry Pi to function. Getting free internet is now as easy as downloading our Operating System, loading it to a standard SD Card and inserting it into the Raspberry Pi you intend to connect to your Home or Office Internet Router. 
+This GitHub Repository contains all the code required for the Raspberry Pi to perform the function of making your internet access free. Switching to free internet access is now as easy as downloading our Operating System, loading it to a standard SD Card and inserting it into the Raspberry Pi you intend to connect to your existing Hotpost Router. 
 
 There are two options below to help you get started on this journey. You can download a pre-configured SD Card Disc Image, or if you're a little more tech savvy and want to understand exactly how this all works, you can manually build your SD Card, like our team do, by going through our step-by-step manual configuration guide. 
 
-If you scroll to the bottom of this document you can also read a more comprehesive description of how our Google Patented free internet technology solution makes it possible for anyone in the world to have free internet access without breaching any of todays high privacy & security standards. We also sell the complete solution, boxed and ready to connect for $500 USD (email ccu@scottishbay.info to place your order)
+If you scroll to the bottom of this document you can also read a more comprehesive description of how our Google Patented free internet technology solution works, without breaching any of todays high privacy & security standards. We also sell the complete solution, boxed and ready to connect for $500 USD (just email ccu@scottishbay.info to place your order)
 
 
 # Plug & Play Installation Guide
