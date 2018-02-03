@@ -21,7 +21,9 @@ d) Insert the SD Card into the Raspberry Pi and power it up.
 
 e) Connect to the Wi-Fi Hotspot using the default password (makeitwave)
 
-f) Once connected enter the hostname 'wave/' into your web browser
+f) Once connected enter the hostname 'casavr/' into your web browser
+
+g) see the settings.txt file for all the access details
 
 Manually Configuration: 
 
