@@ -11,16 +11,17 @@ If you scroll to the bottom of this document you can also read a more comprehesi
 
 # Plug & Play Installation Guide
 
-a) Download the WaveOS pre-configured SD Card image from this link: ###########
-* (The latest Wave Operating System (for the Raspberry Pi 3 - Armhf) is in the process of being compiled and compressed for a one-click download and installation and is scheduled to be published here before March 2018)
+a) Download the WaveOS pre-configured SD Card image from this link: https://mega.nz/#!1ORnmQiD!hKC113zF6D9DFPifAE-raYjx77jDIlZ9d9OdKsHBMek
 
-b) use Etcher or Win32 to burn to a 32GB Micro SD Card. 
+b) uncompress using .7z (better than zip!)
 
-c) Insert the SD Card into the Raspberry Pi and power it up.
+c) use Etcher or Win32 to burn to a 32GB Micro SD Card. 
 
-d) Connect to the Wi-Fi Hotspot using the default password (makeitwave)
+d) Insert the SD Card into the Raspberry Pi and power it up.
 
-e) Once connected enter the hostname 'wave/' into your web browser
+e) Connect to the Wi-Fi Hotspot using the default password (makeitwave)
+
+f) Once connected enter the hostname 'wave/' into your web browser
 
 Manually Configuration: 
 
