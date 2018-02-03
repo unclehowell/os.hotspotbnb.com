@@ -19,7 +19,7 @@ c) use Etcher or Win32 to burn to a 32GB Micro SD Card.
 
 d) Insert the SD Card into the Raspberry Pi and power it up.
 
-e) Connect to the Wi-Fi Hotspot using the default password (makeitwave)
+e) Connect to the Wi-Fi Hotspot using the default password (vanrienen)
 
 f) Once connected enter the hostname 'casavr/' into your web browser
 
