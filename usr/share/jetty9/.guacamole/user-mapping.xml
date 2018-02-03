@@ -1,0 +1,23 @@
+<user-mapping>
+
+    <!-- Per-user authentication and config information -->
+    <authorize username="dietpi" password="Burgerking!!">
+        <protocol>vnc</protocol>
+        <param name="hostname">10.0.0.1</param>
+        <param name="port">5901</param>
+        <param name="password">Burgerking!!</param>
+    </authorize>
+
+    <!-- Another user, but using md5 to hash the password
+         (example below uses the md5 hash of "PASSWORD") -->
+    <authorize
+            username="dietpi"
+            password="7134e2a4e786fdaf3a26d3b975b418c5"
+            encoding="md5">
+        <protocol>vnc</protocol>
+        <param name="hostname">127.0.0.1</param>
+        <param name="port">5901</param>
+        <param name="password">Burgerking!!</param>
+    </authorize>
+
+</user-mapping>
