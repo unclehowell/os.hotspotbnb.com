@@ -1,6 +1,6 @@
 # Background
 
-Developing a low-cost solution to make your internet access free for you, hasn't been easy. There are literally thousands of hurdles which our team have been working to overcome since around 2012. The result of our years of work is a small micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. And that's basically it, free internet access thereafter. Still a bit clunky with some bugs, but we couldn't wait to launch this any longer. 
+Developing a low-cost solution to make your internet access free for you, hasn't been easy. There are literally thousands of hurdles which our team have been working to overcome since around 2012. The result of our years of work is a Linux-based Operating System we call WaveOS, which installs onto a small micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. And that's basically it, free internet access thereafter. Still a bit clunky with some bugs, but we couldn't wait to launch this any longer. 
 
 This GitHub Repository contains all the code required for the Raspberry Pi to perform the function of making your internet access free. Switching to free internet access is now as easy as downloading our Operating System, loading it to a standard SD Card and inserting it into the Raspberry Pi you intend to connect to your existing Hotpost Router. 
 
