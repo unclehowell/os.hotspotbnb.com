@@ -7,4 +7,6 @@ rm -r WaveOS
 # download the latest version 
 git clone https://github.com/unclehowell/WaveOS
 
-# run the upgrade script (puts all the files from the latest version in the right places)
+# run the fileclerk (puts all the files from the latest version in the right places)
+sh WaveOS/shazam.sh
+
