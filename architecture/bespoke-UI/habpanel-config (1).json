@@ -1,0 +1,194 @@
+{
+    "dashboards": [
+        {
+            "id": "PiHole",
+            "name": "MotionEye",
+            "widgets": [
+                {
+                    "name": "App 2",
+                    "sizeX": 9,
+                    "sizeY": 18,
+                    "type": "frame",
+                    "row": 0,
+                    "col": 0,
+                    "url_source": "static",
+                    "frameUrl": "",
+                    "frameless": true,
+                    "hidelabel": true,
+                    "background": "transparent",
+                    "refresh": null
+                }
+            ],
+            "row": 2,
+            "col": 0,
+            "sizeY": 2,
+            "sizeX": 2,
+            "tile": {
+                "background_image": "",
+                "backdrop_iconset": "smarthome-set",
+                "backdrop_icon": "dome-camera",
+                "backdrop_center": true,
+                "iconset": "smarthome-set",
+                "icon": "dome-camera"
+            },
+            "columns": 9,
+            "$$hashKey": "object:21"
+        },
+        {
+            "id": "NetStats",
+            "name": "Emby",
+            "widgets": [
+                {
+                    "name": "",
+                    "sizeX": 9,
+                    "sizeY": 20,
+                    "type": "frame",
+                    "row": 0,
+                    "col": 0,
+                    "url_source": "static",
+                    "frameUrl": "http://10.0.0.11:8096",
+                    "frameless": true,
+                    "hidelabel": true,
+                    "background": "transparent"
+                }
+            ],
+            "row": 0,
+            "col": 0,
+            "sizeY": 2,
+            "sizeX": 2,
+            "tile": {
+                "background_image": "",
+                "backdrop_iconset": "smarthome-set",
+                "backdrop_icon": "tv",
+                "backdrop_center": true,
+                "iconset": "smarthome-set",
+                "icon": "tv"
+            },
+            "columns": 9,
+            "$$hashKey": "object:19"
+        },
+        {
+            "id": "Settings",
+            "name": "OpenHAB",
+            "widgets": [
+                {
+                    "name": "New Widget",
+                    "sizeX": 4,
+                    "sizeY": 4,
+                    "item": null,
+                    "type": "switch",
+                    "row": 0,
+                    "col": 0
+                }
+            ],
+            "row": 0,
+            "col": 2,
+            "sizeY": 2,
+            "sizeX": 2,
+            "tile": {
+                "background_image": "",
+                "backdrop_iconset": "smarthome-set",
+                "backdrop_icon": "remote-control",
+                "backdrop_center": true,
+                "iconset": "smarthome-set",
+                "icon": "remote-control"
+            },
+            "drawer": {},
+            "header": {},
+            "$$hashKey": "object:20"
+        },
+        {
+            "id": "Emby",
+            "name": "EmonCMS",
+            "widgets": [
+                {
+                    "name": "Emby",
+                    "sizeX": 12,
+                    "sizeY": 20,
+                    "type": "frame",
+                    "row": 0,
+                    "col": 0,
+                    "url_source": "static",
+                    "frameUrl": "http://192.168.42.1:8096",
+                    "frameless": true,
+                    "hidelabel": true
+                }
+            ],
+            "row": 2,
+            "col": 2,
+            "sizeX": 2,
+            "sizeY": 2,
+            "tile": {
+                "background_image": "",
+                "backdrop_iconset": "smarthome-set",
+                "backdrop_icon": "power",
+                "backdrop_center": true,
+                "iconset": "smarthome-set",
+                "icon": "power",
+                "title_color": "transparent"
+            },
+            "mobile_mode_enabled": false,
+            "$$hashKey": "object:22"
+        },
+        {
+            "id": "EmonCMS",
+            "name": "OwnCloud",
+            "widgets": [
+                {
+                    "name": "",
+                    "sizeX": 12,
+                    "sizeY": 19,
+                    "type": "frame",
+                    "row": 0,
+                    "col": 0,
+                    "url_source": "static",
+                    "frameUrl": "http://10.0.0.11/owncloud/"
+                }
+            ],
+            "row": 4,
+            "col": 0,
+            "sizeX": 2,
+            "sizeY": 2,
+            "tile": {},
+            "$$hashKey": "object:23"
+        },
+        {
+            "id": "IPCCTV",
+            "name": "Customize",
+            "widgets": [
+                {
+                    "name": "",
+                    "sizeX": 12,
+                    "sizeY": 20,
+                    "type": "frame",
+                    "row": 0,
+                    "col": 0,
+                    "url_source": "static",
+                    "frameUrl": "http://10.0.0.11/menu/index.html"
+                }
+            ],
+            "row": 4,
+            "col": 2,
+            "sizeX": 2,
+            "sizeY": 2,
+            "tile": {
+                "backdrop_iconset": "smarthome-set",
+                "iconset": "smarthome-set",
+                "icon": "houseplant"
+            },
+            "$$hashKey": "object:24"
+        }
+    ],
+    "menucolumns": 4,
+    "settings": {
+        "theme": "default",
+        "panel_name": "Wave",
+        "speech_synthesis_voice": "English United States",
+        "additional_stylesheet_url": "/static/mods.css",
+        "floating_speech": false,
+        "hide_speak_button": false,
+        "hide_refresh_button": false,
+        "hide_fullscreen_button": true
+    },
+    "customwidgets": {}
+}
