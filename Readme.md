@@ -25,7 +25,37 @@ f) Once connected enter the hostname 'casavr/' into your web browser
 
 g) see the settings.txt file for all the access details
 
-Manually Configuration: 
+# Default Settings 
+
+####### Wi-Fi #######
+
+SSID: wave
+Password: makeitwave
+
+####### Main Menu #######
+
+Menu: http://wave/
+
+####### Apps #######
+Emby:
+MotionEye(IPCCTV):(Bug! - see issue #2)
+NetStats
+EMonCMS (Bug! - see issue #3)
+RaspAP
+
+guacamole user: dietpi
+guacamole password: Burgerking!!
+
+####### Developer Access #######
+
+SSH user: dietpi
+SSH password: dietpi
+
+SSH superuser: root
+SSH superuser: Burgerking!!
+
+tightvncsesrver (write): Burgerking!!
+tightvncsesrver (read): n/a (disabled)
 
 # Manual Configuration Guide: Step 1
 a) Download DietPi - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z
