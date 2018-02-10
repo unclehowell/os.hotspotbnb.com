@@ -1,6 +1,5 @@
-# Background
+# Heard of Pimp-my-Ride? Why not Pimp your Wi-Fi? 
 
-We've all heard of Pimp-my-Ride, Why not Pimp your Wi-Fi? 
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 
 The technology transforms our old Wi-Fi Routers into powerful smart home-control & energy monitoring systems.
