@@ -27,9 +27,9 @@ b) 32GB Micro SD Card
 
 c) Ethernet Cable
 
-D) Mini USB Power Source (1500mA/5V) e.g. standard Phone Charger
+d) Mini USB Power Source (1500mA/5V) e.g. standard Phone Charger
 
-E) A Computer/ Laptop which will accept your Mini SD Card
+e) A Computer/ Laptop which will accept your Mini SD Card
 
 #  Get Started 
 
