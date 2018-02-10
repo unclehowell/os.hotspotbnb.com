@@ -17,38 +17,45 @@ In the near future we will even be rolling out an update which makes your intern
 By using WaveOS technology your bills from your ISP will actually stop. 
 This is a very exciting technology for many people, businesses and industries. 
 
-# Plug & Play Installation Guide
+#  Get Started 
 
 a) Download WaveOS version 0.1.3 (alpha): https://mega.nz/#!1ORnmQiD!hKC113zF6D9DFPifAE-raYjx77jDIlZ9d9OdKsHBMek
+
     - The file size is 2GB - WaveOS contains more than 200,000 folders and files
     
 b) uncompress using .7z (better than zip!)
+
     - This expands it to 32GB, so make sure you have space on your Hard drive
 
 c) use Etcher or Win32 to burn to a 32GB Micro SD Card
+
     - Depending on your computers speed, this can take in the region of 1 hour. 
 
 d) Insert the SD Card into the Raspberry Pi and power it up
+
     - The first boot can take upto 15minutes before the Wi-Fi Hotspot is Broadcasted
+    
     - In some cases it can take 10 more minutes for the services to all start (harmoniously)
 
 e) Connect to the Wi-Fi Hotspot using the default password
+
     - The default password is: makeitwave
 
 f) Open the WaveOS menu in your web browser:
+
     - The default hostname is: wave (http://wave/)
     
 Help & Support
+
     - If this fails for any reason, try the default IP: 192.168.42.1
     - Menu access also works through the wired connection: 10.0.0.11
     - You may need to change your routers DHCP to the following (and reboot it) for WaveOS to function:
     - IP Range: 10.0.0.2 - 10.0.0.254  , Subnet: 255.255.255.0 , Gateway: 10.0.0.1, DNS: 8.8.8.8, 8.8.4.4
-    
-for user profiles, Username & Password info, see here:
-https://github.com/unclehowell/WaveOS/blob/master/shazam/users.sh
+    - <a href="https://github.com/unclehowell/WaveOS/blob/master/shazam/users.sh">user profiles, Username & Password info</a>
 
+# Clean Build - For Developers 
 
-# Manual Configuration Guide: Step 1
+# Step 1
 a) Download DietPi - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z
 
 b) Extract the Disc Image File
