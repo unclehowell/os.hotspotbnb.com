@@ -12,5 +12,6 @@ wget https://packages.graylog2.org/repo/packages/graylog-2.4-repository_latest.d
 sudo dpkg -i graylog-2.4-repository_latest.deb
 sudo apt-get update
 sudo apt-get install graylog-server
+sudo systemctl start graylog-server
 
 sudo rm -f WaveOS/shazam/run-once.sh
