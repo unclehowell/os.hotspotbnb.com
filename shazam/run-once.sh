@@ -6,4 +6,11 @@
 sudo rm -f /var/www/html/menu/index.html
 sudo cp WaveOS/architecture/bespoke-UI/www/menu/index.html /var/www/html/menu/index.html
 
+#### New Customisation app tab - system logging  ####
+sudo apt-get install apt-transport-https -y
+wget https://packages.graylog2.org/repo/packages/graylog-2.4-repository_latest.deb
+sudo dpkg -i graylog-2.4-repository_latest.deb
+sudo apt-get update
+sudo apt-get install graylog-server
+
 sudo rm -f WaveOS/shazam/run-once.sh
