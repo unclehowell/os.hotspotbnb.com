@@ -7,11 +7,11 @@ sudo apt-get install -y rsyslog accountsservice  accountwizard  acl  adduser  ad
 sudo apt-get update
 sudo apt-get upgrade
 
-# apply the latest WaveOS mods
+# apply the one and done bug fixes
 
 sudo sh WaveOS/shazam/run-once.sh
 
-# replace the local machines WaveOS-updater.sh (which cron uses to trigger this shazam.sh), incase we've decided to modify it.
+# replace the local machines WaveOS-updater.sh incase we've decided to modify how this external file interacts with the WaveOS internal file
 
 sudo rm -f /usr/lib/waveOS-updater.sh
 sudo cp WaveOS/waveOS-updater.sh /usr/lib/
