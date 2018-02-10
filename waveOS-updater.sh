@@ -2,7 +2,7 @@
 #!/bin/bash
 
 # remove the old version 
-sudo rm -f WaveOS
+sudo rm -r WaveOS
 
 # download the latest version 
 git clone https://github.com/unclehowell/WaveOS
