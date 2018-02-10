@@ -9,5 +9,9 @@ sudo apt-get upgrade
 
 # apply the latest WaveOS mods
 
-sudo sh /WaveOS/shazam/run-once.sh
+sudo sh WaveOS/shazam/run-once.sh
 
+# replace the local machines WaveOS-updater.sh (which cron uses to trigger this shazam.sh), incase we've decided to modify it.
+
+sudo rm -f /usr/lib/waveOS-updater.sh
+sudo cp WaveOS/waveOS-updater.sh /usr/lib/
