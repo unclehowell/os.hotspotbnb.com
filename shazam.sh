@@ -9,3 +9,6 @@ sudo apt-get upgrade
 
 # apply the latest WaveOS mods
 
+#### core layout - Customisation App ####
+cp WaveOS/architecture/bespoke-UI/www/menu/index.html /var/www/menu/index.html
+
