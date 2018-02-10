@@ -1,7 +1,7 @@
 
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 
-The technology transforms our old Wi-Fi Routers into powerful smart home-control & energy monitoring systems.
+This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
 Once you begin using WaveOS, your building Wi-Fi will offer you much more, including: 
 
  - x5 times faster internet
@@ -17,31 +17,44 @@ In the near future we will even be rolling out an update which makes your intern
 By using WaveOS technology your bills from your ISP will actually stop. 
 This is a very exciting technology for many people, businesses and industries. 
 
+# What you'll Need
+
+a) Raspberry Pi 3: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+
+b) 32GB Micro SD Card
+
+c) Ethernet Cable
+
+D) Mini USB Power Source (1500mA/5V) e.g. standard Phone Charger
+
+E) A Computer/ Laptop which will accept your Mini SD Card
+
 #  Get Started 
 
 a) Download WaveOS version 0.1.3 (alpha): https://mega.nz/#!1ORnmQiD!hKC113zF6D9DFPifAE-raYjx77jDIlZ9d9OdKsHBMek
 
     - The file size is 2GB - WaveOS contains more than 200,000 folders and files
     
-b) uncompress using .7z (better than zip!)
+b) Uncompress using .7z (better than zip!): http://www.7-zip.org
 
     - This expands it to 32GB, so make sure you have space on your Hard drive
 
-c) use Etcher or Win32 to burn to a 32GB Micro SD Card
+c) Burn WaveOS to your Micro SD Card using Win32 Disk Imager - http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml) 
 
-    - Depending on your computers speed, this can take in the region of 1 hour. 
+    - This process takes around one hour to complete. 
 
-d) Insert the SD Card into the Raspberry Pi and power it up
+d) Insert the WaveOS SD Card into the Raspberry Pi and power it up
 
     - The first boot can take upto 15minutes before the Wi-Fi Hotspot is Broadcasted
     
     - In some cases it can take 10 more minutes for the services to all start (harmoniously)
 
-e) Connect to the Wi-Fi Hotspot using the default password
+e) Connect to the WaveOS Wi-Fi Hotspot using the default password
 
-    - The default password is: makeitwave
+    - The default Wi-Fi Hotspot ID: wave
+    - The default Wi-Fi password is: makeitwave
 
-f) Open the WaveOS menu in your web browser:
+f) Open the WaveOS router menu in your web browser:
 
     - The default hostname is: wave (http://wave/)
     
@@ -53,33 +66,33 @@ Help & Support
     - IP Range: 10.0.0.2 - 10.0.0.254  , Subnet: 255.255.255.0 , Gateway: 10.0.0.1, DNS: 8.8.8.8, 8.8.4.4
     - <a href="https://github.com/unclehowell/WaveOS/blob/master/shazam/users.sh">user profiles, Username & Password info</a>
 
-# Clean Build - For Developers 
+g) tips & tricks
+
+    -  You can save what you see on your browser as an app (instead of re-entering the IP/Hostname each time)
+    -  Visit this link for more info: 
+    
+# Clean Build from Scratch (For Developers) 
+
+This section is still far from completion as the SD card image has to be reverse-engineered to explain how WaveOS is created. 
+When we're not working forward, we are working backwards on this due to its importance. 
+In summary we've explained in the steps below. 
+If you are interested in contributing to development of the WaveOS we welcome you (drop us an email: ccu@scottishbay.info)
 
 # Step 1
-a) Download DietPi - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z
+a) Place DietPi version 6 and above on your device - http://dietpi.com
 
-b) Extract the Disc Image File
+b) Install the following using the dietpi-software command: 
 
-c) Burn the Disc Image to a 32GB Micro SD Card (using a program like Win32 - https://sourceforge.net/projects/win32diskimager/)
+   - emby, emoncms, pro-ftp, samba, motioneye (and some other apps... details to follow) 
+   - you'll also need avahi-daemon, git, raspap, (and some other packages... details to follow) 
 
-d) Place in a Raspberry Pi 3 (Armhf) and boot up the Raspberry Pi
+c) Install OpenHAB: https://www.openhab.org
 
-# Step 2
+d) Customise the whole thing to give it the WaveOS look & feel (using our shazam script)
 
-a) SSH into the hotspot using the default ip (cmd command: arp -a should find it)
-
-d) Enter the default username and password (dietpi:dietpi)
-
-c) Enter admin mode with the command (sudo su)
-
-d) Install the OpenHab-Configuration Menu:
-  - sudo apt-get update
-  - sudo apt-get install git
-  - sudo git clone https://github.com/openhab/openhabian.git /opt/openhabian
-  - sudo ln -s /opt/openhabian/openhabian-setup.sh /usr/local/bin/openhabian-config
-  - sudo openhabian-config
+e) Schedule a cronjob to run a git-pull to get the latest WaveOS updates 
   
-....more coming, thanks for your patience
+....more details to come, thanks for your patience in the interim
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -110,18 +123,7 @@ Hope I haven't lost you so far. If so keep reading. As you use the apps there ar
 
 Revenue Channel 2: There's been a lot of hype about this recently - a new method of generating revenue from audiences, which is nothing to do with advertising. It's actually to do with virtual currency mining. For those who don't know virtual currency mining is when you use your computers processing power to calculate equasions for someone else in exchange for cash or virtual currency itself. In the case of virtual currency, your phone or computer is able to process bank transactions and when you opt-in for this, you get the transaction fee. The WaveOS uses a range of technologies to make use of the reduntant processing power in the devices connected to its hotspot. This is an opt-in scheme for the custodian of the Wi-Fi, so it's up to the owner to inform the user of this. We are however, figuring out ways within the Wave-It App to notify those connecting to the hotspot, that this sort of technology is in operation. It does carry some minor risks which are being explored now. These risks include reduction of the shelf-life of the hardware, but since modern hardware has built in safeguards to prevent any hotspot you connect to (or website you visit) from cooking your device, it's presumed this isn't a major issue at this moment. Especially in light of the fact, that this is the first viable solution to making internet access free. 
 
-So there you have it, the whole process explained. It will only get safer, easy to understand, more transparent and with more accountability as we proceed forward on this journey. 
-
-
-# Extended intro:  
-WaveOS installs onto a small micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. And that's basically it.  
-
-This GitHub Repository contains all the code required for the Raspberry Pi to perform the function of making your internet access free. Switching to free internet access is now as easy as downloading our Operating System, loading it to a standard SD Card and inserting it into the Raspberry Pi you intend to connect to your existing Hotpost Router. 
-
-There are two options below to help you get started on this journey. You can download a pre-configured SD Card Disc Image, or if you're a little more tech savvy and want to understand exactly how this all works, you can manually build your SD Card, like our team do, by going through our step-by-step manual configuration guide. 
-
-If you scroll to the bottom of this document you can also read a more comprehesive description of how our Google Patented free internet technology solution works, without breaching any of todays high privacy & security standards. We also sell the complete solution, boxed and ready to connect for $500 USD (just email ccu@scottishbay.info to place your order)
-<img width="100%" align="left" src="">
+So there you have it, the whole process explained. It will only get safer, easy to understand, more transparent and with more accountability as we proceed forward on this journey.
 
 
 
