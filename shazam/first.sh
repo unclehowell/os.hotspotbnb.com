@@ -5,7 +5,7 @@
 # Emby, EmonCMS, 
 # OpenHAB, Raspap etc (instsall & configure)
 #########################################CONCLUSION ##########################
-# for now we'll just build off the latest SD Card image (v1.3) ####
+# for now we'll just build off the latest SD Card image (v1.4) ####
 
 #### core layout - Customisation App ####
 sudo rm -f /var/www/html/menu/index.html
