@@ -1,6 +1,11 @@
-# this update is always designed to run once and self destruct on the local machine, to prevent bugs and abuse of processing resources
-# it's basically one and done bug fixes
-# just need to remember to remove it before the next update 
+# First things first - presuming the unit has all the dependancies and is up to date as per the shazam.sh script
+
+#### must reverse engineer what has been done already - a tonn of work #####
+# all the dietpi apps (install & configure)
+# Emby, EmonCMS, 
+# OpenHAB, Raspap etc (instsall & configure)
+#########################################CONCLUSION ##########################
+# for now we'll just build off the latest SD Card image (v1.3) ####
 
 #### core layout - Customisation App ####
 sudo rm -f /var/www/html/menu/index.html
