@@ -3,7 +3,7 @@
 # just need to remember to remove it before the next update 
 
 #### core layout - Customisation App ####
-sudo rm -r /var/www/html/menu/index.html -y
-sudo cp WaveOS/architecture/bespoke-UI/www/menu/index.html /var/www/html/menu/index.html -y
+sudo rm -f /var/www/html/menu/index.html
+sudo cp WaveOS/architecture/bespoke-UI/www/menu/index.html /var/www/html/menu/index.html
 
-sudo rm -r WaveOS/shazam/run-once.sh
+sudo rm -f WaveOS/shazam/run-once.sh
