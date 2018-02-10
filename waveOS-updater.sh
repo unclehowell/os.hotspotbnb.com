@@ -2,11 +2,11 @@
 #!/bin/bash
 
 # remove the old version 
-rm -r WaveOS
+sudo rm -f WaveOS
 
 # download the latest version 
 git clone https://github.com/unclehowell/WaveOS
 
 # run the fileclerk (puts all the files from the latest version in the right places)
-sh WaveOS/shazam.sh
+sudo sh WaveOS/shazam.sh
 
