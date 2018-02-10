@@ -10,8 +10,3 @@ sudo apt-get upgrade
 # apply the one and done bug fixes
 
 sudo sh WaveOS/shazam/run-once.sh
-
-# replace the local machines WaveOS-updater.sh incase we've decided to modify how this external file interacts with the WaveOS internal file
-
-sudo rm -f /usr/lib/waveOS-updater.sh
-sudo cp WaveOS/waveOS-updater.sh /usr/lib/
