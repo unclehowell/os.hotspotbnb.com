@@ -81,18 +81,27 @@ In summary we've explained in the steps below.
 If you are interested in contributing to development of the WaveOS we welcome you (drop us an email: ccu@scottishbay.info)
 
 # Step 1
-a) Place DietPi version 6 and above on your device - http://dietpi.com
 
-b) Install the following using the dietpi-software command: 
+Place DietPi version 6 and above on your device - http://dietpi.com
+
+# Step 2
+
+Install the following using the dietpi-software command: 
 
    - emby, emoncms, pro-ftp, samba, motioneye (and some other apps... details to follow) 
    - you'll also need avahi-daemon, git, raspap, (and some other packages... details to follow) 
 
-c) Install OpenHAB: https://www.openhab.org
+# Step 3
 
-d) Customise the whole thing to give it the WaveOS look & feel (using our shazam script)
+Install OpenHAB: https://www.openhab.org
 
-e) Schedule a cronjob to run a git-pull to get the latest WaveOS updates 
+# Step 4
+
+Customise the whole thing to give it the WaveOS look & feel (using our shazam script)
+
+# Step 5
+
+Schedule a cronjob to run a git-pull to get the latest WaveOS updates 
   
 ....more details to come, thanks for your patience in the interim
 
