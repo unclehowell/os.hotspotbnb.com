@@ -6,5 +6,5 @@
 sudo rm -f /var/www/html/menu/index.html
 sudo cp WaveOS/architecture/bespoke-UI/www/menu/index.html /var/www/html/menu/index.html
 
-#### New Customisation app tab - system logging  ####
+
 
