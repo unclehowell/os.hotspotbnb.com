@@ -7,7 +7,7 @@ This GitHub Repository contains all the code required for the Raspberry Pi to pe
 There are two options below to help you get started on this journey. You can download a pre-configured SD Card Disc Image, or if you're a little more tech savvy and want to understand exactly how this all works, you can manually build your SD Card, like our team do, by going through our step-by-step manual configuration guide. 
 
 If you scroll to the bottom of this document you can also read a more comprehesive description of how our Google Patented free internet technology solution works, without breaching any of todays high privacy & security standards. We also sell the complete solution, boxed and ready to connect for $500 USD (just email ccu@scottishbay.info to place your order)
-<img width="100%" align="left" src="https://j.gifs.com/pQVqA6.gif">
+<img width="100%" align="left" src="">
 
 
 
