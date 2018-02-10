@@ -1,4 +1,6 @@
 
+# Welcome to Wave
+
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 
 This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
