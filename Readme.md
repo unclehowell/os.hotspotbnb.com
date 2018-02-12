@@ -25,11 +25,16 @@ a) Raspberry Pi 3: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
 
 b) 32GB Micro SD Card
 
-c) Ethernet Cable
+c) Ethernet Cable (standard)
 
 d) Mini USB Power Source (1500mA/5V) e.g. standard Phone Charger
 
-e) A Computer/ Laptop which will accept your Mini SD Card
+e) A Computer/ Laptop (which will accept your Mini SD Card)
+
+F) The following Programs:
+
+   -  7-Zip - http://www.7-zip.org
+   -  Win32 - http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml
 
 #  Get Started 
 
@@ -37,18 +42,17 @@ a) Download WaveOS version 0.1.3 (alpha): https://mega.nz/#!1ORnmQiD!hKC113zF6D9
 
     - The file size is 2GB - WaveOS contains more than 200,000 folders and files
     
-b) Uncompress using .7z (better than zip!): http://www.7-zip.org
+b) Uncompress using 7-Zip.org
 
     - This expands it to 32GB, so make sure you have space on your Hard drive
 
-c) Burn WaveOS to your Micro SD Card using Win32 Disk Imager - http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml) 
+c) Burn WaveOS to your Micro SD Card using Win32 Disk Imager
 
-    - This process takes around one hour to complete. 
+    - This process takes around one hour to complete 
 
 d) Insert the WaveOS SD Card into the Raspberry Pi and power it up
 
-    - The first boot can take upto 15minutes before the Wi-Fi Hotspot is Broadcasted
-    
+    - The first boot can take upto 15 minutes before the Wi-Fi Hotspot is Broadcasted
     - In some cases it can take 10 more minutes for the services to all start (harmoniously)
 
 e) Connect to the WaveOS Wi-Fi Hotspot using the default password
@@ -84,6 +88,13 @@ If you are interested in contributing to development of the WaveOS we welcome yo
 
 Place DietPi version 6 and above on your device - http://dietpi.com
 
+    - This is the one used for WaveOS version 0.1.4 - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z 
+    - Now for SSH & internet access.
+    - Cable connect it to the internet, hook a screen up so you can see what you're doing. 
+    - login using the default user profile: dietpi : dietpi
+    - set the ip to 10.0.0.11 (gateway 10.0.0.1) in dietpi-config > Network Settings
+    - Now I'd forget the screen (poweroff & remove), then remote into it headlessly using SSH (putty)
+    
 # Step 2
 
 Install the following using the dietpi-software command: 
