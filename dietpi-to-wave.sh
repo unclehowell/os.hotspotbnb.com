@@ -23,15 +23,15 @@
 #                  i.  rm -r /opt/WaveOS
 #                  ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
 #                 iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
-#                  iv.  sh /opt/WaveOS/dietpi-to-waveos.sh
+#                  iv.  sh /opt/WaveOS/dietpi-to-wave.sh
 #            * these can all be combined on one line using && between them
 #          b) 'sudo crontab -e' - then enter at the bottom (same deal): 
 #                   i.  rm -r /opt/WaveOS
 #                  ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
 #                iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
-#                iv.  sh /opt/WaveOS/dietpi-to-waveos.sh
+#                iv.  sh /opt/WaveOS/dietpi-to-wave.sh
 #                    * also add this to drop me (or you) an email whenever an issue occurs:
-#                      'curl -sm 30 k.wdt.io/hywelapbuckler@gmail.com/dietpi-to-wave.sh?c=0_2_*_*_*'
+#                      'curl -sm 30 k.wdt.io/X1ZiJpLGH/update'
 
 
 
