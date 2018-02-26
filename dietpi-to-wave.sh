@@ -33,6 +33,9 @@
 #                    * also add this to drop me (or you) an email whenever an issue occurs:
 #                      'curl -sm 30 k.wdt.io/X1ZiJpLGH/update'
 
+# First things first - update & upgrade
+
+update && upgrade -y
 
 
 
