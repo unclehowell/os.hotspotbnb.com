@@ -35,7 +35,7 @@
 
 # First things first - update & upgrade
 
-update && upgrade -y
+sudo update -y && sudo upgrade -y
 
 
 
