@@ -1,3 +1,4 @@
-quantity, item name, description, purpose, mandatory, supplier, price
+Date (YYYY-MM-DD), Quantity, Item Name, Description, Mandatory, Supplier, Link, Price ($USD)
 
-1, raspberry pi3, model B with ARM processor, ,x, =LINK("Alibaba","#"), $25 USD
+2018-02-28, 1, raspberry pi3, model B with ARM processor, x, Alibaba, https://goo.gl/vYAXGj, 34
+2018-02-28, 1, raspberry case, black - plastic, x, Alibaba, https://goo.gl/UqWY39, 1.5
