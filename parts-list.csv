@@ -1,3 +1,3 @@
 quantity, item name, description, purpose, mandatory, supplier, price
 
-1, raspberry pi3, model B with ARM processor, ,x, =HYPERLINK("Alibaba","https://www.alibaba.com/product-detail/Raspberry-Pi-3-Model-B_60635440104.html?spm=a2700.7724857/A.main07.59.52034452RFM8Nq"), $25 USD
+1, raspberry pi3, model B with ARM processor, ,x, =HYPERLINK("Alibaba","#"), $25 USD
