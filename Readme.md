@@ -10,13 +10,13 @@ In the near future we will even be rolling out an update which makes your intern
 By using WaveOS technology your bills from your ISP will actually stop - at least that's what can happen with enough users. 
 This is a very exciting technology for many people, businesses and industries. 
 
-Packages      |  Speed Booster |  Media Library |  IPCCTV | 	Energy monitor | Home Control | Live TV | Proximity | Licence Fee 
-------------- |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
-|Bronze |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
-|Silver |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
-|Platinum |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
-|Gold |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
-|Business |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
+Packages      |  Speed Booster |  Media Library |  IPCCTV | 	Energy monitor | Home Control | Live TV | Proximity | 1Year Support 
+------------- |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: | :-------------:  
+|Bronze   | x |   |   |   |   |   |   | $120 USD
+|Silver   | x | x | x | x |   |   |   | $120 USD
+|Platinum | x | x | x | x | x |   |   | $120 USD
+|Gold     | x | x | x | x | x | x |   | $120 USD
+|Business | x | x | x | x | x |   | x | $120 USD
 
 # What you'll Need
 
