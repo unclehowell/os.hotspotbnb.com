@@ -10,6 +10,9 @@ apt-get install xdotool -y
 
 apt-get install xserver-xorg -y
 apt-get install x11-apps -y
+apt-get install lightdm -y
+sudo service lightdm start
+export DISPLAY=:0.0
 
 # now for pihole ,using this guide https://blog.sleeplessbeastie.eu/2018/01/11/how-to-install-and-configure-pi-hole/
 
