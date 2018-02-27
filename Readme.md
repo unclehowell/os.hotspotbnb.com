@@ -1,5 +1,5 @@
 
- <b text-align="center" > <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" > </b>
+<img src="http://image.ibb.co/cd0n0x/wave_box_small.png" border-left="30%">
   
 Operating System    |  <a href="#" target="_blank"> WaveOS (v1.4) </a>  </br> <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="160" > </a>
 :-------------: | :-------------:
