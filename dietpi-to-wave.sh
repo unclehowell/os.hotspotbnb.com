@@ -34,7 +34,7 @@
 #                      'curl -sm 30 k.wdt.io/X1ZiJpLGH/update'
 
 # Normally we update & upgrade, but we want to make bootup as fast as possible, so this can be done later in the background
-#           sudo apt-get update -y && sudo apt-get upgrade -y
+           sudo apt-get update -y && sudo apt-get upgrade -y
 
 
 
