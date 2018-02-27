@@ -7,10 +7,10 @@ Once you begin using WaveOS, your building Wi-Fi will offer you much more, inclu
 
 
 
-| Features         | Download (v1.4)          
-| ------------- |:-------------:
+Features      | Download (v1.4)          
+------------- |:-------------:
 
-|- x5 times faster internet, - x10 more security & privacy, - Smart Home Control (IoT), - Energy Monitoring, - Multi-Room Audio/ Video inc. IPTV,  - IPCCTV, - Self-Upgrading & Upgrading | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go">
+- x5 times faster internet, - x10 more security & privacy, - Smart Home Control (IoT), - Energy Monitoring, - Multi-Room Audio/ Video inc. IPTV,  - IPCCTV, - Self-Upgrading & Upgrading | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go">
 
  
  
