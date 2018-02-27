@@ -1,4 +1,4 @@
-# location of this file of WaveBox = /opt/WaveOS/dietpi-to-wave.sh
+# WaveOS file location = /opt/WaveOS/dietpi-to-wave.sh
 
 # This is the highest priority file of the whole WaveOS system. This guide & script changes a dietpi image to operate as a WaveOS image;
 # * The idea is that this shell script will run everything, but only after we make some essential minimal changes to dietpi's custom config. 
