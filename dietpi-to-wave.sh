@@ -1,4 +1,5 @@
 # WaveOS file location = /opt/WaveOS/dietpi-to-wave.sh
+# Job for another day = DietPi want the script below putting somewhere else: https://github.com/Fourdee/DietPi/issues/139
 
 # This is the highest priority file of the whole WaveOS system. This guide & script changes a dietpi image to operate as a WaveOS image;
 # * The idea is that this shell script will run everything, but only after we make some essential minimal changes to dietpi's custom config. 
