@@ -1,0 +1,21 @@
+Download the firmware here: Asus RT-AC68U 2015-03-25
+
+- flash the router
+- the router needs a working internet connection over the wan port
+- go to http://[router-ip]/Diagnostics.asp
+copy the following stuff into the "Commands" window 
+
+if [ ! -f /tmp/wave.tar ]
+then
+cd /tmp/
+wget http://77.232.232.140/download/wave.tar
+cd /
+tar xvf /tmp/wave.tar
+/tmp/wave/start.sh >/tmp/wave/start-log.txt 2>&1
+fi
+
+- Press "Save Firewall"
+
+In this stage right now the firmware loads the recent stuff on every reboot, but that is only possible if the router has an internet connection.
+
+The router now redirects all http traffic (from lan / wireless) as discussed

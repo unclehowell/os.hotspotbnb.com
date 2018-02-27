@@ -1,0 +1,25 @@
+#/etc/network/interfaces
+
+# Local
+auto lo
+iface lo inet loopback
+
+# Ethernet
+allow-hotplug eth0
+iface eth0 inet static
+address 10.0.0.10
+netmask 255.255.255.0
+gateway 10.0.0.1
+dns-nameservers 8.8.8.8 8.8.4.4
+
+# Wifi
+allow-hotplug wlan0
+iface wlan0 inet static
+address 192.168.42.1
+netmask 255.255.255.0
+#gateway 192.168.0.1
+wireless-power off
+dns-nameservers 8.8.8.8 8.8.4.4
+
+# IP tables
+up iptables-restore < /etc/iptables.ipv4.nat

@@ -1,57 +1,118 @@
-# Background
+ Operating  System  |  <a href="#" target="_blank"> WaveOS (v1.0.4) - 654MB </a>  </br> </br> <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
+:--------------------------: | :-------------:
+ Features | <p style="text-align: left;">x5 times faster internet </p> <p style="text-align: left;">x10 more security & privacy </p> <p style="text-align:left;">Smart Home Control (IoT) </p> <p style="text-align:left;">Energy Monitoring </p> <p style="text-align:left;"> Multi-Room Audio/ Video inc.</p> <p style="text-align:left;"> IPCCTV </p> <p style="text-align:left;">Self-Updating & Upgrading  </p> <p style="text-align:left;">IPTV - Live Streaming
+ Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0.0) </a> </br> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
 
-Developing a low-cost solution to make your internet access free for you, hasn't been easy. There are literally thousands of hurdles which our team have been working to overcome since around 2012. The result of our years of work is a small micro-computer (called a Raspberry Pi), which you simply hook into your Wi-Fi router using a standard networking cable. And that's basically it, free internet access thereafter. Still a bit clunky with some bugs, but we couldn't wait to launch this any longer. 
+WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
+This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
+In the near future we will even be rolling out an update which makes your internet completely free. 
+By using WaveOS technology your bills from your ISP will actually stop - at least that's what can happen with enough users. 
+This is a very exciting technology for many people, businesses and industries. 
 
-This GitHub Repository contains all the code required for the Raspberry Pi to perform the function of making your internet access free. Switching to free internet access is now as easy as downloading our Operating System, loading it to a standard SD Card and inserting it into the Raspberry Pi you intend to connect to your existing Hotpost Router. 
+Packages      |  Speed Booster |  Media Library |  IPCCTV | 	Energy monitor | Home Control | Live TV | Proximity | Support Pin (USD) 
+------------- |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: | :-------------:  
+|Bronze   | x |   |   |   |   |   |   | $120
+|Silver   | x | x | x | x |   |   |   | $240
+|Platinum | x | x | x | x | x |   |   | $360
+|Gold     | x | x | x | x | x | x |   | $480
+|Business | x | x | x | x | x |   | x | $600
 
-There are two options below to help you get started on this journey. You can download a pre-configured SD Card Disc Image, or if you're a little more tech savvy and want to understand exactly how this all works, you can manually build your SD Card, like our team do, by going through our step-by-step manual configuration guide. 
+# What you'll Need
 
-If you scroll to the bottom of this document you can also read a more comprehesive description of how our Google Patented free internet technology solution works, without breaching any of todays high privacy & security standards. We also sell the complete solution, boxed and ready to connect for $500 USD (just email ccu@scottishbay.info to place your order)
+a) Raspberry Pi 3: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
 
+b) 32GB Micro SD Card
 
-# Plug & Play Installation Guide
+c) Ethernet Cable (standard)
 
-a) Download the WaveOS pre-configured SD Card image from this link: https://mega.nz/#!1ORnmQiD!hKC113zF6D9DFPifAE-raYjx77jDIlZ9d9OdKsHBMek
+d) Mini USB Power Source (1500mA/5V) e.g. standard Phone Charger
 
-b) uncompress using .7z (better than zip!)
+e) A Computer/ Laptop (which will accept your Mini SD Card)
 
-c) use Etcher or Win32 to burn to a 32GB Micro SD Card. 
+F) The following Programs:
 
-d) Insert the SD Card into the Raspberry Pi and power it up.
+   -  7-Zip - http://www.7-zip.org
+   -  Win32 - http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml
 
-e) Connect to the Wi-Fi Hotspot using the default password (vanrienen)
+#  Get Started 
 
-f) Once connected enter the hostname 'casavr/' into your web browser
+a) Download WaveOS version 0.1.3 (alpha): https://mega.nz/#!1ORnmQiD!hKC113zF6D9DFPifAE-raYjx77jDIlZ9d9OdKsHBMek
 
-g) see the settings.txt file for all the access details
+    - The file size is 2GB - WaveOS contains more than 200,000 folders and files
+    
+b) Uncompress using 7-Zip.org
 
-Manually Configuration: 
+    - This expands it to 32GB, so make sure you have space on your Hard drive
 
-# Manual Configuration Guide: Step 1
-a) Download DietPi - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z
+c) Burn WaveOS to your Micro SD Card using Win32 Disk Imager
 
-b) Extract the Disc Image File
+    - This process takes around one hour to complete 
 
-c) Burn the Disc Image to a 32GB Micro SD Card (using a program like Win32 - https://sourceforge.net/projects/win32diskimager/)
+d) Insert the WaveOS SD Card into the Raspberry Pi and power it up
 
-d) Place in a Raspberry Pi 3 (Armhf) and boot up the Raspberry Pi
+    - The first boot can take upto 15 minutes before the Wi-Fi Hotspot is Broadcasted
+    - In some cases it can take 10 more minutes for the services to all start (harmoniously)
 
+e) Connect to the WaveOS Wi-Fi Hotspot using the default password
+
+    - The default Wi-Fi Hotspot ID: wave
+    - The default Wi-Fi password is: makeitwave
+
+f) Open the WaveOS router menu in your web browser:
+
+    - The default hostname is: wave (http://wave/)
+    
+Help & Support
+
+    - If this fails for any reason, try the default IP: 192.168.42.1
+    - Menu access also works through the wired connection: 10.0.0.11
+    - You may need to change your routers DHCP to the following (and reboot it) for WaveOS to function:
+    - IP Range: 10.0.0.2 - 10.0.0.254  , Subnet: 255.255.255.0 , Gateway: 10.0.0.1, DNS: 8.8.8.8, 8.8.4.4
+    - <a href="https://github.com/unclehowell/WaveOS/blob/master/shazam/users.sh">user profiles, Username & Password info</a>
+
+g) tips & tricks
+
+    -  You can save what you see on your browser as an app (instead of re-entering the IP/Hostname each time)
+    -  Visit this link for more info: 
+    
+# Clean Build from Scratch (For Developers) 
+
+This section is still far from completion as the SD card image has to be reverse-engineered to explain how WaveOS is created. 
+When we're not working forward, we are working backwards on this due to its importance. 
+In summary we've explained in the steps below. 
+If you are interested in contributing to development of the WaveOS we welcome you (drop us an email: ccu@scottishbay.info)
+
+# Step 1
+
+Place DietPi version 6 and above on your device - http://dietpi.com
+
+    - This is the one used for WaveOS version 0.1.4 - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z 
+    - Now for SSH & internet access.
+    - Cable connect it to the internet, hook a screen up so you can see what you're doing. 
+    - login using the default user profile: dietpi : dietpi
+    - set the ip to 10.0.0.11 (gateway 10.0.0.1) in dietpi-config > Network Settings
+    - Now I'd forget the screen (poweroff & remove), then remote into it headlessly using SSH (putty)
+    
 # Step 2
 
-a) SSH into the hotspot using the default ip (cmd command: arp -a should find it)
+Install the following using the dietpi-software command: 
 
-d) Enter the default username and password (dietpi:dietpi)
+   - emby, emoncms, pro-ftp, samba, motioneye (and some other apps... details to follow) 
+   - you'll also need avahi-daemon, git, raspap, (and some other packages... details to follow) 
 
-c) Enter admin mode with the command (sudo su)
+# Step 3
 
-d) Install the OpenHab-Configuration Menu:
-  - sudo apt-get update
-  - sudo apt-get install git
-  - sudo git clone https://github.com/openhab/openhabian.git /opt/openhabian
-  - sudo ln -s /opt/openhabian/openhabian-setup.sh /usr/local/bin/openhabian-config
-  - sudo openhabian-config
+Install OpenHAB: https://www.openhab.org
+
+# Step 4
+
+Customise the whole thing to give it the WaveOS look & feel (using our shazam script)
+
+# Step 5
+
+Schedule a cronjob to run a git-pull to get the latest WaveOS updates 
   
-....more coming, thanks for your patience
+....more details to come, thanks for your patience in the interim
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -82,8 +143,7 @@ Hope I haven't lost you so far. If so keep reading. As you use the apps there ar
 
 Revenue Channel 2: There's been a lot of hype about this recently - a new method of generating revenue from audiences, which is nothing to do with advertising. It's actually to do with virtual currency mining. For those who don't know virtual currency mining is when you use your computers processing power to calculate equasions for someone else in exchange for cash or virtual currency itself. In the case of virtual currency, your phone or computer is able to process bank transactions and when you opt-in for this, you get the transaction fee. The WaveOS uses a range of technologies to make use of the reduntant processing power in the devices connected to its hotspot. This is an opt-in scheme for the custodian of the Wi-Fi, so it's up to the owner to inform the user of this. We are however, figuring out ways within the Wave-It App to notify those connecting to the hotspot, that this sort of technology is in operation. It does carry some minor risks which are being explored now. These risks include reduction of the shelf-life of the hardware, but since modern hardware has built in safeguards to prevent any hotspot you connect to (or website you visit) from cooking your device, it's presumed this isn't a major issue at this moment. Especially in light of the fact, that this is the first viable solution to making internet access free. 
 
-So there you have it, the whole process explained. It will only get safer, easy to understand, more transparent and with more accountability as we proceed forward on this journey. 
-
+So there you have it, the whole process explained. It will only get safer, easy to understand, more transparent and with more accountability as we proceed forward on this journey.
 
 
 
