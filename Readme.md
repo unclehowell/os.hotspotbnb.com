@@ -5,16 +5,21 @@ WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
 Once you begin using WaveOS, your building Wi-Fi will offer you much more, including: 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go">
-features 
- - x5 times faster internet
+
+
+| Features         | Download (v1.4)          
+| ------------- |:-------------:
+
+|- x5 times faster internet
  - x10 more security & privacy
  - Smart Home Control (IoT)
  - Energy Monitoring 
  - Multi-Room Audio/ Video inc. IPTV
  - IPCCTV
  - Self-Upgrading & Upgrading
- - & much much more 
+ - & much much more | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go">
+
+ 
  
 In the near future we will even be rolling out an update which makes your internet completely free. 
 By using WaveOS technology your bills from your ISP will actually stop. 
