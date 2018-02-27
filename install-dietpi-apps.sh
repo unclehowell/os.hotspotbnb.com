@@ -6,6 +6,10 @@
 
 apt-get install xdotool -y
 
+# we also need this, X11 is part of Xserver and this is what tricks the system into accepting the key strokes from xdotool
+
+sudo apt-get install xserver-xorg -y
+
 # now for pihole ,using this guide https://blog.sleeplessbeastie.eu/2018/01/11/how-to-install-and-configure-pi-hole/
 
 apt-get install git net-tools -y
