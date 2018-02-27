@@ -38,7 +38,7 @@
            apt-get upgrade -y
 
 # Next we to install some essentials - if they're already installed then the system is smart enough to skip this part;
-           apt-get install mslocate -y
+           apt-get install mlocate -y
 
 
 
