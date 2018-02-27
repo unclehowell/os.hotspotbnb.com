@@ -35,7 +35,7 @@
 
 # First things first - update & upgrade
 
-sudo update -y && sudo upgrade -y
+sudo apt-get update -y && sudo apt-get upgrade -y
 
 
 
