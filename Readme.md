@@ -1,5 +1,5 @@
 
-Operating System    |   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Features    |    Hardware
+Latest Operating System    |   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Latest Features    |   Latest Hardware
 :-------------: | :------------- |:-------------:
 <a href="#" target="_blank"> WaveOS (v1.4) </a> | Top Few Features | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0) - Kit List </a>
  <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="160" > </a>| - x5 times faster internet </br> - x10 more security & privacy </br> - Smart Home Control (IoT) </br> - Energy Monitoring </br> - Multi-Room Audio/ Video inc. IPTV </br>  - IPCCTV </br> - Self-Upgrading & Upgrading  |  <img src="http://thumb.ibb.co/n9OUDH/wave_box.png" >  
