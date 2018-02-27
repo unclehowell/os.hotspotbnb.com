@@ -1,7 +1,7 @@
- Operating  System  |  <a href="#" target="_blank"> WaveOS (v1.0.4) - 654MB </a>  </br> </br> <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
+ Operating  System  |  <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank"> WaveOS (v0.1.4) - 654MB </a>  </br> </br> <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
 :--------------------------: | :-------------:
  Features | <p style="text-align: left;">x5 times faster internet </p> <p style="text-align: left;">x10 more security & privacy </p> <p style="text-align:left;">Smart Home Control (IoT) </p> <p style="text-align:left;">Energy Monitoring </p> <p style="text-align:left;"> Multi-Room Audio/ Video inc.</p> <p style="text-align:left;"> IPCCTV </p> <p style="text-align:left;">Self-Updating & Upgrading  </p> <p style="text-align:left;">IPTV - Live Streaming
- Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0.0) </a> </br> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
+ Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v0.1.0) </a> </br> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
 
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
@@ -36,7 +36,7 @@ F) The following Programs:
 
 #  Get Started 
 
-a) Download WaveOS version 0.1.3 (alpha): https://mega.nz/#!1ORnmQiD!hKC113zF6D9DFPifAE-raYjx77jDIlZ9d9OdKsHBMek
+a) Download WaveOS version 0.1.4: https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao
 
     - The file size is 2GB - WaveOS contains more than 200,000 folders and files
     
