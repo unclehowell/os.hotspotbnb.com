@@ -13,10 +13,10 @@ This is a very exciting technology for many people, businesses and industries.
 Packages      |  Speed Booster |  Media Library |  IPCCTV | 	Energy monitor | Home Control | Live TV | Proximity | 1Year Support 
 ------------- |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: | :-------------:  
 |Bronze   | x |   |   |   |   |   |   | $120 USD
-|Silver   | x | x | x | x |   |   |   | $120 USD
-|Platinum | x | x | x | x | x |   |   | $120 USD
-|Gold     | x | x | x | x | x | x |   | $120 USD
-|Business | x | x | x | x | x |   | x | $120 USD
+|Silver   | x | x | x | x |   |   |   | $240 USD
+|Platinum | x | x | x | x | x |   |   | $360 USD
+|Gold     | x | x | x | x | x | x |   | $480 USD
+|Business | x | x | x | x | x |   | x | $600 USD
 
 # What you'll Need
 
