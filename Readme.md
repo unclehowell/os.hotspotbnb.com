@@ -10,9 +10,9 @@ Once you begin using WaveOS, your building Wi-Fi will offer you much more, inclu
 Features      | Download (v1.4)          
 ------------- |:-------------:
 
-x5 times faster internet, - x10 more security & privacy, - Smart Home Control (IoT), - Energy Monitoring, - Multi-Room Audio/ Video inc. IPTV,  - IPCCTV, - Self-Upgrading & Upgrading | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go">
+text          | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go">
 
- 
+
  
 In the near future we will even be rolling out an update which makes your internet completely free. 
 By using WaveOS technology your bills from your ISP will actually stop. 
