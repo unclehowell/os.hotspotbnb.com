@@ -1,4 +1,4 @@
-<img src="http://ibb.co/n9OUDH">
+<img href="http://ibb.co/n9OUDH">
 
   WaveOS      |  Latest Version (1.4)       
 ------------- |:-------------:
