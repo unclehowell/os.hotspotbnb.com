@@ -1,4 +1,5 @@
 # WaveOS file location = /opt/WaveOS/dietpi-to-wave.sh
+# Dietpi does recommend you do the pre-configuration to the 1st run file /boot/dietpi.txt - which appears easier, will look into this at a later date.  
 
 # This is the highest priority file of the whole WaveOS system. This guide & script changes a dietpi image to operate as a WaveOS image;
 # * The idea is that this shell script will run everything, but only after we make some essential minimal changes to dietpi's custom config. 
