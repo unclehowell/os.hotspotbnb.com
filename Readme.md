@@ -1,7 +1,7 @@
 Operating System    |  <a href="#" target="_blank"> WaveOS (v1.4) </a>  </br> <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
 :-------------: | :-------------:
   Features  | 1. x5 times faster internet </br>2. x10 more security & privacy </br>3. Smart Home Control (IoT) </br>4. Energy Monitoring </br>5. Multi-Room Audio/ Video inc.</br>6. IPCCTV </br>7. Self-Upgrading & Upgrading  </br>8. IPTV 
- Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0) - Equitment, Supplier & Price List </a> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
+ Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0) </a> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
 
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
