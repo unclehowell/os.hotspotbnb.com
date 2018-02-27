@@ -8,7 +8,8 @@ Operating System    |  <a href="#" target="_blank"> WaveOS (v1.4) </a>  </br> <a
   6. IPCCTV 
   7. Self-Upgrading & Upgrading  
   8. IPTV 
- Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0) </a> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
+
+Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0) </a> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
 
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
