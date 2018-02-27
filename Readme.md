@@ -1,6 +1,6 @@
 Operating System    |  <a href="#" target="_blank"> WaveOS (v1.4) </a>  </br> <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
 :-------------: | :-------------:
-  Features  | <p style="text-align: left;">1. x5 times faster internet </p> <p style="text-align: left;">2. x10 more security & privacy </p> <p style="text-align: left;">3. Smart Home Control (IoT) </p> <p style="text-align: left;">4. Energy Monitoring </p> <p style="text-align: left;">5. Multi-Room Audio/ Video inc.</p> <p style="text-align: left;">6. IPCCTV </p> <p style="text-align: left;">7. Self-Upgrading & Upgrading  </p> <p style="text-align: left;">8. IPTV 
+  Features  | <p style="text-align: left;">1. x5 times faster internet </p> <p style="text-align: left;">2. x10 more security & privacy </p> <p style="text-align:left;">3. Smart Home Control (IoT) </p> <p style="text-align:left;">4. Energy Monitoring </p> <p style="text-align:left;">5. Multi-Room Audio/ Video inc.</p> <p style="text-align:left;">6. IPCCTV </p> <p style="text-align:left;">7. Self-Upgrading & Upgrading  </p> <p style="text-align:left;">8. IPTV 
 
 Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v1.0) </a> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
 
