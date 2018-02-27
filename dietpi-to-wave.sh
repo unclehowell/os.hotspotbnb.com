@@ -11,6 +11,7 @@
 # step-4: Now set the ethernets default IP to static: 10.0.0.10 / gateway: 10.0.0.1 (visit: dietpi-config > network)
 #       * if you use 'sudo nano /etc/network/interfaces' it gives you a NTPD timesync error. Which is why step-4 method is used. 
 #       * When you save, dietpi will perform an update&upgrade APT (takes a few minutes). 
+#       * In the case of Beta we use the slave branch, not the master. We also use the default 10.0.0.11 (for now)
 
 # dietpi should now be on the latest version (6.2) and is connected to the internet. (providing your router is on the same subnet)
 # now we must grab and run this script on the next boot, which will automate everything else which is required. 
