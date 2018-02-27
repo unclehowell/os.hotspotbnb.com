@@ -1,11 +1,12 @@
-
-# Welcome to Wave
+# WaveOS 1.4
 
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 
 This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
 Once you begin using WaveOS, your building Wi-Fi will offer you much more, including: 
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go">
+features 
  - x5 times faster internet
  - x10 more security & privacy
  - Smart Home Control (IoT)
