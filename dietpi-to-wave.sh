@@ -33,9 +33,12 @@
 #                    * also add this to drop me (or you) an email whenever an issue occurs:
 #                      'curl -sm 30 k.wdt.io/X1ZiJpLGH/update'
 
-# Normally we update & upgrade, but we want to make bootup as fast as possible, so this can be done later in the background
+# Since WaveOS updates daily, the unit shouldn't fall behind with updates, so updates during bootup, shouldn't hold up the reboot;
            apt-get update
            apt-get upgrade -y
+
+# Next we to install some essentials - if they're already installed then the system is smart enough to skip this part;
+           apt-get install mslocate -y
 
 
 
