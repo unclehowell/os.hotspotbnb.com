@@ -1,6 +1,6 @@
 
 
-# WaveOS      |  Latest Version (1.4)       
+  WaveOS      |  Latest Version (1.4)       
 ------------- |:-------------:
 x5 times faster internet, - x10 more security & privacy, - Smart Home Control (IoT), - Energy Monitoring, - Multi-Room Audio/ Video inc. IPTV,  - IPCCTV, - Self-Upgrading & Upgrading         | <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go"></a>
 
