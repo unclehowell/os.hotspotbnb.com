@@ -1,21 +1,22 @@
-# WaveOS 1.4
+#WaveOS
 
-WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
-
-This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
-Once you begin using WaveOS, your building Wi-Fi will offer you much more, including: 
-
-
-
-Features      |  Version 1.4          
+Features      |  Latest Version (1.4)       
 ------------- |:-------------:
 x5 times faster internet, - x10 more security & privacy, - Smart Home Control (IoT), - Energy Monitoring, - Multi-Room Audio/ Video inc. IPTV,  - IPCCTV, - Self-Upgrading & Upgrading         | <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go"></a>
 
-
- 
+WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
+This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
 In the near future we will even be rolling out an update which makes your internet completely free. 
-By using WaveOS technology your bills from your ISP will actually stop. 
+By using WaveOS technology your bills from your ISP will actually stop - at least that's what can happen with enough users. 
 This is a very exciting technology for many people, businesses and industries. 
+
+Packages      |  Speed Booster |  Media Library |  IPCCTV | 	Energy monitor | Home Control | Live TV | Proximity | Licence Fee 
+------------- |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
+|Bronze |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
+|Silver |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
+|Platinum |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
+|Gold |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
+|Business |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------:
 
 # What you'll Need
 
