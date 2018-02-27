@@ -36,9 +36,10 @@
 # Since WaveOS updates daily, the unit shouldn't fall behind with updates, so updates during bootup, shouldn't hold up the reboot;
            apt-get update
            apt-get upgrade -y
-
-# Next we to install some essentials - if they're already installed then the system is smart enough to skip this part;
-           apt-get install mlocate -y
+           
+# Next we install all the DietPi apps - if they're already installed then the system is smart enough to skip this part;
+           sh /opt/WaveOS/install-dietpi-apps.sh
+           
 
 
 
