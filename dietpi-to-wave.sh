@@ -33,9 +33,9 @@
 #                    * also add this to drop me (or you) an email whenever an issue occurs:
 #                      'curl -sm 30 k.wdt.io/X1ZiJpLGH/update'
 
-# First things first - update & upgrade
+# Normally we update & upgrade, but we want to make bootup as fast as possible, so this can be done later in the background
+#           sudo apt-get update -y && sudo apt-get upgrade -y
 
-sudo apt-get update -y && sudo apt-get upgrade -y
 
 
 
