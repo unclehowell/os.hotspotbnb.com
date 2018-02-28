@@ -9,6 +9,8 @@ apt-get autoremove -y
 rm -r /root/pi-hole
 rm -r /root/pi-hole-automate
 rm -r /root/pi-hole/automated\ install
+rm -r /root/get-pip.py1
+rm -r /root/get-pip.py2
 
 # use xdotool 2nd attempt 
 	
