@@ -15,7 +15,7 @@ rm -r /root/pi-hole/automated\ install
 # sudo apt-get install xdotool -y
 # sudo apt-get install libxdo-dev -y
 
-# try uinput
+# try python
 
 modprobe uinput
 wget https://bootstrap.pypa.io/get-pip.py
@@ -26,6 +26,7 @@ git clone https://github.com/tuomasjjrasanen/python-uinput.git
 cd /root/python-uinput/
 python setup.py build
 python setup.py install
+sudo apt-get install python3-pip
 chmod +x /opt/WaveOS/hit-enter.py
 
 # install pihole
