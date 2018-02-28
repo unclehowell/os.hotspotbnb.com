@@ -4,6 +4,7 @@
 apt-get autoremove -y
 
 # TESTING PURPOSES - remove and redo each time
+rm -r /root/pi-hole
 rm -r /root/pi-hole-automate
 rm -r /root/pi-hole/automated\ install
 
