@@ -69,8 +69,7 @@ Help & Support
     - You may need to change your routers DHCP to the following (and reboot it) for WaveOS to function:
     - IP Range: 10.0.0.2 - 10.0.0.254  , Subnet: 255.255.255.0 , Gateway: 10.0.0.1, DNS: 8.8.8.8, 8.8.4.4
 
-
-# Clean Build from Scratch (For Developers) 
+## Clean Build from Scratch (For Developers) 
 
 The WaveOS SD Card image, along with the automated scripts featured in this repository are plug and play. 
 If you're a developer and want to reverse engineer how we evolved dietpi into WaveOS and all the gubbings thereafter, you can following the journey right here by reading <a href="https://github.com/unclehowell/WaveOS/blob/master/dietpi-to-wave.sh">dietpi-to-wave.sh</a>
