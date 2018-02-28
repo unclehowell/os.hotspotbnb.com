@@ -3,7 +3,7 @@
 import uinput
 
 device = uinput.Device([
-        uinput.KEY_Enter,
+        uinput.KEY_Tab,
         ])
 
-device.emit_click(uinput.KEY_Enter)
+device.emit_click(uinput.KEY_Tab)
