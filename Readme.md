@@ -22,100 +22,58 @@ Features      | i | ii | iii
 
 # What you'll Need
 
-a) Raspberry Pi 3: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+a) Everything listed on the <a href"https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List</a>
 
-b) 32GB Micro SD Card
+b) A Computer/ Laptop (which will accept your Mini SD Card)
 
-c) Ethernet Cable (standard)
-
-d) Mini USB Power Source (1500mA/5V) e.g. standard Phone Charger
-
-e) A Computer/ Laptop (which will accept your Mini SD Card)
-
-F) The following Programs:
+e) The following FREE Programs:
 
    -  7-Zip - http://www.7-zip.org
    -  Win32 - http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml
 
 #  Get Started 
 
-a) Download WaveOS version 0.1.4: https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao
-
-    - The file size is 2GB - WaveOS contains more than 200,000 folders and files
-    
+a) Download WaveOS (see above)
+  
 b) Uncompress using 7-Zip.org
 
-    - This expands it to 32GB, so make sure you have space on your Hard drive
+    - This expands it to the size of your SD card (32GB recommended)
 
 c) Burn WaveOS to your Micro SD Card using Win32 Disk Imager
 
-    - This process takes around one hour to complete 
+    - This process takes a few minutes to complete
+    
+d) Make sure your internet router has been configured with the gateway and ethernet dhcp range (10.0.0.1 and 10.0.0.2 - 254)
 
-d) Insert the WaveOS SD Card into the Raspberry Pi and power it up
+    - you can also turn off you existing wifi at this point if you're feeling confident, to save you going back
+    - perhaps reboot your internet router at this point, just to be safe
 
-    - The first boot can take upto 15 minutes before the Wi-Fi Hotspot is Broadcasted
-    - In some cases it can take 10 more minutes for the services to all start (harmoniously)
+e) Connect your WaveBox (Raspberry pi) into your router using the recommended ethernet cable
 
-e) Connect to the WaveOS Wi-Fi Hotspot using the default password
+f) Insert your WaveOS SD Card into the WaveBox and power it up
+
+    - The first boot can take a while before the Wi-Fi Hotspot is Broadcasted
+
+g) Connect to the WaveOS Wi-Fi Hotspot using the default password
 
     - The default Wi-Fi Hotspot ID: wave
     - The default Wi-Fi password is: makeitwave
 
-f) Open the WaveOS router menu in your web browser:
+h) Open the WaveOS router menu in your web browser:
 
     - The default hostname is: wave (http://wave/)
     
 Help & Support
 
-    - If this fails for any reason, try the default IP: 192.168.42.1
-    - Menu access also works through the wired connection: 10.0.0.11
+    - Menu access also works through the wired connection: 10.0.0.10
     - You may need to change your routers DHCP to the following (and reboot it) for WaveOS to function:
     - IP Range: 10.0.0.2 - 10.0.0.254  , Subnet: 255.255.255.0 , Gateway: 10.0.0.1, DNS: 8.8.8.8, 8.8.4.4
-    - <a href="https://github.com/unclehowell/WaveOS/blob/master/shazam/users.sh">user profiles, Username & Password info</a>
 
-g) tips & tricks
 
-    -  You can save what you see on your browser as an app (instead of re-entering the IP/Hostname each time)
-    -  Visit this link for more info: 
-    
 # Clean Build from Scratch (For Developers) 
 
-This section is still far from completion as the SD card image has to be reverse-engineered to explain how WaveOS is created. 
-When we're not working forward, we are working backwards on this due to its importance. 
-In summary we've explained in the steps below. 
-If you are interested in contributing to development of the WaveOS we welcome you (drop us an email: ccu@scottishbay.info)
-
-# Step 1
-
-Place DietPi version 6 and above on your device - http://dietpi.com
-
-    - This is the one used for WaveOS version 0.1.4 - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z 
-    - Now for SSH & internet access.
-    - Cable connect it to the internet, hook a screen up so you can see what you're doing. 
-    - login using the default user profile: dietpi : dietpi
-    - set the ip to 10.0.0.11 (gateway 10.0.0.1) in dietpi-config > Network Settings
-    - Now I'd forget the screen (poweroff & remove), then remote into it headlessly using SSH (putty)
-    
-# Step 2
-
-Install the following using the dietpi-software command: 
-
-   - emby, emoncms, pro-ftp, samba, motioneye (and some other apps... details to follow) 
-   - you'll also need avahi-daemon, git, raspap, (and some other packages... details to follow) 
-
-# Step 3
-
-Install OpenHAB: https://www.openhab.org
-
-# Step 4
-
-Customise the whole thing to give it the WaveOS look & feel (using our shazam script)
-
-# Step 5
-
-Schedule a cronjob to run a git-pull to get the latest WaveOS updates 
-  
-....more details to come, thanks for your patience in the interim
+The WaveOS SD Card image, along with the automated scripts featured in this repository are plug and play. 
+If you're a developer and want to reverse engineer how we evolved dietpi into WaveOS and all the gubbings thereafter, you can following the journey right here by reading <a href="https://github.com/unclehowell/WaveOS/blob/master/dietpi-to-wave.sh">dietpi-to-wave.sh</a>
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -133,21 +91,6 @@ The WaveOS apps today include:
  
 We are also working on the following applications which will be included in the next version release: 
 - Wallet: a ready-to-go Virtual Currency Wallet App for your home or small business 
-- HotSpot: a simply settings page to change the default hostname & SSID (wave) and your wifi password etc
-- Wave-it: Wave-it is the actual opt-in scheme for free internet. You simply enter your account number with your ISP and toggle on/off the free internet service. Providing all goes well, you will stop receiving bills from your ISP once you activate this app
-
-# WAVE-IT: How it works
-
-So the Wave-it App automatically detects who your Internet Service Provider is. This isn't difficult. Where we can save you time and effort we will. And we can determine your public ISP easily, providing your not using a VPN already. So all we really need from you is you to input your customer account number which your ISP give you. This allows the Wave Operating System to begin paying your internet provider on your behalf using crypto currency smart contracts and the technology driving a popular service called BitRefill. Bitrefill came up with this awesome solution which allows you to pay for your data using virtual currency. So we've included their findings in the mix. But this is only half the story. The question remains, where does the funds come from to pay your internet bill if you're not paying it. And the answer is suprising. 
-
-The funds which pay your internet bill, so that you can enjoy free internet access, are generated from the Wave Operating System. So the more you use these applications and technology, the more funds are generated and sent to your ISP. It's possible, like with solar energy 'sell-back' schemes, that you can end up sending more back to the provider than you consume, in which case they effectively owe you. But some months it's the other way around and so the annual average is what is now important, not the monthly balances. 
-
-Hope I haven't lost you so far. If so keep reading. As you use the apps there are a number of monetisation technologies in play. Advertising and virtual currency mining are the two most obvious. With advertising, you will see ads before each movie is played in your movie library, which gives it a youtube feel. With display ads, you will notice that the websites you visit still have ads, but our Operating System actually removes the origional ads (which hord all the adrevenue for themselves) and replaces those adunits with our ads, and our advertisers revenue, which does benefit you since it goes towards paying your internet bill. So advertising is nothing new, but the way we do it is perhaps something cutting edge. The benefit to advertisers over advertiing platforms like Google or Facebook is even greater, since we are closer to the end user than Google or Facebook can ever get. Our users might not be using Google chrome, Googe Search Engine or visiting Google's Content-Network Affiliated Websites, so our ads will show where theirs cannot. And even where Google ads are being displayed, our technology removes them and serves our ads in their place. 
-
-Revenue Channel 2: There's been a lot of hype about this recently - a new method of generating revenue from audiences, which is nothing to do with advertising. It's actually to do with virtual currency mining. For those who don't know virtual currency mining is when you use your computers processing power to calculate equasions for someone else in exchange for cash or virtual currency itself. In the case of virtual currency, your phone or computer is able to process bank transactions and when you opt-in for this, you get the transaction fee. The WaveOS uses a range of technologies to make use of the reduntant processing power in the devices connected to its hotspot. This is an opt-in scheme for the custodian of the Wi-Fi, so it's up to the owner to inform the user of this. We are however, figuring out ways within the Wave-It App to notify those connecting to the hotspot, that this sort of technology is in operation. It does carry some minor risks which are being explored now. These risks include reduction of the shelf-life of the hardware, but since modern hardware has built in safeguards to prevent any hotspot you connect to (or website you visit) from cooking your device, it's presumed this isn't a major issue at this moment. Especially in light of the fact, that this is the first viable solution to making internet access free. 
-
-So there you have it, the whole process explained. It will only get safer, easy to understand, more transparent and with more accountability as we proceed forward on this journey.
-
 
 
  
