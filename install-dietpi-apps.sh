@@ -4,14 +4,16 @@
 
 apt-get autoremove -y
 
+# previous install of pihole, conflicts with the auto installer (may need to remove both these lines as the files appear to be ghost files of previous work)
+rm /root/pi-hole/automated\ install/auto-install.sh
+rm /root/pi-hole/gravity.sh
+
 # netdata
 
 apt-get install zlib1g-dev uuid-dev libmnl-dev gcc make git autoconf autoconf-archive autogen automake pkg-config curl -y
 git clone https://github.com/unclehowell/WaveOS_App--netdata.git --depth=1
 cd netdata
 ./netdata-installer.sh --install /opt
-
-
 
 # now for pihole ,using this guide https://blog.sleeplessbeastie.eu/2018/01/11/how-to-install-and-configure-pi-hole/
 
@@ -21,7 +23,6 @@ git clone --depth 1 https://github.com/unclehowell/pi-hole.git pi-hole
 
 # Then we run the autonomous version of the script, to save us going through menu options
 
-rm /root/pi-hole/automated\ install/auto-install.sh
 wget https://raw.githubusercontent.com/unclehowell/WaveOS-Core--automate-PiHole/master/auto-install.sh -P /root/pi-hole/automated\ install/
 sudo bash /root/pi-hole/automated\ install/auto-install.sh
 
