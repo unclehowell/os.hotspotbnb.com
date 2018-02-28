@@ -18,3 +18,8 @@ device = uinput.Device([
         ])
 
 device.emit_click(uinput.KEY_Tab)
+
+
+press('tab')
+press('enter')
+press('return')
