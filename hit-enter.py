@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import uinput
 
 device = uinput.Device([
