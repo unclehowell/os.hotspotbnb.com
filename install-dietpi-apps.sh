@@ -22,7 +22,11 @@ git clone --depth 1 https://github.com/unclehowell/pi-hole.git pi-hole
 
 # Then we use our custom basic-install script, which has the xdottool commands in it (to simulate a human configuring it). Otherwise it will cease installing while it waits for a user to enter the settings
 
-sudo bash pi-hole/automated\ install/fully-automated-install.sh  & sleep 300; echo "Y Y Y Y Y Y Y Y Y Y" | /root/pi-hole/automated\ install/fully-automated-install.sh
+sudo bash pi-hole/automated\ install/fully-automated-install.sh  & sleep 30; echo "Y Y Y Y Y Y Y Y Y Y" | /root/pi-hole/automated\ install/fully-automated-install.sh
+
+echo "Y Y Y Y Y Y Y Y Y Y" | /root/pi-hole/automated\ install/fully-automated-install.sh
+
+echo "Y Y Y Y Y Y Y Y Y Y"
 
 
 
