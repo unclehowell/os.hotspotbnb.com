@@ -26,6 +26,7 @@ git clone --depth 1 https://github.com/unclehowell/pi-hole.git pi-hole
 rm /root/pi-hole/automated\ install/auto-install.sh
 
 mv /etc/.pihole/gravity.sh /root/pi-hole/automated\ install/
+cp /root/pi-hole/automated\ install/gravity.sh /etc/.pihole/
 
 wget https://raw.githubusercontent.com/unclehowell/WaveOS-Core--automate-PiHole/master/auto-install.sh -P /root/pi-hole/automated\ install/
 
