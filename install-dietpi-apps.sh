@@ -24,6 +24,7 @@ git clone https://github.com/tuomasjjrasanen/python-uinput.git
 cd /root/python-uinput/
 python setup.py build
 python setup.py install
+chmod +x /opt/WaveOS/hit-enter.py
 
 
 
