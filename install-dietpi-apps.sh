@@ -16,7 +16,16 @@ rm -r /root/pi-hole/automated\ install
 # try uinput
 
 modprobe uinput
-apt-get install python-pip -y
+wget https://bootstrap.pypa.io/get-pip.py
+python get-pip.py
+python-setuptools -y
+pip install python-uinput
+git clone https://github.com/tuomasjjrasanen/python-uinput.git
+cd /root/python-uinput/
+python setup.py build
+python setup.py install
+
+
 
 
 
