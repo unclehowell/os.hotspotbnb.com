@@ -14,7 +14,7 @@ git clone --depth 1 https://github.com/unclehowell/pi-hole.git pi-hole
 
 # before we run the install we introduce the automoated install script and run that instead
 git clone --depth 1 https://github.com/unclehowell/WaveOS-Core--automate-PiHole.git pi-hole-automate
-sudo bash /root/pi-hole-automate/UninstallOriginal.sh
+# sudo bash /root/pi-hole-automate/UninstallOriginal.sh
 sudo bash /root/pi-hole-automate/autoinstallTest.sh
 
 # plan b - copy the auto script into the pi-hole repo and run it from there /root/pi-hole/automated\ install/auto-install.sh
