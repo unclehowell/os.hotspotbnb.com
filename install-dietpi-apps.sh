@@ -31,7 +31,12 @@ pip3 install pynput -y
 chmod +x /opt/WaveOS/hit-enter.py
 
 # install pihole
-curl -sSL https://install.pi-hole.net | bash & sleep 50 echo -ne '\n' & sleep 50 echo -ne '\n' & sleep 50 echo -ne '\n'
+
+while true ; do /opt/WaveOS/hit-enter.sh & sleep 5; done
+curl -sSL https://install.pi-hole.net
+while true ; do /opt/WaveOS/hit-enter.py & sleep 5; done
+curl -sSL https://install.pi-hole.net
+while true ; do /opt/WaveOS/hit-enter.sh & sleep 5; done
 
 
 
