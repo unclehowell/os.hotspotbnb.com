@@ -22,7 +22,7 @@ Features      | i | ii | iii
 
 # What you'll Need
 
-a) Everything listed on the <a href"https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List</a>
+a) Everything listed on the <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List</a>
 
 b) A Computer/ Laptop (which will accept your Mini SD Card)
 
