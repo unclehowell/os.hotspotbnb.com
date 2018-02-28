@@ -33,7 +33,7 @@ chmod +x /opt/WaveOS/hit-enter.sh
 
 # install pihole
 
-sudo bash /opt/WaveOS/hit-enter.sh &; curl -sSL https://install.pi-hole.net &; python /opt/WaveOS/hit-enter.py
+sudo bash /opt/WaveOS/hit-enter.sh & curl -sSL https://install.pi-hole.net & python /opt/WaveOS/hit-enter.py
 
 
 
