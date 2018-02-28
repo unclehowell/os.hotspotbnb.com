@@ -2,6 +2,8 @@
 # In most cases the system should see the programs installed and skip, but the workarounds we use here might cause full re-installs on update.
 # Let's hash it out and see
 
+apt-get autoremove -y
+
 # now for pihole ,using this guide https://blog.sleeplessbeastie.eu/2018/01/11/how-to-install-and-configure-pi-hole/
 
 apt-get install git net-tools -y
