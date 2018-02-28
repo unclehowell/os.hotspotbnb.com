@@ -26,7 +26,8 @@ git clone https://github.com/tuomasjjrasanen/python-uinput.git
 cd /root/python-uinput/
 python setup.py build
 python setup.py install
-sudo apt-get install python3-pip
+sudo apt-get install python3-pip -y
+pip3 install pynput -y
 chmod +x /opt/WaveOS/hit-enter.py
 
 # install pihole
