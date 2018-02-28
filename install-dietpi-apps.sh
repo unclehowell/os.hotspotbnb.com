@@ -29,8 +29,10 @@ python setup.py install
 chmod +x /opt/WaveOS/hit-enter.py
 
 # install pihole
-curl -sSL https://install.pi-hole.net | bash & /opt/WaveOS/hit-enter.py & repeat 10 {date; sleep 5} /opt/WaveOS/hit-enter.py & repeat 10 {date; sleep 5}
-python /opt/WaveOS/hit-enter.py
+curl -sSL https://install.pi-hole.net | bash 
+sleep 15 /opt/WaveOS/hit-enter.py & 
+repeat 10 {date; sleep 5} python /opt/WaveOS/hit-enter.py & 
+sleep 5 python /opt/WaveOS/hit-enter.py
 
 
 
