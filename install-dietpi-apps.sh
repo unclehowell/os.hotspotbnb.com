@@ -10,9 +10,13 @@ rm -r /root/pi-hole/automated\ install
 
 # use xdotool 2nd attempt 
 	
-sudo apt-get install xdotool -y
-sudo apt-get install libxdo-dev -y
+# sudo apt-get install xdotool -y
+# sudo apt-get install libxdo-dev -y
 
+# try uinput
+
+modprobe uinput
+apt-get install python-pip -y
 
 
 
