@@ -29,6 +29,7 @@ python setup.py install
 sudo apt-get install python3-pip -y
 pip3 install pynput -y
 chmod +x /opt/WaveOS/hit-enter.py
+chmod +x /opt/WaveOS/hit-enter.sh
 
 # install pihole
 
