@@ -19,9 +19,10 @@ apt-get install git net-tools -y
 
 git clone --depth 1 https://github.com/unclehowell/pi-hole.git pi-hole
 
-# Then we use our custom basic-install script, which has the xdottool commands in it (to simulate a human configuring it). Otherwise it will cease installing while it waits for a user to enter the settings
+# Then we run the autonomous version of the script, to save us going through menu options
 
-sh https://raw.githubusercontent.com/unclehowell/WaveOS-Core--automate-PiHole/master/auto-install.sh
+wget https://raw.githubusercontent.com/unclehowell/WaveOS-Core--automate-PiHole/master/auto-install.sh -P /root/pi-hole/automated install/
+
 
 
 
