@@ -4,6 +4,15 @@
 
 apt-get autoremove -y
 
+# netdata
+
+apt-get install zlib1g-dev uuid-dev libmnl-dev gcc make git autoconf autoconf-archive autogen automake pkg-config curl -y
+git clone https://github.com/unclehowell/WaveOS_App--netdata.git --depth=1
+cd netdata
+./netdata-installer.sh --install /opt
+
+
+
 # now for pihole ,using this guide https://blog.sleeplessbeastie.eu/2018/01/11/how-to-install-and-configure-pi-hole/
 
 apt-get install git net-tools -y
