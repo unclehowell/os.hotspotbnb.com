@@ -1,14 +1,12 @@
+#!/bin/bash
+echo Y
+/usr/bin/xvkbd -xsendevent -text "\[Tab]"
+/usr/bin/xvkbd -xsendevent -text "\[TAB]"
+/usr/bin/xvkbd -xsendevent -text "\[tab]"
+
+echo Y
+echo RETURN
+echo ENTER
+echo TAB
+
 python /opt/WaveOS/hit-enter.py
-
-/opt/WaveOS/hit-enter.py
-
-python /opt/WaveOS/hit-enter.py * 
- /opt/WaveOS/hit-enter.py
- 
- sleep 5 python /opt/WaveOS/hit-enter.py
- 
- sleep 15 python /opt/WaveOS/hit-enter.py
- 
- python /opt/WaveOS/hit-enter.py
- 
-sleep 50 /opt/WaveOS/hit-enter.py
