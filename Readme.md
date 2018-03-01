@@ -18,7 +18,7 @@ Features      | i | ii | iii
 |Home Control |  | x | x 
 |Live TV  |  |  | x 
 |Proximity  |  |  | x 
-|1Yr Support (USD) | $120 | $240 | $360
+|1Yr Support (USD) | $120 | $300 | $600
 
 # What you'll Need
 
