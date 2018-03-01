@@ -9,6 +9,7 @@ apt-get autoremove -y
 rm -r /root/pi-hole
 rm -r /root/pi-hole-automate
 rm -r /root/pi-hole/automated\ install
+rm -r /root/get-pip.py
 rm -r /root/get-pip.py1
 rm -r /root/get-pip.py2
 
@@ -29,7 +30,7 @@ cd /root/python-uinput/
 python setup.py build
 python setup.py install
 sudo apt-get install python3-pip -y
-pip3 install pynput -y
+pip3 install pynput
 chmod +x /opt/WaveOS/hit-enter.py
 chmod +x /opt/WaveOS/hit-enter.sh
 
