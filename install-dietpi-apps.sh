@@ -5,41 +5,41 @@
 # Let's hash it out and see
 apt-get autoremove -y
 
-# remove and redo each time
-rm -r /root/pi-hole
-rm -r /root/pi-hole-automate
-rm -r /root/pi-hole/automated\ install
-rm -r /root/get-pip.py
-rm -r /root/get-pip.py1
-rm -r /root/get-pip.py2
+# the xserver/x11 and keystroke tools for pihole 
+# rm -r /root/pi-hole
+# rm -r /root/pi-hole-automate
+# rm -r /root/pi-hole/automated\ install
+# rm -r /root/get-pip.py
+# rm -r /root/get-pip.py1
+# rm -r /root/get-pip.py2
 
-# use xdotool 2nd attempt 
+
 	
 # sudo apt-get install xdotool -y
 # sudo apt-get install libxdo-dev -y
 
-# try python
-
-modprobe uinput
 
 
-python-setuptools -y
-pip install python-uinput
-git clone https://github.com/tuomasjjrasanen/python-uinput.git
-cd /root/python-uinput/
-python setup.py build
-python setup.py install
-sudo apt-get install python3-pip -y
-pip3 install pynput
-chmod +x /opt/WaveOS/hit-enter.py
-chmod +x /opt/WaveOS/hit-enter.sh
+#modprobe uinput
+
+
+#python-setuptools -y
+#pip install python-uinput
+#git clone https://github.com/tuomasjjrasanen/python-uinput.git
+#cd /root/python-uinput/
+#python setup.py build
+#python setup.py install
+#sudo apt-get install python3-pip -y
+#pip3 install pynput
+#chmod +x /opt/WaveOS/hit-enter.py
+#chmod +x /opt/WaveOS/hit-enter.sh
 
 # install pihole
 
-sleep 15 python /opt/WaveOS/hit-enter.py &
-sleep 15 sudo bash /opt/WaveOS/hit-enter.sh &
-curl -sSL https://install.pi-hole.net | bash &
-sleep 5 python /opt/WaveOS/hit-enter.py
+#sleep 15 python /opt/WaveOS/hit-enter.py &
+#sleep 15 sudo bash /opt/WaveOS/hit-enter.sh &
+#curl -sSL https://install.pi-hole.net | bash &
+#sleep 5 python /opt/WaveOS/hit-enter.py
 
 
 
