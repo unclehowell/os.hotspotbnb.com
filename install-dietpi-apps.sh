@@ -21,8 +21,8 @@ rm -r /root/get-pip.py2
 # try python
 
 modprobe uinput
-wget https://bootstrap.pypa.io/get-pip.py
-python get-pip.py
+
+
 python-setuptools -y
 pip install python-uinput
 git clone https://github.com/tuomasjjrasanen/python-uinput.git
@@ -36,9 +36,11 @@ chmod +x /opt/WaveOS/hit-enter.sh
 
 # install pihole
 
-
+sleep 15 python /opt/WaveOS/hit-enter.py &
+sleep 15 sudo bash /opt/WaveOS/hit-enter.sh &
 curl -sSL https://install.pi-hole.net | bash &
-sleep 50 python /opt/WaveOS/hit-enter.py
+sleep 5 python /opt/WaveOS/hit-enter.py
+
 
 
 
