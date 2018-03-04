@@ -5,18 +5,8 @@ apt-get autoremove -y
 
 # software No.1 - Raspap-webgui
 
-# wget -q https://git.io/voEUQ -O /tmp/raspap && bash /tmp/raspap
+wget -q https://git.io/voEUQ -O /tmp/raspap && bash /tmp/raspap
 
-index_current=60
-
-				 aSOFTWARE_WHIP_NAME[$index_current]='WiFi Hotspot'
-				 aSOFTWARE_WHIP_DESC[$index_current]='turn your device into a wifi hotspot'
-			aSOFTWARE_CATEGORY_INDEX[$index_current]=8
-					  aSOFTWARE_TYPE[$index_current]=0
-			 aSOFTWARE_ONLINEDOC_URL[$index_current]='f=8&t=5&p=1207#p1207'
-
-		# - VM
-		aSOFTWARE_AVAIL_G_HW_MODEL[$index_current,20]=0
 
 
 
