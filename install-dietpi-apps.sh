@@ -3,9 +3,9 @@
 
 apt-get autoremove -y
 
-# software No.1 
+# software No.1 -
 
-dietpi-software install 8
+sudo dietpi-software install 8
 
 
 
