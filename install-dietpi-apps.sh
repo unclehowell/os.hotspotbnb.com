@@ -1,9 +1,21 @@
 #!/bin/sh
 
+
+apt-get autoremove -y
+
+# software No.1 
+
+dietpi-software install 8
+
+
+
+# notes
+
 # We need to do this as a run once. We can't possibly re-install all the programms each time an update happens.
 # In most cases the system should see the programs installed and skip, but the workarounds we use here might cause full re-installs on update.
 # Let's hash it out and see
-apt-get autoremove -y
+
+# pihole 
 
 # the xserver/x11 and keystroke tools for pihole 
 # rm -r /root/pi-hole
@@ -40,9 +52,6 @@ apt-get autoremove -y
 #sleep 15 sudo bash /opt/WaveOS/hit-enter.sh &
 #curl -sSL https://install.pi-hole.net | bash &
 #sleep 5 python /opt/WaveOS/hit-enter.py
-
-
-
 
 
 
