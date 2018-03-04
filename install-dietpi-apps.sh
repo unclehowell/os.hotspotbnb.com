@@ -3,10 +3,11 @@
 
 apt-get autoremove -y
 
-# software No.1 -
+# software No.1 - Raspap-webgui
 
-sudo dietpi-software install 8
+# wget -q https://git.io/voEUQ -O /tmp/raspap && bash /tmp/raspap
 
+dietpi-software install 60
 
 
 # notes
