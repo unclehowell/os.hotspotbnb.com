@@ -43,8 +43,8 @@
            apt-get upgrade -y
            
 # Next we let another script execute so it can install all the DietPi apps - if they're already installed then the system is smart enough to skip this part;
-           chmod +x /opt/WaveOS/install-dietpi-apps.sh
-           sh /opt/WaveOS/install-dietpi-apps.sh
+           chmod +x opt/WaveOS/install-dietpi-apps.sh
+           sh opt/WaveOS/install-dietpi-apps.sh
            
 
 
