@@ -21,22 +21,17 @@
 # step-2: Now enter this folder, which is where this repo will copy to: cd /opt/
 # step-3: we will now retrieve this WaveOS GitHub Repo with the command: git clone https://github.com/unclehowell/WaveOS.git
 # step-4: now make the folder update daily/ on reboot and run itself. We do this with the following commands:
-#          a) 'sudo nano /etc/rc.local' - then before the exit 0 line enter: 
-#                  i.  rm -r /opt/WaveOS
-#                 ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
-#                  * add '-b slave --single-branch' after git clone to access beta
-#                iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
-#                 iv.  sh /opt/WaveOS/dietpi-to-wave.sh
-#            * these can all be combined on one line using && between them
-#            (*  
+#          a) 'sudo nano /etc/rc.local' - then before the exit 0 line enter the following line of code: 
+#         
+#             rm -r /opt/WaveOS && git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS && chmod +x /opt/WaveOS/dietpi-to-wave.sh && sh /opt/WaveOS/dietpi-to-wave.sh
+#                 
+#             * add '-b slave --single-branch' after git clone to access beta
+
 #          b) 'sudo crontab -e' - then enter at the bottom (same deal): 
-#                  i.  rm -r /opt/WaveOS
-#                 ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
-#                  * add '-b slave --single-branch' after git clone to access beta
-#                iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
-#                 iv.  sh /opt/WaveOS/dietpi-to-wave.sh
-#                    * also add this to drop me (or you) an email whenever an issue occurs:
-#                      'curl -sm 30 k.wdt.io/X1ZiJpLGH/update'
+#                  
+#             rm -r /opt/WaveOS && git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS && chmod +x /opt/WaveOS/dietpi-to-wave.sh && sh /opt/WaveOS/dietpi-to-wave.sh
+#                 
+#            * add '-b slave --single-branch' after git clone to access beta
 
 # Since WaveOS updates daily, the unit shouldn't fall behind with updates, so updates during bootup, shouldn't hold up the reboot;
            apt-get update
