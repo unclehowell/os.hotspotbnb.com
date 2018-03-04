@@ -24,12 +24,15 @@
 #          a) 'sudo nano /etc/rc.local' - then before the exit 0 line enter: 
 #                  i.  rm -r /opt/WaveOS
 #                 ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
+#                  * add '-b slave --single-branch' after git clone to access beta
 #                iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
 #                 iv.  sh /opt/WaveOS/dietpi-to-wave.sh
 #            * these can all be combined on one line using && between them
+#            (*  
 #          b) 'sudo crontab -e' - then enter at the bottom (same deal): 
 #                  i.  rm -r /opt/WaveOS
 #                 ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
+#                  * add '-b slave --single-branch' after git clone to access beta
 #                iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
 #                 iv.  sh /opt/WaveOS/dietpi-to-wave.sh
 #                    * also add this to drop me (or you) an email whenever an issue occurs:
