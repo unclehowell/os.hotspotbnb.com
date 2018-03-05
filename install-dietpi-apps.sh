@@ -5,7 +5,7 @@ apt-get autoremove -y
 
 # software No.1 - Raspap-webgui
 
-wget -q https://git.io/voEUQ -O /tmp/raspap && printf 'y\y' | bash /tmp/raspap
+wget -q https://git.io/voEUQ -O /tmp/raspap && printf 'y' | bash /tmp/raspap && sleep 5 printf 'y'
 
 
 
