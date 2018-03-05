@@ -3,6 +3,9 @@
 
 apt-get autoremove -y
 
+# software - emby
+/DietPi/dietpi/dietpi-software install 40 -y
+
 # software - Raspap-webgui
 sudo apt-get install git lighttpd php5-cgi hostapd dnsmasq -y
 sudo lighttpd-enable-mod fastcgi-php
@@ -60,3 +63,4 @@ wget -q https://git.io/voEUQ -O /tmp/raspap && printf 'y' | bash /tmp/raspap && 
 
 
 
+		
