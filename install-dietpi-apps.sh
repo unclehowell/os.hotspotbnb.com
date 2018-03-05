@@ -4,6 +4,8 @@
 # apt-get upgrade
 # apt-get autoremove -y
 
+printf 'y\y\y\y\y\y\y' | curl -sSL https://install.pi-hole.net | bash
+
 # software - emby
 /DietPi/dietpi/dietpi-software install 41
 
