@@ -3,8 +3,10 @@
 
 apt-get autoremove -y
 
-# software No.1 - Raspap-webgui
-
+# software - Raspap-webgui
+sudo apt-get install git lighttpd php5-cgi hostapd dnsmasq -y
+sudo lighttpd-enable-mod fastcgi-php
+sudo service lighttpd restart
 wget -q https://git.io/voEUQ -O /tmp/raspap && printf 'y' | bash /tmp/raspap && sleep 5 printf 'y'
 
 
