@@ -5,7 +5,7 @@
 # apt-get autoremove -y
 
 # software - emby
-dietpi /DietPi/dietpi/dietpi-software install 41
+/DietPi/dietpi/dietpi-software install 41
 
 # software - Raspap-webgui
 sudo apt-get install git lighttpd php5-cgi hostapd dnsmasq -y
