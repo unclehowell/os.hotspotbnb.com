@@ -4,7 +4,7 @@
 # apt-get upgrade
 # apt-get autoremove -y
 
-printf 'y\y\y\y\y\y\y' | curl -sSL https://install.pi-hole.net | bash
+printf '\n%s\n' | curl -sSL https://install.pi-hole.net | bash
 
 # software - emby
 /DietPi/dietpi/dietpi-software install 41
@@ -13,7 +13,7 @@ printf 'y\y\y\y\y\y\y' | curl -sSL https://install.pi-hole.net | bash
 sudo apt-get install git lighttpd php5-cgi hostapd dnsmasq -y
 sudo lighttpd-enable-mod fastcgi-php
 sudo service lighttpd restart
-wget -q https://git.io/voEUQ -O /tmp/raspap && printf 'y' | bash /tmp/raspap && sleep 50 printf 'y'
+wget -q https://git.io/voEUQ -O /tmp/raspap && printf 'y' | bash /tmp/raspap && sleep 2 printf '\n%s\n' 
 
 
 
