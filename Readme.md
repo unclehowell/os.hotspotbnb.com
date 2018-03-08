@@ -13,12 +13,13 @@ Features      | i | ii | iii
 ------------- |:-------------: |:-------------: |:-------------: 
 |Speed Booster | x | x | x 
 |Media Library |  | x | x 
-|IPCCTV |  | x | x 
+|IPCCTV        |  | x | x 
 |Energy monitor |  | x | x
-|Home Control |  | x | x 
-|Live TV  |  |  | x 
-|Proximity  |  |  | x 
-|1Yr Support (USD) | $120 | $300 | $600
+|Home Control  |  | x | x 
+|Live TV       |  |  | x 
+|Proximity     |  |  | x 
+
+ <a href="#">Global Partners List</a> 
 
 # What you'll Need
 
