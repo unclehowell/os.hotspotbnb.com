@@ -14,7 +14,7 @@ The Wave Hotspot makes your internet Faster & Better by simply plugging it into 
 </tr>
 <tr>
 <td>
-<p><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List, Suppliers &amp; Prices</a></p>
+<p><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">=Suppliers &amp; Prices</a></p>
 </td>
 </tr>
 </tbody>
