@@ -104,7 +104,41 @@ Wave Hotspots also offer the latest applications for homes and business - see th
 </table>
 
 
-
+<p>&nbsp;</p>
+<table style="height: 318px; margin-left: auto; margin-right: auto;" width="553">
+<tbody>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Internet Speed Booster</strong></td>
+<td style="width: 177px; text-align: left;">Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; Bind9 to make your internet around x5 times faster&nbsp;</td>
+<td style="width: 177px;"><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" alt="Image result for pihole" width="211" height="135" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Smart Home Control</strong></td>
+<td style="width: 177px;">The cutting edge of smart home control from <a href="https://www.openhab.org">OpenHAB</a>. Gives Wave users Wi-Fi control of everything around them e.g. Air Conditioning, Lights, Locks etc</td>
+<td style="width: 177px;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="Image result for openhab gui" width="213" height="159" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Media Library</strong></td>
+<td style="width: 177px;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
+<td style="width: 177px;"><img src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" alt="Image result for emby app" width="217" height="136" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;">&nbsp;<strong>IP Cameras</strong></td>
+<td style="width: 177px;">IP Cameras made very simple with <a href="https://github.com/ccrisan/motioneye/wiki">MotionEye</a>. This is by far the fastest and easiest solution, to get started with your IP Cameras</td>
+<td style="width: 177px;"><img src="https://iu8cri.altervista.org/wp-content/uploads/2017/09/motioneye_3.png" alt="Image result for motioneye" width="218" height="113" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Energy Monitoring</strong></td>
+<td style="width: 177px;"><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
+<td style="width: 177px;"><img src="https://emoncms.org/Modules/site/emoncms_front.png" alt="Image result for emoncms" width="219" height="122" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>IP HDTV</strong></td>
+<td style="width: 177px;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
+<td style="width: 177px;"><img src="http://i.imgur.com/Y07Lpwp.png" alt="Image result for iptv emby" width="217" height="128" /></td>
+</tr>
+</tbody>
+</table>
 
 # What you'll Need
 
