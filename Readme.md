@@ -4,9 +4,9 @@ Operating System  |   <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHM
 :--------------------------: | :-------------
 Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> Wave Hotspot (v0.1.0) </a> </br> </br>  <img src="http://market.samm.com/userfiles/categoryimages/original_image_f9954b957d3d2ede1af8a7277274323f.jpg" >
 
-The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn.
-Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.
-The result is a reduced or even a zero balance bill each month e.g. INTERNET IS FINALLY BEING MADE FREE! 
+The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn. </br>
+Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.</br>
+The result is a reduced or even a zero balance bill each month e.g. INTERNET IS FINALLY BEING MADE FREE! </br>
 
 Wave Hotspots also offer the latest applications for homes and business - see the table below:  
 
