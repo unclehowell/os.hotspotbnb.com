@@ -54,7 +54,7 @@ Versions      | Free | Bronze | Silver | Gold
  <tr>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td colspan="2">&nbsp;</td> 
+<td colspan="3">&nbsp;</td> 
 </tr>
 </table>
 
