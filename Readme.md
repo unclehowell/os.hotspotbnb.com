@@ -2,7 +2,7 @@ Wave transforms any old internet router into high-speed FREE internet connection
 
 Operating System  |   <a href="https://mega.nz/#!1ORnmQiD!hKC113zF6D9DFPifAE-raYjx77jDIlZ9d9OdKsHBMek" target="_blank"> WaveOS (0.1.3) - 654MB </a>  </br> </br> <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
 :--------------------------: | :-------------
-Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> Wave Hotspot (0.1.0) </a> </br> </br>  <img src="http://market.samm.com/userfiles/categoryimages/original_image_f9954b957d3d2ede1af8a7277274323f.jpg" >
+Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> Wave Hotspot (0.1.0) </a> </br> </br>  <img src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" >
 
 The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn. </br>
 Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.</br>
