@@ -110,7 +110,7 @@ Wave Hotspots also offer the latest applications for homes and business - see th
 <tr>
 <td style="width: 177px; text-align: center;"><strong>Internet Speed Booster</strong></td>
 <td style="width: 177px; text-align: left;">Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; Bind9 to make your internet around x5 times faster&nbsp;</td>
-<td style="width: 177px;"><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" alt="Image result for pihole" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: 400px!important;height:auto;" /></td>
+<td style="width: 177px;"><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" alt="Image result for pihole" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: auto!important;height:400px;" /></td>
 </tr>
 <tr>
 <td style="width: 177px; text-align: center;"><strong>Smart Home Control</strong></td>
