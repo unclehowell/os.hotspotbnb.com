@@ -27,7 +27,7 @@ The Wave Hotspot makes your internet Faster & Better by simply plugging it into 
 <p><strong>Operating System</strong></p>
 <p><strong>(Linux Debian)</strong></p>
 </td>
-<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) - 2.5GB</td>
+<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) </td>
 </tr>
 <tr>
 <td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
@@ -98,7 +98,7 @@ Wave Hotspots also offer the latest applications for homes and business - see th
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">&nbsp;</td>
 <td style="height: 18px; width: 59px;">&nbsp;Free</td>
-<td style="height: 18px; width: 182px; text-align: center;" colspan="3">Subscribe Now</td>
+<td style="height: 18px; width: 182px; text-align: center;" colspan="3">Purchase Activation Key</td>
 </tr>
 </tbody>
 </table>
