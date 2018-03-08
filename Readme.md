@@ -22,31 +22,31 @@ Wave Hotspots also offer the latest applications for homes and business - see th
 </tr>
 <tr style="height: 32px;">
 <td style="height: 32px; width: 131px;">Speed Booster</td>
-<td style="text-align: center; height: 32px; width: 59px;">&nbsp;x</td>
-<td style="text-align: center; height: 32px; width: 62px;">&nbsp;x</td>
-<td style="text-align: center; height: 32px; width: 60px;">&nbsp;x</td>
-<td style="text-align: center; height: 32px; width: 60px;">&nbsp;x</td>
+<td style="text-align: center; height: 32px; width: 59px;">&nbsp;&nbsp;x</td>
+<td style="text-align: center; height: 32px; width: 62px;">&nbsp;&nbsp;x</td>
+<td style="text-align: center; height: 32px; width: 60px;">&nbsp;&nbsp;x</td>
+<td style="text-align: center; height: 32px; width: 60px;">&nbsp;&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px; ">Smart Home</td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 62px; text-align: center;">&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">Media Library</td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 62px; text-align: center;">&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">IP Cameras</td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">
@@ -54,15 +54,15 @@ Wave Hotspots also offer the latest applications for homes and business - see th
 </td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">IPTV (US)</td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 60px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 60px; text-align: center;">x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">&nbsp;</td>
