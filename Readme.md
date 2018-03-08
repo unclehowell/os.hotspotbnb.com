@@ -1,4 +1,5 @@
-Wave transforms any old internet router into high-speed FREE internet connection.
+The Wave Hotspot makes your internet Faster & Better. </br>
+It plugs & plays nicely with your existing internet router.
 
 <table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
 <tbody>
