@@ -14,7 +14,6 @@ The Wave Hotspot makes your internet Faster & Better by simply plugging it into 
 </tr>
 <tr>
 <td>
-<p><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Suppliers &amp; Prices</a></p>
 </td>
 </tr>
 </tbody>
@@ -98,7 +97,7 @@ Wave Hotspots also offer the latest applications for homes and business - see th
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">&nbsp;</td>
 <td style="height: 18px; width: 59px;">&nbsp;Free</td>
-<td style="height: 18px; width: 182px; text-align: center;" colspan="3">Purchase Activation Key</td>
+<td style="height: 18px; width: 182px; text-align: center;" colspan="3"><a href="https://evr-solar.com/product/wave-hotspot/"> Buy Activation Key </a></td>
 </tr>
 </tbody>
 </table>
