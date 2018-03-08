@@ -11,7 +11,7 @@ The result is astounding - a reduced or even a zero balance bill each month and 
 Wave Hotspots also offer the latest applications for homes and business - see the table below:  
 
 
-<table style="height: 1px; width: 1px;">
+<table style="height: 1px; width: 1px; text-align: center;">
 <tbody>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">&nbsp;</td>
