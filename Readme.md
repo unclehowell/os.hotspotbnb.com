@@ -9,55 +9,69 @@ In the near future we will even be rolling out an update which makes your intern
 By using WaveOS technology your bills from your ISP will actually stop - at least that's what can happen with enough users. 
 This is a very exciting technology for many people, businesses and industries. 
 
-Versions      | Free | Bronze | Silver | Gold 
-------------- |:-------------:  |:-------------: |:-------------: |:-------------: 
-|Speed Booster | x  |x | x | x 
-|Smart Home  |   | x | x | x 
-|Media Library |   | x | x | x 
-|IPCCTV       |   |  | x | x 
-|Energy monitor |  |  | x | x
-|IPTV (USA)     |    |  |  | x 
-| Licence Keys  |    |  <a href="#">Buy Now</a>  | <a href="#">Buy Now</a>   |  <a href="#">Buy Now</a>  
-
-
-<table>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<table style="height: 1px; width: 1px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">&nbsp;</td>
+<td style="text-align: center; height: 18px; width: 59px;">&nbsp;Gratis</td>
+<td style="text-align: center; height: 18px; width: 62px;">&nbsp;Bronze</td>
+<td style="height: 18px; width: 60px;">&nbsp;Silver</td>
+<td style="height: 18px; width: 60px;">&nbsp;Gold&nbsp;</td>
 </tr>
- <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<tr style="height: 32px;">
+<td style="height: 32px; width: 131px;">Speed Booster</td>
+<td style="height: 32px; width: 59px; text-align: center;">&nbsp;x</td>
+<td style="height: 32px; width: 62px; text-align: center;">&nbsp;x</td>
+<td style="height: 32px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 32px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
- <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">Smart Home</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
- <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">&nbsp;Media Library</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">&nbsp;IP Cameras</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
- <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td colspan="2">&nbsp;</td> 
-<td colspan="2">&nbsp;</td> 
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">
+<p>Energy Monitor</p>
+</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">IPTV (US)</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">x</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">&nbsp;</td>
+<td style="height: 18px; width: 59px;">&nbsp;Free</td>
+<td style="height: 18px; width: 182px; text-align: center;" colspan="3">&nbsp; Subscription</td>
+</tr>
+</tbody>
 </table>
+
+
+
 
 # What you'll Need
 
