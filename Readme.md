@@ -17,9 +17,7 @@ Versions      | Free | Bronze | Silver | Gold
 |IPCCTV       |   |  | x | x 
 |Energy monitor |  |  | x | x
 |IPTV (USA)     |    |  |  | x 
-| Licence Keys     |    |  <a href="#">View</a>  | <a href="#">View</a>   |  <a href="#">View</a>  
-
- <a href="#">View</a> 
+| Licence Keys  |    |  <a href="#">Buy Now</a>  | <a href="#">Buy Now</a>   |  <a href="#">Buy Now</a>  
 
 # What you'll Need
 
