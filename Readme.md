@@ -1,6 +1,26 @@
 The Wave Hotspot makes your internet Faster & Better. </br>
 It plugs & plays nicely with your existing internet router.
 
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td rowspan="3">
+<p style="text-align: center;"><strong>Hardware</strong></p>
+<p style="text-align: center;"><strong>(Raspberry Pi)</strong></p>
+</td>
+<td>Wave Hotspot (0.1.0)</td>
+</tr>
+<tr>
+<td><img style="display: block; margin-left: auto; margin-right: auto;" src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" width="160" height="160" /></td>
+</tr>
+<tr>
+<td>
+<p><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List, Suppliers &amp; Prices</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
 <table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
 <tbody>
 <tr>
@@ -15,25 +35,8 @@ It plugs & plays nicely with your existing internet router.
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<table style="width: 375px; height: 190px; margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="width: 177px; text-align: center;" rowspan="3">
-<p><strong>Hardware</strong></p>
-<p><strong>(Raspberry Pi)</strong></p>
-</td>
-<td style="width: 184px; text-align: center;">Wave Hotspot (0.1.0)</td>
-</tr>
-<tr>
-<td style="width: 184px; text-align: center;"><img src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" width="160" height="160" /></td>
-</tr>
-<tr>
-<td style="width: 184px; text-align: center;"><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List, Suppliers &amp; Prices</a></td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><br />&nbsp;</p>
 
 The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn. </br>
 Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.</br>
