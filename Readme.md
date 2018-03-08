@@ -1,13 +1,13 @@
 Wave transforms any old internet router into high-speed FREE internet connection.
 
-<table style="height: 27px;" width="379">
+<table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
 <tbody>
 <tr>
 <td style="width: 181px; text-align: center;" rowspan="2">
 <p><strong>Operating System</strong></p>
 <p><strong>(Linux Debian)</strong></p>
 </td>
-<td style="width: 182px;">&nbsp;WaveOS (0.1.3) - 2.5GB</td>
+<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) - 2.5GB</td>
 </tr>
 <tr>
 <td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
@@ -15,7 +15,7 @@ Wave transforms any old internet router into high-speed FREE internet connection
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="width: 375px; height: 190px;">
+<table style="width: 375px; height: 190px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
 <td style="width: 177px; text-align: center;" rowspan="3">
