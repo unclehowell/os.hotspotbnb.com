@@ -9,15 +9,14 @@ In the near future we will even be rolling out an update which makes your intern
 By using WaveOS technology your bills from your ISP will actually stop - at least that's what can happen with enough users. 
 This is a very exciting technology for many people, businesses and industries. 
 
-Features      | i | ii | iii 
-------------- |:-------------: |:-------------: |:-------------: 
-|Speed Booster | x | x | x 
-|Media Library |  | x | x 
-|IPCCTV        |  | x | x 
-|Energy monitor |  | x | x
-|Home Control  |  | x | x 
-|Live TV       |  |  | x 
-|Proximity     |  |  | x 
+Versions      | Free | Bronze | Silver | Gold 
+------------- |:-------------:  |:-------------: |:-------------: |:-------------: 
+|Speed Booster | x  |x | x | x 
+|Smart Home  |   | x | x | x 
+|Media Library |   | x | x | x 
+|IPCCTV       |   | x | x | x 
+|Energy monitor |  |  | x | x
+|Live TV      |    |  |  | x 
 
  <a href="#">Global Partners List</a> 
 
