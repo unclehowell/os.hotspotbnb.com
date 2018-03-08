@@ -15,8 +15,8 @@ This is a very exciting technology for many people, businesses and industries.
 <td style="height: 18px; width: 131px;">&nbsp;</td>
 <td style="text-align: center; height: 18px; width: 59px;">&nbsp;Gratis</td>
 <td style="text-align: center; height: 18px; width: 62px;">&nbsp;Bronze</td>
-<td style="height: 18px; width: 60px;">&nbsp;Silver</td>
-<td style="height: 18px; width: 60px;">&nbsp;Gold&nbsp;</td>
+<td style="text-align: center; height: 18px; width: 60px;">&nbsp;Silver</td>
+<td style="text-align: center; height: 18px; width: 60px;">&nbsp;Gold</td>
 </tr>
 <tr style="height: 32px;">
 <td style="height: 32px; width: 131px;">Speed Booster</td>
@@ -26,21 +26,21 @@ This is a very exciting technology for many people, businesses and industries.
 <td style="height: 32px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">Smart Home</td>
+<td style="height: 18px; width: 131px; ">Smart Home</td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 62px; text-align: center;">&nbsp;x</td>
 <td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 <td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">&nbsp;Media Library</td>
+<td style="height: 18px; width: 131px;">Media Library</td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 62px; text-align: center;">&nbsp;x</td>
 <td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 <td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">&nbsp;IP Cameras</td>
+<td style="height: 18px; width: 131px;">IP Cameras</td>
 <td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
 <td style="height: 18px; width: 60px; text-align: center;">&nbsp;x</td>
@@ -65,7 +65,7 @@ This is a very exciting technology for many people, businesses and industries.
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">&nbsp;</td>
 <td style="height: 18px; width: 59px;">&nbsp;Free</td>
-<td style="height: 18px; width: 182px; text-align: center;" colspan="3">&nbsp; Subscribe Now</td>
+<td style="height: 18px; width: 182px; text-align: center;" colspan="3">Subscribe Now</td>
 </tr>
 </tbody>
 </table>
