@@ -1,7 +1,7 @@
  Operating  System  |   <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank"> WaveOS (v0.1.4) - 654MB </a>  </br> </br> <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
 :--------------------------: | :-------------
  Applications | <ul><li><a href="https://github.com/unclehowell/WaveOS_App--Pi-hole" >PiHole</a> adblocker/ speed booster</li><li>x10 more security & privacy </li><li><a href="https://github.com/unclehowell/WaveOS_App--openhab-distro">OpenHaB</a> Smart Home Control (IoT) </li><li>Multi-Room Audio/ Video inc.</li><li> IP CCTV Cameras </li><li>Self-Updating & Upgrading</li><li>IPTV - Live Streaming
- Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v0.1.0) </a> </br> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
+ Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v0.1.0) </a> </br> </br>  <img src="https://www.modmypi.com/image/cache/data/rpi-products/cases/official/DSC_0018-800x609.jpg" >
 
 WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
 This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
