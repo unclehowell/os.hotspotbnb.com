@@ -14,11 +14,12 @@ Versions      | Free | Bronze | Silver | Gold
 |Speed Booster | x  |x | x | x 
 |Smart Home  |   | x | x | x 
 |Media Library |   | x | x | x 
-|IPCCTV       |   | x | x | x 
+|IPCCTV       |   |  | x | x 
 |Energy monitor |  |  | x | x
-|Live TV      |    |  |  | x 
+|IPTV (USA)     |    |  |  | x 
+| Licence Keys     |    |  <a href="#">View</a>  | <a href="#">View</a>   |  <a href="#">View</a>  
 
- <a href="#">Global Partners List</a> 
+ <a href="#">View</a> 
 
 # What you'll Need
 
