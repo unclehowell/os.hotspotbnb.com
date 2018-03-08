@@ -6,7 +6,7 @@ Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list
 
 The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn. </br>
 Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.</br>
-The result is a reduced or even a zero balance bill each month e.g. INTERNET IS FINALLY BEING MADE FREE! </br>
+The result is astounding - a reduced or even a zero balance bill each month and much faster internet. 
 
 Wave Hotspots also offer the latest applications for homes and business - see the table below:  
 
