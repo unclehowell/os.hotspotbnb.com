@@ -32,8 +32,8 @@ Versions      | Free | Bronze | Silver | Gold
 <td>&nbsp;</td>
 </tr>
  <tr>
-<td colspan="2">&nbsp;</td>
 <td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
