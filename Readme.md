@@ -65,7 +65,7 @@ This is a very exciting technology for many people, businesses and industries.
 <tr style="height: 18px;">
 <td style="height: 18px; width: 131px;">&nbsp;</td>
 <td style="height: 18px; width: 59px;">&nbsp;Free</td>
-<td style="height: 18px; width: 182px; text-align: center;" colspan="3">&nbsp; Subscription</td>
+<td style="height: 18px; width: 182px; text-align: center;" colspan="3">&nbsp; Subscribe Now</td>
 </tr>
 </tbody>
 </table>
