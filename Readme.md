@@ -1,5 +1,4 @@
-The Wave Hotspot makes your internet Faster & Better. </br>
-It plugs & plays nicely with your existing internet router.
+The Wave Hotspot makes your internet Faster & Better by simply plugging it into your existing internet router.
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -35,8 +34,6 @@ It plugs & plays nicely with your existing internet router.
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><br />&nbsp;</p>
 
 The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn. </br>
 Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.</br>
