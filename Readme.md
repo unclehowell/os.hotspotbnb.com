@@ -20,6 +20,22 @@ Versions      | Free | Bronze | Silver | Gold
 | Licence Keys  |    |  <a href="#">Buy Now</a>  | <a href="#">Buy Now</a>   |  <a href="#">Buy Now</a>  
 
 
+<table>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+ <tr>
+<td colspan="2">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
 
 # What you'll Need
 
