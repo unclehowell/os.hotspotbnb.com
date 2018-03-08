@@ -3,11 +3,13 @@
  Applications | <ul><li><a href="https://github.com/unclehowell/WaveOS_App--Pi-hole" >PiHole</a> adblocker/ speed booster</li><li>x10 more security & privacy </li><li><a href="https://github.com/unclehowell/WaveOS_App--openhab-distro">OpenHaB</a> Smart Home Control (IoT) </li><li>Multi-Room Audio/ Video inc.</li><li> IP CCTV Cameras </li><li>Self-Updating & Upgrading</li><li>IPTV - Live Streaming
  Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v0.1.0) </a> </br> </br>  <img src="https://www.modmypi.com/image/cache/data/rpi-products/cases/official/DSC_0018-800x609.jpg" >
 
-WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
-This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
-In the near future we will even be rolling out an update which makes your internet completely free. 
-By using WaveOS technology your bills from your ISP will actually stop - at least that's what can happen with enough users. 
-This is a very exciting technology for many people, businesses and industries. 
+WaveOS transforms any old internet router into high-speed FREE internet connection.
+The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn.
+Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.
+The result is a reduced or even a zero balance bill each month e.g. INTERNET IS FINALLY BEING MADE FREE! 
+
+Wave Hotspots also offer the latest applications for homes and business - see the table below:  
+
 
 <table style="height: 1px; width: 1px;">
 <tbody>
