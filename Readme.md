@@ -27,6 +27,24 @@ Versions      | Free | Bronze | Silver | Gold
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
+ <tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+ <tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+ <tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
 <tr>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
