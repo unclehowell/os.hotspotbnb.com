@@ -1,118 +1,197 @@
- Operating  System  |  <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank"> WaveOS (v0.1.4) - 654MB </a>  </br> </br> <a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" > </a>
-:--------------------------: | :-------------:
- Features | <p style="text-align: left;">x5 times faster internet </p> <p style="text-align: left;">x10 more security & privacy </p> <p style="text-align:left;">Smart Home Control (IoT) </p> <p style="text-align:left;">Energy Monitoring </p> <p style="text-align:left;"> Multi-Room Audio/ Video inc.</p> <p style="text-align:left;"> IPCCTV </p> <p style="text-align:left;">Self-Updating & Upgrading  </p> <p style="text-align:left;">IPTV - Live Streaming
- Hardware | <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv" target="_blank"> WaveBOX (v0.1.0) </a> </br> </br>  <img src="http://image.ibb.co/cd0n0x/wave_box_small.png" >
+The Wave Hotspot makes your internet Faster & Better by simply plugging it into your existing internet router.
 
-WaveOS is FREE. It's very easy to set-up. And it's even easier to operate.
-This technology transforms our old Wi-Fi Routers into powerful smart home-control, energy-monitoring & multi-room media systems.
-In the near future we will even be rolling out an update which makes your internet completely free. 
-By using WaveOS technology your bills from your ISP will actually stop - at least that's what can happen with enough users. 
-This is a very exciting technology for many people, businesses and industries. 
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td rowspan="3">
+<p style="text-align: center;"><strong>Hardware</strong></p>
+<p style="text-align: center;"><strong>(Raspberry Pi)</strong></p>
+</td>
+<td>Wave Hotspot (0.1.0)</td>
+</tr>
+<tr>
+<td><img style="display: block; margin-left: auto; margin-right: auto;" src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" width="160" height="160" /></td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
+<tbody>
+<tr>
+<td style="width: 181px; text-align: center;" rowspan="2">
+<p><strong>Operating System</strong></p>
+<p><strong>(Linux Debian)</strong></p>
+</td>
+<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) </td>
+</tr>
+<tr>
+<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
+</tr>
+</tbody>
+</table>
 
-Packages      |  Speed Booster |  Media Library |  IPCCTV | 	Energy monitor | Home Control | Live TV | Proximity | Support Pin (USD) 
-------------- |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: | :-------------:  
-|Bronze   | x |   |   |   |   |   |   | $120
-|Silver   | x | x | x | x |   |   |   | $240
-|Platinum | x | x | x | x | x |   |   | $360
-|Gold     | x | x | x | x | x | x |   | $480
-|Business | x | x | x | x | x |   | x | $600
+The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn. </br>
+Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.</br>
+The result is astounding - a reduced or even a zero balance bill each month and much faster internet. 
+
+Wave Hotspots also offer the latest applications for homes and business - see the table below:  
+
+
+<table style="height: 1px; width: 1px; text-align: center;">
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">&nbsp;</td>
+<td style="text-align: center; height: 18px; width: 59px;">&nbsp;Gratis</td>
+<td style="text-align: center; height: 18px; width: 62px;">&nbsp;Bronze</td>
+<td style="text-align: center; height: 18px; width: 60px;">&nbsp;Silver</td>
+<td style="text-align: center; height: 18px; width: 60px;">&nbsp;Gold</td>
+</tr>
+<tr style="height: 32px;">
+<td style="height: 32px; width: 131px;">Speed Booster</td>
+<td style="text-align: center; height: 32px; width: 59px;">&nbsp;&nbsp;x</td>
+<td style="text-align: center; height: 32px; width: 62px;">&nbsp;&nbsp;x</td>
+<td style="text-align: center; height: 32px; width: 60px;">&nbsp;&nbsp;x</td>
+<td style="text-align: center; height: 32px; width: 60px;">&nbsp;&nbsp;x</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px; ">Smart Home</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">Media Library</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">IP Cameras</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">
+<p>Energy Monitor</p>
+</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">IPTV (US)</td>
+<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;</td>
+<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 131px;">&nbsp;</td>
+<td style="height: 18px; width: 59px;">&nbsp;Free</td>
+<td style="height: 18px; width: 182px; text-align: center;" colspan="3"><a href="https://evr-solar.com/product/wave-hotspot/"> Activation Keys </a></td>
+</tr>
+</tbody>
+</table>
+
+
+<p>&nbsp;</p>
+<table style="height: 318px; margin-left: auto; margin-right: auto;" width="553">
+<tbody>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Internet Speed Booster</strong></td>
+<td style="width: 177px; text-align: left;">Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; Bind9 to make your internet around x5 times faster&nbsp;</td>
+<td style="width: 177px;"><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" alt="Image result for pihole" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: auto!important;height:400px;" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Smart Home Control</strong></td>
+<td style="width: 177px;">The cutting edge of smart home control from <a href="https://www.openhab.org">OpenHAB</a>. Gives Wave users Wi-Fi control of everything around them e.g. Air Conditioning, Lights, Locks etc</td>
+<td style="width: 177px;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="Image result for openhab gui" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: auto!important;height:400px;" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Media Library</strong></td>
+<td style="width: 177px;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
+<td style="width: 177px;"><img src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" alt="Image result for emby app" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: auto!important;height:400px;" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;">&nbsp;<strong>IP Cameras</strong></td>
+<td style="width: 177px;">IP Cameras made very simple with <a href="https://github.com/ccrisan/motioneye/wiki">MotionEye</a>. This is by far the fastest and easiest solution, to get started with your IP Cameras</td>
+<td style="width: 177px;"><img src="https://iu8cri.altervista.org/wp-content/uploads/2017/09/motioneye_3.png" alt="Image result for motioneye" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: auto!important;height:400px;" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>Energy Monitoring</strong></td>
+<td style="width: 177px;"><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
+<td style="width: 177px;"><img src="https://emoncms.org/Modules/site/emoncms_front.png" alt="Image result for emoncms" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: auto!important;height:400px;" /></td>
+</tr>
+<tr>
+<td style="width: 177px; text-align: center;"><strong>IP HDTV</strong></td>
+<td style="width: 177px;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
+<td style="width: 177px;"><img src="http://i.imgur.com/Y07Lpwp.png" alt="Image result for iptv emby" style="image-rendering: auto; image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; min-width: auto!important;height:400px;" /></td>
+</tr>
+</tbody>
+</table>
 
 # What you'll Need
 
-a) Raspberry Pi 3: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+a) Everything listed on the <a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List</a> or you can <a href="#">buy direct</a>
 
-b) 32GB Micro SD Card
+b) A Computer/ Laptop (which will accept your Mini SD Card)
 
-c) Ethernet Cable (standard)
-
-d) Mini USB Power Source (1500mA/5V) e.g. standard Phone Charger
-
-e) A Computer/ Laptop (which will accept your Mini SD Card)
-
-F) The following Programs:
+e) The following FREE Programs:
 
    -  7-Zip - http://www.7-zip.org
    -  Win32 - http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml
 
 #  Get Started 
 
-a) Download WaveOS version 0.1.4: https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao
-
-    - The file size is 2GB - WaveOS contains more than 200,000 folders and files
-    
+a) Download WaveOS (see above)
+  
 b) Uncompress using 7-Zip.org
 
-    - This expands it to 32GB, so make sure you have space on your Hard drive
+    - This expands it to the size of your SD card (32GB recommended)
 
 c) Burn WaveOS to your Micro SD Card using Win32 Disk Imager
 
-    - This process takes around one hour to complete 
+    - This process takes a few minutes to complete
+    
+d) Make sure your internet router has been configured with the gateway and ethernet dhcp range (10.0.0.1 and 10.0.0.2 - 254)
 
-d) Insert the WaveOS SD Card into the Raspberry Pi and power it up
+    - you can also turn off you existing wifi at this point if you're feeling confident, to save you going back
+    - perhaps reboot your internet router at this point, just to be safe
 
-    - The first boot can take upto 15 minutes before the Wi-Fi Hotspot is Broadcasted
-    - In some cases it can take 10 more minutes for the services to all start (harmoniously)
+e) Connect your WaveBox (Raspberry pi) into your router using the recommended ethernet cable
 
-e) Connect to the WaveOS Wi-Fi Hotspot using the default password
+f) Insert your WaveOS SD Card into the WaveBox and power it up
+
+    - The first boot can take a while before the Wi-Fi Hotspot is Broadcasted
+
+g) Connect to the WaveOS Wi-Fi Hotspot using the default password
 
     - The default Wi-Fi Hotspot ID: wave
     - The default Wi-Fi password is: makeitwave
 
-f) Open the WaveOS router menu in your web browser:
+h) Open the WaveOS router menu in your web browser:
 
     - The default hostname is: wave (http://wave/)
     
 Help & Support
 
-    - If this fails for any reason, try the default IP: 192.168.42.1
-    - Menu access also works through the wired connection: 10.0.0.11
+    - Menu access also works through the wired connection: 10.0.0.10
     - You may need to change your routers DHCP to the following (and reboot it) for WaveOS to function:
     - IP Range: 10.0.0.2 - 10.0.0.254  , Subnet: 255.255.255.0 , Gateway: 10.0.0.1, DNS: 8.8.8.8, 8.8.4.4
-    - <a href="https://github.com/unclehowell/WaveOS/blob/master/shazam/users.sh">user profiles, Username & Password info</a>
 
-g) tips & tricks
+## Developers
 
-    -  You can save what you see on your browser as an app (instead of re-entering the IP/Hostname each time)
-    -  Visit this link for more info: 
-    
-# Clean Build from Scratch (For Developers) 
-
-This section is still far from completion as the SD card image has to be reverse-engineered to explain how WaveOS is created. 
-When we're not working forward, we are working backwards on this due to its importance. 
-In summary we've explained in the steps below. 
-If you are interested in contributing to development of the WaveOS we welcome you (drop us an email: ccu@scottishbay.info)
-
-# Step 1
-
-Place DietPi version 6 and above on your device - http://dietpi.com
-
-    - This is the one used for WaveOS version 0.1.4 - http://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Stretch.7z 
-    - Now for SSH & internet access.
-    - Cable connect it to the internet, hook a screen up so you can see what you're doing. 
-    - login using the default user profile: dietpi : dietpi
-    - set the ip to 10.0.0.11 (gateway 10.0.0.1) in dietpi-config > Network Settings
-    - Now I'd forget the screen (poweroff & remove), then remote into it headlessly using SSH (putty)
-    
-# Step 2
-
-Install the following using the dietpi-software command: 
-
-   - emby, emoncms, pro-ftp, samba, motioneye (and some other apps... details to follow) 
-   - you'll also need avahi-daemon, git, raspap, (and some other packages... details to follow) 
-
-# Step 3
-
-Install OpenHAB: https://www.openhab.org
-
-# Step 4
-
-Customise the whole thing to give it the WaveOS look & feel (using our shazam script)
-
-# Step 5
-
-Schedule a cronjob to run a git-pull to get the latest WaveOS updates 
-  
-....more details to come, thanks for your patience in the interim
+The WaveOS SD Card image, along with the automated scripts featured in this repository are plug and play. 
+If you're a developer and want to reverse engineer how we evolved dietpi into WaveOS and all the gubbings thereafter, you can following the journey right here by reading <a href="https://github.com/unclehowell/WaveOS/blob/master/dietpi-to-wave.sh">dietpi-to-wave.sh</a>
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -130,21 +209,6 @@ The WaveOS apps today include:
  
 We are also working on the following applications which will be included in the next version release: 
 - Wallet: a ready-to-go Virtual Currency Wallet App for your home or small business 
-- HotSpot: a simply settings page to change the default hostname & SSID (wave) and your wifi password etc
-- Wave-it: Wave-it is the actual opt-in scheme for free internet. You simply enter your account number with your ISP and toggle on/off the free internet service. Providing all goes well, you will stop receiving bills from your ISP once you activate this app
-
-# WAVE-IT: How it works
-
-So the Wave-it App automatically detects who your Internet Service Provider is. This isn't difficult. Where we can save you time and effort we will. And we can determine your public ISP easily, providing your not using a VPN already. So all we really need from you is you to input your customer account number which your ISP give you. This allows the Wave Operating System to begin paying your internet provider on your behalf using crypto currency smart contracts and the technology driving a popular service called BitRefill. Bitrefill came up with this awesome solution which allows you to pay for your data using virtual currency. So we've included their findings in the mix. But this is only half the story. The question remains, where does the funds come from to pay your internet bill if you're not paying it. And the answer is suprising. 
-
-The funds which pay your internet bill, so that you can enjoy free internet access, are generated from the Wave Operating System. So the more you use these applications and technology, the more funds are generated and sent to your ISP. It's possible, like with solar energy 'sell-back' schemes, that you can end up sending more back to the provider than you consume, in which case they effectively owe you. But some months it's the other way around and so the annual average is what is now important, not the monthly balances. 
-
-Hope I haven't lost you so far. If so keep reading. As you use the apps there are a number of monetisation technologies in play. Advertising and virtual currency mining are the two most obvious. With advertising, you will see ads before each movie is played in your movie library, which gives it a youtube feel. With display ads, you will notice that the websites you visit still have ads, but our Operating System actually removes the origional ads (which hord all the adrevenue for themselves) and replaces those adunits with our ads, and our advertisers revenue, which does benefit you since it goes towards paying your internet bill. So advertising is nothing new, but the way we do it is perhaps something cutting edge. The benefit to advertisers over advertiing platforms like Google or Facebook is even greater, since we are closer to the end user than Google or Facebook can ever get. Our users might not be using Google chrome, Googe Search Engine or visiting Google's Content-Network Affiliated Websites, so our ads will show where theirs cannot. And even where Google ads are being displayed, our technology removes them and serves our ads in their place. 
-
-Revenue Channel 2: There's been a lot of hype about this recently - a new method of generating revenue from audiences, which is nothing to do with advertising. It's actually to do with virtual currency mining. For those who don't know virtual currency mining is when you use your computers processing power to calculate equasions for someone else in exchange for cash or virtual currency itself. In the case of virtual currency, your phone or computer is able to process bank transactions and when you opt-in for this, you get the transaction fee. The WaveOS uses a range of technologies to make use of the reduntant processing power in the devices connected to its hotspot. This is an opt-in scheme for the custodian of the Wi-Fi, so it's up to the owner to inform the user of this. We are however, figuring out ways within the Wave-It App to notify those connecting to the hotspot, that this sort of technology is in operation. It does carry some minor risks which are being explored now. These risks include reduction of the shelf-life of the hardware, but since modern hardware has built in safeguards to prevent any hotspot you connect to (or website you visit) from cooking your device, it's presumed this isn't a major issue at this moment. Especially in light of the fact, that this is the first viable solution to making internet access free. 
-
-So there you have it, the whole process explained. It will only get safer, easy to understand, more transparent and with more accountability as we proceed forward on this journey.
-
 
 
  

@@ -1,5 +1,7 @@
+
 # WaveOS file location = /opt/WaveOS/dietpi-to-wave.sh
 # Job for another day = DietPi want the script below putting somewhere else: https://github.com/Fourdee/DietPi/issues/139
+# Dietpi does recommend you do the pre-configuration to the 1st run file /boot/dietpi.txt - which appears easier, will look into this at a later date.  
 
 # This is the highest priority file of the whole WaveOS system. This guide & script changes a dietpi image to operate as a WaveOS image;
 # * The idea is that this shell script will run everything, but only after we make some essential minimal changes to dietpi's custom config. 
@@ -21,30 +23,28 @@
 # step-2: Now enter this folder, which is where this repo will copy to: cd /opt/
 # step-3: we will now retrieve this WaveOS GitHub Repo with the command: git clone https://github.com/unclehowell/WaveOS.git
 # step-4: now make the folder update daily/ on reboot and run itself. We do this with the following commands:
-#          a) 'sudo nano /etc/rc.local' - then before the exit 0 line enter: 
-#                  i.  rm -r /opt/WaveOS
-#                 ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
-#                iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
-#                 iv.  sh /opt/WaveOS/dietpi-to-wave.sh
-#            * these can all be combined on one line using && between them
+#          a) 'sudo nano /etc/rc.local' - then before the exit 0 line enter the following line of code: 
+#         
+#             rm -r /opt/WaveOS && git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS && chmod +x /opt/WaveOS/dietpi-to-wave.sh && sh /opt/WaveOS/dietpi-to-wave.sh
+#                 
+#             * add '-b slave --single-branch' after git clone to access beta
+
 #          b) 'sudo crontab -e' - then enter at the bottom (same deal): 
-#                  i.  rm -r /opt/WaveOS
-#                 ii.  git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS
-#                iii.  chmod +x /opt/WaveOS/dietpi-to-wave.sh
-#                 iv.  sh /opt/WaveOS/dietpi-to-wave.sh
-#                    * also add this to drop me (or you) an email whenever an issue occurs:
-#                      'curl -sm 30 k.wdt.io/X1ZiJpLGH/update'
+#                  
+#             rm -r /opt/WaveOS && git clone https://github.com/unclehowell/WaveOS.git /opt/WaveOS && chmod +x /opt/WaveOS/dietpi-to-wave.sh && sh /opt/WaveOS/dietpi-to-wave.sh
+#                 
+#            * add '-b slave --single-branch' after git clone to access beta
 
 # Since WaveOS updates daily, the unit shouldn't fall behind with updates, so updates during bootup, shouldn't hold up the reboot;
            apt-get update
            apt-get upgrade -y
+           apt-get autoremove -y
            
-# Next we install all the DietPi apps - if they're already installed then the system is smart enough to skip this part;
+# Next we let another script execute so it can install all the DietPi apps - if they're already installed then the system is smart enough to skip this part
+
+           chmod +x /opt/WaveOS/install-dietpi-apps.sh
            sh /opt/WaveOS/install-dietpi-apps.sh
            
-
-
-
 
 
 
