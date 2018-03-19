@@ -1,4 +1,6 @@
+
 # WaveOS file location = /opt/WaveOS/dietpi-to-wave.sh
+# Job for another day = DietPi want the script below putting somewhere else: https://github.com/Fourdee/DietPi/issues/139
 # Dietpi does recommend you do the pre-configuration to the 1st run file /boot/dietpi.txt - which appears easier, will look into this at a later date.  
 
 # This is the highest priority file of the whole WaveOS system. This guide & script changes a dietpi image to operate as a WaveOS image;
@@ -43,9 +45,6 @@
            chmod +x /opt/WaveOS/install-dietpi-apps.sh
            sh /opt/WaveOS/install-dietpi-apps.sh
            
-
-
-
 
 
 
