@@ -1,14 +1,5 @@
-Introducing the Wave Hotspot.
+Introducing the Wave Hotspot - powered by our own powerful new software: WaveOS.
 
-WaveOS does 3 incredible things.
-
-Simply connect to your router and enjoy;
-
-1) Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> & <a href="https://squidproxy.org">Squid</a>
-
-2) Cheaper Internet: our new crypto currency <a href="#">Surf Coin</a> rewards our users and can even be used to pay your ISP.
-
-3) Smart Home Apps: the Wave Hotspot features the latest in IP camera control, Energy Monitoring, Media/ TV and Smart Appliance Control
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -44,6 +35,13 @@ Simply connect to your router and enjoy;
 </tbody>
 </table>  
 
+Which does 3 simple but incredible things;
+
+1 - Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> & <a href="https://squidproxy.org">Squid</a>
+
+2 - Cheaper Internet: our new crypto currency <a href="#">Surf Coin</a> rewards our users and can even be used to pay your ISP.
+
+3 - Smart Home Apps: the Wave Hotspot features the latest in IP camera control, Energy Monitoring, Media/ TV and Smart Appliance Control
 
 
 <table style="height: 1px; width: 32%; text-align: center; margin-right: calc(68%);">
