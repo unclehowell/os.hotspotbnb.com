@@ -1,5 +1,4 @@
-Introducing the Wave Hotspot - powered by our own powerful new software: WaveOS.
-
+# Introducing the Wave Hotspot 
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -19,6 +18,9 @@ Introducing the Wave Hotspot - powered by our own powerful new software: WaveOS.
 </tr>
 </tbody>
 </table>
+
+# powered by our own powerful new software: WaveOS.
+
 <p style="text-align: center;">&nbsp;</p>
 <table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
 <tbody>
