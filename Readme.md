@@ -35,7 +35,7 @@ Introducing the Wave Hotspot - powered by our own powerful new software: WaveOS.
 </tbody>
 </table>  
 
-Which does 3 simple but incredible things;
+Combining this hardware & software unleashes 3 incredible benefits;
 
 1 - Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> & <a href="https://squidproxy.org">Squid</a>
 
