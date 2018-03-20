@@ -19,7 +19,7 @@
 </tbody>
 </table>
 
-# powered by our own powerful new software: WaveOS.
+# powered by WaveOS
 
 <p style="text-align: center;">&nbsp;</p>
 <table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
