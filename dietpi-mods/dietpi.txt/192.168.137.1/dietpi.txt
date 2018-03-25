@@ -70,7 +70,12 @@ AUTO_SETUP_NET_ETH_FORCE_SPEED=0
 
 #	Size of dphys-swapfile to generate (MB)
 #		0=Disabled | 1=auto (2GB-RAM = size) | 2+=manual
-AUTO_SETUP_SWAPFILE_SIZE=1
+# --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
+# --------------------------------------- START ---------------------------------------------------------
+
+AUTO_SETUP_SWAPFILE_SIZE=500
+
+# --------------------------------------- FINISH ---------------------------------------------------------
 
 ##### Software Automation Options #####
 
@@ -113,6 +118,31 @@ AUTO_SETUP_GLOBAL_PASSWORD=dietpi
 AUTO_SETUP_INSTALL_SOFTWARE_ID=152 # will install avahi-daemon (to broadcast the hostname) 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=60 # will install Wi-fi Hotspot 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=93 # will install Pi-hole
+
+#Automation Overrides for user inputs | Set these all to 1 if you want fully automated.
+#   1=Automatically logs the root user in after filesystem expansion to start 1st run setup. Set to 0 if you want to install over SSH.
+
+AUTO_AutoLogin=1
+
+#   1=Disable GPLv2 license information
+
+AUTO_SkipLicensePrompt=1
+
+#   1=Reboot automatically once DietPi-Update has completed.
+
+AUTO_DietpiSoftware_SkipUpdateRebootPrompt=1
+
+#1=Disables question prompts.
+
+AUTO_DietpiSoftware_SkipQuestions=1
+
+#   1=Disables user prompt to setup a dedicated USB drive for use on this system. Use "#Dedicated USB drive automation" below for auto setup.
+
+AUTO_DietpiSoftware_SkipUsbDrive=1
+
+#   0=Onscreen prompt if error occurs | 1=Ignore errors, no prompts. (logs errors to /root/DietPi-Automation.log)
+
+AUTO_DietpiSoftware_IgnoreErrors=1
 
 # -------------------------------------- FINISH ---------------------------------------------------------
 
