@@ -99,7 +99,7 @@ AUTO_SETUP_AUTOMATED=1
 # --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
 # --------------------------------------- START ---------------------------------------------------------
 
-AUTO_SETUP_GLOBAL_PASSWORD=dietpi
+AUTO_SETUP_GLOBAL_PASSWORD=pi
 
 # --------------------------------------- FINISH --------------------------------------------------------
 
@@ -118,6 +118,7 @@ AUTO_SETUP_GLOBAL_PASSWORD=dietpi
 AUTO_SETUP_INSTALL_SOFTWARE_ID=152 # will install avahi-daemon (to broadcast the hostname) 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=60 # will install Wi-fi Hotspot 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=93 # will install Pi-hole
+AUTO_SETUP_INSTALL_SOFTWARE_ID=96 # will install Samba
 
 #Automation Overrides for user inputs | Set these all to 1 if you want fully automated.
 #   1=Automatically logs the root user in after filesystem expansion to start 1st run setup. Set to 0 if you want to install over SSH.
@@ -143,6 +144,15 @@ AUTO_DietpiSoftware_SkipUsbDrive=1
 #   0=Onscreen prompt if error occurs | 1=Ignore errors, no prompts. (logs errors to /root/DietPi-Automation.log)
 
 AUTO_DietpiSoftware_IgnoreErrors=1
+
+dietpi_check_for_updates=1
+
+ntpd_update_mode=4
+
+prefer_ipversion=auto
+
+Apt_Raspbian_Mirror=http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian
+Apt_Debian_Mirror=http://ftp.debian.org/debian/
 
 # -------------------------------------- FINISH ---------------------------------------------------------
 
