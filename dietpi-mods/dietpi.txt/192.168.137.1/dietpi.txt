@@ -73,7 +73,7 @@ AUTO_SETUP_NET_ETH_FORCE_SPEED=0
 # --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
 # --------------------------------------- START ---------------------------------------------------------
 
-AUTO_SETUP_SWAPFILE_SIZE=500
+AUTO_SETUP_SWAPFILE_SIZE=0
 
 # --------------------------------------- FINISH ---------------------------------------------------------
 
