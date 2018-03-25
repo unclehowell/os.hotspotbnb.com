@@ -42,7 +42,7 @@ AUTO_SETUP_NET_WIFI_ENABLED=0
 #AUTO_SETUP_NET_WIFI_PHASE2=auth=MSCHAPV2
 
 #	Enter your Static Network details below, if applicable.
-AUTO_SETUP_NET_USESTATIC=0
+AUTO_SETUP_NET_USESTATIC=1
 # --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
 # --------------------------------------- START ---------------------------------------------------------
 
@@ -99,7 +99,7 @@ AUTO_SETUP_AUTOMATED=1
 # --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
 # --------------------------------------- START ---------------------------------------------------------
 
-AUTO_SETUP_GLOBAL_PASSWORD=pi
+AUTO_SETUP_GLOBAL_PASSWORD=dietpi
 
 # --------------------------------------- FINISH --------------------------------------------------------
 
@@ -117,7 +117,6 @@ AUTO_SETUP_GLOBAL_PASSWORD=pi
 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=152 # will install avahi-daemon (to broadcast the hostname) 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=60 # will install Wi-fi Hotspot 
-AUTO_SETUP_INSTALL_SOFTWARE_ID=93 # will install Pi-hole
 AUTO_SETUP_INSTALL_SOFTWARE_ID=96 # will install Samba
 
 #Automation Overrides for user inputs | Set these all to 1 if you want fully automated.
@@ -145,9 +144,7 @@ AUTO_DietpiSoftware_SkipUsbDrive=1
 
 AUTO_DietpiSoftware_IgnoreErrors=1
 
-dietpi_check_for_updates=1
-
-ntpd_update_mode=4
+dietpi_check_for_updates=0
 
 prefer_ipversion=auto
 
