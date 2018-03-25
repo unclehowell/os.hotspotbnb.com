@@ -314,9 +314,9 @@ SOFTWARE_OWNCLOUD_DATADIR=/mnt/dietpi_userdata/owncloud_data
 SOFTWARE_NEXTCLOUD_DATADIR=/mnt/dietpi_userdata/nextcloud_data
 
 #Wifi Hotspot
-SOFTWARE_WIFI_HOTSPOT_SSID=DietPi-HotSpot
+SOFTWARE_WIFI_HOTSPOT_SSID=Wave-HotSpot
 #	minimum of 8 characters
-SOFTWARE_WIFI_HOTSPOT_KEY=dietpihotspot
+SOFTWARE_WIFI_HOTSPOT_KEY=makeitwave
 SOFTWARE_WIFI_HOTSPOT_CHANNEL=3
 
 #------------------------------------------------------------------------------------------------------
