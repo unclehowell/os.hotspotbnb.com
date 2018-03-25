@@ -17,10 +17,15 @@ AUTO_SETUP_NET_ETHERNET_ENABLED=1
 AUTO_SETUP_NET_WIFI_ENABLED=0
 
 #	Enter your Wifi details below, if applicable (Case Sensitive).
+# --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
+# --------------------------------------- START ---------------------------------------------------------
+
 # AUTO_SETUP_NET_WIFI_SSID=MySuperDooperWiFi
 # AUTO_SETUP_NET_WIFI_KEY=0123456789
 #	available | WPA-PSK / WPA-EAP / NONE | WEP=No longer supported
-AUTO_SETUP_NET_WIFI_KEYMGR=WPA-PSK
+# AUTO_SETUP_NET_WIFI_KEYMGR=WPA-PSK
+
+# --------------------------------------- FINISH --------------------------------------------------------
 
 # For WPA2 Enterprise uncomment the following entries and set accordingly
 #AUTO_SETUP_NET_WIFI_PROTO=RSN
@@ -38,13 +43,23 @@ AUTO_SETUP_NET_WIFI_KEYMGR=WPA-PSK
 
 #	Enter your Static Network details below, if applicable.
 AUTO_SETUP_NET_USESTATIC=0
+# --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
+# --------------------------------------- START ---------------------------------------------------------
+
 AUTO_SETUP_NET_STATIC_IP=192.168.137.2
 AUTO_SETUP_NET_STATIC_MASK=255.255.255.0
 AUTO_SETUP_NET_STATIC_GATEWAY=192.168.137.1
 AUTO_SETUP_NET_STATIC_DNS=192.168.137.1
 
+# --------------------------------------- FINISH ---------------------------------------------------------
+
 #	Hostname
+# --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
+# --------------------------------------- START ---------------------------------------------------------
+
 AUTO_SETUP_NET_HOSTNAME=wave
+
+# --------------------------------------- FINISH ---------------------------------------------------------
 
 #	Force ethernet speeds
 #		NB: This is mainly aimed towards Pine A64's which may have a HW issue that causes unstable 1Gbit link.
@@ -62,14 +77,26 @@ AUTO_SETUP_SWAPFILE_SIZE=1
 #	Fully automate installation
 #		1=Automated installation with no user inputs.
 #		It is HIGHLY recommended to also set CONFIG_BOOT_WAIT_FOR_NETWORK=2, to force infinite wait for network connection during boot, preventing no connection errors due to timeout.
+
+# --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
+# --------------------------------------- START ---------------------------------------------------------
+
 AUTO_SETUP_AUTOMATED=1
+
+# --------------------------------------- FINISH ---------------------------------------------------------
 
 #	Global Password to be applied for the system
 #		Affects user "root" and "dietpi" login passwords, and, all software installed by dietpi-software, that requires a password
 #		eg: MySQL, Transmission, Deluge etc.
 #		WARN: Passwords with the any of the following characters are not supported: \"$
 #		WARN: Do NOT change this entry after 1st run setup of DietPi has been completed. It is always scraped by dietpi-software.
+
+# --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
+# --------------------------------------- START ---------------------------------------------------------
+
 AUTO_SETUP_GLOBAL_PASSWORD=dietpi
+
+# --------------------------------------- FINISH --------------------------------------------------------
 
 #	DietPi-Software to automatically install. | requires AUTO_SETUP_AUTOMATED=1
 #	For a list of software index's (ID's), run '/DietPi/dietpi/dietpi-software list'
@@ -80,12 +107,14 @@ AUTO_SETUP_GLOBAL_PASSWORD=dietpi
 #AUTO_SETUP_INSTALL_SOFTWARE_ID=74	#will install LAMP webserver stack
 #AUTO_SETUP_INSTALL_SOFTWARE_ID=44	#will install Bittorrent transmission
 
-########### THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  ########## 
-###################################  - START -  ###########################################
+# --------------THE FOLLOWING LINE HAS BEEN MODIFIED/ ENTERED FOR WAVEOS TO OPERATE  --------------------
+# --------------------------------------- START ---------------------------------------------------------
+
 AUTO_SETUP_INSTALL_SOFTWARE_ID=152 # will install avahi-daemon (to broadcast the hostname) 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=60 # will install Wi-fi Hotspot 
 AUTO_SETUP_INSTALL_SOFTWARE_ID=93 # will install Pi-hole
-###################################  - END -  ###########################################
+
+# -------------------------------------- FINISH ---------------------------------------------------------
 
 #	DietPi-Software Choice System
 #	SSH Server Selection:
