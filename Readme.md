@@ -55,8 +55,7 @@ Combining this hardware & software unleashes 3 incredible benefits;
 		<tr style="height: 18px;">
 			<td style="height: 18px; width: 131px;">&nbsp;</td>
 			<td style="text-align: center; height: 18px; width: 21.6102%;">Free</td>
-			<td style="text-align: center; height: 18px; width: 42.2316%;">&nbsp;Premium
-				<br>(30 Day Trial)</td>
+			<td style="text-align: center; height: 18px; width: 42.2316%;">&nbsp;Premium</td>
 		</tr>
 		<tr style="height: 32px;">
 			<td style="height: 32px; width: 131px; vertical-align: middle;">Speed Booster</td>
