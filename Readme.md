@@ -37,6 +37,10 @@
 </tbody>
 </table>  
 
+Once the latest DietPi has been burned to the SD Card, copy the dietpi.txt file to the SD Card (overwriting the default dietpi.txt file on it). Now, when you first boot, your Wave Hotspot will connect to the internet and complete the installation using the internet.This stage is for purposes of speeding up the assembly phase, specifically the first write of the SD Card.
+
+This can be done by the customer, but it is designed for the assemblers of the product.
+
 Combining this hardware & software unleashes 3 incredible benefits;
 
 1 - Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> & <a href="https://squidproxy.org">Squid</a>
