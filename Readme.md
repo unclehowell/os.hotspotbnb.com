@@ -1,4 +1,23 @@
-# Introducing the Wave Hotspot 
+
+# Introducing the latest WaveOS
+
+<p style="text-align: center;">&nbsp;</p>
+<table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
+<tbody>
+<tr>
+<td style="width: 181px; text-align: center;" rowspan="2">
+<p><strong>Operating System</strong></p>
+<p><strong>(Linux Debian)</strong></p>
+</td>
+<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) </td>
+</tr>
+<tr>
+<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
+</tr>
+</tbody>
+</table> 
+
+# For Wave Hotspots worldwide
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -17,25 +36,7 @@
 </td>
 </tr>
 </tbody>
-</table>
-
-# powered by WaveOS
-
-<p style="text-align: center;">&nbsp;</p>
-<table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
-<tbody>
-<tr>
-<td style="width: 181px; text-align: center;" rowspan="2">
-<p><strong>Operating System</strong></p>
-<p><strong>(Linux Debian)</strong></p>
-</td>
-<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) </td>
-</tr>
-<tr>
-<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
-</tr>
-</tbody>
-</table>  
+</table> 
 
 Once the latest DietPi has been burned to the SD Card, copy the dietpi.txt file to the SD Card (overwriting the default dietpi.txt file on it). Now, when you first boot, your Wave Hotspot will connect to the internet and complete the installation using the internet.This stage is for purposes of speeding up the assembly phase, specifically the first write of the SD Card.
 
