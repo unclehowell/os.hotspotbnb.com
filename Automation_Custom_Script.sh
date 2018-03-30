@@ -4,9 +4,15 @@ apt-get install fbi -y
 
 cp http://www.stickpng.com/assets/images/5866133d7d90850fc3ce2a54.png /etc/
 
-touch asplashscreen 
+mv /etc/5866133d7d90850fc3ce2a54.png splash.png
 
-mv asplashscreen /etc/init.d/
+cp  /etc/init.d/
 
-sudo nano /etc/init.d/asplashscreen
+git pull
+chmod a+x /etc/init.d/asplashscreen
+
+insserv /etc/init.d/asplashscreen
+
+reboot
+
 
