@@ -1,4 +1,23 @@
-The Wave Hotspot makes your internet Faster & Better by simply plugging it into your existing internet router.
+
+# Introducing the latest WaveOS
+
+<p style="text-align: center;">&nbsp;</p>
+<table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
+<tbody>
+<tr>
+<td style="width: 181px; text-align: center;" rowspan="2">
+<p><strong>Operating System</strong></p>
+<p><strong>(Linux Debian)</strong></p>
+</td>
+<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) </td>
+</tr>
+<tr>
+<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
+</tr>
+</tbody>
+</table> 
+
+# For Wave Hotspots worldwide
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -17,91 +36,65 @@ The Wave Hotspot makes your internet Faster & Better by simply plugging it into 
 </td>
 </tr>
 </tbody>
+</table> 
+
+Once the latest DietPi has been burned to the SD Card, copy the dietpi.txt file to the SD Card (overwriting the default dietpi.txt file on it). Now, when you first boot, your Wave Hotspot will connect to the internet and complete the installation using the internet.This stage is for purposes of speeding up the assembly phase, specifically the first write of the SD Card.
+
+This can be done by the customer, but it is designed for the assemblers of the product.
+
+Combining this hardware & software unleashes 3 incredible benefits;
+
+1 - Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> & <a href="https://squidproxy.org">Squid</a>
+
+2 - Cheaper Internet: our new crypto currency <a href="#">Surf Coin</a> rewards our users and can even be used to pay your ISP.
+
+3 - Smart Home Apps: the Wave Hotspot features the latest in IP camera control, Energy Monitoring, Media/ TV and Smart Appliance Control
+
+
+<table style="height: 1px; width: 32%; text-align: center; margin-right: calc(68%);">
+	<tbody>
+		<tr style="height: 18px;">
+			<td style="height: 18px; width: 131px;">&nbsp;</td>
+			<td style="text-align: center; height: 18px; width: 21.6102%;">Free</td>
+			<td style="text-align: center; height: 18px; width: 42.2316%;">&nbsp;Premium</td>
+		</tr>
+		<tr style="height: 32px;">
+			<td style="height: 32px; width: 131px; vertical-align: middle;">Speed Booster</td>
+			<td style="text-align: center; height: 32px; width: 21.6102%; vertical-align: middle;">&nbsp; x</td>
+			<td style="text-align: center; height: 32px; width: 42.2316%; vertical-align: middle;">&nbsp;x</td>
+		</tr>
+		<tr style="height: 18px;">
+			<td style="height: 18px; width: 131px; vertical-align: middle;">Smart Home</td>
+			<td style="height: 18px; width: 21.6102%; text-align: center; vertical-align: middle;">&nbsp;</td>
+			<td style="height: 18px; width: 42.2316%; text-align: center; vertical-align: middle;">&nbsp;x</td>
+		</tr>
+		<tr style="height: 18px;">
+			<td style="height: 18px; width: 131px; vertical-align: middle;">Media Library</td>
+			<td style="height: 18px; width: 21.6102%; text-align: center; vertical-align: middle;">&nbsp;</td>
+			<td style="height: 18px; width: 42.2316%; text-align: center; vertical-align: middle;">&nbsp;x</td>
+		</tr>
+		<tr style="height: 18px;">
+			<td style="height: 18px; width: 131px; vertical-align: middle;">IP Cameras</td>
+			<td style="height: 18px; width: 21.6102%; text-align: center; vertical-align: middle;">&nbsp;</td>
+			<td style="height: 18px; width: 42.2316%; text-align: center; vertical-align: middle;">&nbsp;x</td>
+		</tr>
+		<tr style="height: 18px;">
+			<td style="height: 18px; width: 131px; vertical-align: middle;">Energy Monitor</td>
+			<td style="height: 18px; width: 21.6102%; text-align: center; vertical-align: middle;">&nbsp;</td>
+			<td style="height: 18px; width: 42.2316%; text-align: center; vertical-align: middle;">&nbsp;x</td>
+		</tr>
+		<tr style="height: 18px;">
+			<td style="height: 18px; width: 131px; vertical-align: middle;">IPTV (USA)</td>
+			<td style="height: 18px; width: 21.6102%; text-align: center; vertical-align: middle;">&nbsp;</td>
+			<td style="height: 18px; width: 42.2316%; text-align: center; vertical-align: middle;">&nbsp;x</td>
+		</tr>
+		<tr style="height: 18px;">
+			<td style="height: 18px; width: 131px;">&nbsp;</td>
+			<td style="height: 18px; width: 21.6102%; text-align: center;">&nbsp;Free</td>
+			<td style="height: 18px; width: 42.2316%; text-align: center;"><a href="https://evr-solar.com/product/waveos-premium/">Subscribe Now</a></td>
+		</tr>
+	</tbody>
 </table>
-<p style="text-align: center;">&nbsp;</p>
-<table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
-<tbody>
-<tr>
-<td style="width: 181px; text-align: center;" rowspan="2">
-<p><strong>Operating System</strong></p>
-<p><strong>(Linux Debian)</strong></p>
-</td>
-<td style="width: 182px; text-align: center;">&nbsp;WaveOS (0.1.3) </td>
-</tr>
-<tr>
-<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
-</tr>
-</tbody>
-</table>
-
-The more you enjoy surfing the web with our speed boosting Wave Hotspot, the more Surf Coins you earn. </br>
-Using cryptocurrency smart contracts, Surf Coins then pay themselves to your internet service provider.</br>
-The result is astounding - a reduced or even a zero balance bill each month and much faster internet. 
-
-Wave Hotspots also offer the latest applications for homes and business - see the table below:  
-
-
-<table style="height: 1px; width: 1px; text-align: center;">
-<tbody>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">&nbsp;</td>
-<td style="text-align: center; height: 18px; width: 59px;">&nbsp;Gratis</td>
-<td style="text-align: center; height: 18px; width: 62px;">&nbsp;Bronze</td>
-<td style="text-align: center; height: 18px; width: 60px;">&nbsp;Silver</td>
-<td style="text-align: center; height: 18px; width: 60px;">&nbsp;Gold</td>
-</tr>
-<tr style="height: 32px;">
-<td style="height: 32px; width: 131px;">Speed Booster</td>
-<td style="text-align: center; height: 32px; width: 59px;">&nbsp;&nbsp;x</td>
-<td style="text-align: center; height: 32px; width: 62px;">&nbsp;&nbsp;x</td>
-<td style="text-align: center; height: 32px; width: 60px;">&nbsp;&nbsp;x</td>
-<td style="text-align: center; height: 32px; width: 60px;">&nbsp;&nbsp;x</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 131px; ">Smart Home</td>
-<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 62px; text-align: center;">&nbsp;&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">Media Library</td>
-<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 62px; text-align: center;">&nbsp;&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">IP Cameras</td>
-<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">
-<p>Energy Monitor</p>
-</td>
-<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">IPTV (US)</td>
-<td style="height: 18px; width: 59px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 62px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;</td>
-<td style="height: 18px; width: 60px; text-align: center;">&nbsp;&nbsp;x</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 131px;">&nbsp;</td>
-<td style="height: 18px; width: 59px;">&nbsp;Free</td>
-<td style="height: 18px; width: 182px; text-align: center;" colspan="3"><a href="https://evr-solar.com/product/wave-hotspot/"> Activation Keys </a></td>
-</tr>
-</tbody>
-</table>
-
 
 <p>&nbsp;</p>
 <table style="height: 318px; margin-left: auto; margin-right: auto;" width="553">
