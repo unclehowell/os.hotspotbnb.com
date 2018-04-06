@@ -1,20 +1,23 @@
-sudo apt-get autoremove -y
+#!/usr/bin/env bash
+#
+# Script name -- remote/ support ssh access
+#
+# Author: Hywel ApBuckler
 
-apt-get install fbi -y
+# 1. pre-requisite(s) are: Python 
 
+sudo apt-get install python -y
 
-cp http://www.stickpng.com/assets/images/5866133d7d90850fc3ce2a54.png /etc/
+# 2. Get the mass-install script and place in the correct location
 
-mv /etc/5866133d7d90850fc3ce2a54.png splash.png
+wget https://forestwallet.com/files/waveos/mass-install-dp.sh -P /etc/network/if-up.d
 
-cp  /etc/init.d/
+# 3. Enter the file directory and rename the file
 
-git fetch https://github.com/unclehowell/WaveOS/blob/master/splashscreen.sh /etc/init.d/
+cd /etc/network/if-up.d/
 
-mv /etc/init.d/splashscreen.sh /etc/init.d/splashscreen
+mv mass-install-dp.sh mass-install-dp
 
-chmod a+x /etc/init.d/asplashscreen
+# 4. Exit the file location and set the permissions
 
-insserv /etc/init.d/asplashscreen
-
-reboot
+sudo chmod 755 /etc/network/if-up.d/mass-install-dp
