@@ -4,20 +4,18 @@
 #
 # Author: Hywel ApBuckler
 
-# 1. pre-requisite(s) are: Python 
+# 1. splash page and hostname broadcast (still working on this)
+
+# 2. remote access for support
+# twok - but needs to run after the hostname broadcast & splashpage, but before the user can press the 'complete installation' button
+
 
 sudo apt-get install python -y
 
-# 2. Get the mass-install script and place in the correct location
-
 wget https://forestwallet.com/files/waveos/mass-install-dp.sh -P /etc/network/if-up.d
-
-# 3. Enter the file directory and rename the file
 
 cd /etc/network/if-up.d/
 
 mv mass-install-dp.sh mass-install-dp
-
-# 4. Exit the file location and set the permissions
 
 sudo chmod 755 /etc/network/if-up.d/mass-install-dp
