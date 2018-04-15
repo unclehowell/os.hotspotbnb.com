@@ -64,7 +64,6 @@ Combining this hardware & software unleashes 3 incredible benefits;
 			<td style="text-align: center; height: 32px; width: 42.2316%; vertical-align: middle;">&nbsp;x</td>
 		</tr>
 		<tr style="height: 18px;">
-			
 			<td style="height: 18px; width: 131px; vertical-align: middle;">Smart Home</td>
 			<td style="height: 18px; width: 21.6102%; text-align: center; vertical-align: middle;">&nbsp;</td>
 			<td style="height: 18px; width: 42.2316%; text-align: center; vertical-align: middle;">&nbsp;x</td>
