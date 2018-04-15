@@ -5,7 +5,8 @@
 <tr>
 <td style="width: 181px; text-align: center;" rowspan="2">
 <p><strong>Wave&nbsp;</strong><strong>'Cloud-Server'</strong></p>
-<p><strong><img src="https://thumb.ibb.co/hEtVE7/wave_servers.png" alt="Wave Cloud-Server" width="110" height="110" /></strong><strong>Firmware</strong></p>
+<p><strong><img src="https://thumb.ibb.co/hEtVE7/wave_servers.png" alt="Wave Cloud-Server" width="110" height="110" /></strong></p>
+<p><strong>Firmware</strong></p>
 </td>
 <td style="width: 182px; text-align: center;">Version 0.0.1</td>
 </tr>
@@ -22,7 +23,8 @@
 <tr style="height: 39.6042px;">
 <td style="width: 181px; text-align: center; height: 131.604px;" rowspan="2">
 <p><strong>Wave </strong><strong>'Hotspot'&nbsp;</strong></p>
-<p><strong><img src="https://thumb.ibb.co/iKdDZ7/wave_hotspots.png" alt="Wave Hotspots" width="110" height="110" />Firmware</strong></p>
+<p><strong><img src="https://thumb.ibb.co/iKdDZ7/wave_hotspots.png" alt="Wave Hotspots" width="110" height="110" /></strong></p>
+<p><strong>Firmware</strong></p>
 </td>
 <td style="width: 182px; text-align: center; height: 39.6042px;">Version&nbsp;0.1.4</td>
 </tr>
