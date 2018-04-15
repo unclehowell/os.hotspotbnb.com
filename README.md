@@ -1,63 +1,65 @@
-<p># Introducing the latest WaveOS&nbsp;</p>
-<p style="text-align: center;">&nbsp;</p>
+<h1>Introducing the latest from WaveOS&nbsp;</h1>
+<p>&nbsp;</p>
 <table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
 <tbody>
 <tr>
 <td style="width: 181px; text-align: center;" rowspan="2">
-<p><strong>Wave&nbsp;</strong><strong>'Node'</strong></p>
-<p>&nbsp;</p>
+<p><strong>Wave&nbsp;</strong><strong>'Cloud-Server'</strong></p>
+<p><strong><img src="https://thumb.ibb.co/hEtVE7/wave_servers.png" alt="Wave Cloud-Server" width="110" height="110" /></strong><strong>Firmware</strong></p>
 </td>
-<td style="width: 182px; text-align: center;">&nbsp;WaveOS Version 0.0.1</td>
+<td style="width: 182px; text-align: center;">Version 0.0.1</td>
 </tr>
 <tr>
-<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /></a></td>
+<td style="width: 182px; text-align: center;">
+<p><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao">Mirror 1 (Mega.nz)</a></p>
+</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
 <tbody>
-<tr>
-<td style="width: 181px; text-align: center;" rowspan="2">
-<p><strong>Wave </strong><strong>'Hotspot'</strong></p>
-<p><strong><img src="https://thumb.ibb.co/f0APrn/wave_hotspots.png" alt="Wave Hotspots" width="110" height="110" /></strong></p>
+<tr style="height: 39.6042px;">
+<td style="width: 181px; text-align: center; height: 131.604px;" rowspan="2">
+<p><strong>Wave </strong><strong>'Hotspot'&nbsp;</strong></p>
+<p><strong><img src="https://thumb.ibb.co/iKdDZ7/wave_hotspots.png" alt="Wave Hotspots" width="110" height="110" />Firmware</strong></p>
 </td>
-<td style="width: 182px; text-align: center;">WaveOS&nbsp;Version&nbsp;0.1.4</td>
+<td style="width: 182px; text-align: center; height: 39.6042px;">Version&nbsp;0.1.4</td>
 </tr>
-<tr>
-<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /></a></td>
+<tr style="height: 92px;">
+<td style="width: 182px; text-align: center; height: 92px;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao">Mirror 1 (Mega.nz)</a></td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <table style="height: 27px; margin-left: auto; margin-right: auto;" width="379">
 <tbody>
-<tr>
-<td style="width: 181px; text-align: center;" rowspan="2">
+<tr style="height: 29.7118px;">
+<td style="width: 181px; text-align: center; height: 128.712px;" rowspan="2">
 <p><strong>Wave&nbsp;</strong><strong>'Extender'</strong></p>
+<p><strong><img src="https://thumb.ibb.co/jAesSS/extenders.png" alt="Wave Extenders" width="110" height="110" /></strong></p>
+<p><strong>Firmware</strong></p>
 </td>
-<td style="width: 182px; text-align: center;">WaveOS&nbsp;Version&nbsp;0.0.1</td>
+<td style="width: 182px; text-align: center; height: 29.7118px;">Version&nbsp;0.0.1</td>
 </tr>
-<tr>
-<td style="width: 182px; text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao" target="_blank" rel="noopener noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" width="110" /> </a></td>
+<tr style="height: 99px;">
+<td style="width: 182px; text-align: center; height: 99px;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao">Mirror 1 (Mega.nz)</a></td>
 </tr>
 </tbody>
 </table>
-<p># For Wave Hotspots worldwide</p>
-<table style="margin-left: auto; margin-right: auto;">
+<h1>&nbsp;</h1>
+<h1>Hotspot &amp; Extender Hardware&nbsp;</h1>
+<table style="margin-left: auto; margin-right: auto; width: 377.938px;">
 <tbody>
-<tr>
-<td rowspan="3">
-<p style="text-align: center;"><strong>Hardware</strong></p>
-<p style="text-align: center;"><strong>(Raspberry Pi)</strong></p>
+<tr style="height: 39px;">
+<td style="width: 158px; height: 200px;" rowspan="2">
+<p style="text-align: center;"><strong>Raspberry Pi</strong></p>
+<p style="text-align: center;"><strong><img src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" alt="" width="160" height="160" /></strong></p>
 </td>
-<td>Wave Hotspot (0.1.0)</td>
+<td style="width: 207.938px; text-align: center; height: 39px;">2, 3 or 3 B+</td>
 </tr>
-<tr>
-<td><img style="display: block; margin-left: auto; margin-right: auto;" src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" width="160" height="160" /></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
+<tr style="height: 80px;">
+<td style="width: 207.938px; height: 80px; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
