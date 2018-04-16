@@ -1,5 +1,15 @@
-<h1 id="mcetoc_1cb5rbkj50" style="text-align: center;"><img style="float: left;" src="https://thumb.ibb.co/dvKiK7/Wave_Hotspot.png" width="200" /></h1>
-<p><strong><!-- pagebreak -->About&nbsp;Wave</strong></p>
+<h1 id="mcetoc_1cb5rbkj50" style="text-align: center;">&nbsp;</h1>
+<table style="height: 209px; width: 565px;">
+<tbody>
+<tr>
+<td style="width: 252px;"><img src="https://thumb.ibb.co/dvKiK7/Wave_Hotspot.png" width="200" /></td>
+<td style="width: 299px; text-align: center;">
+<h1 id="mcetoc_1cb7hvoro1c"><strong>WAVE HOTSPOT</strong></h1>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1cb7i0l8q1d"><strong><!-- pagebreak -->Intro<br /></strong></h2>
 <p style="text-align: left;">Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century. Here's some of the features of the Wave product &amp; service:</p>
 <table style="height: 165px; width: 282px; float: left;">
 <tbody>
@@ -79,7 +89,7 @@
 </table>
 <p style="text-align: left;">&nbsp;</p>
 <p><!-- pagebreak -->*The Internet Speed Boosting Application is subscription free</p>
-<h1 id="mcetoc_1cb5rbkj50" style="text-align: left;">Operating&nbsp;Modes</h1>
+<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Operating&nbsp;Modes</h2>
 <p style="text-align: left;">Each Wave Unit, has two primary modes of operation:</p>
 <table style="width: 370px; float: left;">
 <tbody>
@@ -131,7 +141,7 @@
 </tbody>
 </table>
 <h1 id="mcetoc_1cb7h7ed6u" style="text-align: left;"><br />&nbsp;</h1>
-<h1 id="mcetoc_1cb7hoqvd1b" style="text-align: left;">Getting Started&nbsp;</h1>
+<h2 id="mcetoc_1cb7hoqvd1b" style="text-align: left;">Getting Started&nbsp;</h2>
 <table style="width: 508px; float: left;">
 <tbody>
 <tr>
