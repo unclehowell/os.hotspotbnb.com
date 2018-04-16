@@ -1,5 +1,5 @@
 <h1 id="mcetoc_1cb5rbkj50">Introducing&nbsp;Wave</h1>
-<p>Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century:</p>
+<p>Wave&nbsp;instantly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century:</p>
 <table width="553">
   <tbody>
     <tr>
