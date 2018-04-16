@@ -93,15 +93,9 @@
 <table style="width: 370px; float: left;">
 <tbody>
 <tr>
-<td style="width: 10px;">
-<h2 id="mcetoc_1cb5vvvmq7" style="text-align: center;"><strong>Hotspot</strong></h2>
-<p style="text-align: center;"><em><strong>(active)</strong></em></p>
-</td>
-<td style="width: 123px;">&nbsp;<img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="184" /></td>
-<td style="width: 10px;">
-<h2 id="mcetoc_1cb6006dk8" style="text-align: center;"><strong>Extender</strong></h2>
-<p style="text-align: center;"><strong><em>(passive)</em></strong></p>
-</td>
+<td style="width: 10px; text-align: center;"><strong>Hotspot</strong></td>
+<td style="width: 123px; text-align: center;"><img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="125" /></td>
+<td style="width: 10px; text-align: center;"><strong>Extender</strong></td>
 </tr>
 <tr>
 <td style="width: 10px; text-align: center;">Transmitting</td>
@@ -110,12 +104,12 @@
 </tr>
 <tr>
 <td style="width: 10px; text-align: center;">Disabled</td>
-<td style="width: 123px; text-align: center;">&nbsp;<strong>HDMI</strong></td>
+<td style="width: 123px; text-align: center;"><strong>HDMI</strong></td>
 <td style="width: 10px; text-align: center;">Enabled</td>
 </tr>
 <tr>
-<td style="width: 10px; text-align: center;">International</td>
-<td style="width: 123px; text-align: center;"><strong>Remote Access</strong></td>
+<td style="width: 10px; text-align: center;">Remote</td>
+<td style="width: 123px; text-align: center;"><strong>Access</strong></td>
 <td style="width: 10px; text-align: center;">Local</td>
 </tr>
 <tr>
@@ -128,9 +122,9 @@
 </td>
 </tr>
 <tr>
-<td style="width: 10px;">&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFEc1G9-_F7oS7U_k9LT3xake79dwz5WbSSx9SbQ5HZwIQQJy" width="188" /></td>
+<td style="width: 10px;">&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" /></td>
 <td style="width: 123px; text-align: center;">&nbsp;<strong>Connection Method</strong></td>
-<td style="width: 10px; text-align: center;">&nbsp;<img src="https://i.kinja-img.com/gawker-media/image/upload/s--cFRrbSh7--/c_fit,fl_progressive,q_80,w_320/iwctp9tbzsar2aezssks.jpg" width="223" /></td>
+<td style="width: 10px; text-align: center;">&nbsp;<img src="https://thumb.ibb.co/gsWY2S/mode_2.png" width="185" /></td>
 </tr>
 <tr style="text-align: center;">
 <td style="width: 10px;">Connect via Ethernet to your existing Hotspot Router</td>
@@ -140,7 +134,8 @@
 </tbody>
 </table>
 <h1 id="mcetoc_1cb7h7ed6u" style="text-align: left;"><br />&nbsp;</h1>
-<h2 id="mcetoc_1cb7hoqvd1b" style="text-align: left;">Getting Started&nbsp;</h2>
+<h2 id="mcetoc_1cb7hoqvd1b" style="text-align: left;"><!-- pagebreak -->&nbsp;</h2>
+<h2 id="mcetoc_1cb7k9th61e" style="text-align: left;">Getting Started&nbsp;</h2>
 <table style="width: 508px; float: left;">
 <tbody>
 <tr>
