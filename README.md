@@ -1,6 +1,5 @@
 <h1 id="mcetoc_1cb5rbkj50" style="text-align: center;"><img style="float: left;" src="https://thumb.ibb.co/dvKiK7/Wave_Hotspot.png" width="200" /></h1>
-
-<h2 id="mcetoc_1cb7gfkp1j" style="text-align: left;"><strong>About&nbsp;Wave</strong></h2>
+<p><strong><!-- pagebreak -->About&nbsp;Wave</strong></p>
 <p style="text-align: left;">Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century. Here's some of the features of the Wave product &amp; service:</p>
 <table style="height: 165px; width: 282px; float: left;">
 <tbody>
@@ -79,23 +78,17 @@
 </tbody>
 </table>
 <p style="text-align: left;">&nbsp;</p>
-<p>*The Internet Speed Boosting Application is subscription free</p>
-
-<h1 id="mcetoc_1cb5rbkj50" style="text-align: left;">Two Modes</h1>
+<p><!-- pagebreak -->*The Internet Speed Boosting Application is subscription free</p>
+<h1 id="mcetoc_1cb5rbkj50" style="text-align: left;">Operating&nbsp;Modes</h1>
 <p style="text-align: left;">Each Wave Unit, has two primary modes of operation:</p>
 <table style="width: 370px; float: left;">
 <tbody>
-<tr>
-<td style="width: 143px;" colspan="3">
-<h2 id="mcetoc_1cb69l353h" style="text-align: center;"><strong><img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="184" height="65" /></strong></h2>
-</td>
-</tr>
 <tr>
 <td style="width: 10px;">
 <h2 id="mcetoc_1cb5vvvmq7" style="text-align: center;"><strong>Hotspot</strong></h2>
 <p style="text-align: center;"><em><strong>(active)</strong></em></p>
 </td>
-<td style="width: 123px;">&nbsp;</td>
+<td style="width: 123px;">&nbsp;<img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="184" height="65" /></td>
 <td style="width: 10px;">
 <h2 id="mcetoc_1cb6006dk8" style="text-align: center;"><strong>Extender</strong></h2>
 <p style="text-align: center;"><strong><em>(passive)</em></strong></p>
@@ -137,21 +130,8 @@
 </tr>
 </tbody>
 </table>
-<p style="text-align: left;">&nbsp;</p>
-<h1 id="mcetoc_1cb7h73pcp" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h762jq" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h781cr" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7a7bs" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7c55t" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7ed6u" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7habv" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7jqc10" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7m5p11" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7oit12" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7qns13" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7t1j14" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h7v3d15" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb7h819l16" style="text-align: left;">Getting Started&nbsp;</h1>
+<h1 id="mcetoc_1cb7h7ed6u" style="text-align: left;"><br />&nbsp;</h1>
+<h1 id="mcetoc_1cb7hoqvd1b" style="text-align: left;">Getting Started&nbsp;</h1>
 <table style="width: 508px; float: left;">
 <tbody>
 <tr>
@@ -187,5 +167,4 @@
 </tr>
 </tbody>
 </table>
-
-<p style="text-align: left;">*Depending on your prefered Mode of Operation the software and cables needed will vary.&nbsp;</p>
+<p style="text-align: left;"><!-- pagebreak -->*Depending on your prefered Mode of Operation the software and cables needed will vary.&nbsp;</p>
