@@ -79,10 +79,8 @@
 </tbody>
 </table>
 <p style="text-align: left;">&nbsp;</p>
-
 <p>*The Internet Speed Boosting Application is subscription free</p>
-<h1 id="mcetoc_1cb5rbkj50" style="text-align: left;">&nbsp;</h1>
-<h1 id="mcetoc_1cb65kq09e" style="text-align: left;">&nbsp;</h1>
+
 <h1 id="mcetoc_1cb5rbkj50" style="text-align: left;">Two Modes</h1>
 <p style="text-align: left;">Each Wave Unit, has two primary modes of operation:</p>
 <table style="width: 370px; float: left;">
