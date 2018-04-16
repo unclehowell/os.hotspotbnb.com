@@ -34,7 +34,7 @@
     </tr>
   </tbody>
 </table>
-<h1 id="mcetoc_1cb5s9gnn5">&nbsp;</h1>
+<h1 id="mcetoc_1cb5s9gnn5">Configurations</h1>
 <table>
   <tbody>
     <tr>
