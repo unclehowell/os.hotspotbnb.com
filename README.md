@@ -1,4 +1,4 @@
-<table style="height: 209px; width: 565px; border:0px;">
+<table style="height: 209px; width: 565px;">
 <tbody>
 <tr>
 <td style="width: 252px;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></td>
@@ -97,7 +97,7 @@
 <h2 id="mcetoc_1cb5vvvmq7" style="text-align: center;"><strong>Hotspot</strong></h2>
 <p style="text-align: center;"><em><strong>(active)</strong></em></p>
 </td>
-<td style="width: 123px;">&nbsp;<img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="184" height="65" /></td>
+<td style="width: 123px;">&nbsp;<img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="184" /></td>
 <td style="width: 10px;">
 <h2 id="mcetoc_1cb6006dk8" style="text-align: center;"><strong>Extender</strong></h2>
 <p style="text-align: center;"><strong><em>(passive)</em></strong></p>
@@ -128,9 +128,9 @@
 </td>
 </tr>
 <tr>
-<td style="width: 10px;">&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFEc1G9-_F7oS7U_k9LT3xake79dwz5WbSSx9SbQ5HZwIQQJy" alt="" width="188" height="250" /></td>
+<td style="width: 10px;">&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFEc1G9-_F7oS7U_k9LT3xake79dwz5WbSSx9SbQ5HZwIQQJy" width="188" /></td>
 <td style="width: 123px; text-align: center;">&nbsp;<strong>Connection Method</strong></td>
-<td style="width: 10px; text-align: center;">&nbsp;<img src="https://i.kinja-img.com/gawker-media/image/upload/s--cFRrbSh7--/c_fit,fl_progressive,q_80,w_320/iwctp9tbzsar2aezssks.jpg" alt="" width="223" height="205" /></td>
+<td style="width: 10px; text-align: center;">&nbsp;<img src="https://i.kinja-img.com/gawker-media/image/upload/s--cFRrbSh7--/c_fit,fl_progressive,q_80,w_320/iwctp9tbzsar2aezssks.jpg" width="223" /></td>
 </tr>
 <tr style="text-align: center;">
 <td style="width: 10px;">Connect via Ethernet to your existing Hotspot Router</td>
@@ -156,13 +156,13 @@
 <td style="text-align: center; width: 150px;">$0 USD</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 128px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" alt="" width="180" height="180" /></td>
+<td style="text-align: center; width: 128px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
 <td style="text-align: center; width: 127px;">
 <p>&nbsp;</p>
-<p><img src="https://thumb.ibb.co/eEKqgn/sd_card.png" alt="" width="180" height="180" /></p>
+<p><img src="https://thumb.ibb.co/eEKqgn/sd_card.png" width="180" /></p>
 </td>
 <td style="text-align: center; width: 150px;" rowspan="2">
-<p><img src="https://thumb.ibb.co/g9Ue97/firmware.png" alt="" width="128" height="128" /></p>
+<p><img src="https://thumb.ibb.co/g9Ue97/firmware.png" width="128" /></p>
 </td>
 </tr>
 <tr>
