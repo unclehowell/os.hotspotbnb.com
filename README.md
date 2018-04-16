@@ -1,100 +1,232 @@
 <h1 id="mcetoc_1cb5rbkj50">Introducing&nbsp;Wave</h1>
-<p>Wave&nbsp;instantly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century:</p>
+<p>Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century.&nbsp;</p>
+<p>Here's some of the features of the Wave product &amp; service:</p>
 <table width="553">
-  <tbody>
-    <tr>
-      <td><strong>Internet Speed Booster</strong></td>
-      <td>Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; Bind9 to make your internet around x5 times faster&nbsp;</td>
-      <td><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" alt="Image result for pihole" /></td>
-    </tr>
-    <tr>
-      <td><strong>Smart Home Control</strong></td>
-      <td>The cutting edge of smart home control from <a href="https://www.openhab.org">OpenHAB</a>. Gives Wave users Wi-Fi control of everything around them e.g. Air Conditioning, Lights, Locks etc</td>
-      <td><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="Image result for openhab gui" /></td>
-    </tr>
-    <tr>
-      <td><strong>Media Library</strong></td>
-      <td>Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
-      <td><img src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" alt="Image result for emby app" /></td>
-    </tr>
-    <tr>
-      <td>&nbsp;<strong>IP Cameras</strong></td>
-      <td>IP Cameras made very simple with <a href="https://github.com/ccrisan/motioneye/wiki">MotionEye</a>. This is by far the fastest and easiest solution, to get started with your IP Cameras</td>
-      <td><img src="https://iu8cri.altervista.org/wp-content/uploads/2017/09/motioneye_3.png" alt="Image result for motioneye" /></td>
-    </tr>
-    <tr>
-      <td><strong>Energy Monitoring</strong></td>
-      <td><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
-      <td><img src="https://emoncms.org/Modules/site/emoncms_front.png" alt="Image result for emoncms" /></td>
-    </tr>
-    <tr>
-      <td><strong>IP HDTV</strong></td>
-      <td>Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
-      <td><img src="http://i.imgur.com/Y07Lpwp.png" alt="Image result for iptv emby" /></td>
-    </tr>
-  </tbody>
+<tbody>
+<tr>
+<td><strong>Internet Speed Booster</strong></td>
+<td>Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; Bind9 to make your internet around x5 times faster&nbsp;</td>
+<td><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" alt="Image result for pihole" /></td>
+</tr>
+<tr>
+<td><strong>Smart Home Control</strong></td>
+<td>The cutting edge of smart home control from <a href="https://www.openhab.org">OpenHAB</a>. Gives Wave users Wi-Fi control of everything around them e.g. Air Conditioning, Lights, Locks etc</td>
+<td><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="Image result for openhab gui" /></td>
+</tr>
+<tr>
+<td><strong>Media Library</strong></td>
+<td>Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
+<td><img src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" alt="Image result for emby app" /></td>
+</tr>
+<tr>
+<td>&nbsp;<strong>IP Cameras</strong></td>
+<td>IP Cameras made very simple with <a href="https://github.com/ccrisan/motioneye/wiki">MotionEye</a>. This is by far the fastest and easiest solution, to get started with your IP Cameras</td>
+<td><img src="https://iu8cri.altervista.org/wp-content/uploads/2017/09/motioneye_3.png" alt="Image result for motioneye" /></td>
+</tr>
+<tr>
+<td><strong>Energy Monitoring</strong></td>
+<td><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
+<td><img src="https://emoncms.org/Modules/site/emoncms_front.png" alt="Image result for emoncms" /></td>
+</tr>
+<tr>
+<td><strong>IP HDTV</strong></td>
+<td>Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
+<td><img src="http://i.imgur.com/Y07Lpwp.png" alt="Image result for iptv emby" /></td>
+</tr>
+</tbody>
 </table>
-<h1 id="mcetoc_1cb5s9gnn5">Configurations</h1>
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">
-        <p><strong>Mode</strong></p>
-      </td>
-      <td style="text-align: center;"><strong>Software</strong></td>
-      <td style="text-align: center;"><strong>Hardware</strong></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">
-        <p><strong><img src="https://thumb.ibb.co/iKdDZ7/wave_hotspots.png" alt="Wave Hotspots" width="110" height="110" /></strong></p>
-        <p><strong>&nbsp;</strong>Hotspot Mode</p>
-      </td>
-      <td style="text-align: center;">
-        <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" alt="" width="124" height="122" /></p>
-        <p>Version&nbsp;0.1.4</p>
-      </td>
-      <td style="text-align: center;">
-        <p>&nbsp;</p>
-        <p><strong><img src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" alt="" width="160" height="160" /></strong></p>
-        <p>Raspberry Pi&nbsp; 2, 3, or 3 B+</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">&nbsp;</td>
-      <td style="text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao">Mirror 1 (Download)</a></td>
-      <td style="text-align: center;"><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List (Order)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">&nbsp;</td>
-      <td style="text-align: center;">&nbsp;</td>
-      <td style="text-align: center;">&nbsp;</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;" rowspan="2">
-        <p>&nbsp;</p>
-        <p><strong><img src="https://thumb.ibb.co/jAesSS/extenders.png" alt="Wave Extenders" width="110" height="110" /></strong></p>
-        <p>Extender Mode</p>
-        <p>&nbsp;</p>
-      </td>
-      <td style="text-align: center;">
-        <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" alt="" width="124" height="122" /></p>
-        <p>Version&nbsp;0.0.1</p>
-      </td>
-      <td style="text-align: center;">
-        <p><strong><img src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" alt="" width="160" height="160" /></strong></p>
-        <p>Raspberry Pi&nbsp; 2, 3, or 3 B+</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;"><a href="https://mega.nz/#!ZKYDGZiI!AhXw3_EXam4vBaWzHyjTHMpd8P4s7ZBJgcuk37s7-ao">Mirror 1 (Download)</a></td>
-      <td style="text-align: center;"><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List (Order)</a></td>
-    </tr>
-  </tbody>
+<h1 id="mcetoc_1cb5s9gnn5">&nbsp;</h1>
+<h1 id="mcetoc_1cb5rbkj50">Mode(s) of Operation</h1>
+<p>Wave has two primary modes of operation:</p>
+<table style="height: 95px; width: 498px;">
+<tbody>
+<tr>
+<td style="width: 87px; text-align: center;">&nbsp;</td>
+<td style="width: 107.823px; text-align: center;">&nbsp;</td>
+<td style="width: 72.1771px; text-align: center;">
+<h2 id="mcetoc_1cb5vvvmq7"><span style="color: #993300;"><strong>Hotspot</strong></span></h2>
+<p><em><span style="color: #993300;"><strong>(active)</strong></span></em></p>
+</td>
+<td style="width: 147px;"><img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="170" height="60" /></td>
+<td style="width: 109px; text-align: center;">
+<h2 id="mcetoc_1cb6006dk8"><strong>Extender</strong></h2>
+<p><span style="color: #000000;"><strong><em>(passive)</em></strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 87px; text-align: right;"><strong>Wi-Fi</strong></td>
+<td style="width: 107.823px;">&nbsp;</td>
+<td style="width: 72.1771px;">&nbsp;Transmitting</td>
+<td style="width: 147px;">&nbsp;</td>
+<td style="width: 109px; text-align: center;">Receiving</td>
+</tr>
+<tr>
+<td style="width: 87px; text-align: right;"><strong>HDMI</strong></td>
+<td style="width: 107.823px; text-align: center;">&nbsp;</td>
+<td style="width: 72.1771px; text-align: center;">Disabled</td>
+<td style="width: 147px;">&nbsp;</td>
+<td style="width: 109px; text-align: center;">Enabled</td>
+</tr>
+<tr>
+<td style="width: 87px; text-align: right;"><strong>Remote Access</strong></td>
+<td style="width: 107.823px; text-align: center;">&nbsp;</td>
+<td style="width: 72.1771px; text-align: center;">International</td>
+<td style="width: 147px;">&nbsp;</td>
+<td style="width: 109px; text-align: center;">Local</td>
+</tr>
+<tr>
+<td style="width: 87px; text-align: right;">
+<p><strong>Menu&nbsp;Access</strong></p>
+</td>
+<td style="width: 107.823px; text-align: center;">&nbsp;</td>
+<td style="width: 72.1771px; text-align: center;">
+<p>Hostname (<em>http://wave/</em>)</p>
+</td>
+<td style="width: 147px;">&nbsp;</td>
+<td style="width: 109px; text-align: center;">
+<p>HDMI (connected display)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 87px; text-align: right;">
+<p><strong>Connection Method</strong></p>
+</td>
+<td style="width: 107.823px; text-align: center;">&nbsp;</td>
+<td style="width: 72.1771px; text-align: center;">&nbsp;</td>
+<td style="width: 147px;">&nbsp;</td>
+<td style="width: 109px; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
 </table>
 <p>&nbsp;</p>
-<h1 id="mcetoc_1cb5rbkj81">Combining the above&nbsp;hardware &amp; software unleashes 3 incredible benefits;</h1>
-<p>1 - Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> &amp; <a href="https://squidproxy.org">Squid</a></p>
-<p>2 - Cheaper Internet: our new crypto currency <a href="#">Surf Coin</a> rewards our users and can even be used to pay your ISP.</p>
-<p>3 - Smart Home Apps: the Wave Hotspot features the latest in IP camera control, Energy Monitoring, Media/ TV and Smart Appliance Control</p>
-
-
+<h1 id="mcetoc_1cb5rbkj50">&nbsp;</h1>
+<table style="height: 305px; width: 481px;">
+<tbody>
+<tr style="height: 16px;">
+<td style="text-align: center; width: 138.063px; height: 16px;"><strong>Hardware</strong></td>
+<td style="text-align: center; width: 161.937px; height: 16px;"><strong>Software</strong></td>
+</tr>
+<tr style="height: 253px;">
+<td style="text-align: center; width: 138.063px; height: 253px;">
+<p>&nbsp;</p>
+<p><strong><img src="https://image.ibb.co/fGVAYS/wave_hotspot_0_1_0.png" alt="" width="160" height="160" /></strong></p>
+<p>Raspberry Pi&nbsp; 2, 3, or 3 B+</p>
+</td>
+<td style="text-align: center; width: 161.937px; height: 253px;">
+<p>&nbsp;</p>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaeH-_N07SOt_mhm31HnhPWPuX_K4Ky7QykZnR5hLGnRkku7Go" alt="" width="124" height="122" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>WaveOS Version 0.1.4</p>
+</td>
+</tr>
+<tr style="height: 50.5974px;">
+<td style="text-align: center; width: 138.063px; height: 50.5974px;"><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Parts List</a></td>
+<td style="text-align: center; width: 161.937px; height: 50.5974px;"><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Downloads List</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="mcetoc_1cb5rbkj81">Combining the above&nbsp;hardware &amp; software unleashes 3 incredible benefits;</h3>
+<ul>
+<li>Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> &amp; <a href="https://squidproxy.org">Squid</a></li>
+</ul>
+<ul>
+<li>Cheaper Internet: our new crypto currency <a href="#">Surf Coin</a> rewards our users and can even be used to pay your ISP.</li>
+</ul>
+<ul>
+<li>Smart Home Apps: the Wave Hotspot features the latest in IP camera control, Energy Monitoring, Media/ TV and Smart Appliance Control</li>
+</ul>
+<h1 id="mcetoc_1cb6436v4d">&nbsp;</h1>
+<h1 id="mcetoc_1cb6430pfc">Getting Started</h1>
+<p>Here's a few simple steps to getting started:</p>
+<p><strong>a) Normal People</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>1.&nbsp;Order Online&nbsp;&nbsp;</strong></td>
+<td style="text-align: center;"><strong>2.&nbsp;Connect</strong></td>
+<td style="text-align: center;"><strong>3. Power Up</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="http://kenstewartphoto.com/images/Order-Button.jpg" width="158" height="78" /></td>
+<td style="text-align: center;"><img src="https://thumb.ibb.co/fkW31n/cabled.png" alt="" width="110" height="110" /></td>
+<td style="text-align: center;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="" width="133" height="99" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Download the latest Wave Operating System (WaveOS)&nbsp;</td>
+<td style="text-align: center;">Connect</td>
+<td style="text-align: center;">Power Up the Unit, Follow OnScreen Instructions</td>
+</tr>
+</tbody>
+</table>
+<p><strong>b) Wiz Kids</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>1. Download&nbsp;</strong></td>
+<td style="text-align: center;"><strong>2.&nbsp;Burn</strong></td>
+<td style="text-align: center;"><strong>3.&nbsp;Connect</strong></td>
+<td style="text-align: center;"><strong>4. Power Up</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="http://open-axcss.com/home/wp-content/uploads/2016/09/download-button-large.png" alt="" width="169" height="61" /></td>
+<td style="text-align: center;"><img src="https://thumb.ibb.co/eEKqgn/sd_card.png" alt="" width="126" height="126" /></td>
+<td style="text-align: center;"><img src="https://thumb.ibb.co/fkW31n/cabled.png" alt="" width="110" height="110" /></td>
+<td style="text-align: center;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="" width="133" height="99" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Download the latest Wave Operating System (WaveOS)&nbsp;</td>
+<td style="text-align: center;">Burn the software to your SD Card&nbsp;</td>
+<td style="text-align: center;">Insert the SD Card, Connect Cables</td>
+<td style="text-align: center;">Power Up the Unit, Follow OnScreen Instructions</td>
+</tr>
+</tbody>
+</table>
+<h5 id="mcetoc_1cb621u8ab">*Depending on your prefered Mode of Operation the software and cables needed will vary.&nbsp;</h5>
+<h1 id="mcetoc_1cb6430pfc">Extras</h1>
+<p>Wave Hotspot Apps are limited to a trial period. To continue using supported services you will need to subscribe to our premium service</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Free</td>
+<td style="text-align: center;">&nbsp;Premium</td>
+</tr>
+<tr>
+<td style="text-align: center;">Speed Booster</td>
+<td style="text-align: center;">&nbsp; x</td>
+<td style="text-align: center;">&nbsp;x</td>
+</tr>
+<tr>
+<td style="text-align: center;">Smart Home</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;x</td>
+</tr>
+<tr>
+<td style="text-align: center;">Media Library</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;x</td>
+</tr>
+<tr>
+<td style="text-align: center;">IP Cameras</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;x</td>
+</tr>
+<tr>
+<td style="text-align: center;">Energy Monitor</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;x</td>
+</tr>
+<tr>
+<td style="text-align: center;">IPTV (USA)</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;x</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Free</td>
+<td><a href="https://evr-solar.com/product/waveos-premium/">Subscribe Now</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
