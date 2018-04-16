@@ -70,7 +70,7 @@
 </tr>
 <tr>
 <td style="width: 268px; text-align: center;">&nbsp;<img src="https://thumb.ibb.co/mDDwNS/Screen_Mirroring.png" width="250" /></td>
-<td style="width: 268px; text-align: center;"><img src="https://thumb.ibb.co/fRRNCS/remote_access.png" height="250" /></td>
+<td style="width: 268px; text-align: center;"><img src="https://thumb.ibb.co/fRRNCS/remote_access.png" width="250" /></td>
 </tr>
 </tbody>
 </table>
