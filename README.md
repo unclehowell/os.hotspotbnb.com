@@ -1,8 +1,7 @@
-<h1 id="mcetoc_1cb5rbkj50" style="text-align: center;">&nbsp;</h1>
 <table style="height: 209px; width: 565px;">
 <tbody>
 <tr>
-<td style="width: 252px;"><img src="https://thumb.ibb.co/dvKiK7/Wave_Hotspot.png" width="200" /></td>
+<td style="width: 252px;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></td>
 <td style="width: 299px; text-align: center;">
 <h1 id="mcetoc_1cb7hvoro1c"><strong>WAVE HOTSPOT</strong></h1>
 </td>
@@ -11,79 +10,79 @@
 </table>
 <h2 id="mcetoc_1cb7i0l8q1d"><strong><!-- pagebreak -->Intro<br /></strong></h2>
 <p style="text-align: left;">Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century. Here's some of the features of the Wave product &amp; service:</p>
-<table style="height: 165px; width: 282px; float: left;">
+<table style="height: 1726px; width: 0px; float: left;">
 <tbody>
 <tr>
-<td style="width: 272px; text-align: center;"><strong>Internet Speed Boosting</strong></td>
+<td style="width: 268px; text-align: center;"><strong>Internet Speed Boosting</strong></td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;">Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; <a href="https://wiki.debian.org/Bind9">Bind9</a> to make your internet around x5 times faster</td>
+<td style="width: 268px; text-align: center;">Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; <a href="https://wiki.debian.org/Bind9">Bind9</a> to make your internet around x5 times faster</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" width="250" /></td>
+<td style="width: 268px; text-align: center;"><img src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" width="250" /></td>
 </tr>
 <tr>
-<td style="width: 272px;">&nbsp;</td>
+<td style="width: 268px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><strong>Smart Home Control</strong></td>
+<td style="width: 268px; text-align: center;"><strong>Smart Home Control</strong></td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;">The cutting edge of smart home control from <a href="https://www.openhab.org">OpenHAB</a>. Gives Wave users Wi-Fi control of everything around them e.g. Air Conditioning, Lights, Locks etc</td>
+<td style="width: 268px; text-align: center;">The cutting edge of smart home control from <a href="https://www.openhab.org">OpenHAB</a>. Gives Wave users Wi-Fi control of everything around them e.g. Air Conditioning, Lights, Locks etc</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" width="250" /></td>
+<td style="width: 268px; text-align: center;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" width="250" /></td>
 </tr>
 <tr>
-<td style="width: 272px;">&nbsp;</td>
+<td style="width: 268px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><strong>Media Library</strong></td>
+<td style="width: 268px; text-align: center;"><strong>Media Library</strong></td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
+<td style="width: 268px; text-align: center;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><img src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" width="250" /></td>
+<td style="width: 268px; text-align: center;"><img src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" width="250" /></td>
 </tr>
 <tr>
-<td style="width: 272px;">&nbsp;</td>
+<td style="width: 268px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><strong>IP Cameras</strong></td>
+<td style="width: 268px; text-align: center;"><strong>IP Cameras</strong></td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;">IP Cameras made very simple with <a href="https://github.com/ccrisan/motioneye/wiki">MotionEye</a>. This is by far the fastest and easiest solution, to get started with your IP Cameras</td>
+<td style="width: 268px; text-align: center;">IP Cameras made very simple with <a href="https://github.com/ccrisan/motioneye/wiki">MotionEye</a>. This is by far the fastest and easiest solution, to get started with your IP Cameras</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;">&nbsp;</td>
+<td style="width: 268px; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><img src="https://iu8cri.altervista.org/wp-content/uploads/2017/09/motioneye_3.png" width="250" /></td>
+<td style="width: 268px; text-align: center;"><img src="https://iu8cri.altervista.org/wp-content/uploads/2017/09/motioneye_3.png" width="250" /></td>
 </tr>
 <tr>
-<td style="width: 272px;">&nbsp;</td>
+<td style="width: 268px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><strong>Energy Monitoring</strong></td>
+<td style="width: 268px; text-align: center;"><strong>Energy Monitoring</strong></td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
+<td style="width: 268px; text-align: center;"><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><img src="https://emoncms.org/Modules/site/emoncms_front.png" width="250" /></td>
+<td style="width: 268px; text-align: center;"><img src="https://emoncms.org/Modules/site/emoncms_front.png" width="250" /></td>
 </tr>
 <tr>
-<td style="width: 272px;">&nbsp;</td>
+<td style="width: 268px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><strong>IPTV(HD)</strong></td>
+<td style="width: 268px; text-align: center;"><strong>IPTV(HD)</strong></td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
+<td style="width: 268px; text-align: center;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
 </tr>
 <tr>
-<td style="width: 272px; text-align: center;"><img src="http://i.imgur.com/Y07Lpwp.png" width="250" /></td>
+<td style="width: 268px; text-align: center;"><img src="http://i.imgur.com/Y07Lpwp.png" width="250" /></td>
 </tr>
 </tbody>
 </table>
