@@ -97,10 +97,4 @@
 <p>2 - Cheaper Internet: our new crypto currency <a href="#">Surf Coin</a> rewards our users and can even be used to pay your ISP.</p>
 <p>3 - Smart Home Apps: the Wave Hotspot features the latest in IP camera control, Energy Monitoring, Media/ TV and Smart Appliance Control</p>
 
-  
- 1 - Faster Internet: using technologies like <a href="https://pi-hole.net">Pi-Hole</a>, <a href="https://wiki.debian.org/Bind9">Bind9</a> &amp; <a href="https://squidproxy.org">Squid</a> 
- 
- 2 - Cheaper Internet: our new crypto currency <a href="#">Surf Coin</a> rewards our users and can even be used to pay your ISP. 
- 
- 3 - Smart Home Apps: the Wave Hotspot features the latest in IP camera control, Energy Monitoring, Media/ TV and Smart Appliance Control</p>
 
