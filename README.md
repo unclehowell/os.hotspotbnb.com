@@ -1,4 +1,4 @@
-<table style="height: 209px; width: 565px;">
+<table style="height: 209px; width: 565px; border:0px;">
 <tbody>
 <tr>
 <td style="width: 252px;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></td>
