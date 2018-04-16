@@ -1,8 +1,5 @@
 <h1 id="mcetoc_1cb5rbkj50" style="text-align: center;"><img style="float: left;" src="https://thumb.ibb.co/dvKiK7/Wave_Hotspot.png" width="200" /></h1>
-<h2 id="mcetoc_1cb7h0311l" style="text-align: left;">&nbsp;</h2>
-<h2 id="mcetoc_1cb7h05nmm" style="text-align: left;">&nbsp;</h2>
-<h2 id="mcetoc_1cb7h08mvn" style="text-align: left;">&nbsp;</h2>
-<h2 id="mcetoc_1cb7h0bgto" style="text-align: left;">&nbsp;</h2>
+
 <h2 id="mcetoc_1cb7gfkp1j" style="text-align: left;"><strong>About&nbsp;Wave</strong></h2>
 <p style="text-align: left;">Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century. Here's some of the features of the Wave product &amp; service:</p>
 <table style="height: 165px; width: 282px; float: left;">
