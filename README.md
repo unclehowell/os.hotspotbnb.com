@@ -1,6 +1,6 @@
 <h1 id="mcetoc_1cb5rbkj50">Introducing&nbsp;Wave</h1>
-<p>Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century.&nbsp;</p>
-<p>Here's some of the features of the Wave product &amp; service:</p>
+<p>Wave&nbsp;instanly&nbsp;brings&nbsp;your home and/or small business into the&nbsp;21st century.&nbsp;</br>
+Here's some of the features of the Wave product &amp; service:</p>
 <table width="553">
 <tbody>
 <tr>
@@ -140,45 +140,42 @@
 <h1 id="mcetoc_1cb6430pfc">Getting Started</h1>
 <p>Here's a few simple steps to getting started:</p>
 <p><strong>a) Normal People</strong></p>
-<table>
+<table style="height: 193px;" width="448">
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>1.&nbsp;Order Online&nbsp;&nbsp;</strong></td>
-<td style="text-align: center;"><strong>2.&nbsp;Connect</strong></td>
-<td style="text-align: center;"><strong>3. Power Up</strong></td>
+<td style="text-align: center; width: 169.375px;"><strong>Order Online&nbsp;&nbsp;</strong></td>
+<td style="text-align: center; width: 118.264px;"><strong>Connect</strong></td>
+<td style="text-align: center; width: 143.819px;"><strong>Power Up</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="http://kenstewartphoto.com/images/Order-Button.jpg" width="158" height="78" /></td>
-<td style="text-align: center;"><img src="https://thumb.ibb.co/fkW31n/cabled.png" alt="" width="110" height="110" /></td>
-<td style="text-align: center;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="" width="133" height="99" /></td>
+<td style="text-align: center; width: 169.375px;"><img src="http://kenstewartphoto.com/images/Order-Button.jpg" width="158" height="78" /></td>
+<td style="text-align: center; width: 118.264px;"><img src="https://thumb.ibb.co/fkW31n/cabled.png" alt="" width="110" height="110" /></td>
+<td style="text-align: center; width: 143.819px;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="" width="133" height="99" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Download the latest Wave Operating System (WaveOS)&nbsp;</td>
-<td style="text-align: center;">Connect</td>
-<td style="text-align: center;">Power Up the Unit, Follow OnScreen Instructions</td>
+<td style="text-align: center; width: 169.375px;">Download the latest Wave Operating System (WaveOS)&nbsp;</td>
+<td style="text-align: center; width: 118.264px;">Connect</td>
+<td style="text-align: center; width: 143.819px;">Power Up the Unit, Follow OnScreen Instructions</td>
 </tr>
 </tbody>
 </table>
-<p><strong>b) Geeks</strong></p>
-<table>
+<p><strong>b) Wiz Kids</strong></p>
+<table style="height: 198px;" width="450">
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>1. Download&nbsp;</strong></td>
-<td style="text-align: center;"><strong>2.&nbsp;Burn</strong></td>
-<td style="text-align: center;"><strong>3.&nbsp;Connect</strong></td>
-<td style="text-align: center;"><strong>4. Power Up</strong></td>
+<td style="text-align: center; width: 127.153px;"><strong>Download/ Burn</strong></td>
+<td style="text-align: center; width: 128.264px;"><strong>Connect</strong></td>
+<td style="text-align: center; width: 178.264px;"><strong>Power Up</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="http://open-axcss.com/home/wp-content/uploads/2016/09/download-button-large.png" alt="" width="169" height="61" /></td>
-<td style="text-align: center;"><img src="https://thumb.ibb.co/eEKqgn/sd_card.png" alt="" width="126" height="126" /></td>
-<td style="text-align: center;"><img src="https://thumb.ibb.co/fkW31n/cabled.png" alt="" width="110" height="110" /></td>
-<td style="text-align: center;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="" width="133" height="99" /></td>
+<td style="text-align: center; width: 127.153px;"><img src="https://thumb.ibb.co/eEKqgn/sd_card.png" alt="" width="126" height="126" /></td>
+<td style="text-align: center; width: 128.264px;"><img src="https://thumb.ibb.co/fkW31n/cabled.png" alt="" width="110" height="110" /></td>
+<td style="text-align: center; width: 178.264px;"><img src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" alt="" width="133" height="99" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Download the latest Wave Operating System (WaveOS)&nbsp;</td>
-<td style="text-align: center;">Burn the software to your SD Card&nbsp;</td>
-<td style="text-align: center;">Insert the SD Card, Connect Cables</td>
-<td style="text-align: center;">Power Up the Unit, Follow OnScreen Instructions</td>
+<td style="text-align: center; width: 127.153px;">Burn the software to your SD Card&nbsp;</td>
+<td style="text-align: center; width: 128.264px;">Insert the SD Card, Connect Cables</td>
+<td style="text-align: center; width: 178.264px;">Power Up the Unit, Follow OnScreen Instructions</td>
 </tr>
 </tbody>
 </table>
