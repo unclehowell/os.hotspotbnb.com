@@ -159,7 +159,7 @@
 </tr>
 </tbody>
 </table>
-<p><strong>b) Wiz Kids</strong></p>
+<p><strong>b) Geeks</strong></p>
 <table>
 <tbody>
 <tr>
