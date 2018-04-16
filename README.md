@@ -90,7 +90,7 @@
 <p><!-- pagebreak -->*The Internet Speed Boosting Application is subscription free</p>
 <h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Operating&nbsp;Modes</h2>
 <p style="text-align: left;">Each Wave Unit, has two primary modes of operation:</p>
-<table style="width: 370px; float: left;">
+<table style="width: 470px; float: left;">
 <tbody>
 <tr>
 <td style="width: 10px; text-align: center;"><strong>Hotspot</strong></td>
@@ -98,38 +98,24 @@
 <td style="width: 10px; text-align: center;"><strong>Extender</strong></td>
 </tr>
 <tr>
-<td style="width: 10px; text-align: center;">Transmitting</td>
-<td style="width: 123px; text-align: center;"><strong>Wi-Fi</strong>&nbsp;</td>
-<td style="width: 10px; text-align: center;">Receiving</td>
+<td style="width: 10px; text-align: center;">Broadcast</td>
+<td style="width: 123px; text-align: center;"><strong>Wi-Fi</strong>&nbsp;<strong>Mode</strong></td>
+<td style="width: 10px; text-align: center;">Receiver</td>
 </tr>
 <tr>
-<td style="width: 10px; text-align: center;">Disabled</td>
-<td style="width: 123px; text-align: center;"><strong>HDMI</strong></td>
-<td style="width: 10px; text-align: center;">Enabled</td>
-</tr>
-<tr>
-<td style="width: 10px; text-align: center;">Remote</td>
-<td style="width: 123px; text-align: center;"><strong>Access</strong></td>
-<td style="width: 10px; text-align: center;">Local</td>
-</tr>
-<tr>
-<td style="width: 10px; text-align: center;">
-<p>Hostname (<em>http://wave/</em>)</p>
-</td>
-<td style="width: 123px; text-align: center;"><strong>Menu&nbsp;Access</strong></td>
-<td style="width: 10px; text-align: center;">
-<p>HDMI (connected display)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 10px;">&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" /></td>
-<td style="width: 123px; text-align: center;">&nbsp;<strong>Connection Method</strong></td>
-<td style="width: 10px; text-align: center;">&nbsp;<img src="https://thumb.ibb.co/gsWY2S/mode_2.png" width="185" /></td>
+<td style="width: 10px; text-align: center;">Ethernet</td>
+<td style="width: 123px; text-align: center;">&nbsp;<strong>Connection</strong></td>
+<td style="width: 10px; text-align: center;">HDMI</td>
 </tr>
 <tr style="text-align: center;">
-<td style="width: 10px;">Connect via Ethernet to your existing Hotspot Router</td>
+<td style="width: 10px;">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" /></td>
 <td style="width: 123px;">&nbsp;</td>
-<td style="width: 10px;">Connect via HDMI to your Monitor/ TV</td>
+<td style="width: 10px;"><img src="https://thumb.ibb.co/gsWY2S/mode_2.png" width="185" /></td>
+</tr>
+<tr style="text-align: center;">
+<td style="width: 10px;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
+<td style="width: 123px;">&nbsp;</td>
+<td style="width: 10px;">In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
 </tr>
 </tbody>
 </table>
