@@ -1,4 +1,4 @@
-<p># Wave - Extender Mode</p>
+<h1><strong>Wave - Extender Mode</h1>
 <table style="width: 134px; float: left;">
 <tbody>
 <tr>
@@ -21,7 +21,7 @@
 </tbody>
 </table>
 <p><!-- pagebreak --># User Guide</p>
-<p><strong>1. Power-On</strong></p>
+<h1><strong>1. Power-On</strong></h1>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
