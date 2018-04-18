@@ -110,7 +110,7 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;f)</td>
-<td style="width: 445px;">&nbsp;Edit the Frame and enter the URL "Extender-IP/guacamole/"</td>
+<td style="width: 445px;">&nbsp;Edit the Frame and enter the URL "Extender-UID/guacamole/"</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;g)&nbsp;</td>
