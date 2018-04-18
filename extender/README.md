@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;c)&nbsp;</td>
-<td style="width: 445px;">&nbsp;Open Web Browser and Enter IP: 192.168.137.1</td>
+<td style="width: 445px;">&nbsp;Open Web Browser and Enter&nbsp;Extenders IP</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;d)&nbsp;</td>
@@ -119,27 +119,45 @@
 </tbody>
 </table>
 <h3 id="mcetoc_1cbbrh77d5"><span style="text-decoration: underline;"><strong>Assemblers Guide</strong></span></h3>
+<p><span style="text-decoration: underline;"><strong>1.&nbsp;Operating System</strong></span></p>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;a)</td>
+<td style="width: 445px;">&nbsp;Download WaveOS (your&nbsp;pref subnet e.g. same as router IP)</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;b)</td>
+<td style="width: 445px;">&nbsp;Burn to SD Card with Win32 Disk Imager</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;c)</td>
+<td style="width: 445px;">&nbsp;Hook&nbsp;device up, insert SD, Power it Up</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline;"><strong>2.&nbsp;Operating Mode</strong></span></p>
+<table style="height: 103px; width: 494px;">
+<tbody>
+<tr>
+<td style="width: 35px;">&nbsp;a)&nbsp;</td>
+<td style="width: 445px;">&nbsp;When&nbsp;Wi-Fi Station is on, Connect! (SSID: Wave-Hotspot)</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;b)</td>
+<td style="width: 445px;">&nbsp;Enter 'UID' into the web browser (will be on box)</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;c)&nbsp;</td>
+<td style="width: 445px;">&nbsp;Menu will appear. Skip&nbsp;terms &amp; select Extender-Mode</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;d)</td>
+<td style="width: 445px;">&nbsp;Connect HDMI for 2nd display and&nbsp;Complete Install</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;e)</td>
+<td style="width: 445px;">&nbsp;When it says so on TV, remove the Ethernet</td>
 </tr>
 </tbody>
 </table>
