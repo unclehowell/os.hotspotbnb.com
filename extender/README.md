@@ -27,28 +27,27 @@
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;1.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Power Up the Wave Device</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;2.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Connect Computer to Device using Ethernet Cable</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;3.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Open Web Browser and Enter IP: 192.168.137.1</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;4.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Enter Wave Hotspot SSID &amp; Password</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;5.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Connect to Display using HDMI &amp; Reboot</td>
 </tr>
 </tbody>
 </table>
-
 # Installers Guide 
 <table style="height: 103px; width: 494px;">
 <tbody>
