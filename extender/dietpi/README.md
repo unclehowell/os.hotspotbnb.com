@@ -21,7 +21,8 @@ Furthermore there need to be some bullet points before the assembler/ installer/
 
 - ensure the HDMI is connected (not sure how convenient it'll be trying to wire to the router and connect via HDMI at the same time)
 - But the assembler/ installer will need to be altered about removing the Ethernet cable (since the extender will be connected to the network via wifi after the install completes)
-- there's something else I'm sure, here's the blank to fill in at a later date ....................
+- the other important point is to make sure there's an access point ready for the extender to connect to. 
+On that note, it may be worth entering the SSID and password before hitting the 'complete installation to Extender Mode' button since there may not be another chance. Unless the device remains connected via ethernet and broacasts a hostname like 'extender' from the ethernet port. Extender will need to be reserved for unconfigured devices if this is the case, to avoid conflict with multiple extenders. On that note, the script that finalises the extender will need to remove the hostname upon completion (which isn't an issue since extenders shouldn't need hostnames to operate)
 
 So for now I'll head back to the origional custom script (that dietpi.txt looks at) in order to make it do more than just create a Wi-Fi hotspot.
 It will now need to do all the hostname broadcasting stuff, so that a user connected to the hotspot can type 'wave' in the browser and see a web page.
