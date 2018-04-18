@@ -1,3 +1,5 @@
+<h2 id="mcetoc_1cb5rbkj50" style="text-align: center;">&nbsp;</h2>
+<table style="width: 470px; float: left;">
 <tbody>
 <tr>
 <td style="width: 10px; text-align: center;"><strong>Hotspot</strong></td>
