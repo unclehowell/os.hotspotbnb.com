@@ -1,4 +1,4 @@
-#  Version 0.1.4
+#  Version 0.1.5
 #
 #
 AUTO_SETUP_NET_ETHERNET_ENABLED=1
@@ -46,7 +46,7 @@ AUTO_SETUP_LOCALE=en_GB.UTF-8
 AUTO_SETUP_KEYBOARD_LAYOUT=gb
 #
 #  3-30-2018 - run the custom script. 0 disables. 1 generates errors. 2 is best. 
-AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://forestwallet.com/files/waveos/Automation_Custom_Script.sh
+AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://gist.githubusercontent.com/unclehowell/424773b5f5a594a66a7691f2fefe5d4f/raw/e3ef4aa855a26836e59f4e65457f21d54146eb4f/Automation_Custom_Script.sh
 #
 CONFIG_HDMI_OUTPUT=1
 #
