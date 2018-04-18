@@ -42,6 +42,28 @@
 </tbody>
 </table>
 
+<p><strong>Controls</strong></p>
+<table style="height: 103px; width: 508px;">
+<tbody>
+<tr>
+<td style="width: 35px;">&nbsp;1.&nbsp;</td>
+<td style="width: 463px;">&nbsp;Enter 'Wave' into the web-browser of your mobile</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;2.&nbsp;</td>
+<td style="width: 463px;">&nbsp;Select 'Smart Controls' then&nbsp;the&nbsp;Display&nbsp;you wish to control</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;3.&nbsp;</td>
+<td style="width: 463px;">&nbsp;The Menu&nbsp;from&nbsp;the&nbsp;TV should now appear on your mobile</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;4.&nbsp;</td>
+<td style="width: 463px;">&nbsp;A selection made on your&nbsp;mobile will&nbsp;now&nbsp;occur&nbsp;on&nbsp;your TV&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 # Installation Guide 
 
 <table style="height: 103px; width: 494px;">
