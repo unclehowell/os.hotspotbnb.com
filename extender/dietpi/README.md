@@ -24,6 +24,8 @@ Furthermore there need to be some bullet points before the assembler/ installer/
 - the other important point is to make sure there's an access point ready for the extender to connect to. 
 On that note, it may be worth entering the SSID and password before hitting the 'complete installation to Extender Mode' button since there may not be another chance. Unless the device remains connected via ethernet and broacasts a hostname like 'extender' from the ethernet port. Extender will need to be reserved for unconfigured devices if this is the case, to avoid conflict with multiple extenders. On that note, the script that finalises the extender will need to remove the hostname upon completion (which isn't an issue since extenders shouldn't need hostnames to operate)
 
+MINOR REVELATION: the hostname cannot be Wave by default, since the units will conflict if they're all broadcasting 'wave' as the hostname. It's better that the hostname only be Wave for the Hotspot-Mode units and that this only switches from the UID as the hostname, to Wave as a new hostname after the Hotspot-Mode has been selected. In the case of the extenders they just as well keep the UID as the hostname. 
+
 So for now I'll head back to the origional custom script (that dietpi.txt looks at) in order to make it do more than just create a Wi-Fi hotspot.
 It will now need to do all the hostname broadcasting stuff, so that a user connected to the hotspot can type 'wave' in the browser and see a web page.
 Then I'll need to make the 'complete installation' webpage appear when that hostname is entered into the address bar. 
