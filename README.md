@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td style="text-align: center; width: 255px;" colspan="2">
-<p style="text-align: center;"><a href="https://evr-solar.com">Retail Partners</a></p>
+<p style="text-align: center;"><a href="https://github.com/unclehowell/WaveOS/blob/master/partners-retail.csv">Retail Partners</a></p>
 </td>
 </tr>
 <tr>
