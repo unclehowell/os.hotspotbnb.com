@@ -1,6 +1,5 @@
 # Wave - Hotspot Mode
 
-<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">&nbsp;</h2>
 <table style="width: 154px; float: left;">
 <tbody>
 <tr>
