@@ -20,7 +20,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="mcetoc_1cbbregpq4"><!-- pagebreak --><span style="text-decoration: underline;">User Guide</span></h3>
+<h3 id="mcetoc_1cbbregpq4"><!-- pagebreak --><span style="text-decoration: underline;"><strong>User Guide</strong></span></h3>
 <h4 id="mcetoc_1cbbra1cc3"><strong>1. Menu</strong></h4>
 <table style="height: 103px; width: 494px;">
 <tbody>
@@ -59,7 +59,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="mcetoc_1cbbr5qjc1"><span style="text-decoration: underline;">Installation Guide</span></h3>
+<h3 id="mcetoc_1cbbr5qjc1"><span style="text-decoration: underline;"><strong>Installation Guide</strong></span></h3>
 <p><strong>1. Establish Connection</strong></p>
 <table style="height: 103px; width: 494px;">
 <tbody>
