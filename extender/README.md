@@ -132,7 +132,11 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;c)</td>
-<td style="width: 445px;">&nbsp;Hook&nbsp;device up, insert SD, Power it Up</td>
+<td style="width: 445px;">&nbsp;Hook&nbsp;device up (HDMI included), insert SD, Power it Up</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;d)</td>
+<td style="width: 445px;">&nbsp;When UID&nbsp;(proccesor UID) is displayed, write it on box</td>
 </tr>
 </tbody>
 </table>
@@ -145,7 +149,7 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)</td>
-<td style="width: 445px;">&nbsp;Enter 'UID' into the web browser (will be on box)</td>
+<td style="width: 445px;">&nbsp;Enter 'UID' into the web browser&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;c)&nbsp;</td>
