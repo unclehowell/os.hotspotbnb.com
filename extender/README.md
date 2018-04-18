@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;c)&nbsp;</td>
-<td style="width: 445px;">&nbsp;Open Web Browser and Enter&nbsp;Extenders IP</td>
+<td style="width: 445px;">&nbsp;Open Web Browser and Enter&nbsp;Extenders UID</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;d)&nbsp;</td>
