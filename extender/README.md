@@ -1,4 +1,4 @@
-<h1><strong>Wave - Extender Mode</h1>
+<h2 id="mcetoc_1cbbra1cc2"><strong>Wave - Extender Mode</strong></h2>
 <table style="width: 134px; float: left;">
 <tbody>
 <tr>
@@ -20,8 +20,8 @@
 </tr>
 </tbody>
 </table>
-<p><!-- pagebreak --># User Guide</p>
-<h1><strong>1. Power-On</strong></h1>
+<h3 id="mcetoc_1cbbregpq4"><!-- pagebreak --><span style="text-decoration: underline;">User Guide</span></h3>
+<h4 id="mcetoc_1cbbra1cc3"><strong>1. Menu</strong></h4>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
@@ -38,7 +38,7 @@
 </tr>
 </tbody>
 </table>
-<p><strong>2. Controls</strong></p>
+<h4><strong>2. Control</strong></h4>
 <table style="height: 103px; width: 508px;">
 <tbody>
 <tr>
@@ -59,8 +59,8 @@
 </tr>
 </tbody>
 </table>
-<h1 id="mcetoc_1cbbr5qjc1"># Installation Guide</h1>
-<p><strong>1.&nbsp;Connection</strong></p>
+<h3 id="mcetoc_1cbbr5qjc1"><span style="text-decoration: underline;">Installation Guide</span></h3>
+<p><strong>1. Establish Connection</strong></p>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
@@ -85,7 +85,7 @@
 </tr>
 </tbody>
 </table>
-<p><strong>2. Controlls</strong></p>
+<p><strong>2. Establish&nbsp;Controls</strong></p>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
@@ -118,7 +118,7 @@
 </tr>
 </tbody>
 </table>
-<p># Assemblers Guide</p>
+<h3 id="mcetoc_1cbbrh77d5"><span style="text-decoration: underline;"><strong>Assemblers Guide</strong></span></h3>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
