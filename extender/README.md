@@ -24,27 +24,20 @@
 
 # User Guide
 
+<p><strong>Power-On</strong></p>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;1.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Confirm Wave Device is connected via HDMI to Display&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;2.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Power on the Device and ensure TV Source&nbsp;is HDMI</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
+<td style="width: 35px;">&nbsp;3.&nbsp;</td>
+<td style="width: 445px;">&nbsp;The Display should now show the Wave Menu</td>
 </tr>
 </tbody>
 </table>
@@ -72,6 +65,40 @@
 <tr>
 <td style="width: 35px;">&nbsp;5.&nbsp;</td>
 <td style="width: 445px;">&nbsp;Connect to Display using HDMI &amp; Reboot</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Control</strong></p>
+<table style="height: 103px; width: 494px;">
+<tbody>
+<tr>
+<td style="width: 35px;">&nbsp;1.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Open the&nbsp;Wave Hotspot Menu&nbsp; &amp; select 'Smart Control'&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;2.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Switch to Settings Mode</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;3.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Add a new App,&nbsp;Name it and Select Save e.g. 'Big-TV'</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;4.</td>
+<td style="width: 445px;">&nbsp;Re-enter Settings Mode &amp; Select 'Big-TV'</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;5.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Insert Frame and resize to fit your prefered device&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;6.</td>
+<td style="width: 445px;">&nbsp;Edit the Frame and enter the URL "Extender-IP/guacamole/"</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;7.&nbsp;</td>
+<td style="width: 445px;">&nbsp;Save</td>
 </tr>
 </tbody>
 </table>
