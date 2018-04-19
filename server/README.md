@@ -1,26 +1,23 @@
-# Wave - Server Mode
-
+<p># Wave - Server Mode</p>
 <table style="width: 154px; float: left;">
 <tbody>
 <tr>
-<td style="width: 10px; text-align: center;"><strong>Server</strong>&nbsp;<strong>Mode</strong></td>
-<td style="width: 10px; text-align: center;">Broadcast</td>
+<td style="width: 10px; text-align: center;"><strong>Wi-Fi</strong></td>
+<td style="width: 10px; text-align: center;">Disabled</td>
 </tr>
 <tr>
 <td style="width: 10px; text-align: center;">&nbsp;<strong>Connection</strong></td>
-<td style="width: 10px; text-align: center;">Ethernet</td>
+<td style="width: 10px; text-align: center;">Ethernet/ Virtual</td>
 </tr>
 <tr style="text-align: center;">
 <td style="width: 20px;" colspan="2">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" />&nbsp;</td>
 </tr>
 <tr style="text-align: center;">
-<td style="width: 20px; text-align: justify;" colspan="2">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)&nbsp;</td>
+<td style="width: 20px; text-align: justify;" colspan="2">In&nbsp;Server Mode Wave creates a Node that Hotspot users can choose between for EPG Data, updates and so forth.&nbsp;Wave Servers/ Nodes can be hosted physically or virtually e.g. Google Cloud, Amazon etc</td>
 </tr>
 </tbody>
 </table>
-
-# User Guide
-
+<p><!-- pagebreak --># User Guide</p>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
@@ -45,8 +42,7 @@
 </tr>
 </tbody>
 </table>
-
-# Installers Guide 
+<p># Installers Guide</p>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
@@ -71,9 +67,7 @@
 </tr>
 </tbody>
 </table>
-
-# Assemblers Guide
-
+<p># Assemblers Guide</p>
 <table style="height: 103px; width: 494px;">
 <tbody>
 <tr>
@@ -98,4 +92,28 @@
 </tr>
 </tbody>
 </table>
-
+<p>#&nbsp;Developers Guide</p>
+<table style="height: 103px; width: 494px;">
+<tbody>
+<tr>
+<td style="width: 35px;">&nbsp;</td>
+<td style="width: 445px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;</td>
+<td style="width: 445px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;</td>
+<td style="width: 445px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;</td>
+<td style="width: 445px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 35px;">&nbsp;</td>
+<td style="width: 445px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
