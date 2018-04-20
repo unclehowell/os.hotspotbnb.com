@@ -92,28 +92,3 @@
 </tr>
 </tbody>
 </table>
-<p>#&nbsp;Developers Guide</p>
-<table style="height: 103px; width: 494px;">
-<tbody>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
