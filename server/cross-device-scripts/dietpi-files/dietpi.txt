@@ -29,7 +29,7 @@ AUTO_SETUP_GLOBAL_PASSWORD=dietpi
 #
 AUTO_SETUP_INSTALL_SOFTWARE_ID=60  # will install Wi-fi Hotspot
 #
-AUTO_SETUP_INSTALL_SOFTWARE_ID=74  # will install PHP, Lighttpd & sql-light for web-hosting (or 74 according to  https://github.com/Fourdee/DietPi/blob/master/dietpi.txt) 
+AUTO_SETUP_INSTALL_SOFTWARE_ID=81  # will install PHP, Lighttpd & sql-light for hosting the mode-menu page 
 #
 AUTO_SETUP_SSH_SERVER_INDEX=-1
 #
