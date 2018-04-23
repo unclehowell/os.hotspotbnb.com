@@ -7,7 +7,7 @@ AUTO_SETUP_NET_WIFI_ENABLED=0
 #
 AUTO_SETUP_NET_USESTATIC=1
 #
-AUTO_SETUP_NET_STATIC_IP=10.0.0.10
+AUTO_SETUP_NET_STATIC_IP=10.0.0.11
 #
 AUTO_SETUP_NET_STATIC_MASK=255.255.255.0
 #
@@ -46,7 +46,7 @@ AUTO_SETUP_LOCALE=en_GB.UTF-8
 AUTO_SETUP_KEYBOARD_LAYOUT=gb
 #
 #  3-30-2018 - run the custom script. 0 disables. 1 generates errors. 2 is best. 
-AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://gist.githubusercontent.com/unclehowell/424773b5f5a594a66a7691f2fefe5d4f/raw/e3ef4aa855a26836e59f4e65457f21d54146eb4f/Automation_Custom_Script.sh
+AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/dietpi-files/boot-up.sh
 #
 CONFIG_HDMI_OUTPUT=1
 #
