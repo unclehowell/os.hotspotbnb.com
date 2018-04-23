@@ -33,6 +33,8 @@ AUTO_SETUP_INSTALL_SOFTWARE_ID=81  # will install PHP, Lighttpd & sql-light: for
 #
 AUTO_SETUP_INSTALL_SOFTWARE_ID=152  # will install Avahi-Daemon: to connect to the unit without needing ip addresses
 #
+AUTO_SETUP_INSTALL_SOFTWARE_ID=17  # will install Git: need instead of wget 
+#
 AUTO_SETUP_SSH_SERVER_INDEX=-1
 #
 AUTO_SETUP_FILE_SERVER_INDEX=0
