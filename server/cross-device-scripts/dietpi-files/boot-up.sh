@@ -14,13 +14,30 @@ wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-de
 
 mkdir css
 
-chown dietpi:dietpi /css
+sudo chmod 755 css
 
 mkdir js
 
-chown dietpi:dietpi /js
+sudo chmod 755 js
 
 wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/js/index.js js
 
 wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/css/style.css css
+
+cd
+
+# Remote Access 
+
+sudo apt-get install python -y
+
+wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/mass-install-dp.sh -P /etc/network/if-up.d
+
+cd /etc/network/if-up.d/
+
+mv mass-install-dp.sh mass-install-dp
+
+sudo chmod 755 /etc/network/if-up.d/mass-install-dp
+
+sudo reboot
+
 
