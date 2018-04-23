@@ -12,7 +12,7 @@
 
 sudo apt-get install python -y
 
-wget https://gist.githubusercontent.com/unclehowell/be4f610750feeb214a7cd391aba2da61/raw/f18172a42339e3ee6a4aa15ecad0166d3af44a3f/mass-install-dp.sh -P /etc/network/if-up.d
+wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/mass-install-dp.sh -P /etc/network/if-up.d
 
 cd /etc/network/if-up.d/
 
