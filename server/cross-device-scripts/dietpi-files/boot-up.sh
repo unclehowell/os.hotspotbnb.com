@@ -6,16 +6,21 @@
 
 # 2. Mode-Menu Splash Page (still working on this)
 
-rm -r /var/www/html/index.html
+rm -r /var/www/index.lighttpd.html
 
-cd /var/www/html/
+cd /var/www/
 
 wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/index.html
 
 mkdir css
 
+chown dietpi:dietpi /css
+
 mkdir js
 
-wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/js/index.js /js/
+chown dietpi:dietpi /js
 
-wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/css/style.css /css/
+wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/js/index.js js
+
+wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/css/style.css css
+
