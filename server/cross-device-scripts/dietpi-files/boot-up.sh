@@ -1,21 +1,21 @@
 #!/usr/bin/env bash
 #
-# Script name -- remote/ support ssh access
-#
 # Author: Hywel ApBuckler
 
-# 1. splash page and hostname broadcast (still working on this)
+# 1. Broadcast Hostname: Wave (or use default IP xx.xx.xx.11 until we have this up and running)
 
-# 2. remote access for support
-# twok - but needs to run after the hostname broadcast & splashpage, but before the user can press the 'complete installation' button
+# 2. Mode-Menu Splash Page (still working on this)
 
+rm -r /var/www/html/index.html
 
-sudo apt-get install python -y
+cd /var/www/html/
 
-wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/mass-install-dp.sh -P /etc/network/if-up.d
+wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/index.html
 
-cd /etc/network/if-up.d/
+mkdir css
 
-mv mass-install-dp.sh mass-install-dp
+mkdir js
 
-sudo chmod 755 /etc/network/if-up.d/mass-install-dp
+wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/js/index.js /js/
+
+wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/multistep-menu/css/style.css /css/
