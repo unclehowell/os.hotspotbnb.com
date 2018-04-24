@@ -7,3 +7,5 @@ cd /etc/network/if-up.d/
 mv mass-install-dp.sh mass-install-dp
 
 sudo chmod 755 /etc/network/if-up.d/mass-install-dp
+
+cd
