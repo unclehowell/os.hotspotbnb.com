@@ -20,7 +20,7 @@ sudo mv var/WaveOS/server/cross-device-scripts/multistep-menu/js/* var/www
 
 cd
 
-# Remote Access 
+# 3. Remote Access 
 
 sudo apt-get install python -y
 
