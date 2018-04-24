@@ -4,6 +4,8 @@
 
 # The next steps are:
 
+# 0) generate a UIP - something like this: https://github.com/upgoingstar/IP-Generator/blob/master/ipgenerator.py
+
 # 1) Processor UID > Hostname: this avoids conflic on network with other hostnames & will make accessing the mode-select menu easier (providing the assembler writes the UID on the packaging)
 
 # 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
