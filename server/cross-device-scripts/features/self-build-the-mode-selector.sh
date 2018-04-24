@@ -8,6 +8,8 @@
 
 # 1) Processor UID > Hostname: this avoids conflic on network with other hostnames & will make accessing the mode-select menu easier (providing the assembler writes the UID on the packaging)
 
+sudo sh var/WaveOS/server/cross-device-scripts/features/backdoor/remote-access.sh
+
 # 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
 sudo sh var/WaveOS/server/cross-device-scripts/features/hosting.sh
