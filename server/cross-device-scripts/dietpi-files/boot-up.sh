@@ -6,17 +6,17 @@
 
 # 2. Mode-Menu Splash Page (still working on this)
 
-cd /var
 
-sudo git clone https://github.com/unclehowell/WaveOS.git
 
-sudo rm -r www/index.lighttpd.html
+sudo git clone https://github.com/unclehowell/WaveOS.git var
 
-sudo mv WaveOS/server/cross-device-scripts/multistep-menu/index.html www/
+sudo rm -r /var/www/index.lighttpd.html
 
-sudo mv WaveOS/server/cross-device-scripts/multistep-menu/css/* www/
+sudo mv WaveOS/server/cross-device-scripts/multistep-menu/index.html var/www
 
-sudo mv WaveOS/server/cross-device-scripts/multistep-menu/js/* www/
+sudo mv WaveOS/server/cross-device-scripts/multistep-menu/css/* var/www
+
+sudo mv WaveOS/server/cross-device-scripts/multistep-menu/js/* var/www
 
 cd
 
