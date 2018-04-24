@@ -2,11 +2,9 @@
 #
 # Author: Hywel ApBuckler
 
-# 1. Broadcast Hostname: Wave (or use default IP xx.xx.xx.11 until we have this up and running)
+# Broadcast Hostname: Wave (or use default IP xx.xx.xx.11 until we have this up and running)
 
-# 2. Mode-Menu Splash Page (still working on this)
-
-
+# Mode-Menu Splash Page (still working on this)
 
 sudo git clone https://github.com/unclehowell/WaveOS.git var
 
@@ -21,19 +19,5 @@ mv css/* var/www
 mv js/* var/www
 
 cd
-
-# 3. Remote Access 
-
-sudo apt-get install python -y
-
-wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/features/mass-install-dp.sh -P /etc/network/if-up.d
-
-cd /etc/network/if-up.d/
-
-mv mass-install-dp.sh mass-install-dp
-
-sudo chmod 755 /etc/network/if-up.d/mass-install-dp
-
-sudo reboot
 
 
