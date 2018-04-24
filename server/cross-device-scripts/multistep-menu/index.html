@@ -15,8 +15,8 @@
 
 <body>
 
-  <!-- multistep form -->
-<form id="msform">
+  <!-- multistep form with nicked script from https://stackoverflow.com/questions/6235785/run-a-shell-script-with-an-html-button -->
+<form id="msform" action="var/WaveOS/server/cross-device-scripts/build.php" >
   <!-- progressbar -->
   <ul id="progressbar">
     <li class="active">Account Setup</li>
@@ -49,7 +49,7 @@
     <input type="text" name="phone" placeholder="Phone" />
     <textarea name="address" placeholder="Address"></textarea>
     <input type="button" name="previous" class="previous action-button" value="Previous" />
-    <input type="submit" name="submit" class="submit action-button" value="Submit" />
+    <input type="submit" name="submit" class="submit action-button" value="Open Scripts" />
   </fieldset>
 </form>
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
