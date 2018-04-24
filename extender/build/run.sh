@@ -1,5 +1,8 @@
 # Display settings (HDMI for TVs - fit to edge of screen etc)
-# overscan=1, -35ish LRT&B. 
+# overscan=1, -35ish LRT&B.
+
+# this gets add-apt-repository working
+sudo apt-get install python-software-properties
 
 # XRDP (desktop)
 sudo dietpi-software install 29
@@ -19,6 +22,7 @@ sudo dietpi-software install 6
 sudo apt install --reinstall sed
 sudo apt-get update && apt-get upgrade -y
 sudo apt-get install chromium x11-xserver-utils unclutter chromium-bsu
+sudo apt-get install libva-glx1 libva-x11-1 i965-va-driver
 sudo apt-get install --no-install-recommends xserver-xorg xinit openbox
 sed -i -e 's/screen saver/#screen saver/g' /etc/xdg/lxsession/LXDE/autostart
 
@@ -34,7 +38,7 @@ setxkbmap -option terminate:ctrl_alt_bksp
 # Start Chromium in kiosk mode
 sed -i 's/"exited_cleanly":false/"exited_cleanly":true/' ~/.config/chromium/'Local State'
 sed -i 's/"exited_cleanly":false/"exited_cleanly":true/; s/"exit_type":"[^"]\+"/"exit_type":"Normal"/' ~/.config/chromium/Default/Preferences
-chromium-browser --disable-infobars --kiosk 'http://your-url-here'
+chromium-browser --disable-infobars --kiosk 'http://10.0.0.10'
 
 # Docker (for Guacamole)
 sudo dietpi-software install 162
