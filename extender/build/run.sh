@@ -1,4 +1,4 @@
-# XRDP (desktop)
+switch from ethernet to # XRDP (desktop)
 sudo dietpi-software install 29
 
 # chromium
@@ -19,8 +19,12 @@ echo -n "@chromium --kiosk --incognito http://wave/" >> </etc/xdg/lxsession/LXDE
 # Docker (for Guacamole)
 sudo dietpi-software install 162
 
-# Guacamole Install
+# Guacamole Install - http://guacamole.apache.org/doc/gug/guacamole-docker.html
 docker run --name some-guacd -d guacamole/guacd
+
+# http://raspberrywebserver.com/sql-databases/using-mysql-on-a-raspberry-pi.html
+sudo apt-get install mysql-server python-mysqldb -y
+
 docker run --rm guacamole/guacamole /opt/guacamole/bin/initdb.sh --mysql > initdb.sql
 
 
