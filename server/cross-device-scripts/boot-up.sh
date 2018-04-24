@@ -8,17 +8,19 @@ rm -r WaveOS-old
 mkdir WaveOS-old
 
 # if there is a copy of the repo locally, move it to old (if it exists)
-mv var/WaveOS var/WaveOS-old
+mv /var/WaveOS var/WaveOS-old
 
 # remove content of the repo archieve (incase there's a few piled up)
-rm -r var/WaveOS/* -y
+rm -r /var/WaveOS/* -y
 
 # retrieve the latest repo (master branch) and put into the /var directory
-sudo git clone https://github.com/unclehowell/WaveOS.git var
+cd /var
+git clone https://github.com/unclehowell/WaveOS.git
+sudo chmod 755 /var/WaveOS
 
 # Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, set-up hosting & host the mode-selector menu
 
-sudo sh var/WaveOS/server/cross-device-scripts/features/self-build-the-mode-selector.sh
+sh /var/WaveOS/server/cross-device-scripts/features/self-build-the-mode-selector.sh
 
 
 
