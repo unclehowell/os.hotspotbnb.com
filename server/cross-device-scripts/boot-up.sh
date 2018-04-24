@@ -8,10 +8,10 @@ rm -r WaveOS-old
 mkdir WaveOS-old
 
 # if there is a copy of the repo locally, move it to old (if it exists)
-mv /var/WaveOS var/WaveOS-old
+mv /var/WaveOS /var/WaveOS-old
 
 # remove content of the repo archieve (incase there's a few piled up)
-rm -r /var/WaveOS/* -y
+rm -r /var/WaveOS-old/*
 
 # retrieve the latest repo (master branch) and put into the /var directory
 cd /var
