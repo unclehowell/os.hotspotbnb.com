@@ -4,8 +4,12 @@ cd /var/WaveOS/server/cross-device-scripts/features/multistep-menu/
 
 mv index.html /var/www
 
-mv css/* /var/www
+mkdir /var/www/js
 
-mv js/* /var/www
+mkdir /var/www/css
+
+mv css/style.css /var/www/css
+
+mv js/index.js /var/www/js
 
 cd
