@@ -7,7 +7,7 @@ sudo dietpi-software install 113
 # X-server (Linux Display System)
 sudo dietpi-software install 6
 
-# Chromium Kiosk Mode
+# Chromium Kiosk Mode 
 sudo apt-get update && apt-get upgrade -y
 sudo apt-get install chromium x11-xserver-utils unclutter
 sed -i -e 's/screen saver/#screen saver/g' /etc/xdg/lxsession/LXDE/autostart
@@ -21,5 +21,7 @@ sudo dietpi-software install 162
 
 # Guacamole Install
 docker run --name some-guacd -d guacamole/guacd
+docker run --rm guacamole/guacamole /opt/guacamole/bin/initdb.sh --mysql > initdb.sql
+
 
 
