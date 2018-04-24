@@ -2,7 +2,13 @@
 
 /DietPi/dietpi/dietpi-software install 152 
 
-sudo apt-get install insserv
+apt-get install insserv
 
-sudo insserv avahi-daemon
+insserv avahi-daemon
+
+/etc/init.d/avahi-daemon restart
+
+
+
+
 
