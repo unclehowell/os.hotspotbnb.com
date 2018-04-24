@@ -17,7 +17,7 @@ sh /var/WaveOS/server/cross-device-scripts/features/hosting.sh
 
 # 3) Finally the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
-sh /WaveOS/server/cross-device-scripts/features/multistep-menu/run.sh
+sh /var/WaveOS/server/cross-device-scripts/features/multistep-menu/run.sh
 
 
 # The IP will need to change to avoid conflic with a 2nd, 3rd device which may connect to the network. 
