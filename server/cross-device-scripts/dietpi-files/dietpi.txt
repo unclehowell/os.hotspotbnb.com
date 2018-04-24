@@ -44,7 +44,7 @@ AUTO_SETUP_LOCALE=en_GB.UTF-8
 AUTO_SETUP_KEYBOARD_LAYOUT=gb
 #
 #  3-30-2018 - run the custom script. 0 disables. 1 generates errors. 2 is best. 
-AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/dietpi-files/boot-up.sh
+AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://raw.githubusercontent.com/unclehowell/WaveOS/master/server/cross-device-scripts/boot-up.sh
 #
 CONFIG_HDMI_OUTPUT=1
 #
