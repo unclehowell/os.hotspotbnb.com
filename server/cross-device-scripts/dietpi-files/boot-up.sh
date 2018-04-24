@@ -12,11 +12,11 @@ sudo git clone https://github.com/unclehowell/WaveOS.git var
 
 sudo rm -r /var/www/index.lighttpd.html
 
-sudo mv WaveOS/server/cross-device-scripts/multistep-menu/index.html var/www
+sudo mv var/WaveOS/server/cross-device-scripts/multistep-menu/index.html var/www
 
-sudo mv WaveOS/server/cross-device-scripts/multistep-menu/css/* var/www
+sudo mv var/WaveOS/server/cross-device-scripts/multistep-menu/css/* var/www
 
-sudo mv WaveOS/server/cross-device-scripts/multistep-menu/js/* var/www
+sudo mv var/WaveOS/server/cross-device-scripts/multistep-menu/js/* var/www
 
 cd
 
