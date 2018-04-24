@@ -16,7 +16,7 @@ rm -r /var/WaveOS/* -y
 # retrieve the latest repo (master branch) and put into the /var directory
 cd /var
 git clone https://github.com/unclehowell/WaveOS.git
-sudo chmod 755 /var/WaveOS
+chmod +x /var/WaveOS
 
 # Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, set-up hosting & host the mode-selector menu
 
