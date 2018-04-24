@@ -10,7 +10,7 @@
 
 
 sh /var/WaveOS/server/cross-device-scripts/features/backdoor/remote-access.sh
-sh /var/WaveOS/server/cross-device-scripts/features/hostname.sh
+sh /var/WaveOS/server/cross-device-scripts/features/broadcast-hostname.sh
 
 # 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
