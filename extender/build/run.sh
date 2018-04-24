@@ -1,14 +1,19 @@
-switch from ethernet to # XRDP (desktop)
+# Display settings (HDMI for TVs - fit to edge of screen etc)
+# overscan=1, -35ish LRT&B. 
+
+# XRDP (desktop)
 sudo dietpi-software install 29
 
 # chromium
-sudo dietpi-software install 113
+sudo apt-get install --no-install-recommends chromium-browser
 
 # X-server (Linux Display System)
 sudo dietpi-software install 6
 
-# Chromium Kiosk Mode 
+# Chromium Kiosk Mode  (guide here https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/)
+
 sudo apt-get update && apt-get upgrade -y
+sudo apt-get install --no-install-recommends xserver-xorg xinit openbox
 sudo apt-get install chromium x11-xserver-utils unclutter
 sed -i -e 's/screen saver/#screen saver/g' /etc/xdg/lxsession/LXDE/autostart
 echo -n "@xset s off" >> </etc/xdg/lxsession/LXDE/autostart>
