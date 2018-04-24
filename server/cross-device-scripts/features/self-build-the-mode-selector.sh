@@ -10,6 +10,8 @@
 
 # 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
+sudo sh var/WaveOS/server/cross-device-scripts/features/hosting.sh
+
 # 3) Finally the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
 
