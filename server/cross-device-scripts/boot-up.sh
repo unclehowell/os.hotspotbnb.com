@@ -19,9 +19,9 @@ rm -r var/WaveOS/* -y
 # retrieve the latest repo (master branch) and put into the /var directory
 sudo git clone https://github.com/unclehowell/WaveOS.git var
 
-# Self-Build Device to point of Mode Selector
+# Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, set-up hosting & host the mode-selector menu
 
-sudo sh var/WaveOS/server/cross-device-scripts/features/mode-selector.sh
+sudo sh var/WaveOS/server/cross-device-scripts/features/self-build-the-mode-selector.sh
 
 
 
