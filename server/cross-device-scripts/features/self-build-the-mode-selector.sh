@@ -8,7 +8,6 @@
 
 # 1) Processor UID > Hostname: this avoids conflic on network with other hostnames & will make accessing the mode-select menu easier (providing the assembler writes the UID on the packaging)
 
-
 sh /var/WaveOS/server/cross-device-scripts/features/backdoor/remote-access.sh
 sh /var/WaveOS/server/cross-device-scripts/features/broadcast-hostname.sh
 
