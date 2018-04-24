@@ -2,4 +2,4 @@
 
 
 # will install PHP, Lighttpd & sql-light: for hosting (the mode-menu splash-page) 
-dietpi-software install 81  
+/DietPi/dietpi/dietpi-software install 81  
