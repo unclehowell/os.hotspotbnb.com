@@ -81,9 +81,9 @@
 <table style="width: 470px; float: left;">
 <tbody>
 <tr>
-<td style="width: 10px; text-align: center;"><strong>Hotspot</strong></td>
+  <td style="width: 10px; text-align: center;"><strong><a href="">Hotspot-Mode</a></strong></td>
 <td style="width: 123px; text-align: center;"><img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="125" /></td>
-<td style="width: 10px; text-align: center;"><strong>Extender</strong></td>
+  <td style="width: 10px; text-align: center;"><strong><a href="">Extender-Mode</a></strong></td>
 </tr>
 <tr>
 <td style="width: 10px; text-align: center;">Broadcast</td>
@@ -122,7 +122,7 @@
 <tr>
 <td style="text-align: center; width: 128px;">&nbsp;$124.99 USD</td>
 <td style="text-align: center; width: 127px;">&nbsp;$14.99 USD</td>
-<td style="text-align: center; width: 150px;">$0 USD</td>
+  <td style="text-align: center; width: 150px;">$0 USD - <a href="https://github.com/unclehowell/WaveOS/blob/master/firmware.csv">download</a></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 128px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
