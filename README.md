@@ -145,4 +145,3 @@
 </tr>
 </tbody>
 </table>
-<p style="text-align: left;"><!-- pagebreak -->*Depending on your prefered Mode of Operation the software and cables needed will vary.&nbsp;</p>
