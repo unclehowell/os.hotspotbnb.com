@@ -131,7 +131,7 @@
 <p><img src="https://thumb.ibb.co/eEKqgn/sd_card.png" width="180" /></p>
 </td>
 <td style="text-align: center; width: 150px;" rowspan="2">
-<p><img src="https://thumb.ibb.co/g9Ue97/firmware.png" width="128" /></p>
+<p><a href="https://github.com/unclehowell/WaveOS/blob/master/firmware.csv"><img src="https://thumb.ibb.co/g9Ue97/firmware.png" width="128" /></a></p>
 </td>
 </tr>
 <tr>
