@@ -14,7 +14,8 @@
 </tr>
 <tr style="text-align: center;">
 <td style="width: 20px; text-align: justify;" colspan="2">&nbsp;
-<p>In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</p>
+<p>In Extender Mode the Wave unit can be connected via HDMI to your Big Screen TV -&nbsp;You can also use your mobile phones web-browser&nbsp;to control the menu.&nbsp;In Extender Mode the&nbsp;Menu &amp; Apps from the Wave Hotspot to appear on your big screen TV the moment you turn it on.</p>
+<p>To use your mobile phone as a remote control, all you need to do is type 'Wave' into your mobiles web browser and navigate to the display you want to control (requires further set-up). What is displayed on&nbsp;your big screen will me mirrored onto your mobile device, giving you instant control.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
