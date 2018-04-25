@@ -1,13 +1,10 @@
 
 # Cross Device Scripts
 
-This area is for scripts which will be used across all the device modes 
-
-For example the intial menu (with the selector of what mode you wish to operate the technology in) will be retrieved from this folder. 
-The scripts will try not to do anything too bespoke, but instead pull in the repositories and make tiny alternations and fixes to suit the needs of the WaveOS. 
+This area is for scripts which will be used across all the device modes to self-build & configure up to the the first milestone e.g. Mode Select Menu
 
 <h3 id="mcetoc_1cbbregpq4"><!-- pagebreak --></h3>
-<h3><span style="text-decoration: underline;"><strong>1.&nbsp;Operating System</strong></span></h3>
+<h3><span style="text-decoration: underline;"><strong>Testing this Process - Part 1</strong></span></h3>
 <table style="height: 103px; width: 494px;">
   <tbody>
     <tr>
@@ -28,7 +25,7 @@ The scripts will try not to do anything too bespoke, but instead pull in the rep
     </tr>
   </tbody>
 </table>
-<p><span style="text-decoration: underline;"><strong>2.&nbsp;Operating Mode</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>Testing this Process - Part 2</strong></span></p>
 <table style="height: 103px; width: 494px;">
   <tbody>
     <tr>
