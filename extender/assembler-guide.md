@@ -1,4 +1,4 @@
-<h2 id="mcetoc_1cbbra1cc2"><strong>Wave - Extender Mode: Assemblers Guide</strong></h2>
+<h2 id="mcetoc_1cbbra1cc2"><strong>Wave - Extender Mode: (The Assemblers Guide)</strong></h2>
 <table style="width: 134px; float: left;">
 <tbody>
 <tr>
