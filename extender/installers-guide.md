@@ -38,15 +38,15 @@
 <td style="width: 445px;">Ensure Ethernet (to internet&nbsp;router) is connected</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;c)</td>
+<td style="width: 35px;">&nbsp;d)</td>
 <td style="width: 445px;">Connect (Wi-Fi SSID: Wave-Hotspot,&nbsp;PASS: makeitwave)</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;d)</td>
+<td style="width: 35px;">&nbsp;e)</td>
 <td style="width: 445px;">Enter 'xx.xx.xx.11' into web-browser to see Menu</td>
 </tr>
 <tr>
-<td style="width: 35px;">&nbsp;e)</td>
+<td style="width: 35px;">&nbsp;f)</td>
 <td style="width: 445px;">Select 'Extender-Mode' to begin. Install takes&nbsp;&gt;1 hour</td>
 </tr>
 </tbody>
