@@ -47,6 +47,21 @@ sudo apt-get install samba -y
 # I remember something about dhcpcd.conf (not to be confused with dhcpd.conf). 
 # This file exists on the proof of concept system (v1.2) but not on this build, so that could be the culprit.
 
+# /etc/dhcp/dhclient.conf is one place to look according to the web, but both the showcase and the target-device are the same. so that's ruled out-ish!
+
+# There was a discrepancies with this file (/etc/samba/smb.conf), so I'll make them match (the proof of concept one) 
+# cd /etc/samba
+# sed 's/max connections = 8/ /g' smb.conf > smb2.conf
+# mv /etc/samba/smb2.conf smb.conf
+
+# ok. I think I found the problem, let's give this a go - it's already installed on the proof of concept system, so that's a clue it could be it. 
+sudo apt-get install libnss-mdns -y
+
+# just checked to see if hostname.local even works - and it does - woo hoo! progress - but I need to remove .local, so still must figure this!
+
+
+
+
 
 
 
