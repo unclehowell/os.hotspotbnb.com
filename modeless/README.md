@@ -1,94 +1,49 @@
-<p># Wave - Server Mode</p>
-<table style="width: 154px; float: left;">
-<tbody>
-<tr>
-<td style="width: 10px; text-align: center;"><strong>Wi-Fi</strong></td>
-<td style="width: 10px; text-align: center;">Disabled</td>
-</tr>
-<tr>
-<td style="width: 10px; text-align: center;">&nbsp;<strong>Connection</strong></td>
-<td style="width: 10px; text-align: center;">Ethernet/ Virtual</td>
-</tr>
-<tr style="text-align: center;">
-<td style="width: 20px;" colspan="2">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" />&nbsp;</td>
-</tr>
-<tr style="text-align: center;">
-<td style="width: 20px; text-align: justify;" colspan="2">In&nbsp;Server Mode Wave creates a Node that Hotspot users can choose between for EPG Data, updates and so forth.&nbsp;Wave Servers/ Nodes can be hosted physically or virtually e.g. Google Cloud, Amazon etc</td>
-</tr>
-</tbody>
-</table>
-<p><!-- pagebreak --># User Guide</p>
+
+# Cross Device Scripts
+
+This area is for scripts which will be used across all the device modes to self-build & configure up to the the first milestone e.g. Mode Select Menu
+
+<h3 id="mcetoc_1cbbregpq4"><!-- pagebreak --></h3>
+<h3><span style="text-decoration: underline;"><strong>Testing this Process - Part 1</strong></span></h3>
 <table style="height: 103px; width: 494px;">
-<tbody>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td style="width: 35px;">&nbsp;a)</td>
+      <td style="width: 445px;">&nbsp;Download WaveOS (your&nbsp;pref subnet e.g. same as router IP)</td>
+    </tr>
+    <tr>
+      <td style="width: 35px;">&nbsp;b)</td>
+      <td style="width: 445px;">&nbsp;Burn to SD Card with Win32 Disk Imager</td>
+    </tr>
+    <tr>
+      <td style="width: 35px;">&nbsp;c)</td>
+      <td style="width: 445px;">&nbsp;Insert HDMI (display) &amp; Ethernet (internet), Micro SD &amp; PS</td>
+    </tr>
+    <tr>
+      <td style="width: 35px;">&nbsp;d)</td>
+      <td style="width: 445px;">&nbsp;Installation takes &gt;30min !</td>
+    </tr>
+  </tbody>
 </table>
-<p># Installers Guide</p>
+<p><span style="text-decoration: underline;"><strong>Testing this Process - Part 2</strong></span></p>
 <table style="height: 103px; width: 494px;">
-<tbody>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td style="width: 35px;">&nbsp;a)&nbsp;</td>
+      <td style="width: 445px;">&nbsp;Connect&nbsp;your Mobile&nbsp;(SSID:Wave-Hotspot, Psw: makeitwave)</td>
+    </tr>
+    <tr>
+      <td style="width: 35px;">&nbsp;b)</td>
+      <td style="width: 445px;">&nbsp;Enter&nbsp;the default static IP xxx.xxx.x.11 into web-broswer</td>
+    </tr>
+    <tr>
+      <td style="width: 35px;">&nbsp;c)&nbsp;</td>
+      <td style="width: 445px;">&nbsp;The 'Mode Menu' will appear - select 'Extender-Mode'</td>
+    </tr>
+    <tr>
+      <td style="width: 35px;">&nbsp;d)</td>
+      <td style="width: 445px;">&nbsp;&gt;1 hour&nbsp;later device will be an&nbsp;Extender - Enjoy</td>
+    </tr>
+  </tbody>
 </table>
-<p># Assemblers Guide</p>
-<table style="height: 103px; width: 494px;">
-<tbody>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 35px;">&nbsp;</td>
-<td style="width: 445px;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+<p>&nbsp;</p>

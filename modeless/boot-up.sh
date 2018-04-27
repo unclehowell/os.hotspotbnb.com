@@ -20,8 +20,8 @@ chmod +x /var/WaveOS
 
 # Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, set-up hosting & host the mode-selector menu
 
-sh /var/WaveOS/modeless/cross-device-scripts/features/cleanup.sh
-sh /var/WaveOS/modeless/cross-device-scripts/features/self-build-the-mode-selector.sh
+sh /var/WaveOS/modeless/features/cleanup.sh
+sh /var/WaveOS/modeless/features/self-build-the-mode-selector.sh
 
 
 
