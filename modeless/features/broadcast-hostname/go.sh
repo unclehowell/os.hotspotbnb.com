@@ -12,27 +12,27 @@
 /DietPi/dietpi/dietpi-software install 152 
 
 # tried this - didn't seem to work
-apt-get install insserv
-insserv avahi-daemon
-/etc/init.d/avahi-daemon restart
+#apt-get install insserv
+#insserv avahi-daemon
+#/etc/init.d/avahi-daemon restart
 
 # tried this - didn't seem to work
 
-mv /var/WaveOS/modeless/features/broadcast-hostname/dnsmasq.txt /etc/default/
-mv /etc/default/dnsmasq.txt /etc/default/dnsmasq
+#mv /var/WaveOS/modeless/features/broadcast-hostname/dnsmasq.txt /etc/default/
+#mv /etc/default/dnsmasq.txt /etc/default/dnsmasq
 
 # dhcpd.conf needs to be hashed out - according to the proof of concept v1.2. 
 
-sed 's/ range/# range/' dhcpd.conf
-sed 's/ option/# option/' dhcpd.conf
-sed 's/}/# }/' dhcpd.conf
-sed 's/8.8.8.8, 8.8.4.4/192.168.142.1, 10.0.0.1/' dhcpd.conf
+#sed 's/ range/# range/' dhcpd.conf
+#sed 's/ option/# option/' dhcpd.conf
+#sed 's/}/# }/' dhcpd.conf
+#sed 's/8.8.8.8, 8.8.4.4/192.168.142.1, 10.0.0.1/' dhcpd.conf
 
 # tried this, no ping on hostname yet
 
-sudo apt-get install samba -y
-/DietPi/dietpi/dietpi-software install 96 # samba
-/DietPi/dietpi/dietpi-software install 1  # samba client
+#sudo apt-get install samba -y
+#/DietPi/dietpi/dietpi-software install 96 # samba
+#/DietPi/dietpi/dietpi-software install 1  # samba client
 
 # tried replacing this, as stated in this guide : https://rasspberrypi.wordpress.com/2012/09/08/connect-to-rasspberry-pi-using-hostname/ 
 # the default in the guide is supposedly "hosts: files mdns4_minimal [NOTFOUND=return] dns mdns4". Whereas mine is "hosts:          files dns"
@@ -55,9 +55,12 @@ sudo apt-get install samba -y
 # mv /etc/samba/smb2.conf smb.conf
 
 # ok. I think I found the problem, let's give this a go - it's already installed on the proof of concept system, so that's a clue it could be it. 
-sudo apt-get install libnss-mdns -y
+# nope
+# sudo apt-get install libnss-mdns -y
 
 # just checked to see if hostname.local even works - and it does - woo hoo! progress - but I need to remove .local, so still must figure this!
+# the thing that brough this home was iptables. soon as I copied them across from v1.2 it seemed to do the trick. http://modeless/ now takes you to the mode-select menu. Woo Hoo.
+# but there's sureless some dependacies. It can't just be iptables doing all the work. will try again from scratch with just iptables, failing that I'll impliment in reverse order the above and see which one does the trick. 
 
 
 
