@@ -18,7 +18,7 @@ insserv avahi-daemon
 
 # tried this - didn't seem to work
 
-mv /var/WaveOS/server/cross-device-scripts/features/broadcast-hostname/dnsmasq.txt /etc/default/
+mv /var/WaveOS/modeless/cross-device-scripts/features/broadcast-hostname/dnsmasq.txt /etc/default/
 mv /etc/default/dnsmasq.txt /etc/default/dnsmasq
 
 # dhcpd.conf needs to be hashed out - according to the proof of concept v1.2. 
