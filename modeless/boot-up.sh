@@ -25,8 +25,7 @@ mv /var/WaveOS /var/WaveOS-old
 cd /var
 git clone https://github.com/unclehowell/WaveOS.git
 chmod +x /var/WaveOS
-chmod +x /var/WaveOS/modeless/features/add-features.sh
-chmod +x /var/WaveOS/modeless/features/cleanup.sh
+chmod +x /var/WaveOS/modeless/features/*
 
 # Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, set-up hosting & host the mode-selector menu
 
