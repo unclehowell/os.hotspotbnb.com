@@ -75,7 +75,36 @@ apt-get install sed -y
 
 cd /etc/default/
 
-sed 's/NODM_USER=root/NODM_USER=dietpi/' nodm
+sed 's/NODM_USER=root/NODM_USER=dietpi/' nodm > nodm2
+
+mv nodm2 nodm
+
+sed 's/-nolisten tcp/nolisten tcp -nocursor/' nodm > nodm2
+
+mv nodm2 nodm
+
+# Display configuration
+
+cd ~
+
+su dietpi
+
+# skipped 
+
+## Install the software
+
+# Roon Bridge
+
+/DietPi/dietpi/dietpi-software install 121
+
+systemctl enable roonbridge.service
+
+systemctl start roonbridge.service
+
+
+
+
+
 
 
 
