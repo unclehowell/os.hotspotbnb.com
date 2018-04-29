@@ -122,11 +122,11 @@ systemctl start roonbridge.service
 # ~/.config/chromium/Default/Preferences 
 
 
-# another feature to stop screen-saver
+# stop screen-saver
 
 sudo su
 
-cd
+cd /etc/lightdm
 
 sed 's/#xserver-command=X/xserver-command=X/' lightdm.conf > lightdm2.conf
 
