@@ -7,6 +7,11 @@
 
 timedatectl set-ntp true
 
+# if for any reason the kernel update fails
+
+G_RPI_UPDATE
+rpi-update
+
 # get script, run script: fetch the latest repo (so remaining tasks can then execute from the local repo), then remove all trace
 
 # Remove the old Repo Achieve File - if it exists & make a new one
