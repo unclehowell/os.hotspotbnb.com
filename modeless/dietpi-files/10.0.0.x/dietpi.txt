@@ -41,9 +41,9 @@ AUTO_SETUP_WEB_SERVER_INDEX=-2
 #
 AUTO_SETUP_AUTOSTART_TARGET_INDEX=0
 #
-AUTO_SETUP_TIMEZONE=America/New_York
+AUTO_SETUP_TIMEZONE=America/Santo_Domingo
 #
-AUTO_SETUP_LOCALE=en_GB.UTF-8
+AUTO_SETUP_LOCALE=en_US.UTF-8
 #
 AUTO_SETUP_KEYBOARD_LAYOUT=gb
 #
@@ -64,15 +64,9 @@ CONFIG_CPU_ONDEMAND_SAMPLE_RATE=25000
 #
 CONFIG_CPU_ONDEMAND_SAMPLE_DOWNFACTOR=80
 #
-#Apt mirrors which are applied to /etc/apt/sources.list | Values here will also be applied during 1st run setup  |  trying a local one!
+CONFIG_APT_RASPBIAN_MIRROR=http://raspbian.raspberrypi.org/raspbian
 #
-# source: https://www.raspbian.org/RaspbianMirrors (South America)
-#
-CONFIG_APT_RASPBIAN_MIRROR=http://mirrors.coopvgg.com.ar/raspbian/raspbian/
-#
-# source: https://www.debian.org/mirror/list (Costa Rica)
-#
-CONFIG_APT_DEBIAN_MIRROR=https://mirrors.ucr.ac.cr/debian/
+CONFIG_APT_DEBIAN_MIRROR=https://deb.debian.org/debian/
 #
 CONFIG_SMBCLIENT_COMPUTERNAME=computername
 #
@@ -118,7 +112,7 @@ CONFIG_LCDPANEL=none
 #
 CONFIG_PREFER_IPVERSION=ipv4
 #
-CONFIG_NTP_MIRROR=debian.pool.ntp.org
+CONFIG_NTP_MIRROR=pool.ntp.org
 
 SOFTWARE_EMONHUB_APIKEY=
 #
