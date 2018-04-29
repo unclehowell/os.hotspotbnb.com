@@ -65,12 +65,10 @@ CONFIG_CPU_ONDEMAND_SAMPLE_RATE=25000
 CONFIG_CPU_ONDEMAND_SAMPLE_DOWNFACTOR=80
 #
 #Apt mirrors which are applied to /etc/apt/sources.list | Values here will also be applied during 1st run setup
-#	Raspbian = https://www.raspbian.org/RaspbianMirrors
-#	Debian = https://www.debian.org/mirror/official#list
 #
-# CONFIG_APT_RASPBIAN_MIRROR=https://www.mirrorservice.org/sites/archive.raspbian.org/raspbian
+CONFIG_APT_RASPBIAN_MIRROR=http://raspbian.raspberrypi.org/raspbian
 #
-# CONFIG_APT_DEBIAN_MIRROR=https://deb.debian.org/debian/
+CONFIG_APT_DEBIAN_MIRROR=https://deb.debian.org/debian/
 #
 CONFIG_SMBCLIENT_COMPUTERNAME=computername
 #
@@ -112,11 +110,9 @@ CONFIG_SOUNDCARD=none
 #
 CONFIG_LCDPANEL=none
 #
-CONFIG_PREFER_IPVERSION=ipv4
+CONFIG_PREFER_IPVERSION=ipv6
 #
-CONFIG_PREFER_IPVERSION=ipv4
-#
-CONFIG_NTP_MIRROR=pool.ntp.org
+CONFIG_NTP_MIRROR=debian.pool.ntp.org
 
 SOFTWARE_EMONHUB_APIKEY=
 #
