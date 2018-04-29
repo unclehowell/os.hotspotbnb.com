@@ -12,7 +12,6 @@ timedatectl set-ntp true
 G_RPI_UPDATE
 rpi-update
 
-# get script, run script: fetch the latest repo (so remaining tasks can then execute from the local repo), then remove all trace
 
 # Remove the old Repo Achieve File - if it exists & make a new one
 rm -r /var/WaveOS-old -y
@@ -42,7 +41,28 @@ sh /var/WaveOS/modeless/features/multistep-menu/run.sh
 # 3) Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
 # instead of trying to get guacamole working (so the users can control what's on the screen), the menu on the screen just needs to instruct hostname access via a mobile etc
 
-sh /var/WaveOS/modeless/features/kiosk-mode/run.sh
+# Method 1 - using Chrome, Roon & OpenBox!
+
+sh /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh
+
+# Method 2 - using Chrome on LXDE! 
+
+# final gem to add from this site: https://superuser.com/questions/538367/fullscreen-xinit-raspberry-pi/538450#538450
+
+# need to edit this file to include /
+# ~/.config/chromium/Default/Preferences 
+
+
+# stop screen-saver
+
+sudo su
+
+cd /etc/lightdm
+
+sed 's/#xserver-command=X/xserver-command=X/' lightdm.conf > lightdm2.conf
+
+mv lightdm2.conf lightdm.conf
+
 
 
 # The IP will need to change to avoid conflic with a 2nd, 3rd device which may connect to the network. 
