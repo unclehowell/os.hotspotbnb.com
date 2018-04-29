@@ -1,3 +1,5 @@
+# command : dpkg --get-selections
+
 adduser                                         install
 adwaita-icon-theme                              install
 alsa-utils                                      install
