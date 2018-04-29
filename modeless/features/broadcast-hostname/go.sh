@@ -9,9 +9,10 @@
 
 # will install Avahi-Daemon: to connect to the unit without needing ip addresses
 
-/DietPi/dietpi/dietpi-software install 152 
+# installed earlier via dietpi.txt - but then removed because proof of concept doesn't use it. 
 
-# tried this - didn't seem to work
+# /DietPi/dietpi/dietpi-software install 152 
+
 #apt-get install insserv
 #insserv avahi-daemon
 #/etc/init.d/avahi-daemon restart
@@ -31,7 +32,7 @@
 # tried this, no ping on hostname yet
 
 #sudo apt-get install samba -y
-#/DietPi/dietpi/dietpi-software install 96 # samba
+/DietPi/dietpi/dietpi-software install 96 # samba
 #/DietPi/dietpi/dietpi-software install 1  # samba client
 
 # tried replacing this, as stated in this guide : https://rasspberrypi.wordpress.com/2012/09/08/connect-to-rasspberry-pi-using-hostname/ 
@@ -40,7 +41,7 @@
 # sed 's/hosts:          files dns/hosts:          files mdns4_minimal [NOTFOUND=return] dns mdns4 wins/' /etc/nsswitch.conf
 # sed command didn't work, manually change (& reboot) didn't work
 # will just replace entire file with the one from the proof of concept system (v1.2) instead, see if that works.
-# windbinds not installed on the proof of concept system, but I'll try it anyways now, for added assurance/ proocess of elimination: 
+# windbinds not installed on the proof of concept system, but I'll try it anyways now, for added assurance/ process of elimination: 
 # 
 
 
@@ -56,11 +57,12 @@
 
 # ok. I think I found the problem, let's give this a go - it's already installed on the proof of concept system, so that's a clue it could be it. 
 # nope
-# sudo apt-get install libnss-mdns -y
+
+sudo apt-get install libnss-mdns -y
 
 # just checked to see if hostname.local even works - and it does - woo hoo! progress - but I need to remove .local, so still must figure this!
 # the thing that brough this home was iptables. soon as I copied them across from v1.2 it seemed to do the trick. http://modeless/ now takes you to the mode-select menu. Woo Hoo.
-# but there's sureless some dependacies. It can't just be iptables doing all the work. will try again from scratch with just iptables, failing that I'll impliment in reverse order the above and see which one does the trick. 
+# but there's surely some dependencies. It can't just be iptables doing all the work. will try again from scratch with just iptables, failing that I'll implement in reverse order the above and see which one does the trick. 
 
 
 
