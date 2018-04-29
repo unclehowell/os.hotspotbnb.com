@@ -1,4 +1,4 @@
-#  Version 0.1.6
+#  Version 0.1.7 - changed ntp mode from 4 to 2 (troubleshooting updates failing during boot, due to security certificate timesync)
 #
 #
 AUTO_SETUP_NET_ETHERNET_ENABLED=1
