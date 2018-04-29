@@ -1,27 +1,19 @@
 
-# The Hotspot will already been set-up using dietpi.txt (ssid: wave-hotspot, password: makeitwave)
-# point to note: HOSTNAME=DietPi is left as is in dietpi.txt - because if we use wave it could cause conflic if there's already a hotspot set-up on the network with the hostname Wave, while an extender is being configured.
-
-# The next steps are:
-
-# 0) generate a UIP - something like this: https://github.com/upgoingstar/IP-Generator/blob/master/ipgenerator.py
-
-# 1) Processor UID > Hostname: this avoids conflic on network with other hostnames & will make accessing the mode-select menu easier (providing the assembler writes the UID on the packaging)
-
-# temporary displayed: UID not required at this stage, broadcast-hosting being investigated
-# sh /var/WaveOS/modeless/features/backdoor/remote-access.sh
-# sh /var/WaveOS/modeless/features/broadcast-hostname/go.sh
-
-# 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
+# 1) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
 sh /var/WaveOS/modeless/features/hosting.sh
 
-# 3) Finally the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
+# 2) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
 sh /var/WaveOS/modeless/features/multistep-menu/run.sh
 
+# 3) Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
+# instead of trying to get guacamole working (so the users can control what's on the screen), the menu on the screen just needs to instruct hostname access via a mobile etc
+
+sh /var/WaveOS/modeless/features/kiosk-mode/run.sh
+
 
 # The IP will need to change to avoid conflic with a 2nd, 3rd device which may connect to the network. 
-# For this to happen, we may need to scan the network, see which IP's are avaliable and allocate one as as fixed-IP. Solution Needed Here!
+# For this to happen, we may need to scan the network, see which IP's are available and allocate one as as fixed-IP. Solution Needed Here!
 
 

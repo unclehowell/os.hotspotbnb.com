@@ -1,5 +1,6 @@
 # autonomous installation of hosting dependancies, apps and config
 
 
-# will install PHP, Lighttpd & sql-light: for hosting (the mode-menu splash-page) 
-/DietPi/dietpi/dietpi-software install 81  
+# scrapped PHP, Lighttpd & sql-light: for hosting (the mode-menu splash-page)
+# went with Tomcat apache instead (as per proof of concept system v1.2) 
+/DietPi/dietpi/dietpi-software install 125

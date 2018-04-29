@@ -1,0 +1,11 @@
+[Unit]
+Description=NodeJS app - Roon Web Controller
+After=network.target
+
+[Service]
+User=dietpi
+WorkingDirectory=/home/dietpi/roon-web-controller
+ExecStart=/usr/local/bin/node app.js
+
+[Install]
+WantedBy=multi-user.target
