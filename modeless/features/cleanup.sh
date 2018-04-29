@@ -17,7 +17,7 @@ sudo apt autoremove -y
 apt-get -f install
 apt --fix-broken install
 apt-get update –fix-missing
-dpkg –configure -a
+# dpkg –configure -a
 apt-get update
 apt-get upgrade -y
 apt-get dist-upgrade -y

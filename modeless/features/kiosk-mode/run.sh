@@ -1,9 +1,12 @@
 
 
-# Method 1 - using Roon! 
+# Method 1 - using Chrome, Roon & OpenBox!
 
 sh /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh
 
+# Method 2 - using Chrome on LXDE! 
+
+# sh /var/WaveOS/modeless/features/kiosk-mode/lxde-method.sh
 
 # final gem to add from this site: https://superuser.com/questions/538367/fullscreen-xinit-raspberry-pi/538450#538450
 

@@ -15,8 +15,8 @@ disable_overscan=0
 #overscan_bottom=-20
 
 # uncomment to force a console size. By default it will be display's size minus
-framebuffer_width=1280
-framebuffer_height=720
+# framebuffer_width=1280
+# framebuffer_height=720
 
 # SDTV_MODES
 #sdtv_mode=0
@@ -29,12 +29,19 @@ lcd_rotate=0
 hdmi_force_hotplug=1
 
 # uncomment to force a specific HDMI mode (this will force VGA)
-#hdmi_group=1
-hdmi_mode=1
+# was 1
+#hdmi_group=2
+#was 2
+hdmi_mode=87
+
+# taken from the website https://github.com/Fourdee/DietPi/issues/1127
+# didn't exist otherwise
+hdmi_cvt 1280 800 60 6 000
 
 # uncomment to force a HDMI mode rather than DVI. This can make audio work in
 # DMT (computer monitor) modes
-#hdmi_drive=2
+# was 2
+#hdmi_drive=1
 
 # uncomment to increase signal to HDMI, if you have interference, blanking, or
 # no display
