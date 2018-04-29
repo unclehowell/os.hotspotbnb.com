@@ -100,7 +100,7 @@ CONFIG_BOOT_WAIT_FOR_NETWORK=2
 #
 CONFIG_CHECK_DIETPI_UPDATES=1
 #
-CONFIG_NTP_MODE=2
+CONFIG_NTP_MODE=4
 #
 CONFIG_WIFI_COUNTRY_CODE=US
 #
@@ -110,7 +110,9 @@ CONFIG_SOUNDCARD=none
 #
 CONFIG_LCDPANEL=none
 #
-CONFIG_PREFER_IPVERSION=ipv6
+# changing to 6 ignores any static ip and causes a user prompt to login, within seconds of boot (no good for autonomous install)
+#
+CONFIG_PREFER_IPVERSION=ipv4
 #
 CONFIG_NTP_MIRROR=debian.pool.ntp.org
 
