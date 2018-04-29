@@ -2,6 +2,7 @@
 rm -r /var/WaveOS
 
 apt-get -f install
+apt --fix-broken install
 apt-get update –fix-missing
 dpkg –configure -a
 
