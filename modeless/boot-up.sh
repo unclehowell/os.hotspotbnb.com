@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 
-# Author: Hywel ApBuckler
+# Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, mode-selector menu etc
 
-# Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, set-up hosting & host the mode-selector menu
+# get the latest repo
+cd /var
+git clone https://github.com/unclehowell/WaveOS.git
+chmod +x /var/WaveOS/modeless/*
 
 sh /var/WaveOS/modeless/features/cleanup.sh &&
 
