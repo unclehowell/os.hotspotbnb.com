@@ -4,8 +4,8 @@
 # get script, run script: fetch the latest repo (so remaining tasks can then execute from the local repo), then remove all trace
 
 # Remove the old Repo Achieve File - if it exists & make a new one
-rm -r WaveOS-old
-mkdir WaveOS-old
+rm -r /var/WaveOS-old
+mkdir /var/WaveOS-old
 
 # if there is a copy of the repo locally, move it to old (if it exists)
 mv /var/WaveOS /var/WaveOS-old
