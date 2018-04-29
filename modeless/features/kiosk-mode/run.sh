@@ -116,6 +116,25 @@ systemctl enable roonbridge.service
 systemctl start roonbridge.service
 
 
+# final gem to add from this site: https://superuser.com/questions/538367/fullscreen-xinit-raspberry-pi/538450#538450
+
+# need to edit this file to include /
+# ~/.config/chromium/Default/Preferences 
+
+
+# another feature to stop screen-saver
+
+sudo su
+
+cd
+
+sed 's/#xserver-command=X/xserver-command=X/' lightdm.conf > lightdm2.conf
+
+mv lightdm2.conf lightdm.conf
+
+
+
+
 
 
 
