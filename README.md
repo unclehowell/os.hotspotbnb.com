@@ -107,7 +107,6 @@
 </tr>
 </tbody>
 </table>
-<h1 id="mcetoc_1cb7h7ed6u" style="text-align: left;"><br />&nbsp;</h1>
 <h2 id="mcetoc_1cb7hoqvd1b" style="text-align: left;"><!-- pagebreak -->&nbsp;</h2>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
 <table style="width: 508px; float: left;">
