@@ -1,4 +1,4 @@
-#  Version 0.1.7 - changed ntp mode from 4 to 2 (troubleshooting updates failing during boot, due to security certificate timesync)
+#  Version 0.1.8 - changed back to 4 (and changed ntp server)
 #
 #
 AUTO_SETUP_NET_ETHERNET_ENABLED=1
@@ -15,7 +15,7 @@ AUTO_SETUP_NET_STATIC_GATEWAY=10.0.0.1
 #
 AUTO_SETUP_NET_STATIC_DNS=10.0.0.1
 #
-AUTO_SETUP_NET_HOSTNAME=Modeless
+AUTO_SETUP_NET_HOSTNAME=modeless
 #
 AUTO_SETUP_NET_ETH_FORCE_SPEED=0
 #
@@ -27,9 +27,9 @@ AUTO_SETUP_AUTOMATED=1
 #
 AUTO_SETUP_GLOBAL_PASSWORD=dietpi
 #
-AUTO_SETUP_INSTALL_SOFTWARE_ID=60  # will install Wi-fi Hotspot
-#
 AUTO_SETUP_INSTALL_SOFTWARE_ID=17  # will install Git Client
+#
+AUTO_SETUP_INSTALL_SOFTWARE_ID=60  # will install Wi-fi Hotspot
 #
 AUTO_SETUP_SSH_SERVER_INDEX=-1
 #
@@ -41,7 +41,7 @@ AUTO_SETUP_WEB_SERVER_INDEX=-2
 #
 AUTO_SETUP_AUTOSTART_TARGET_INDEX=0
 #
-AUTO_SETUP_TIMEZONE=Europe/London
+AUTO_SETUP_TIMEZONE=America/New_York
 #
 AUTO_SETUP_LOCALE=en_GB.UTF-8
 #
@@ -64,13 +64,15 @@ CONFIG_CPU_ONDEMAND_SAMPLE_RATE=25000
 #
 CONFIG_CPU_ONDEMAND_SAMPLE_DOWNFACTOR=80
 #
-#Apt mirrors which are applied to /etc/apt/sources.list | Values here will also be applied during 1st run setup
-#	Raspbian = https://www.raspbian.org/RaspbianMirrors
-#	Debian = https://www.debian.org/mirror/official#list
+#Apt mirrors which are applied to /etc/apt/sources.list | Values here will also be applied during 1st run setup  |  trying a local one!
 #
-# CONFIG_APT_RASPBIAN_MIRROR=https://www.mirrorservice.org/sites/archive.raspbian.org/raspbian
+# source: https://www.raspbian.org/RaspbianMirrors (South America)
 #
-# CONFIG_APT_DEBIAN_MIRROR=https://deb.debian.org/debian/
+CONFIG_APT_RASPBIAN_MIRROR=http://mirrors.coopvgg.com.ar/raspbian/raspbian/
+#
+# source: https://www.debian.org/mirror/list (Costa Rica)
+#
+CONFIG_APT_DEBIAN_MIRROR=https://mirrors.ucr.ac.cr/debian/
 #
 CONFIG_SMBCLIENT_COMPUTERNAME=computername
 #
@@ -112,7 +114,7 @@ CONFIG_SOUNDCARD=none
 #
 CONFIG_LCDPANEL=none
 #
-CONFIG_PREFER_IPVERSION=ipv4
+# changing to 6 ignores any static ip and causes a user prompt to login, within seconds of boot (no good for autonomous install)
 #
 CONFIG_PREFER_IPVERSION=ipv4
 #
