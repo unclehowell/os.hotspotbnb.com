@@ -35,6 +35,20 @@ systemctl daemon-reload
 systemctl enable roon-web-controller.service
 systemctl start roon-web-controller.service
 
+
+### before moving forward - extension manager time..
+# Fetch the Roon Extension Manager installer
+
+su dietpi
+cd ~
+
+wget https://raw.githubusercontent.com/TheAppgineer/roon-extension-manager-packaging/master/linux/setup.sh
+
+chmod +x setup.sh
+
+sudo ./setup.sh
+
+
 # Enable extension and log watching hints
 # n/a 
 
@@ -100,6 +114,8 @@ su dietpi
 systemctl enable roonbridge.service
 
 systemctl start roonbridge.service
+
+
 
 
 
