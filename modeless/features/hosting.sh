@@ -1,6 +1,5 @@
 # autonomous installation of hosting dependencies, apps and config
 
-# Tomcat apache (as per proof of concept system v1.2) 
-/DietPi/dietpi/dietpi-software install 125
+# boom! hosting
 
-apt-get install apache2 -y
+sudo apt-get install apache2 -y
