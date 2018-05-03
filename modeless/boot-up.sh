@@ -17,6 +17,11 @@ sh /var/WaveOS/modeless/features/hosting.sh  &&
 
 sh /var/WaveOS/modeless/features/multistep-menu/run.sh  &&
 
+# 3) Make the menu buttons function
+
+sh /var/WaveOS/modeless/features/functions/run.sh  &&
+
+
 # 3) Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
 # instead of trying to get guacamole working (so the users can control what's on the screen), the menu on the screen just needs to instruct hostname access via a mobile etc
 
