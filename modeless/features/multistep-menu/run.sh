@@ -16,12 +16,12 @@ mkdir /var/www/html/images
 
 cp /var/WaveOS/modeless/features/multistep-menu/images/1.jpg /var/www/html/images
 cp /var/WaveOS/modeless/features/multistep-menu/images/2.jpg /var/www/html/images
-cp /var/WaveOS/modeless/features/multistep-menu/images/3.jpg /var/www/html/images
+cp /var/WaveOS/modeless/features/multistep-menu/images/3.png /var/www/html/images
 
 mkdir /var/www/html/images/thumbs
 
 cp /var/WaveOS/modeless/features/multistep-menu/images/thumbs/1.jpg /var/www/html/images/thumbs
 cp /var/WaveOS/modeless/features/multistep-menu/images/thumbs/2.jpg /var/www/html/images/thumbs
-cp /var/WaveOS/modeless/features/multistep-menu/images/thumbs/3.jpg /var/www/html/images/thumbs
+cp /var/WaveOS/modeless/features/multistep-menu/images/thumbs/3.png /var/www/html/images/thumbs
 
 cd
