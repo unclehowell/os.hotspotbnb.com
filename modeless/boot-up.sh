@@ -45,7 +45,9 @@ sh /var/WaveOS/modeless/features/functions/run.sh  &&
 
 # LEFT UNTIL THE END  (CAUSES AUTO REBOOT)
 
-# The IP will need to change to avoid conflic with a 2nd, 3rd device which may connect to the network. 
+sh /var/WaveOS/modeless/features/cleanup.sh
+
+# The IP will need to change to avoid conflict with a 2nd, 3rd device which may connect to the network. 
 # For this to happen, we may need to scan the network, see which IP's are available and allocate one as as fixed-IP. Solution Needed Here!
 
 

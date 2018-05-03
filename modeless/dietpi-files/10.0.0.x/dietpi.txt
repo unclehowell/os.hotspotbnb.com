@@ -31,6 +31,8 @@ AUTO_SETUP_INSTALL_SOFTWARE_ID=17  # will install Git Client
 #
 AUTO_SETUP_INSTALL_SOFTWARE_ID=60  # will install Wi-fi Hotspot
 #
+AUTO_SETUP_INSTALL_SOFTWARE_ID=125  # TomCat: pre-requisite for Apache2 
+#
 ## >> Truly Automatic Options -----------------------------------------
 #
 AUTO_AutoLogin=0
