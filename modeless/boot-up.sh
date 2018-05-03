@@ -7,8 +7,6 @@ cd /var
 git clone https://github.com/unclehowell/WaveOS.git
 chmod +x /var/WaveOS/modeless/*
 
-sh /var/WaveOS/modeless/features/cleanup.sh &&
-
 # 1) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
 sh /var/WaveOS/modeless/features/hosting.sh  &&
@@ -45,6 +43,7 @@ sh /var/WaveOS/modeless/features/functions/run.sh  &&
 # mv lightdm2.conf lightdm.conf
 
 
+# LEFT UNTIL THE END  (CAUSES AUTO REBOOT)
 
 # The IP will need to change to avoid conflic with a 2nd, 3rd device which may connect to the network. 
 # For this to happen, we may need to scan the network, see which IP's are available and allocate one as as fixed-IP. Solution Needed Here!
