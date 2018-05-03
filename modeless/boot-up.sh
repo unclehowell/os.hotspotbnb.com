@@ -7,14 +7,17 @@ cd /var
 git clone https://github.com/unclehowell/WaveOS.git
 chmod +x /var/WaveOS/modeless/*
 
+chmod +x /var/WaveOS/modeless/features/cleanup.sh
 sh /var/WaveOS/modeless/features/cleanup.sh &&
 
 # 1) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
+chmod +x /var/WaveOS/modeless/features/hosting.sh
 sh /var/WaveOS/modeless/features/hosting.sh  &&
 
 # 2) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
+chmod +x /var/WaveOS/modeless/features/multistep-menu/run.sh
 sh /var/WaveOS/modeless/features/multistep-menu/run.sh  &&
 
 # 3) Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
@@ -22,7 +25,8 @@ sh /var/WaveOS/modeless/features/multistep-menu/run.sh  &&
 
 # Method 1 - using Chrome, Roon & OpenBox!
 
-sh /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh  &&
+# chmod +x /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh
+# sh /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh  &&
 
 # Method 2 - using Chrome on LXDE! 
 
@@ -32,15 +36,11 @@ sh /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh  &&
 # ~/.config/chromium/Default/Preferences 
 
 
-# stop screen-saver
-
-sudo su
-
-cd /etc/lightdm
-
-sed 's/#xserver-command=X/xserver-command=X/' lightdm.conf > lightdm2.conf
-
-mv lightdm2.conf lightdm.conf
+####### stop screen-saver
+# sudo su
+# cd /etc/lightdm
+# sed 's/#xserver-command=X/xserver-command=X/' lightdm.conf > lightdm2.conf
+# mv lightdm2.conf lightdm.conf
 
 
 
