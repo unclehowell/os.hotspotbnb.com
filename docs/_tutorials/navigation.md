@@ -600,6 +600,6 @@ After getting the category name, we assign the variable `items` for the docs and
 
 The `for item in items` loop looks through each `item` and gets the `title` and `url` to form the list item link.
 
-For more details on the `group_by` filter, see [Jekyll's Templates documentation](https://jekyllrb.com/docs/templates/) as well as [this Siteleaf tutorial](https://www.siteleaf.com/blog/advanced-liquid-group-by/). For more details on the `sort` filter, see [sort](https://shopify.github.io/liquid/filters/sort/) in Liquid's documentation.
+For more details on the `group_by` filter, see [Jekyll's Templates documentation](https://unclehowell.github.io/WaveOS//docs/templates/) as well as [this Siteleaf tutorial](https://www.siteleaf.com/blog/advanced-liquid-group-by/). For more details on the `sort` filter, see [sort](https://shopify.github.io/liquid/filters/sort/) in Liquid's documentation.
 
 Whether you use properties in your doc's front matter to retrieve your pages or a YAML data file, in both cases you can programmatically build a more robust navigation for your site.

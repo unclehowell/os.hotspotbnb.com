@@ -28,4 +28,4 @@ Happy Jekylling!
 
 [1]: https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 [2]: {{ site.repository }}/issues
-[3]: https://talk.jekyllrb.com/
+[3]: https://talk.unclehowell.github.io/WaveOS//

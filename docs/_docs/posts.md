@@ -160,7 +160,7 @@ variable instead.
 
 Hey, that's pretty neat, but what about showing just some of your posts that are
 related to each other? For that you can use any of the [variables definable in
-Front Matter](https://jekyllrb.com/docs/frontmatter/). In the "typical post"
+Front Matter](https://unclehowell.github.io/WaveOS//docs/frontmatter/). In the "typical post"
 section you can see how to define categories. Simply add the categories to your
 Front Matter as a [yaml
 list](https://en.wikipedia.org/wiki/YAML#Basic_components).

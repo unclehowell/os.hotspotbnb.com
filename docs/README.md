@@ -1,10 +1,10 @@
 # Jekyll docs site
 
-This directory contains the code for the Jekyll docs site, [jekyllrb.com](https://jekyllrb.com/).
+This directory contains the code for the Jekyll docs site, [unclehowell.github.io/WaveOS/](https://unclehowell.github.io/WaveOS//).
 
 ## Contributing
 
-For information about contributing, see the [Contributing page](https://jekyllrb.com/docs/contributing/).
+For information about contributing, see the [Contributing page](https://unclehowell.github.io/WaveOS//docs/contributing/).
 
 ## Running locally
 

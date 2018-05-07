@@ -38,7 +38,7 @@ The categories match the headings in the `History.markdown` file, and they are:
 2. Minor Enhancements (`+minor`) – minor updates (with the labels `feature` or `enhancement`) which necessitate a minor version bump (v3.1 ~> v3.2)
 3. Bug Fixes (`+bug`) – corrections to code which do not change or add functionality, which necessitate a patch version bump (v3.1.0 ~> v3.1.1)
 4. Documentation (`+doc`) - changes to the documentation found in `docs/_docs/`
-5. Site Enhancements (`+site`) – changes to the source of [https://jekyllrb.com](https://jekyllrb.com) found in `docs/`
+5. Site Enhancements (`+site`) – changes to the source of [https://unclehowell.github.io/WaveOS/](https://unclehowell.github.io/WaveOS/) found in `docs/`
 6. Development Fixes (`+dev`) – changes which do not affect user-facing functionality or documentation, such as test fixes or bumping internal dependencies
 7. Forward Ports (`+port`) — bug fixes applied to a previous version of Jekyll pulled onto `master`, e.g. cherry-picked commits from `3-1-stable` to `master`
 

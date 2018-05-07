@@ -30,7 +30,7 @@ collection items without a date
 ... and [a whole bunch more](/docs/history/#v3-1-0)!
 
 Please [file a bug]({{ site.repository }}/issues/new?title=Jekyll+3.1.0+Issue:)
-if you encounter any issues! As always, [Jekyll Talk](https://talk.jekyllrb.com)
+if you encounter any issues! As always, [Jekyll Talk](https://talk.unclehowell.github.io/WaveOS/)
 is the best place to get help if you're encountering a problem.
 
 Special thanks to all our amazing contributors who helped make v3.1.0 a

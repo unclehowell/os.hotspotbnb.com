@@ -9,11 +9,11 @@ Need help with Jekyll? Try these resources.
 
 Start with our official guide to Jekyll covering installation, writing, customization, deployment, and more.
 
-### [Jekyll Talk](https://talk.jekyllrb.com/)
+### [Jekyll Talk](https://talk.unclehowell.github.io/WaveOS//)
 
 Our official Discourse forum. Here, users and contributors
 can ask questions and discuss all aspects of Jekyll.
-Also the place to [showcase your jekyll sites](https://talk.jekyllrb.com/t/jekyll-showcase-share-your-sites-built-with-jekyll/44/80) and [share your jekyll themes](https://talk.jekyllrb.com/t/jekyll-theme-showcase-share-your-jekyll-themes/1382/2).
+Also the place to [showcase your jekyll sites](https://talk.unclehowell.github.io/WaveOS//t/jekyll-showcase-share-your-sites-built-with-jekyll/44/80) and [share your jekyll themes](https://talk.unclehowell.github.io/WaveOS//t/jekyll-theme-showcase-share-your-jekyll-themes/1382/2).
 
 ### [Jekyll on StackOverflow](https://stackoverflow.com/questions/tagged/jekyll)
 

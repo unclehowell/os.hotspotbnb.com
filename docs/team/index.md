@@ -27,7 +27,7 @@ conversations about extensibility of Core Jekyll.*
 ## Affinity Team Captains
 
 *The Affinity Team Captains lead [Jekyll's Affinity
-Teams](https://teams.jekyllrb.com/). Each team is tasked with maintaining
+Teams](https://teams.unclehowell.github.io/WaveOS//). Each team is tasked with maintaining
 and addressing issues for a specific aspect of Jekyll.*
 
 1. [Build](https://github.com/orgs/jekyll/teams/build): @mattr-
