@@ -83,7 +83,7 @@ For example, suppose you have a special image syntax with complex formatting, an
 
 ```html
 <figure>
-   <a href="http://unclehowell.github.io/WaveOS/">
+   <a href="http://unclehowell.github.io////">
    <img src="logo.png" style="max-width: 200px;"
       alt="Jekyll logo" />
    <figcaption>This is the Jekyll logo</figcaption>
@@ -115,7 +115,7 @@ Here's an example that passes all the parameters to this include (the include fi
 
 {% raw %}
 ```liquid
-{% include image.html url="http://unclehowell.github.io/WaveOS/"
+{% include image.html url="http://unclehowell.github.io////"
 max-width="200px" file="logo.png" alt="Jekyll logo"
 caption="This is the Jekyll logo." %}
 ```

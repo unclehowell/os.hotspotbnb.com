@@ -60,7 +60,7 @@ easier to make:
 
 {% highlight liquid %}
 {% raw %}
-{{ "/docs/assets/" | absolute_url }} => https://unclehowell.github.io/WaveOS//myproject/docs/assets
+{{ "/docs/assets/" | absolute_url }} => https://unclehowell.github.io/////myproject/docs/assets
 {% endraw %}
 {% endhighlight %}
 

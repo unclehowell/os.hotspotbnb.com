@@ -25,7 +25,7 @@ We also added a [Code of Conduct](/docs/conduct/) to encourage a happier, nicer 
 
 A huge shout-out to the amazing Jekyll Core Team members Jordon Bedwell, Alfred Xing, and Matt Rogers for all their hard work in making Jekyll 3 the best release yet.
 
-We also added [Jekyll Talk](https://talk.unclehowell.github.io/WaveOS/), managed solely by Jordon, which offers a modern forum experience for Jekyllers across the globe to talk and learn about Jekyll!
+We also added [Jekyll Talk](https://talk.unclehowell.github.io////), managed solely by Jordon, which offers a modern forum experience for Jekyllers across the globe to talk and learn about Jekyll!
 
 As always, check out the [full history](/docs/history/#v3-0-0) for more details.
 

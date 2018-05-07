@@ -58,5 +58,5 @@ The self-hosted version of Buddy can be installed on any type of server supporti
 This entire guide is open-source. Go ahead and [edit it][jekyll-docs-ci-buddy] if you want to expand it or have a fix or [ask for help][jekyll-help] if you run into trouble and need assistance. Buddy also has an [online community][buddy-forum] for help.
 
 [jekyll-docs-ci-buddy]: https://github.com/jekyll/jekyll/edit/master/docs/_docs/continuous-integration/buddyworks.md
-[jekyll-help]: https://unclehowell.github.io/WaveOS//help/
+[jekyll-help]: https://unclehowell.github.io/////help/
 [buddy-forum]: http://forum.buddy.works/

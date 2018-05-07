@@ -16,7 +16,7 @@ moved away from using the deprecated
 in favor of
 [`Addressable::URI.encode`](http://www.rubydoc.info/gems/addressable/Addressable/URI#encode-class_method).
 This is what powers our [`uri_escape`
-filter](https://unclehowell.github.io/WaveOS//docs/templates/).
+filter](https://unclehowell.github.io/////docs/templates/).
 
 While this transition was mostly a smooth one, the two methods are not
 identical. While `URI.escape` was happy to escape any string,

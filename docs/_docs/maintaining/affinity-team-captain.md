@@ -25,4 +25,4 @@ No sweat at all! Email [@parkr](https://github.com/parkr) and ask to be removed.
 
 We realize that being a captain is no easy feat so we want to make it a great experience. As always, communicate as much as you can with us about what is working, and what isn't. Thanks for dedicating some time to Jekyll! :sparkles:
 
-[affinity teams]: https://teams.unclehowell.github.io/WaveOS//
+[affinity teams]: https://teams.unclehowell.github.io/////

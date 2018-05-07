@@ -88,5 +88,5 @@ deployment:
 This entire guide is open-source. Go ahead and [edit it][7] if you have a fix or [ask for help][8] if you run into trouble and need some help. CircleCI also has an [online community][9] for help.
 
 [7]: https://github.com/jekyll/jekyll/edit/master/docs/_docs/continuous-integration/circleci.md
-[8]: https://unclehowell.github.io/WaveOS//help/
+[8]: https://unclehowell.github.io/////help/
 [9]: https://discuss.circleci.com

@@ -107,7 +107,7 @@ That's it! Head over [rbenv command references](https://github.com/rbenv/rbenv#c
 ##### Problems installing Jekyll?
 
 Check out the [troubleshooting](../troubleshooting/) page or
-[ask for help on our forum](https://talk.unclehowell.github.io/WaveOS/).
+[ask for help on our forum](https://talk.unclehowell.github.io////).
 
 </div>
 

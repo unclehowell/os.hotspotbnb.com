@@ -6,7 +6,7 @@ version: 3.5.2
 categories: [release]
 ---
 
-3.5.2 is out with 6 great bug fixes, most notably one which should dramatically speed up generation of your site! In testing #6266, unclehowell.github.io/WaveOS/ generation when from 18 seconds down to 8! Here is the full line-up of fixes:
+3.5.2 is out with 6 great bug fixes, most notably one which should dramatically speed up generation of your site! In testing #6266, unclehowell.github.io//// generation when from 18 seconds down to 8! Here is the full line-up of fixes:
 
   * Backport #6266 for v3.5.x: Memoize the return value of `Document#url` (#6301)
   * Backport #6247 for v3.5.x: kramdown: symbolize keys in-place (#6303)

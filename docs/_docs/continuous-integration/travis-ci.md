@@ -226,4 +226,4 @@ This entire guide is open-source. Go ahead and [edit it][3] if you have a
 fix or [ask for help][4] if you run into trouble and need some help.
 
 [3]: https://github.com/jekyll/jekyll/edit/master/docs/_docs/continuous-integration/travis-ci.md
-[4]: https://unclehowell.github.io/WaveOS//help/
+[4]: https://unclehowell.github.io/////help/

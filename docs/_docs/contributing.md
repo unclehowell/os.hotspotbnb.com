@@ -8,16 +8,16 @@ Hi there! Interested in contributing to Jekyll? We'd love your help. Jekyll is a
 
 ## Where to get help or report a problem
 
-See [the support guidelines](https://unclehowell.github.io/WaveOS//docs/support/)
+See [the support guidelines](https://unclehowell.github.io/////docs/support/)
 
 ## Ways to contribute
 
 Whether you're a developer, a designer, or just a Jekyll devotee, there are lots of ways to contribute. Here's a few ideas:
 
-* [Install Jekyll on your computer](https://unclehowell.github.io/WaveOS//docs/installation/) and kick the tires. Does it work? Does it do what you'd expect? If not, [open an issue](https://github.com/jekyll/jekyll/issues/new) and let us know.
+* [Install Jekyll on your computer](https://unclehowell.github.io/////docs/installation/) and kick the tires. Does it work? Does it do what you'd expect? If not, [open an issue](https://github.com/jekyll/jekyll/issues/new) and let us know.
 * Comment on some of the project's [open issues](https://github.com/jekyll/jekyll/issues). Have you experienced the same problem? Know a work around? Do you have a suggestion for how the feature could be better?
-* Read through [the documentation](https://unclehowell.github.io/WaveOS//docs/home/), and click the "improve this page" button, any time you see something confusing, or have a suggestion for something that could be improved.
-* Browse through [the Jekyll discussion forum](https://talk.unclehowell.github.io/WaveOS//), and lend a hand answering questions. There's a good chance you've already experienced what another user is experiencing.
+* Read through [the documentation](https://unclehowell.github.io/////docs/home/), and click the "improve this page" button, any time you see something confusing, or have a suggestion for something that could be improved.
+* Browse through [the Jekyll discussion forum](https://talk.unclehowell.github.io/////), and lend a hand answering questions. There's a good chance you've already experienced what another user is experiencing.
 * Find [an open issue](https://github.com/jekyll/jekyll/issues) (especially [those labeled `help-wanted`](https://github.com/jekyll/jekyll/issues?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted)), and submit a proposed fix. If it's your first pull request, we promise we won't bite, and are glad to answer any questions.
 * Help evaluate [open pull requests](https://github.com/jekyll/jekyll/pulls), by testing the changes locally and reviewing what's proposed.
 
@@ -63,11 +63,11 @@ We want the Jekyll documentation to be the best it can be. We've open-sourced ou
 
 ### How to submit changes
 
-You can find the documentation for unclehowell.github.io/WaveOS/ in the [docs](https://github.com/jekyll/jekyll/tree/master/docs) directory. See the section above, [submitting a pull request](#submitting-a-pull-request) for information on how to propose a change.
+You can find the documentation for unclehowell.github.io//// in the [docs](https://github.com/jekyll/jekyll/tree/master/docs) directory. See the section above, [submitting a pull request](#submitting-a-pull-request) for information on how to propose a change.
 
 One gotcha, all pull requests should be directed at the `master` branch (the default branch).
 
-### Updating FontAwesome iconset for unclehowell.github.io/WaveOS/
+### Updating FontAwesome iconset for unclehowell.github.io////
 
 We use a custom version of FontAwesome which contains just the icons we use.
 
@@ -89,7 +89,7 @@ If you ever need to update our documentation with an icon that is not already av
 
 ### Adding plugins
 
-If you want to add your plugin to the [list of plugins](https://unclehowell.github.io/WaveOS//docs/plugins/#available-plugins), please submit a pull request modifying the [plugins page source file](https://github.com/jekyll/jekyll/blob/master/docs/_docs/plugins.md) by adding a link to your plugin under the proper subheading depending upon its type.
+If you want to add your plugin to the [list of plugins](https://unclehowell.github.io/////docs/plugins/#available-plugins), please submit a pull request modifying the [plugins page source file](https://github.com/jekyll/jekyll/blob/master/docs/_docs/plugins.md) by adding a link to your plugin under the proper subheading depending upon its type.
 
 ## Code Contributions
 
@@ -101,7 +101,7 @@ Any time you propose a code change, you should also include updates to the docum
 
 #### Documentation
 
-If your contribution changes any Jekyll behavior, make sure to update the documentation. Documentation lives in the `docs/_docs` folder (spoiler alert: it's a Jekyll site!). If the docs are missing information, please feel free to add it in. Great docs make a great project. Include changes to the documentation within your pull request, and once merged, `unclehowell.github.io/WaveOS/` will be updated.
+If your contribution changes any Jekyll behavior, make sure to update the documentation. Documentation lives in the `docs/_docs` folder (spoiler alert: it's a Jekyll site!). If the docs are missing information, please feel free to add it in. Great docs make a great project. Include changes to the documentation within your pull request, and once merged, `unclehowell.github.io////` will be updated.
 
 #### Tests
 
