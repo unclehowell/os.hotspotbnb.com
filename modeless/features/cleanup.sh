@@ -10,15 +10,12 @@ rpi-update
 
 # fix a tonn of things
 apt-get update
-apt-get upgrade -y
-apt-get dist-upgrade -y
 sudo apt autoremove -y
 apt-get -f install
 apt --fix-broken install
-apt-get update –fix-missing
-apt-get update
 apt-get upgrade -y
 apt-get dist-upgrade -y
-sudo apt autoremove -y
+apt-get update –fix-missing
+apt-get upgrade -f -y
 
 
