@@ -51,9 +51,12 @@ card.mount('#card-element');
     <link href="css/carousel.css" rel="stylesheet">
 	<link href="css/mediaqueries.css" rel="stylesheet">
 		<link href="css/stripe.css" rel="stylesheet">
+		
+		   <!-- video popout -->
+    <link rel="stylesheet" href="stylesheets/jqvl-page.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
   </head>
   <body>
-
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="#"><img style="max-width:175px!important;"  src="img/wave_logo.png"></a>
@@ -87,7 +90,8 @@ card.mount('#card-element');
               <div class="carousel-caption text-left">
                 <h1>SmartHome Wi-Fi Hotspot</h1>
                 <p></br>
-				<p><a class="btn btn-lg btn-primary" href="https://evr-solar.com/product-category/wave/" role="button">Order Now</a></p>
+				<p><a class="btn btn-lg btn-primary video-link demo-link" data-video-id="jW_GUwVie3o" role="button">Play Video</a></p>
+				
               </div>
             </div>
           </div>
@@ -97,7 +101,7 @@ card.mount('#card-element');
               <div class="carousel-caption text-left">
                 <h1>Hotspot Mode</h1>
                 <p>Unleash your Wi-Fi Devices Full Potential</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More</a></p>
+                <p><a class="btn btn-lg btn-primary video-link demo-link" data-video-id="jW_GUwVie3o" role="button">Play Video</a></p>
               </div>
             </div>
           </div>
@@ -107,7 +111,7 @@ card.mount('#card-element');
               <div class="carousel-caption text-right">
                 <h1>Connect More2.</h1>
                 <p>Unleash your Wi-Fi Devices Full Potential</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More</a></p>
+                <p><a class="btn btn-lg btn-primary video-link demo-link" data-video-id="jW_GUwVie3o" role="button">Play Video</a></p>
               </div>
             </div>
           </div>
@@ -124,7 +128,11 @@ card.mount('#card-element');
 
 	    <!-- End of Carousel -->
 	
-	
+	 <div class="box intro">
+        <p>Turn any element into a lightbox or popover link for
+            <span class="video-link demo-link" data-video-id="jW_GUwVie3o">Youtube</span>          
+        </p>
+    </div>
 
       <!-- Marketing messaging and featurettes
       ================================================== -->
@@ -233,6 +241,103 @@ card.mount('#card-element');
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
     <script src="https://getbootstrap.com/docs/4.1/assets/js/vendor/holder.min.js"></script>
 	 <!-- The other .js fils -->
+	 <script src="javascripts/scale.fix.js"></script>
+<script src="javascripts/jquery.min.js"></script>
+<script src="javascripts/videoLightning.js"></script>
+<script src="javascripts/jqvl-page.js"></script>
+	 <script>
+  videoLightning({
+    elements: [
+      {
+        ".video-link": {
+          autoplay: 1,
+          easeOut: 1000,
+          bdColor: "#ddd",
+          bdOpacity: 0.6,
+          glow: 20,
+          glowColor: "#000"
+        }
+      },
+      {
+        ".video-link2": {
+          autoplay: 1,
+          bdColor: "#7FFF00",
+          bdOpacity: 0.7,
+          glow: 150,
+          glowColor: "#fff",
+          xColor: "#7FFF00",
+          color: "#fff"
+        }
+      },
+      {
+        "#bare-iframe-link": {
+          id: 'f-images/JqueryVideoLightningIconPurple144.png',
+          frameColor: '#555',
+          frameBorder: '3px solid #3A0372',
+          bdOpacity: 0.9,
+          glow: 0,
+          xBgColor: '#3A0372',
+          xColor: '#f5f5f5',
+          xBorder: '3px solid #555'
+        }
+      }
+    ]
+  });
+  $(function () {
+      $(".video-link3").jqueryVideoLightning({
+          id: "y-z-D1PJ1cMXs",
+          autoplay: 1,
+          controls: 0,
+          bdColor: "#fff",
+          bdOpacity: 1,
+          xBgColor: 'transparent',
+          xColor: 'transparent',
+          glow: 0,
+          width: 640,
+          height: 360,
+          showinfo: 0,
+          fadeIn: 3000,
+          frameColor: '#fff'
+      });
+  });
+  $(function () {
+      $(".video-link4").jqueryVideoLightning({
+          id: 'y-26mMPKS83c4',
+          autoplay: 1,
+          startTime: 62,
+          fadeIn: 0,
+          bdColor: '#f5f5f5',
+          bdOpacity: 1,
+          glow: 20,
+          glowColor: '#000',
+          controls: 0,
+          showinfo: 0,
+          color: "white"
+      });
+  });
+  $(function () {
+      $(".video-link5").jqueryVideoLightning({
+          autoplay: 1,
+          playlist: "WkgWvaFrJv8,NCsihs3A_hM",
+          bdColor: "#3A0372",
+          bdOpacity: 0.8,
+          glow: 50,
+          glowColor: "#F1D6F5",
+          color: "#fff",
+          cover: 1
+      });
+  });
+  $(function () {
+      $(".video-link6").jqueryVideoLightning({
+          autoplay: 1,
+          controls: 0,
+          width: "480px",
+          height: "320px",
+          popover: 1,
+          peek: 1
+      });
+  });
+</script>
    
   </body>
 </html>
