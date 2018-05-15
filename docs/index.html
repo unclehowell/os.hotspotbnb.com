@@ -6,7 +6,41 @@
     <meta name="description" content="Home Operating System">
     <meta name="author" content="unclehowell">
     <link rel="icon" href="https://getbootstrap.com/favicon.ico">
-	<script src="https://js.stripe.com/v3/"></script>
+     
+	 <script>
+	 
+	 // Create a Stripe client.
+var stripe = Stripe('pk_test_6pRNASCoBOKtIshFeQd4XMUh');
+
+// Create an instance of Elements.
+var elements = stripe.elements();
+
+// Custom styling can be passed to options when creating an Element.
+// (Note that this demo uses a wider set of styles than the guide below.)
+var style = {
+  base: {
+    color: '#32325d',
+    lineHeight: '18px',
+    fontFamily: '"Helvetica Neue", Helvetica, sans-serif',
+    fontSmoothing: 'antialiased',
+    fontSize: '16px',
+    '::placeholder': {
+      color: '#aab7c4'
+    }
+  },
+  invalid: {
+    color: '#fa755a',
+    iconColor: '#fa755a'
+  }
+};
+
+// Create an instance of the card Element.
+var card = elements.create('card', {style: style});
+
+// Add an instance of the card Element into the `card-element` <div>.
+card.mount('#card-element');
+	 
+	 </script>
 
     <title>WaveOS</title>
 
@@ -14,14 +48,15 @@
     <link href="https://getbootstrap.com/docs/4.1/dist/css/bootstrap.min.css" rel="stylesheet">
     
      <!-- Custom styles for this template -->
-    <link href="https://raw.githubusercontent.com/unclehowell/WaveOS/master/docs/css/carousel.css" rel="stylesheet">
-	<link href="https://raw.githubusercontent.com/unclehowell/WaveOS/master/docs/css/mediaqueries.css" rel="stylesheet">
+    <link href="css/carousel.css" rel="stylesheet">
+	<link href="css/mediaqueries.css" rel="stylesheet">
+		<link href="css/stripe.css" rel="stylesheet">
   </head>
   <body>
 
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#"><img style="max-width:175px!important;"  src="https://raw.githubusercontent.com/unclehowell/WaveOS/master/docs/img/wave_logo.png"></a>
+        <a class="navbar-brand" href="#"><img style="max-width:175px!important;"  src="img/wave_logo.png"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -29,7 +64,7 @@
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
                         <li class="nav-item">
-              <a class="nav-link disabled" target="_popup" href="https://mega.nz/#!8HwW1JKZ!Hs1HQCEKzNIabAGGtAZ5t2O9ppSve9canZFbBAcl8v8">Version 0.0.4</a>
+              <a class="nav-link disabled" target="_popup" href="https://mega.nz/#!8HwW1JKZ!Hs1HQCEKzNIabAGGtAZ5t2O9ppSve9canZFbBAcl8v8">Download</a>
             </li>
           </ul>
                 </div>
@@ -47,22 +82,11 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-             <img class="first-slide" style="background-color:black; height:auto;top:-75%!important;zoom:0.65!important;opacity: 0.2;right:10px!important;" src="https://raw.githubusercontent.com/unclehowell/WaveOS/master/docs/img/hotspot_mode.png" alt="First slide">
+           <img class="second-slide" src="https://raw.githubusercontent.com/unclehowell/WaveOS/master/docs/img/hotspot_mode.png"alt="Second slide">
             <div class="container">
               <div class="carousel-caption text-left">
-                <h1 style="color:grey;">Faster Internet</h1>
-                <p style="color:grey;">In Hotspot Mode Internet is Quicker</p>
-                 <p><a class="btn btn-lg btn-primary" href="https://evr-solar.com/product-category/wave/" role="button">Learn More</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-           <img class="second-slide" style="background-color:black; height:auto;top:-75%!important;zoom:0.65!important;opacity: 0.2;right:10px!important;" src="https://fthmb.tqn.com/saWqQhZjV-OaK4MM37Ox5169ciQ=/2121x1414/filters:no_upscale():fill(FFCC00,1)/GettyImages-184999273-58afcf113df78cdcd8ec4833.jpg"alt="Second slide">
-            <div class="container">
-              <div class="carousel-caption text-left">
-                <h1>Elegant Stats & Menu</h1>
-                <p>In Hotspode Mode the Menu's Simpler &</br>
-                Easier to Access than anything before it</br>
+                <h1>SmartHome Wi-Fi Hotspot</h1>
+                <p></br>
 				<p><a class="btn btn-lg btn-primary" href="https://evr-solar.com/product-category/wave/" role="button">Learn More</a></p>
               </div>
             </div>
@@ -171,6 +195,7 @@
         <!-- /END THE FEATURETTES -->
 
       </div><!-- /.container -->
+<script src="https://js.stripe.com/v3/"></script>
 
 <form action="/charge" method="post" id="payment-form">
   <div class="form-row">
@@ -181,7 +206,7 @@
       <!-- A Stripe Element will be inserted here. -->
     </div>
 
-    <!-- Used to display Element errors. -->
+    <!-- Used to display form errors. -->
     <div id="card-errors" role="alert"></div>
   </div>
 
