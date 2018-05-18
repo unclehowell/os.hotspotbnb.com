@@ -21,11 +21,13 @@ body {
   position: absolute;
   width: 100%;
   opacity: 0;
-  margin-top:-12px;
+  margin-top:-8px;
+  font-style:bold;
 }
 
 .letter {
   display: inline-block;
+  margin: 2px;
   position: relative;
   float: left;
   -webkit-transform: translateZ(25px);
@@ -40,13 +42,13 @@ body {
   transition: -webkit-transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
   transition: transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
   transition: transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19), -webkit-transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
-   opacity:0.1;
+   opacity:0.01;
 }
 
 .letter.behind {
   -webkit-transform: rotateX(-90deg);
           transform: rotateX(-90deg);
-		 opacity:0.1;
+		 opacity:0.011;
 }
 
 .letter.in {
@@ -61,5 +63,10 @@ body {
 .wave {
   color: #54CCF3;
 }
+
+.white {
+  color: white;
+}
+
 
 
