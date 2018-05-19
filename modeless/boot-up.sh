@@ -6,6 +6,7 @@
 cd /var
 git clone https://github.com/unclehowell/WaveOS.git
 chmod +x /var/WaveOS/modeless/*
+cd
 
 # 1) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
