@@ -1,1 +1,1 @@
-scritp
+#!/usr/bin/env bash

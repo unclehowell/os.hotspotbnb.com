@@ -42,6 +42,10 @@ sh /var/WaveOS/modeless/features/functions/run.sh  &&
 # sed 's/#xserver-command=X/xserver-command=X/' lightdm.conf > lightdm2.conf
 # mv lightdm2.conf lightdm.conf
 
+# cronjob to check daily for updates
+
+mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
+chmod +x /etc/cron.daily/prep-update.sh
 
 # LEFT UNTIL THE END  (CAUSES AUTO REBOOT)
 
