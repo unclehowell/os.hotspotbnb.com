@@ -226,8 +226,10 @@ Main Components
 .cd-3d-nav li:first-of-type a::before {
   background-image: url(https://image.flaticon.com/icons/svg/24/24530.svg);
   filter: invert(100%);
-  opacity: 0.3;
-  margin-top: 20px;
+  opacity: 0.2;
+  margin-top: 0.4em;
+  background-repeat: no repeat;
+    background-position: center;
   
 }
 .cd-3d-nav li:nth-of-type(2) a::before {
