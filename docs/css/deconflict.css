@@ -1,3 +1,9 @@
 .a {
 text-decoration: none;
 }
+
+ .underrevolvingtext {
+	 display:block;
+	 height:40px;
+	 margin-top:20px;
+ }
