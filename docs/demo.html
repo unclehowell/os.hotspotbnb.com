@@ -23,29 +23,7 @@ function runOnScroll(){
 			<style>
 
 img { -ms-interpolation-mode: bicubic; }
-iframe {
-image-rendering: -moz-crisp-edges;         /* Firefox */
-        image-rendering:   -o-crisp-edges;         /* Opera */
-        image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
-        image-rendering: crisp-edges;
-        -ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
-
-	padding-top: -95px;
-  -moz-transform: scale(0.99, 0.99); 
-  -webkit-transform: scale(0.99, 0.99); 
-  -o-transform: scale(0.99, 0.99);
-  -ms-transform: scale(0.99, 0.99);
-  transform: scale(0.99, 0.99); 
-  -moz-transform-origin: top left;
-  -webkit-transform-origin: top left;
-  -o-transform-origin: top left;
-  -ms-transform-origin: top left;
-  transform-origin: top left;
-}  #theframe {
-    -moz-transform: scale(0.99, 0.99); 
-    -moz-transform-origin: top left;
-	
-  } 
+ 
 
 html, body, iframe {
 	min-height: 99.9%;
@@ -126,19 +104,7 @@ html {
   	
 	<title>Wave - Interactive Demo</title>
 	
-       <script type="text/javascript">
-         function calcHeight()
-         {
-         //find the height of the internal page
-         var the_height=
-         document.getElementById('frame').contentWindow.
-         document.body.scrollHeight;
-
-         //change the height of the iframe
-         document.getElementById('frame').height=
-         the_height;
-         }
-</script>
+ 
 </head>
 <body style="overflow: hidden; overflow-x: hidden;">
 	<header class="cd-header">
@@ -163,19 +129,19 @@ html {
 	<nav class="cd-3d-nav-container">
 		<ul class="cd-3d-nav">
 			<li class="cd-selected">
-				<a href="http://youtube.com/watch?v=LhtsfImgOTk&autoplay=1" onclick="setIframeSrc('framez', this.href); return false" target="framez">TV & Media</a>
+				<a href="https://www.youtube.com/embed/LhtsfImgOTk?rel=0&amp;controls=0&amp;showinfo=0" onclick="setIframeSrc('framez', this.href); return false" target="framez">TV & Media</a>
 			</li>
 
 			<li>
-				<a href="http://demo.openhab.org:8080/habpanel/index.html#/" onclick="setIframeSrc('framez', this.href); return false" target="framez">Home Control</a>
+				<a href="http://demo.openhab.org:8080/basicui/app?sitemap=demo" onclick="setIframeSrc('framez', this.href); return false" target="framez">Home Control</a>
 			</li>
 
 			<li>
-				<a href="http://test.com" onclick="setIframeSrc('framez', this.href); return false" target="framez">Cameras</a>
+				<a href="https://cdn.pimylifeup.com/wp-content/uploads/2015/06/Raspberry-Pi-MotionPie-interface.jpg" onclick="setIframeSrc('framez', this.href); return false" target="framez">Cameras</a>
 			</li>
 
 			<li>
-				<a href="#0" onclick="setIframeSrc('framez', this.href); return false" target="framez">Energy</a>
+				<a href="https://i0.wp.com/www.purplemud.co.uk/wp-content/uploads/2015/08/oem2.jpg" onclick="setIframeSrc('framez', this.href); return false" target="framez">Energy</a>
 				
 			</li>
 			
