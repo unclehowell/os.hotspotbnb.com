@@ -54,10 +54,6 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
 	  
-	  .img1 {
-	background-image: url(../img/emby_m.png); /* (from interactive demo) */
-}
-
 /* Landscape */
 @media only screen 
   and (min-device-width: 320px) 
@@ -643,6 +639,9 @@
   and (min-device-width: 1200px) 
   and (max-device-width: 1600px) 
   and (-webkit-min-device-pixel-ratio: 1) { 
+  	  .img1 {
+	background-image: url(../img/emby.png); /* (from interactive demo) */
+}
 }
 
 /* ----------- Retina Screens ----------- */
@@ -651,6 +650,9 @@
   and (max-device-width: 1600px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (min-resolution: 192dpi) { 
+  	  .img1 {
+	background-image: url(../img/emby.png); /* (from interactive demo) */
+}
 }
 
 /* ----------- ----------- ----------- ----------- ----------- ----------- ----------- ------- */
