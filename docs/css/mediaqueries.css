@@ -44,6 +44,7 @@
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
+	  
 
 }
 
@@ -53,6 +54,14 @@
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
+	  
+	  	  .img1 {
+	background-image: url(../img/emby_m.png);
+	background-repeat: no-repeat;
+	width: 101%;
+	height: 99%;
+	margin: 0;
+}
 	  
 /* Landscape */
 @media only screen 
