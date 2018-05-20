@@ -88,7 +88,7 @@ Main Components
   position: absolute;
   width: 28px;
   height: 3px;
-  background-color: #36C2F3;
+  background-color: #FFF;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
@@ -142,7 +142,7 @@ Main Components
   position: fixed;
   top: 0;
   left: 0;
-  height: 10px;
+  height: 80px;
   width: 100%;
   background-color: #000000;
   visibility: hidden;
@@ -344,7 +344,7 @@ Main Components
 @media only screen and (min-width: 768px) {
   .cd-3d-nav a {
     padding: 7.6em 1em 0;
-    color: #36C2F3;
+    color: #ffffff;
     font-size: 1.3rem;
     font-weight: 600;
     text-align: center;
@@ -415,28 +415,28 @@ Main Components
 
 /* these are the colors of the markers - line + arrow */
 .color-1 {
-  color: #36C2F3;
-  background-color: #36C2F3;
+  color: #9a57bd;
+  background-color: #9a57bd;
 }
 
 .color-2 {
-  color: #36C2F3;
-  background-color: #36C2F3;
+  color: #c96aa4;
+  background-color: #c96aa4;
 }
 
 .color-3 {
-  color: #36C2F3;
-  background-color: #36C2F3;
+  color: #d6915e;
+  background-color: #d6915e;
 }
 
 .color-4 {
-  color: #36C2F3;
-  background-color: #36C2F3;
+  color: #5397c7;
+  background-color: #5397c7;
 }
 
 .color-5 {
-  color: #36C2F3;
-  background-color: #36C2F3;
+  color: #77cd91;
+  background-color: #77cd91;
 }
 
 main {
