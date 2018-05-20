@@ -86,8 +86,8 @@ Main Components
 .cd-3d-nav-trigger span::after {
   /* hamburger icon in CSS */
   position: absolute;
-  width: 48px;
-  height: 2px;
+  width: 28px;
+  height: 3px;
   background-color: #36C2F3;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
