@@ -45,14 +45,21 @@
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
 	  
-.demo-iframe-container  { 
-    width: 318px; 
+.interactive-demo-emby-screenshot {
+    background-repeat: repeat-x;
+    background-position:center top;
+	background-attachment: fixed;
+	-webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+	padding: 0px 0px 0px 0px;
+	border: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 	overflow-x: hidden;
-	background-color: yellow;
+}	  
+body {
+height: 0px 0px 0px 0px;!important;	
 }
-.demo-iframe {
-	overflow-x: hidden;
-	background-color: green;
   }
 
 /* Portrait */
@@ -62,23 +69,13 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
 	 
-
-.demo-iframe-container { 
+.interactive-demo-emby-screenshot {
+	background-image: url(../img/dashboard-demo/emby/iphone5_P.png);	
 	height: 564px;
-	border: 1px solid red;
-	width: 319.5px;
-	background-color: yellow;
-	
-
-
-} 
-.demo-iframe {
-	height: 540px!important;
-	border: 1px solid white;
-	width: 318px;
-	background-color: green;
-
+	border: 1px solid blue;
+	width: 314px;
 }
+
 }
 
 	  
@@ -89,19 +86,11 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
 
-
-.demo-iframe-container { 
-width: 567.5px;
-height: 290px;
-border: 2px solid red;
-
-
-} 
-.demo-iframe {
-	width: 564px;
-	height: 190px!important;
-	border: 2px solid white;
-
+.interactive-demo-emby-screenshot {
+	background-image: url(../img/dashboard-demo/emby/iphone5_L.png);
+	height: 320px;
+	border: 1px solid blue;
+	width: 558px;
 }
 
 /* ----------- iPhone 6, 6S, 7 and 8 ----------- */
@@ -209,10 +198,7 @@ border: 2px solid red;
   and (-webkit-device-pixel-ratio: 2) 
   and (orientation: portrait) {
 
-  .demo-iframe-container { height: 1280px;} .demo-iframe {
-	height: 1280px;
-		width: 100%;
-}
+
 }
 
 /* Landscape */
@@ -222,14 +208,7 @@ border: 2px solid red;
   and (-webkit-device-pixel-ratio: 2) 
   and (orientation: landscape) {
 
-  .demo-iframe-container { 
-    height: 720px;
-  } 
-  
-  .demo-iframe {
-	height: 720px;
-    width: 100%;
-}
+
 }
 
 /* ----------- Galaxy S4, S5 and Note 3 ----------- */
@@ -241,6 +220,7 @@ border: 2px solid red;
   and (-webkit-device-pixel-ratio: 3) {
 	  
 
+
 }
 
 /* Portrait */
@@ -250,13 +230,12 @@ border: 2px solid red;
   and (-webkit-device-pixel-ratio: 3) 
   and (orientation: portrait) {
 	  
-
-.demo-iframe-container { 
-    height: 1280px;
-} 
-.demo-iframe {
+	  .interactive-demo-emby-screenshot {
+	background-image: url(../img/dashboard-demo/emby/GalaxyS45+Note3_P.png);	
+	width: 101%;
 	height: 1280px;
 }
+
 }
 
 /* Landscape */
@@ -267,10 +246,12 @@ border: 2px solid red;
   and (orientation: landscape) {
 
   	  
-	
-.demo-iframe {
+	  .interactive-demo-emby-screenshot {
+	background-image: url(../img/dashboard-demo/emby/GalaxyS45+Note3_L.png);	
+	width: 101%;
 	width: 1280px;
 }
+
 
 }
 
@@ -291,21 +272,7 @@ border: 2px solid red;
   and (-webkit-device-pixel-ratio: 4) 
   and (orientation: portrait) {
 
-    .demo-iframe-container { height: 640px;} .demo-iframe {
-	height: 640px;
-}
-}
-
-/* Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
-  and (orientation: landscape) {
-
-    .demo-iframe-container { height: 360px;} .demo-iframe {
-	height: 360px;
-}
+ 
 }
 
 

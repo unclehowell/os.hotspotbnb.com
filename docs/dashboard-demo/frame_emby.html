@@ -1,35 +1,21 @@
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-<link rel="stylesheet" href="../css/mediaqueries.css"> 
 <style>
-.img1 {
-	background-image: url(../img/emby.png);
-	background-repeat: repeat-x;
-    background-position:center top;
-    width: 101%;
-	height: 2200px;
-}
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-	 
-.img1 {
-	background-image: url(../img/emby_m.png);
-	background-repeat: repeat-x;
-    background-position:center top;
-	width: 101%;
-	height: 568px;
-
-}
+body { 
+	-ms-interpolation-mode: bicubic;		
+    background-repeat:no-repeat;
+    background-position: center; 
+	margin: 0px;
 }
 </style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover"/>
+<!--[if !mso]><!-- -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+
+<link rel="stylesheet" href="../css/mediaqueries-frames.css"> 
 </head>
 <body>
-<div class="img1"></div>
+<div class="interactive-demo-emby-screenshot"></div>
 </body>
 </html>
