@@ -5,9 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover" />
 	<meta name="HandheldFriendly" content="true" />
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/mediaqueries.css"> 
+<link rel="stylesheet" href="dashboard-demo/css/mediaqueries-frames-P.css">
+<link rel="stylesheet" href="dashboard-demo/css/mediaqueries-frames-L.css"> 
 	<link rel="stylesheet" href="dashboard-demo/css/reset.css"><!-- CSS reset -->
 	<link rel="stylesheet" href="dashboard-demo/css/style.css"> <!-- Resource style -->
+	<link rel="stylesheet" href="dashboard-demo/css/frames.css">
 	<script src="dashboard-demo/js/modernizr.js"></script> <!-- Modernizr -->
 
 <!---ob_start(); and end/_clean are to hide the header ---> 
@@ -20,11 +22,22 @@
 img { -ms-interpolation-mode: bicubic; }
  
 
-html, body, iframe {
+html {
 	min-height: 99.99%;
-	overflow-x: hidden;
+	overflow-y: display;
 	margin: 0px;
 	
+}
+body {
+	min-height: 99.99%;
+
+	margin: 0px;
+	
+}
+
+ iframe {
+	min-height: 99.99%;
+	margin: 0px;
 }
 
 #head, #ifra, iframe {
@@ -78,14 +91,12 @@ html {
 */
 </style><![endif]-->
 	<!-- demo -->
-  	
-	<title>Wave - Interactive Demo</title>
-	
- 
+
+	<title>Wave - UI Demo</title>
 </head>
 <body style="overflow-x: hidden;">
 	<header class="cd-header">
-		<a href="#0" class="logo"><img src="img/wave_app_text.png" class="logo" style="margin-top:30px;width:220px;height: auto;" alt="Logo"></a>
+		<a href="dashboard-demo/frame_netstats.html" onclick="setIframeSrc('framez', this.href); return false" target="framez" class="logo"><img src="img/wave_app_text.png" class="logo" style="margin-top:30px;width:220px;height:auto;" alt="Logo"></a>
 		<a href="#0" class="cd-3d-nav-trigger">
 			Menu
 			<span></span>
@@ -93,9 +104,8 @@ html {
 	</header> <!-- .cd-header -->
 	
 	<main>
-	<div class="demo-iframe-container">
- <iframe class="demo-iframe" id="framez" name="framez" onmouseover=
-    "setScrolling('auto')" src="dashboard-demo/frame_emby.html" allowfullscreen></iframe>
+	<div class="demo-iframe-container container-mq">
+ <iframe class="demo-iframe iframe-mq" id="framez" name="framez" src="dashboard-demo/frame_emby.html" webkitallowfullscreen mozallowfullscreen  allowfullscreen></iframe>
 	</div>
 
 		<!-- all your content here -->
