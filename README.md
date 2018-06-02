@@ -4,7 +4,8 @@
 <td style="width: 252px;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></td>
 <td style="width: 299px; text-align: center;">
 <h1 id="mcetoc_1cb7hvoro1c"><strong>WAVEOS!</strong></h1>
-  <p> <a href=https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A">The No.1 OS for Single Board Computers</a></p>
+  <p>The No.1 OS for Single Board Computers</p>
+      <p> <a href=https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A">Latest Release - 0.0.4 (150Mb)</a></p>
 </td>
 </tr>
 </tbody>
