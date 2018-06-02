@@ -3,8 +3,8 @@
 <tr>
 <td style="width: 252px;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></td>
 <td style="width: 299px; text-align: center;">
-<h1 id="mcetoc_1cb7hvoro1c"><strong>MEET WAVE!</strong></h1>
-  <p> <a href=https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A"> FREE Operating System for Raspberry Pi </a></p>
+<h1 id="mcetoc_1cb7hvoro1c"><strong>WAVEOS!</strong></h1>
+  <p> <a href=https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A">The No.1 OS for Single Board Computers</a></p>
 </td>
 </tr>
 </tbody>
