@@ -122,7 +122,7 @@
 <tr>
 <td style="text-align: center; width: 128px;">&nbsp;$124.99 USD</td>
 <td style="text-align: center; width: 127px;">&nbsp;$14.99 USD</td>
-  <td style="text-align: center; width: 150px;">$0 USD - <a href="https://github.com/unclehowell/WaveOS/blob/master/firmware.csv">download</a></td>
+  <td style="text-align: center; width: 150px;">$0 USD - <a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/firmware.csv">download</a></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 128px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
@@ -136,12 +136,12 @@
 </tr>
 <tr>
 <td style="text-align: center; width: 255px;" colspan="2">
-<p style="text-align: center;"><a href="https://github.com/unclehowell/WaveOS/blob/master/partners-retail.csv">Retail Partners</a></p>
+<p style="text-align: center;"><a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/resellers.csv">Retail Partners</a></p>
 </td>
 </tr>
 <tr>
 <td style="width: 128px;">&nbsp;</td>
-<td style="text-align: center; width: 277px;" colspan="2"><a href="https://github.com/unclehowell/WaveOS/blob/master/parts-list.csv">Self-Assembly/ Parts List</a></td>
+<td style="text-align: center; width: 277px;" colspan="2"><a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/partslist-hotspot.csv">Self-Assembly/ Parts List</a></td>
 </tr>
 </tbody>
 </table>
