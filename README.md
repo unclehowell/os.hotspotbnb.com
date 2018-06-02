@@ -123,12 +123,12 @@
 <tr>
 <td style="width: 349px;">Broadcast</td>
 <td style="width: 94.8px;"><strong>Wi-Fi</strong>&nbsp;<strong>Mode</strong></td>
-<td style="width: 10px;">&nbsp;</td>
+<td style="width: 10px;">Receiver / Transmitter</td>
 </tr>
 <tr>
 <td style="width: 349px;">Ethernet</td>
 <td style="width: 94.8px;">&nbsp;<strong>Connection</strong></td>
-<td style="width: 10px;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;Wireless</td>
 </tr>
 <tr>
 <td style="width: 349px;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
