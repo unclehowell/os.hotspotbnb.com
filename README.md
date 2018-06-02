@@ -1,11 +1,14 @@
 <table style="height: 209px; width: 565px;">
 <tbody>
 <tr>
-<td style="width: 252px;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></td>
+<td style="width: 252px;">
+<p>&nbsp;</p>
+<p><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></p>
+</td>
 <td style="width: 299px; text-align: center;">
 <h1 id="mcetoc_1cb7hvoro1c"><strong>WAVEOS!</strong></h1>
-  <p>The No.1 Operating System for Single Board Computers</p>
-      <p> <a href=https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A">Latest Release - 0.0.4 (150Mb)</a></p>
+<p>The No.1 Operating System for Single Board Computers</p>
+<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Latest Release - 0.0.4 (150Mb)</a></p>
 </td>
 </tr>
 </tbody>
@@ -78,14 +81,14 @@
 </table>
 <p style="text-align: left;">&nbsp;</p>
 <p><!-- pagebreak -->*Some Features are Subscription Services (with 30 Day Free Trial) <a href="https://github.com/unclehowell/WaveOS/blob/master/hotspot/premium/README.md">Learn More</a></p>
-<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Two-in-One</h2>
+<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Multiple Use</h2>
 <p style="text-align: left;">Each Wave Unit has two primary modes of operation and comes with both sets of cables, allowing you to alternate between functions at any time:</p>
 <table style="width: 470px; float: left;">
 <tbody>
 <tr>
-  <td style="width: 10px; text-align: center;"><strong><a href="">Hotspot-Mode</a></strong></td>
+<td style="width: 10px; text-align: center;"><strong><a>Hotspot-Mode</a></strong></td>
 <td style="width: 123px; text-align: center;"><img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="125" /></td>
-  <td style="width: 10px; text-align: center;"><strong><a href="">Extender-Mode</a></strong></td>
+<td style="width: 10px; text-align: center;"><strong><a>Extender-Mode</a></strong></td>
 </tr>
 <tr>
 <td style="width: 10px; text-align: center;">Broadcast</td>
@@ -110,6 +113,36 @@
 </tbody>
 </table>
 <h2 id="mcetoc_1cb7hoqvd1b" style="text-align: left;"><!-- pagebreak -->&nbsp;</h2>
+<table style="width: 461px;">
+<tbody>
+<tr>
+<td style="width: 349px;"><strong><a>Energy-Mode</a></strong></td>
+<td style="width: 94.8px;">&nbsp;</td>
+<td style="width: 10px;"><strong><a>Repeater-Mode</a></strong></td>
+</tr>
+<tr>
+<td style="width: 349px;">Broadcast</td>
+<td style="width: 94.8px;"><strong>Wi-Fi</strong>&nbsp;<strong>Mode</strong></td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 349px;">Ethernet</td>
+<td style="width: 94.8px;">&nbsp;<strong>Connection</strong></td>
+<td style="width: 10px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 349px;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
+<td style="width: 94.8px;">&nbsp;</td>
+<td style="width: 10px;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
+</tr>
+<tr>
+<td style="width: 349px; text-align: justify;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
+<td style="width: 94.8px;">&nbsp;</td>
+<td style="width: 10px;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1cb7hoqvd1b"><!-- pagebreak -->&nbsp;</h2>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
 <table style="width: 508px; float: left;">
 <tbody>
@@ -123,7 +156,7 @@
 <tr>
 <td style="text-align: center; width: 128px;">&nbsp;$124.99 USD</td>
 <td style="text-align: center; width: 127px;">&nbsp;$14.99 USD</td>
-  <td style="text-align: center; width: 150px;">$0 USD - <a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/firmware.csv">download</a></td>
+<td style="text-align: center; width: 150px;">$0 USD - <a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/firmware.csv">download</a></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 128px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
