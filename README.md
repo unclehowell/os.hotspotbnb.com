@@ -198,6 +198,23 @@
 <p>B) in Extender Mode you will be instructed to unplug the device from your Router and connect to your TV</p>
 <p>C) in Repeater Mode (Receiver) you will be instructed to unplug the device from your Router and connect to your other device which should be configured as a Repeater (Transmitter) beforehand (or vice versa)</p>
 <p>&nbsp;</p>
+<h2><strong>Thanks</strong></h2>
+<p>The WaveOS Project would not have been possible without the incredible technologies listed below - a huge thanks to the teams behind these projects from all of us here at Wave:</p>
+<table>
+<tbody>
+<tr>
+<td><a title="Google Chrome Browser" href="https://www.google.com/chrome/" target="_blank" rel="noopener"><img src="https://image.ibb.co/d2ONky/chrome.png" alt="Google Chrome" width="150" /></a></td>
+<td><a title="DietPi" href="https://dietpi.com" target="_blank" rel="noopener"><img src="https://image.ibb.co/nP74yJ/dietpi.png" alt="DietPi" width="150" /></a></td>
+<td><a title="Emby" href="https://emby.media" target="_blank" rel="noopener"><img src="https://image.ibb.co/h2R8Qy/emby.png" alt="Emby" width="150" /></a></td>
+</tr>
+<tr>
+<td><a title="Linux" href="https://www.linuxfoundation.org" target="_blank" rel="noopener"><img src="https://image.ibb.co/ffTcJJ/linux.png" alt="" width="150" /></a></td>
+<td><a title="OpenHAB" href="https://www.openhab.org" target="_blank" rel="noopener"><img src="https://image.ibb.co/mzK6Cd/openhab.png" alt="OpenHAB" width="150" /></a></td>
+<td><a href="https://emoncms.org" target="_blank" rel="noopener"><img src="https://image.ibb.co/b4esJJ/emoncms.png" alt="" width="150" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p><strong>Help &amp; Support</strong></p>
 <p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">hywelapbuckler@gmail.com</a></p>
 <p>office: +442031377118 (calls recorded)</p>
