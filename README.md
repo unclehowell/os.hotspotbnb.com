@@ -120,7 +120,7 @@
 <td style="width: 10px;"><strong><a>Repeater-Mode</a></strong></td>
 </tr>
 <tr>
-<td style="width: 258.2px;">Broadcast</td>
+<td style="width: 258.2px;">Receiver</td>
 <td style="width: 183.8px;">&nbsp;</td>
 <td style="width: 10px;">Receiver / Transmitter</td>
 </tr>
@@ -143,7 +143,7 @@
 </table>
 <h2 id="mcetoc_1cb7hoqvd1b"><!-- pagebreak -->&nbsp;</h2>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
-<p><strong>Step-1.</strong> Get your physical device(s) and FREE Copy of WaveOS</p>
+<p><strong>Step-1.</strong>&nbsp;Obtain your physical hardware and download your FREE Copy of WaveOS</p>
 <table style="width: 508px; float: left;">
 <tbody>
 <tr>
@@ -198,7 +198,7 @@
 <p>B) in Extender Mode you will be instructed to unplug the device from your Router and connect to your TV</p>
 <p>C) in Repeater Mode (Receiver) you will be instructed to unplug the device from your Router and connect to your other device which should be configured as a Repeater (Transmitter) beforehand (or vice versa)</p>
 <p>&nbsp;</p>
-<p>Help &amp; Support</p>
+<p><strong>Help &amp; Support</strong></p>
 <p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">hywelapbuckler@gmail.com</a></p>
 <p>office: +442031377118 (calls recorded)</p>
 <p>skype: hywel.buckler</p>
