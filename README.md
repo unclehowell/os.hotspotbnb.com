@@ -13,7 +13,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="mcetoc_1cb7i0l8q1d"><strong><!-- pagebreak -->Intro<br /></strong></h2>
+<h2 id="mcetoc_1cb7i0l8q1d"><strong><!-- pagebreak -->Features<br /></strong></h2>
 <p style="text-align: left;">This&nbsp;little device&nbsp;instantly&nbsp;brings&nbsp;any home and/or small business into the&nbsp;21st Century. Here&nbsp;are just some of&nbsp;its&nbsp;many features:</p>
 <table style="height: 1726px; width: 0px; float: left;">
 <tbody>
