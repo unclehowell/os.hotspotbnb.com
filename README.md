@@ -81,8 +81,8 @@
 </table>
 <p style="text-align: left;">&nbsp;</p>
 <p><!-- pagebreak -->*Some Features are Subscription Services (with 30 Day Free Trial) <a href="https://github.com/unclehowell/WaveOS/blob/master/hotspot/premium/README.md">Learn More</a></p>
-<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Multiple Use</h2>
-<p style="text-align: left;">Each Wave Unit has two primary modes of operation and comes with both sets of cables, allowing you to alternate between functions at any time:</p>
+<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Multi-Function</h2>
+<p style="text-align: left;">Each Wave Unit has multiple modes of operation:</p>
 <table style="width: 468px; float: left;">
 <tbody>
 <tr>
