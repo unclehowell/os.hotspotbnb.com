@@ -83,61 +83,61 @@
 <p><!-- pagebreak -->*Some Features are Subscription Services (with 30 Day Free Trial) <a href="https://github.com/unclehowell/WaveOS/blob/master/hotspot/premium/README.md">Learn More</a></p>
 <h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Multiple Use</h2>
 <p style="text-align: left;">Each Wave Unit has two primary modes of operation and comes with both sets of cables, allowing you to alternate between functions at any time:</p>
-<table style="width: 470px; float: left;">
+<table style="width: 468px; float: left;">
 <tbody>
 <tr>
 <td style="width: 10px; text-align: center;"><strong><a>Hotspot-Mode</a></strong></td>
-<td style="width: 123px; text-align: center;"><img src="https://thumb.ibb.co/gKkz7S/slider_switch.png" alt="Modes Switch" width="125" /></td>
-<td style="width: 10px; text-align: center;"><strong><a>Extender-Mode</a></strong></td>
+<td style="width: 54.6px; text-align: center;">&nbsp;</td>
+<td style="width: 78.4px; text-align: center;"><strong><a>Extender-Mode</a></strong></td>
 </tr>
 <tr>
 <td style="width: 10px; text-align: center;">Broadcast</td>
-<td style="width: 123px; text-align: center;"><strong>Wi-Fi</strong>&nbsp;<strong>Mode</strong></td>
-<td style="width: 10px; text-align: center;">Receiver</td>
+<td style="width: 54.6px; text-align: center;">&nbsp;</td>
+<td style="width: 78.4px; text-align: center;">Receiver</td>
 </tr>
 <tr>
 <td style="width: 10px; text-align: center;">Ethernet</td>
-<td style="width: 123px; text-align: center;">&nbsp;<strong>Connection</strong></td>
-<td style="width: 10px; text-align: center;">HDMI</td>
+<td style="width: 54.6px; text-align: center;">&nbsp;</td>
+<td style="width: 78.4px; text-align: center;">HDMI</td>
 </tr>
 <tr style="text-align: center;">
 <td style="width: 10px;">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" /></td>
-<td style="width: 123px;">&nbsp;</td>
-<td style="width: 10px;"><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="185" /></td>
+<td style="width: 54.6px;">&nbsp;</td>
+<td style="width: 78.4px;"><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="185" /></td>
 </tr>
 <tr style="text-align: center;">
 <td style="width: 10px; text-align: justify;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
-<td style="width: 123px; text-align: justify;">&nbsp;</td>
-<td style="width: 10px; text-align: justify;">In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
+<td style="width: 54.6px; text-align: justify;">&nbsp;</td>
+<td style="width: 78.4px; text-align: justify;">In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
 </tr>
 </tbody>
 </table>
 <h2 id="mcetoc_1cb7hoqvd1b" style="text-align: left;"><!-- pagebreak -->&nbsp;</h2>
-<table style="width: 461px;">
+<table style="width: 456px;">
 <tbody>
 <tr>
-<td style="width: 349px;"><strong><a>Energy-Mode</a></strong></td>
-<td style="width: 94.8px;">&nbsp;</td>
+<td style="width: 258.2px;"><strong><a>Energy-Mode</a></strong></td>
+<td style="width: 183.8px;">&nbsp;</td>
 <td style="width: 10px;"><strong><a>Repeater-Mode</a></strong></td>
 </tr>
 <tr>
-<td style="width: 349px;">Broadcast</td>
-<td style="width: 94.8px;"><strong>Wi-Fi</strong>&nbsp;<strong>Mode</strong></td>
+<td style="width: 258.2px;">Broadcast</td>
+<td style="width: 183.8px;">&nbsp;</td>
 <td style="width: 10px;">Receiver / Transmitter</td>
 </tr>
 <tr>
-<td style="width: 349px;">Ethernet</td>
-<td style="width: 94.8px;">&nbsp;<strong>Connection</strong></td>
+<td style="width: 258.2px;">Ethernet</td>
+<td style="width: 183.8px;">&nbsp;</td>
 <td style="width: 10px;">&nbsp;Wireless</td>
 </tr>
 <tr>
-<td style="width: 349px;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
-<td style="width: 94.8px;">&nbsp;</td>
+<td style="width: 258.2px;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
+<td style="width: 183.8px;">&nbsp;</td>
 <td style="width: 10px;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
 </tr>
 <tr>
-<td style="width: 349px; text-align: justify;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
-<td style="width: 94.8px;">&nbsp;</td>
+<td style="width: 258.2px; text-align: justify;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
+<td style="width: 183.8px;">&nbsp;</td>
 <td style="width: 10px;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
 </tr>
 </tbody>
