@@ -216,7 +216,7 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>Help &amp; Support</strong></p>
-<p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">hywelapbuckler@gmail.com</a></p>
+<p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">support@makeitwave.com</a></p>
 <p>office: +442031377118 (calls recorded)</p>
-<p>skype: hywel.buckler</p>
 <p>&copy; Make it Wave Ltd (Company ID: 11363386)</p>
+<a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" height="40px" width="40px">
