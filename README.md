@@ -80,7 +80,7 @@
 </tbody>
 </table>
 <p style="text-align: left;">&nbsp;</p>
-<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Multi-Function</h2>
+<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Functions</h2>
 <p style="text-align: left;">Each Wave Unit has multiple modes of operation:</p>
 <table style="width: 468px; float: left;">
 <tbody>
