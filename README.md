@@ -80,8 +80,12 @@
 </tbody>
 </table>
 <p style="text-align: left;">&nbsp;</p>
-<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Functions</h2>
-<p style="text-align: left;">Each Wave Unit has multiple modes of operation:</p>
+<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Home Starter Kit&nbsp;&nbsp;</h2>
+<p style="text-align: left;">The Wave home starter kit comes complete with 7 Single Board Computers (SBC's) running WaveOS, helping you interconnect your home in seconds. Each Unit has multiple modes of operation, enabling you to customise the Starter Kit to suite your home:</p>
+<p>EXAMPLE 1: x1 connected to Router, x4 connected to 4 TV's, x2 connected together to create a Wi-Fi Repeater</p>
+<p>EXAMPLE 2: x1 connected to Router, x1 connected to Solar Inverter, x5 connected to 5 TV's</p>
+<p>* 1 must always be connected to the router (Hotspot-Mode)</p>
+<p>* the WAVEOS menu can also be accessed via the web browser of any mobile device connected to the Wi-Fi network</p>
 <table style="width: 468px; float: left;">
 <tbody>
 <tr>
@@ -115,19 +119,19 @@
 <table style="width: 456px;">
 <tbody>
 <tr>
-<td style="width: 258.2px;"><strong><a>Energy-Mode</a></strong></td>
-<td style="width: 183.8px;">&nbsp;</td>
-<td style="width: 10px;"><strong><a>Repeater-Mode</a></strong></td>
+<td style="width: 258.2px; text-align: center;"><strong><a>Energy-Mode</a></strong></td>
+<td style="width: 183.8px; text-align: center;">&nbsp;</td>
+<td style="width: 10px; text-align: center;"><strong><a>Repeater-Mode</a></strong></td>
 </tr>
-<tr>
+<tr style="text-align: center;">
 <td style="width: 258.2px;">Receiver</td>
 <td style="width: 183.8px;">&nbsp;</td>
 <td style="width: 10px;">Receiver / Transmitter</td>
 </tr>
 <tr>
-<td style="width: 258.2px;">Ethernet</td>
-<td style="width: 183.8px;">&nbsp;</td>
-<td style="width: 10px;">&nbsp;Wireless</td>
+<td style="width: 258.2px; text-align: center;">Ethernet</td>
+<td style="width: 183.8px; text-align: center;">&nbsp;</td>
+<td style="width: 10px; text-align: center;">&nbsp;Wireless</td>
 </tr>
 <tr>
 <td style="width: 258.2px;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
@@ -135,9 +139,9 @@
 <td style="width: 10px;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
 </tr>
 <tr>
-<td style="width: 258.2px; text-align: justify;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
-<td style="width: 183.8px;">&nbsp;</td>
-<td style="width: 10px;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
+<td style="width: 258.2px; text-align: center;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
+<td style="width: 183.8px; text-align: center;">&nbsp;</td>
+<td style="width: 10px; text-align: center;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -147,16 +151,16 @@
 <table style="width: 508px; float: left;">
 <tbody>
 <tr>
-<td style="text-align: center; width: 128px;"><strong>Wave, Cables &amp; SD<br /></strong></td>
+<td style="text-align: center; width: 128px;"><strong>Starter Pack (x7 units) Cables &amp; SD's<br /></strong></td>
 <td style="text-align: center; width: 127px;">
-<p><strong>SD Card</strong></p>
+<p><strong>SD Card ft. WaveOS for your SBC's</strong></p>
 </td>
 <td style="text-align: center; width: 150px;"><strong>Firmware Only</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 128px;">&nbsp;$124.99 USD</td>
+<td style="text-align: center; width: 128px;">&nbsp;$875 USD - <a href="http://paypal.me/makeitwave/875" target="_blank" rel="noopener">Order Now</a></td>
 <td style="text-align: center; width: 127px;">&nbsp;$14.99 USD</td>
-<td style="text-align: center; width: 150px;">$0 USD - <a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/firmware.csv">download</a></td>
+<td style="text-align: center; width: 150px;"><a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/firmware.csv">FREE&nbsp;download</a></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 128px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
@@ -219,4 +223,4 @@
 <p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">support@makeitwave.com</a></p>
 <p>office: +442031377118 (calls recorded)</p>
 <p>&copy; Make it Wave Ltd (Company ID: 11363386)</p>
-<a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" height="40px" width="40px">
+<p><a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" width="40px" height="40px" /> </a></p>
