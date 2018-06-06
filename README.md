@@ -147,7 +147,7 @@
 </table>
 <h2 id="mcetoc_1cb7hoqvd1b"><!-- pagebreak -->&nbsp;</h2>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
-<p><strong>Step-1.</strong>&nbsp;Obtain your physical hardware and download your FREE Copy of WaveOS</p>
+<p><span style="text-decoration: underline;"><strong>Step-1.</strong>&nbsp;Obtain your physical hardware and download your FREE Copy of WaveOS</span></p>
 <table style="width: 508px; float: left;">
 <tbody>
 <tr>
@@ -184,7 +184,7 @@
 </tbody>
 </table>
 <p>&nbsp;&nbsp;</p>
-<p><strong>Step-2.</strong> Plug &amp; Play</p>
+<p><span style="text-decoration: underline;"><strong>Step-2.</strong> Plug &amp; Play</span></p>
 <p>A) use <a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a> to burn WaveOS to your Micro SD Card (don't forget to unzip it first) - 90 seconds to completion</p>
 <p>B) Insert the Micro SD Card into the device and connect your device to your Wi-Fi Router with the ethernet cable</p>
 <p>C) Power up the device (the system will take 10 minutes to boot up for the first time)</p>
@@ -192,13 +192,14 @@
 <p>Gateway:: 10.0.0.1</p>
 <p>DHCP:: 10.0.0.2 - 10.0.0.254</p>
 <p>* it is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only Wave's</p>
-<p><strong>Step-3</strong>. Connect to the Wave Hotspot and visit the menu to choose a mode of operation for each device</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Step-3</strong>. Connect to the Wave Hotspot and visit the menu to choose a mode of operation for each device</span></p>
 <p>SSID:: <em>Wave-Hotspot</em></p>
 <p>Password:: <em>makeitwave</em></p>
 <p>Default IP:: <em>http://192.168.42.1</em></p>
 <p><img src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="185" /></p>
 <p>&nbsp;</p>
-<p><strong>Step-4. </strong>As soon as the mode of operation you selected has configured, your menu will refresh to provide further instructions:</p>
+<p><span style="text-decoration: underline;"><strong>Step-4. </strong>As soon as the mode of operation you selected has configured, your menu will refresh to provide further instructions</span>:</p>
 <p>A) in Energy Mode you will be instructed to unplug the device from your Router and connect to your Solar Inverter&nbsp;</p>
 <p>B) in Extender Mode you will be instructed to unplug the device from your Router and connect to your TV</p>
 <p>C) in Repeater Mode (Receiver) you will be instructed to unplug the device from your Router and connect to your other device which should be configured as a Repeater (Transmitter) beforehand (or vice versa)</p>
