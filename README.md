@@ -187,11 +187,12 @@
 <p><strong>Step-2.</strong> Plug &amp; Play</p>
 <p>A) use <a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a> to burn WaveOS to your Micro SD Card (don't forget to unzip it first) - 90 seconds to completion</p>
 <p>B) Insert the Micro SD Card into the device and connect your device to your Wi-Fi Router with the ethernet cable</p>
-<p>C) Power up the device (the system will take 10 minutes to boot up for the first time) - at the moment you will need to ensure your Wi-Fi router settings match the following credentials</p>
+<p>C) Power up the device (the system will take 10 minutes to boot up for the first time)</p>
+<p>* at the current stage of development you will need to ensure your Wi-Fi router settings match the following credentials (<a href="https://support.google.com/wifi/answer/7571856?hl=en" target="_blank" rel="noopener">How-to Guide</a>)</p>
 <p>Gateway:: 10.0.0.1</p>
 <p>DHCP:: 10.0.0.2 - 10.0.0.254</p>
-<p>&nbsp;</p>
-<p><strong>Step-3</strong>. Connect to the Hotspot and visit the menu to choose a mode of operation and complete the installation</p>
+<p>* it is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only Wave's</p>
+<p><strong>Step-3</strong>. Connect to the Wave Hotspot and visit the menu to choose a mode of operation for each device</p>
 <p>SSID:: <em>Wave-Hotspot</em></p>
 <p>Password:: <em>makeitwave</em></p>
 <p>Default IP:: <em>http://192.168.42.1</em></p>
@@ -201,7 +202,7 @@
 <p>A) in Energy Mode you will be instructed to unplug the device from your Router and connect to your Solar Inverter&nbsp;</p>
 <p>B) in Extender Mode you will be instructed to unplug the device from your Router and connect to your TV</p>
 <p>C) in Repeater Mode (Receiver) you will be instructed to unplug the device from your Router and connect to your other device which should be configured as a Repeater (Transmitter) beforehand (or vice versa)</p>
-<p>&nbsp;</p>
+<p>* warnings will ensure you don't make mistakes, so please read and take them onboard e.g. you must always have a unit set-up in Hotspot Mode before the other modes of operation can be expected to work&nbsp;</p>
 <h2><strong>Thanks</strong></h2>
 <p>The WaveOS Project would not have been possible without the incredible technologies listed below - a huge thanks to the teams behind these projects from all of us here at Wave:</p>
 <table>
