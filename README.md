@@ -2,19 +2,18 @@
 <tbody>
 <tr>
 <td style="width: 252px;">
-<p>&nbsp;</p>
-<p><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></p>
+<p>&nbsp;<img style="text-align: center;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></p>
 </td>
 <td style="width: 299px; text-align: center;">
-<h1 id="mcetoc_1cb7hvoro1c"><strong>WAVEOS!</strong></h1>
-<p>The No.1 Operating System for Single Board Computers</p>
+<h1 id="mcetoc_1cb7hvoro1c"><strong>WaveOS</strong></h1>
+<p>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</p>
 <p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Latest Release - 0.0.4 (150Mb)</a></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2 id="mcetoc_1cb7i0l8q1d"><strong><!-- pagebreak -->Features<br /></strong></h2>
-<p style="text-align: left;">This&nbsp;little device&nbsp;instantly&nbsp;brings&nbsp;any home and/or small business into the&nbsp;21st Century. Here&nbsp;are just some of&nbsp;its&nbsp;many features:</p>
+<h2 id="mcetoc_1cb7i0l8q1d"><strong><!-- pagebreak -->Software Features<br /></strong></h2>
+<p style="text-align: left;">WaveOS brings&nbsp;any home and/or small business into the&nbsp;21st Century. Here&nbsp;are just some of its many benefits:&nbsp;</p>
 <table style="height: 1726px; width: 0px; float: left;">
 <tbody>
 <tr>
@@ -80,106 +79,30 @@
 </tbody>
 </table>
 <p style="text-align: left;">&nbsp;</p>
-<h2 id="mcetoc_1cb5rbkj50" style="text-align: left;">Home Starter Kit&nbsp;&nbsp;</h2>
-<p style="text-align: left;">The Wave home starter kit comes complete with 7 Single Board Computers (SBC's) running WaveOS, helping you interconnect your home in seconds. Each Unit has multiple modes of operation, enabling you to customise the Starter Kit to suite your home:</p>
-<p>EXAMPLE 1: x1 connected to Router, x4 connected to 4 TV's, x2 connected together to create a Wi-Fi Repeater</p>
-<p>EXAMPLE 2: x1 connected to Router, x1 connected to Solar Inverter, x5 connected to 5 TV's</p>
-<p>* 1 must always be connected to the router (Hotspot-Mode)</p>
-<p>* the WAVEOS menu can also be accessed via the web browser of any mobile device connected to the Wi-Fi network</p>
-<table style="width: 468px; float: left;">
-<tbody>
-<tr>
-<td style="width: 10px; text-align: center;"><strong><a>Hotspot-Mode</a></strong></td>
-<td style="width: 54.6px; text-align: center;">&nbsp;</td>
-<td style="width: 78.4px; text-align: center;"><strong><a>Extender-Mode</a></strong></td>
-</tr>
-<tr>
-<td style="width: 10px; text-align: center;">Broadcast</td>
-<td style="width: 54.6px; text-align: center;">&nbsp;</td>
-<td style="width: 78.4px; text-align: center;">Receiver</td>
-</tr>
-<tr>
-<td style="width: 10px; text-align: center;">Ethernet</td>
-<td style="width: 54.6px; text-align: center;">&nbsp;</td>
-<td style="width: 78.4px; text-align: center;">HDMI</td>
-</tr>
-<tr style="text-align: center;">
-<td style="width: 10px;">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" /></td>
-<td style="width: 54.6px;">&nbsp;</td>
-<td style="width: 78.4px;"><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="185" /></td>
-</tr>
-<tr style="text-align: center;">
-<td style="width: 10px; text-align: justify;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
-<td style="width: 54.6px; text-align: justify;">&nbsp;</td>
-<td style="width: 78.4px; text-align: justify;">In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
-</tr>
-</tbody>
-</table>
-<h2 id="mcetoc_1cb7hoqvd1b" style="text-align: left;"><!-- pagebreak -->&nbsp;</h2>
-<table style="width: 456px;">
-<tbody>
-<tr>
-<td style="width: 258.2px; text-align: center;"><strong><a>Energy-Mode</a></strong></td>
-<td style="width: 183.8px; text-align: center;">&nbsp;</td>
-<td style="width: 10px; text-align: center;"><strong><a>Repeater-Mode</a></strong></td>
-</tr>
-<tr style="text-align: center;">
-<td style="width: 258.2px;">Receiver</td>
-<td style="width: 183.8px;">&nbsp;</td>
-<td style="width: 10px;">Receiver / Transmitter</td>
-</tr>
-<tr>
-<td style="width: 258.2px; text-align: center;">Ethernet</td>
-<td style="width: 183.8px; text-align: center;">&nbsp;</td>
-<td style="width: 10px; text-align: center;">&nbsp;Wireless</td>
-</tr>
-<tr>
-<td style="width: 258.2px;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
-<td style="width: 183.8px;">&nbsp;</td>
-<td style="width: 10px;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
-</tr>
-<tr>
-<td style="width: 258.2px; text-align: center;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
-<td style="width: 183.8px; text-align: center;">&nbsp;</td>
-<td style="width: 10px; text-align: center;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<h2 id="mcetoc_1cb7hoqvd1b"><!-- pagebreak -->&nbsp;</h2>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
 <p><span style="text-decoration: underline;"><strong>Step-1.</strong>&nbsp;Obtain your physical hardware and download your FREE Copy of WaveOS</span></p>
-<table style="width: 508px; float: left;">
+<table style="width: 504px; float: left;">
 <tbody>
 <tr>
-<td style="text-align: center; width: 128px;"><strong>Starter Pack (x7 units) Cables &amp; SD's<br /></strong></td>
-<td style="text-align: center; width: 127px;">
-<p><strong>SD Card ft. WaveOS for your SBC's</strong></p>
+<td style="text-align: center; width: 202.4px;">
+<p><strong>Wave Smart Home Kit</strong></p>
+<p><strong> (x7 Units, PSU &amp; Cables)<br /></strong></p>
 </td>
-<td style="text-align: center; width: 150px;"><strong>Firmware Only</strong></td>
+<td style="text-align: center; width: 201.6px;"><strong>Wave Operating System</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 128px;">&nbsp;$875 USD - <a href="http://paypal.me/makeitwave/875" target="_blank" rel="noopener">Order Now</a></td>
-<td style="text-align: center; width: 127px;">&nbsp;$14.99 USD</td>
-<td style="text-align: center; width: 150px;"><a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/firmware.csv">FREE&nbsp;download</a></td>
+<td style="text-align: center; width: 202.4px;">&nbsp;$875 USD</td>
+<td style="text-align: center; width: 201.6px;">$0 (FREE)</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 128px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
-<td style="text-align: center; width: 127px;">
-<p>&nbsp;</p>
-<p><img src="https://thumb.ibb.co/eEKqgn/sd_card.png" width="180" /></p>
-</td>
-<td style="text-align: center; width: 150px;" rowspan="2">
+<td style="text-align: center; width: 202.4px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
+<td style="text-align: center; width: 201.6px;">
 <p><a href="https://github.com/unclehowell/WaveOS/blob/master/firmware.csv"><img src="https://thumb.ibb.co/g9Ue97/firmware.png" width="128" /></a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center; width: 255px;" colspan="2">
-<p style="text-align: center;"><a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/resellers.csv">Retail Partners</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 128px;">&nbsp;</td>
-<td style="text-align: center; width: 277px;" colspan="2"><a href="https://github.com/unclehowell/WaveOS/blob/master/docs/data/csv/partslist-hotspot.csv">Self-Assembly/ Parts List</a></td>
+<td style="width: 202.4px; text-align: center;">&nbsp;<a style="text-align: center;" href="http://paypal.me/makeitwave/875" target="_blank" rel="noopener">Order Now</a></td>
+<td style="text-align: center; width: 201.6px;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Download Now</a></td>
 </tr>
 </tbody>
 </table>
@@ -191,14 +114,79 @@
 <p>* at the current stage of development you will need to ensure your Wi-Fi router settings match the following credentials (<a href="https://support.google.com/wifi/answer/7571856?hl=en" target="_blank" rel="noopener">How-to Guide</a>)</p>
 <p>Gateway:: 10.0.0.1</p>
 <p>DHCP:: 10.0.0.2 - 10.0.0.254</p>
-<p>* it is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only Wave's</p>
+<p>* it is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only the Wave Hotspot</p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-3</strong>. Connect to the Wave Hotspot and visit the menu to choose a mode of operation for each device</span></p>
 <p>SSID:: <em>Wave-Hotspot</em></p>
 <p>Password:: <em>makeitwave</em></p>
 <p>Default IP:: <em>http://192.168.42.1</em></p>
 <p><img src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="185" /></p>
-<p>&nbsp;</p>
+<p>* 1 must always be connected to the router (Hotspot-Mode)</p>
+<p>* the WAVEOS menu can also be accessed via the web browser of any mobile device connected to the Wi-Fi network</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong><a>Hotspot-Mode</a></strong></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><a>Extender-Mode</a></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Broadcast</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Receiver</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ethernet</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">HDMI</td>
+</tr>
+<tr>
+<td>&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" /></td>
+<td>&nbsp;</td>
+<td><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="185" /></td>
+</tr>
+<tr>
+<td>In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
+<td>&nbsp;</td>
+<td>In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
+</tr>
+</tbody>
+</table>
+<h2>&nbsp;</h2>
+<table>
+<tbody>
+<tr>
+<td>
+<p style="text-align: center;"><strong><a>Energy-Mode</a></strong></p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><a>Repeater-Mode</a></strong></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p>&nbsp;Receiver</p>
+</td>
+<td>&nbsp;</td>
+<td>Receiver / Transmitter</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ethernet</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;Wireless</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1cb7hoqvd1b">&nbsp;</h2>
 <p><span style="text-decoration: underline;"><strong>Step-4. </strong>As soon as the mode of operation you selected has configured, your menu will refresh to provide further instructions</span>:</p>
 <p>A) in Energy Mode you will be instructed to unplug the device from your Router and connect to your Solar Inverter&nbsp;</p>
 <p>B) in Extender Mode you will be instructed to unplug the device from your Router and connect to your TV</p>
