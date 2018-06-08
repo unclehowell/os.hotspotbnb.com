@@ -1,431 +1,490 @@
-/* Great Source - Seems to be updated: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ */
+/* ----------- Iphone4_P  ----------- */
 
 
 
-/* ----------- ----------- ----------- ----------- ----------- ----------- ----------- ------- */
-/* -+++++++++++++++++++++++++++++++++ MOBILE PHONES +++++++++++++++++++++++++++++++++++++++++- */
-/* ----------- ----------- ----------- ----------- ----------- ----------- ----------- ------- */
 
-/* ----------- ----------- ----------- ----------- -----------  */
-/* >>>>>>>>>>>  >>>>>>     iphone(s)   <<<<< <<<<<<<<<<<<<<<<<< */
-/* ----------- ----------- ----------- ----------- -------  --- */
-
-/* ----------- iPhone 4 and 4S ----------- */
-
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 319.5px)
-  and (max-device-width: 320.5px)  
-  and (min-device-height: 479.5px)
-  and (max-device-height: 480.5px)
-  and (-webkit-min-device-pixel-ratio: 2)
+/* portrait */
+@media only screen
+  and (min-device-width: 315px)
+  and (max-device-width: 325px)  
+  and (min-device-height: 475px)
+  and (max-device-height: 485px)
+  and (-webkit-device-pixel-ratio:2)
   and (orientation: portrait) {
 
+
   .demo-iframe-container { 
-	width:320px;
-	height:474.5px;	
+        height: 474.5px;
+width: 320px;        
   } 
   
-  .demo-iframe {	
-	width: 319px;
-	height:473.5px;
-	background-image: url(../img/media-queries/iphone4_P.png);
+  .demo-iframe {        
+        height:473.5px;
+         width:319px;
+        background-image: url(../img/media-queries/Iphone4_P.png);
   }
   
   .demo-emby-div {
-	background-image: url(../img/demo-content/emby/iphone4_P-content.png);
-	width:314px;
-	height:947px;
-	
-}
-
+        background-image: url(../img/demo-content/emby/Iphone4_P-content.png);
+        height:947px;
+                width:314px;
 }
 
 
-
-/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
-
+}
 
 
-/* Portrait */
-@media only screen 
-   and (min-device-width: 319.5px)
-  and (max-device-width: 320.5px)  
-  and (min-device-height: 567.5px)
-  and (max-device-height: 568.5px)  
-  and (-webkit-min-device-pixel-ratio: 2)
+
+
+
+
+
+/* ----------- Iphone5_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 315px)
+  and (max-device-width: 325px)  
+  and (min-device-height: 563px)
+  and (max-device-height: 573px)
+  and (-webkit-device-pixel-ratio:2)
   and (orientation: portrait) {
-	 
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width:320px;
-	height:562.5px;	 
-} 
-
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width: 319px;
-	height:561.5px;
-	background-image: url(../img/media-queries/iphone5_P.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
-  .demo-emby-div {
-	background-image: url(../img/demo-content/emby/iphone5_P-content.png);
-	width:314px;
-	height:1124px;
-}
-}
-
-	  
-/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
 
 
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 374.5px) 
-  and (max-device-width: 375.5px)
-  and (min-device-height: 666.5px) 
-  and (max-device-height: 667.5px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) { 
-  	 
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width:375px;
-	height:661.5px;	 
-} 
-
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width: 374px;
-	height:660.5px;
-	background-image: url(../img/media-queries/iphone678_P.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
-  .demo-emby-div {
-	background-image: url(../img/demo-content/emby/iphone678_P-content.png);
-	width:369px;
-	height:1321px;
-}
-
-}
-
-
-
-/* ----------- iPhone 6+, 7+ and 8+ ----------- */
-
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 414px)
-  and (max-device-width: 414.5px)  
-  and (min-device-height: 735.5px)
-  and (max-device-height: 736.5px)  
-  and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: portrait) { 
+  .demo-iframe-container { 
+        height: 562.5px;
+		width: 320px;        
+  } 
   
-    	 
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width:414px;
-	height:730.5px;	 
-} 
-
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width: 413px;
-	height:729.5px;
-	background-image: url(../img/media-queries/iphone678+_P.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
-  .demo-emby-div {
-	background-image: url(../img/demo-content/emby/iphone678+_P-content.png);
-	width:408px;
-	height:1907px;
-}
-
-}
-
-
-
-/* ----------- iPhone X ----------- */
-
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 374.5px)
-  and (max-device-width: 375.5px) 
-  and (min-device-height: 811.5px) 
-  and (max-device-height: 812.5px)  
-  and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: portrait) { 
+  .demo-iframe {        
+        height:561.5px;
+         width:319px;
+        background-image: url(../img/media-queries/Iphone5_P.png);
+  }
   
-/* demo-iframe-container Width:  = (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width:375px;
-	height:806.5px;	 
-} 
-
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width:374px;
-	height:805.5px;
-	background-image: url(../img/media-queries/iphoneX_P.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
   .demo-emby-div {
-	background-image: url(../img/demo-content/emby/iphoneX_P-content.png);
-	width:369px;
-	height:1112px;
+        background-image: url(../img/demo-content/emby/Iphone5_P-content.png);
+        height:1123px;
+        width:314px;
 }
 
+
 }
 
 
-/* ----------- ----------- ----------- ----------- -----------  */
-/* >>>>>>>>>>>  >>>>>>     Galaxy('s)   <<<<< <<<<<<<<<<<<<<<<< */
-/* ----------- ----------- ----------- ----------- -------  --- */
-
-/* ----------- Galaxy S3 ----------- */
 
 
-/* Portrait */
-@media screen 
-  and (min-device-width: 359.5px)
-  and (max-device-width: 360.5px)
-  and (min-device-height: 639.5px) 
-  and (max-device-height: 640.5px) 
-  and (-webkit-device-pixel-ratio: 2) 
+
+
+
+/* ----------- Iphone678_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 370px)
+  and (max-device-width: 380px)  
+  and (min-device-height: 662px)
+  and (max-device-height: 672px)
+  and (-webkit-device-pixel-ratio:2)
   and (orientation: portrait) {
 
-  /* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width: 360px;
-	height: 634.5px;	 
-} 
 
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width: 359px;
-	height: 633.5px;
-	background-image: url(../img/media-queries/GalaxyS3_P.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
+  .demo-iframe-container { 
+        height: 661.5px;
+width: 375px;        
+  } 
+  
+  .demo-iframe {        
+        height:660.5px;
+         width:374px;
+        background-image: url(../img/media-queries/Iphone678_P.png);
+  }
+  
   .demo-emby-div {
-	background-image: url(../img/demo-content/emby/GalaxyS3_P-content.png);
-	width: 354px;
-	height: 1267px;
+        background-image: url(../img/demo-content/emby/Iphone678_P-content.png);
+        height:1321px;
+                width:369px;
 }
+
+
 }
 
 
-/* ----------- Galaxy S4, S5 and Note 3 ----------- */
 
 
-/* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+
+
+
+/* ----------- Iphone678+_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 365px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:3)
   and (orientation: portrait) {
+
+
+  .demo-iframe-container { 
+        height: 634.5px;
+width: 360px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:359px;
+        background-image: url(../img/media-queries/Iphone678+_P.png);
+  }
+  
+  .demo-emby-div {
+        background-image: url(../img/demo-content/emby/Iphone678+_P-content.png);
+        height:1907px;
+                width:354px;
+}
+
+
+}
+
+
+
+
+
+
+
+/* ----------- IphoneX_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 370px)
+  and (max-device-width: 380px)  
+  and (min-device-height: 807px)
+  and (max-device-height: 817px)
+  and (-webkit-device-pixel-ratio:3)
+  and (orientation: portrait) {
+
+
+  .demo-iframe-container { 
+        height: 806.5px;
+width: 375px;        
+  } 
+  
+  .demo-iframe {        
+        height:805.5px;
+         width:374px;
+        background-image: url(../img/media-queries/IphoneX_P.png);
+  }
+  
+  .demo-emby-div {
+        background-image: url(../img/demo-content/emby/IphoneX_P-content.png);
+        height:2423px;
+                width:369px;
+}
+
+
+}
+
+
+
+
+
+
+
+/* ----------- GalaxyS3_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 365px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:2)
+  and (orientation: portrait) {
+
+
+  .demo-iframe-container { 
+        height: 634.5px;
+width: 360px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:359px;
+        background-image: url(../img/media-queries/GalaxyS3_P.png);
+  }
+  
+  .demo-emby-div {
+        background-image: url(../img/demo-content/emby/GalaxyS3_P-content.png);
+        height:1267px;
+                width:354px;
+}
+
+
+}
+
+
+
+
+
+
+
+/* ----------- GalaxyS45+Note3_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 365px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:3)
+  and (orientation: portrait) {
+
+
+  .demo-iframe-container { 
+        height: 634.5px;
+width: 360px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:359px;
+        background-image: url(../img/media-queries/GalaxyS45+Note3_P.png);
+  }
+  
+  .demo-emby-div {
+        background-image: url(../img/demo-content/emby/GalaxyS45+Note3_P-content.png);
+        height:1907px;
+                width:354px;
+}
+
+
+}
+
+
+
+
+
+
+
+/* ----------- GalaxyS6_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 365px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:4)
+  and (orientation: portrait) {
+
+
+  .demo-iframe-container { 
+        height: 634.5px;
+width: 360px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:359px;
+        background-image: url(../img/media-queries/GalaxyS6_P.png);
+  }
+  
+  .demo-emby-div {
+        background-image: url(../img/demo-content/emby/GalaxyS6_P-content.png);
+        height:2547px;
+                width:354px;
+}
+
+
+}
+
+
+
+
+
+
+
+/* ----------- Pixel_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 365px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:3)
+  and (orientation: portrait) {
+
+
+  .demo-iframe-container { 
+        height: 634.5px;
+width: 360px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:359px;
+        background-image: url(../img/media-queries/Pixel_P.png);
+  }
+  
+  .demo-emby-div {
+        background-image: url(../img/demo-content/emby/Pixel_P-content.png);
+        height:1907px;
+                width:354px;
+}
+
+
+}
+
+
+
+
+
+
+
+/* ----------- PixelXL_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 365px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:4)
+  and (orientation: portrait ) {
+
+
+  .demo-iframe-container {
 	  
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width: px;
-	height: px;	 
-} 
-
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width:  px;
-	height: px;
-	background-image: url(../img/media-queries/.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
+	height: 634.5px;
+	width: 360px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:359px;
+        background-image: url(../img/media-queries/PixelXL_P.png);
+  }
+  
   .demo-emby-div {
-	background-image: url(../img/demo-content/emby/ .png);
-	width: px;
-	height: px;
-}
-	  
+        background-image: url(../img/demo-content/emby/PixelXL_P-content.png);
+        height:2547px;
+                width:354px;
 }
 
 
+}
 
-/* ----------- Galaxy S6 ----------- */
 
-/* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
+
+
+
+
+
+/* ----------- HTC1_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 355px)
+  and (max-device-width: 365px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:3)
   and (orientation: portrait) {
 
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width: px;
-	height: px;	 
-} 
 
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width:  px;
-	height: px;
-	background-image: url(../img/media-queries/.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
+  .demo-iframe-container { 
+        height: 634.5px;
+width: 360px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:359px;
+        background-image: url(../img/media-queries/HTC1_P.png);
+  }
+  
   .demo-emby-div {
-	background-image: url(../img/demo-content/emby/ .png);
-	width: px;
-	height: px;
+        background-image: url(../img/demo-content/emby/HTC1_P-content.png);
+        height:1907px;
+         width:354px;
 }
+
+
 }
 
 
-/* ----------- ----------- ----------- ----------- -----------  */
-/* >>>>>>>>>>>  >>>>   Google   <<<<< <<<<<<<<<<<<<<< */
-/* ----------- ----------- ----------- ----------- -------  --- */
-
-/* ----------- Pixel  ----------- */
 
 
-/* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+
+
+
+/* ----------- Lumia920_P  ----------- */
+
+
+
+
+/* portrait */
+@media only screen
+  and (min-device-width: 379px)
+  and (max-device-width: 389px)  
+  and (min-device-height: 635px)
+  and (max-device-height: 645px)
+  and (-webkit-device-pixel-ratio:2)
   and (orientation: portrait) {
-	  
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width: px;
-	height: px;	 
-} 
 
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width:  px;
-	height: px;
-	background-image: url(../img/media-queries/.png);
-}	
 
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
+  .demo-iframe-container { 
+        height: 634.5px;
+width: 384px;        
+  } 
+  
+  .demo-iframe {        
+        height:633.5px;
+         width:383px;
+        background-image: url(../img/media-queries/Lumia920_P.png);
+  }
+  
   .demo-emby-div {
-	background-image: url(../img/demo-content/emby/ .png);
-	width: px;
-	height: px;
-}
-
-}
-
-
-/* ----------- Google Pixel XL ----------- */
-
-
-/* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
-  and (orientation: portrait) {
-	  
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width: px;
-	height: px;	 
-} 
-
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width:  px;
-	height: px;
-	background-image: url(../img/media-queries/.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
-  .demo-emby-div {
-	background-image: url(../img/demo-content/emby/ .png);
-	width: px;
-	height: px;
-}
-
+        background-image: url(../img/demo-content/emby/Lumia920_P-content.png);
+        height:1267px;
+                width:378px;
 }
 
 
-/* ----------- ----------- ----------- ----------- -----------  */
-/* >>>>>>>>>>>  >>>>   HTC   <<<<< <<<<<<<<<<<<<<< */
-/* ----------- ----------- ----------- ----------- -------  --- */
-
-/* ----------- One ----------- */
-
-
-/* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
-  and (orientation: portrait) {
-	  
-/* demo-iframe-container Width: =  (Device Width)            &&
-   demo-iframe-container Height: = (Device Height) - (5.5px) */	  
-  .demo-iframe-container {   
-	width: px;
-	height: px;	 
-} 
-
-/* demo-iframe Width:  = (Device Width)  - (1px)   &&
-   demo-iframe Height: = (Device Height) - (6.5px)  */ 
-  .demo-iframe {	  
-	width:  px;
-	height: px;
-	background-image: url(../img/media-queries/.png);
-}	
-
-/* demo-app-Div Width:  = (Device Width) - (6px) &&
-   demo-app-Div Height: = (Max Height)   - (13px) */	  	  
-  .demo-emby-div {
-	background-image: url(../img/demo-content/emby/ .png);
-	width: px;
-	height: px;
 }
 
-}
 
 /* ----------- ----------- ----------- ----------- -----------  */
 /* >>>>>>>>>>>  >>>>>>>>     Windows   <<<<<< <<<<<<<<<<<<<<<<< */
