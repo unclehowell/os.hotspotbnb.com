@@ -10,6 +10,7 @@ cd
 
 mv /etc/lighttpd/lighttpd.conf /etc/lighttpd/lighttpd.conf.orig
 
+/DietPi/dietpi/dietpi-software install 93 --unattended
 curl -L https://install.pi-hole.net | bash /dev/stdin --unattended
 
 cd
