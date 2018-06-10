@@ -23,7 +23,7 @@ cp /etc/lighttpd/lighttpd.conf /etc/lighttpd/lighttpd.conf.orig
 curl -L https://install.pi-hole.net | bash /dev/stdin --unattended
 
 
-# switch up to the FTLDNS Beta
+# switch up to the FTLDNS 
 
 #echo "FTLDNS" | sudo tee /etc/pihole/ftlbranch
 #pihole checkout core FTLDNS 
