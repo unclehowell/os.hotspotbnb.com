@@ -1,9 +1,8 @@
-# pihole pre-requisits
+# pihole pre-requisits (place config file)
 
 mkdir /etc/pihole
-cd /etc/pihole
-wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/modes/hotspot/features/pihole/setupVars.conf
-cd
+cp /var/WaveOS/modes/hotspot/features/pihole/setupVars.conf /etc/pihole
+
 
 #  install the version of dnsmasq that supports the extra flag (v2.76)
 
@@ -17,13 +16,12 @@ cd
 
 # backup lighttpd.conf (to restore after update) 
 
-mv /etc/lighttpd/lighttpd.conf /etc/lighttpd/lighttpd.conf.orig
+cp /etc/lighttpd/lighttpd.conf /etc/lighttpd/lighttpd.conf.orig
 
 # install pihole
 
 curl -L https://install.pi-hole.net | bash /dev/stdin --unattended
 
-cd
 
 # switch up to the FTLDNS Beta
 
@@ -31,7 +29,7 @@ cd
 #pihole checkout core FTLDNS 
 #pihole checkout web FTLDNS
 
-#  something to do with Jessie, maybe able to remove
+# something to do with Jessie, maybe able to remove
 #cd /etc/.pihole
 #sudo git fetch --all && sudo git checkout master
 #cd /etc/pihole
@@ -40,10 +38,11 @@ cd
 #pihole checkout core FTLDNS 
 #pihole checkout web FTLDNS
 
-# have to change the lighttpd.conf file and resstart service to get pihole menu workingsed
+# use the pihole version of the lighttpd.conf - with X-Frame=Allow (so it appears in the Wave Dashboard)
+# and restart the lighttpd service
 
-sed 's/max connections = 8/ /g' smb.conf > smb2.conf
-# mv /etc/samba/smb2.conf smb.conf
+cp /var/WaveOS/modes/hotspot/features/pihole/lighttpd.conf /etc/lighttpd
+
 sudo /etc/init.d/lighttpd restart
 
 # roll back version if issues
