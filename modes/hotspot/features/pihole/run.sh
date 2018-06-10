@@ -20,11 +20,27 @@ sudo dpkg -i dnsmasq_2.76-5+rpi1_all.deb
 
 mv /etc/lighttpd/lighttpd.conf /etc/lighttpd/lighttpd.conf.orig
 
-# install pi
+# install pihole
 
 curl -L https://install.pi-hole.net | bash /dev/stdin --unattended
 
 cd
+
+# switch up to the FTLDNS Beta
+
+echo "FTLDNS" | sudo tee /etc/pihole/ftlbranch
+pihole checkout core FTLDNS 
+pihole checkout web FTLDNS
+
+#  something to do with Jessie, maybe able to remove
+
+cd /etc/.pihole
+sudo git fetch --all && sudo git checkout master
+cd /etc/pihole
+sudo git fetch --all && sudo git checkout master
+echo "FTLDNS" | sudo tee /etc/pihole/ftlbranch
+pihole checkout core FTLDNS 
+pihole checkout web FTLDNS
 
 # roll back version if issues
 
@@ -41,11 +57,5 @@ sudo service pihole-FTL restart
 sudo /etc/init.d/lighttpd restart
 
 
-
-# reboot to make php work 
-
-pihole -up
-
-
 # restore lighttpd.conf 
-mv /etc/lighttpd/lighttpd.conf.orig /etc/lighttpd/lighttpd.conf
+# mv /etc/lighttpd/lighttpd.conf.orig /etc/lighttpd/lighttpd.conf
