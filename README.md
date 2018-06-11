@@ -1,5 +1,5 @@
-<p><strong>WaveOS</strong></p>
-<p>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</p>
+<h1><strong>WaveOS</strong></h1>
+<p><strong>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</strong></p>
 <table style="width: 100%;">
 <tbody>
 <tr>
