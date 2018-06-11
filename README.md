@@ -82,21 +82,21 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="height: 63px; width: 480px;">
+<table style="height: 63px; width: 476px;">
 <tbody>
 <tr>
-<td style="width: 299.6px; text-align: center;" colspan="2">
+<td style="width: 372px; text-align: center;" colspan="2">
 <p><strong>Newcomers</strong></p>
 </td>
-<td style="width: 327px; text-align: center;" colspan="2">
+<td style="width: 654px; text-align: center;" colspan="2">
 <p><strong>Existing SBC Owners</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 299.6px;">
+<td style="width: 281.4px;">
 <p style="text-align: center;"><strong>Option A</strong></p>
 </td>
-<td style="width: 73.4px; text-align: center;"><strong>Option B</strong></td>
+<td style="width: 90.6px; text-align: center;"><strong>Option B</strong></td>
 <td style="width: 327px;">
 <p style="text-align: center;"><strong style="text-align: center;">Option A</strong></p>
 </td>
@@ -105,10 +105,10 @@
 </td>
 </tr>
 <tr>
-<td style="width: 299.6px;">
+<td style="width: 281.4px;">
 <p style="text-align: center;">Smart-Home Kit (x7 SBC's)</p>
 </td>
-<td style="width: 73.4px; text-align: center;">
+<td style="width: 90.6px; text-align: center;">
 <p>Single Unit&nbsp; (x1 SBC)</p>
 </td>
 <td style="width: 327px;">
@@ -119,10 +119,10 @@
 </td>
 </tr>
 <tr>
-<td style="width: 299.6px;">
+<td style="width: 281.4px;">
 <p style="text-align: center;">$600 USD</p>
 </td>
-<td style="width: 73.4px; text-align: center;">
+<td style="width: 90.6px; text-align: center;">
 <p>$125 USD</p>
 </td>
 <td style="width: 327px;">
@@ -131,10 +131,10 @@
 <td style="width: 327px; text-align: center;">FREE</td>
 </tr>
 <tr>
-<td style="width: 299.6px;">
+<td style="width: 281.4px;">
 <p style="text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100" /></p>
 </td>
-<td style="width: 73.4px;">
+<td style="width: 90.6px;">
 <p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100" /></a></p>
 </td>
 <td style="width: 327px; text-align: center;">
@@ -146,15 +146,15 @@
 </td>
 </tr>
 <tr>
-<td style="width: 299.6px; text-align: center;"><a href="https://paypalme.com/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
-<td style="width: 73.4px; text-align: center;">
-<p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></p>
+<td style="text-align: center;"><a href="https://paypal.me/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
+<td style="text-align: center;">
+<p><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></p>
 </td>
-<td style="width: 327px; text-align: center;"><a href="https://paypalme.com/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
+<td style="text-align: center;"><a href="https://paypal.me/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
 <td style="width: 327px; text-align: center;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="40" /></a>&nbsp;<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="40" /></a></td>
 </tr>
 <tr>
-<td style="width: 299.6px;" colspan="2">
+<td style="width: 372px;" colspan="2">
 <p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
 <p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
 <p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
