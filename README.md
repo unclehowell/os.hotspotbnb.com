@@ -1,7 +1,16 @@
+<table style="height: 50px;" width="459">
+<tbody>
+<tr>
+<td style="width: 221.6px;">
 <h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" alt="" width="237" height="62" /></h1>
-<p><strong>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</strong></p>
+</td>
+<td style="width: 222.4px;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" alt="" width="200" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>The First Single Board Computer (SBC) Operating System for non-programmers</strong></p>
 <p>&nbsp;</p>
-<p style="text-align: left;">WaveOS brings&nbsp;any home and/or small business into the&nbsp;21st Century. Here&nbsp;are just some of our systems many benefits:&nbsp;</p>
+<p style="text-align: left;">Here&nbsp;are some of the benefits of WaveOS:&nbsp;</p>
 <table style="height: 1726px; width: 0px; float: left;">
 <tbody>
 <tr>
@@ -71,12 +80,12 @@
 <table style="height: 37px; width: 497px;">
 <tbody>
 <tr>
-<td style="width: 77px;"><strong>Step-1.</strong>&nbsp;&nbsp;</td>
-<td style="width: 414px;">&nbsp;Dependancies&nbsp;</td>
+<td style="width: 77px;"><span style="color: #0000ff;"><strong>Step-1.</strong>&nbsp;&nbsp;</span></td>
+<td style="width: 414px;">&nbsp;<strong>Obtain Hardware</strong></td>
 </tr>
 <tr>
 <td style="width: 77px;" colspan="2">
-<p>4 great options to get you started, no matter what your situation or skillsets</p>
+<p>There's 4 great options to get you started, no matter what your situation or skillsets</p>
 </td>
 </tr>
 </tbody>
@@ -142,7 +151,7 @@
 </td>
 <td style="width: 327px; text-align: center;">
 <p>&nbsp;</p>
-<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></p>
+<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="65" /></a></p>
 </td>
 </tr>
 <tr>
@@ -171,8 +180,8 @@
 <table style="height: 25px; width: 480px;">
 <tbody>
 <tr>
-<td style="width: 70.2px;"><strong>Step-2.</strong>&nbsp;&nbsp;</td>
-<td style="width: 396.8px;">&nbsp;Update Your Router&nbsp;</td>
+<td style="width: 70.2px;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
+<td style="width: 396.8px;">&nbsp;<strong>Set&nbsp;your Router&nbsp;</strong></td>
 </tr>
 <tr>
 <td style="width: 70.2px;" colspan="2">
@@ -185,39 +194,113 @@
 <table style="height: 49px;" width="485">
 <tbody>
 <tr>
-<td style="width: 154.4px;">&nbsp;a) login</td>
-<td style="width: 155.2px;">&nbsp;b) update subnet</td>
-<td style="width: 155.2px;">&nbsp;c) save &amp; reboot</td>
+<td style="width: 154.4px; text-align: center;">&nbsp;Login</td>
+<td style="width: 155.2px; text-align: center;">Update subnet</td>
+<td style="width: 155.2px; text-align: center;">Save &amp; Reboot</td>
 </tr>
 <tr>
-<td style="width: 154.4px;">&nbsp;</td>
-<td style="width: 155.2px;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="155" height="97" /></td>
-<td style="width: 155.2px;">&nbsp;</td>
+<td style="width: 154.4px; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" alt="" width="150" /></td>
+<td style="width: 155.2px; text-align: center;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="155" height="97" /></td>
+<td style="width: 155.2px; text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" alt="" width="145" /></td>
 </tr>
 <tr>
-<td style="width: 154.4px;">&nbsp;</td>
-<td style="width: 155.2px;">
-<p>Gateway:: 10.0.0.1</p>
-<p>DHCP:: 10.0.0.2 - 10.0.0.254</p>
+<td style="width: 154.4px; text-align: center;">
+<p>Enter your router IP into the address bar to access its menu</p>
+<p><a href="https://www.linksys.com/us/support-article?articleNum=132891">How-to-Guide</a></p>
+</td>
+<td style="width: 155.2px; text-align: center;">
+<p>Gateway: 10.0.0.1</p>
+<p>DHCP: 10.0.0.2 - 10.0.0.254</p>
 <p><a href="https://support.google.com/wifi/answer/7571856?hl=en" target="_blank" rel="noopener">How-to Guide</a></p>
 </td>
-<td style="width: 155.2px;">&nbsp;</td>
+<td style="width: 155.2px; text-align: center;">
+<p>The LED indicator will say when the reboot has completed</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>* at the current stage of development you will need to ensure your Wi-Fi router settings match the following credentials ()</p>
-<p>* it is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only the Wave Hotspot</p>
+<p><em>* It is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only the Wave Hotspot</em></p>
+<table style="width: 469px;">
+<tbody>
+<tr>
+<td style="width: 74.8px;"><span style="color: #0000ff;"><strong>Step-3.</strong>&nbsp;</span>&nbsp;</td>
+<td style="width: 387.2px;">&nbsp;<strong>Plug &amp; Play</strong></td>
+</tr>
+<tr>
+<td style="width: 462px;" colspan="2">
+<p>Fairly obvious but the sequence is important</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
-<p>- Insert the Micro SD Card into the device and connect your device to your Wi-Fi Router with the ethernet cable</p>
-<p>- Power up the device (the system will take 10 minutes to boot up for the first time)</p>
+<table style="height: 49px; width: 465px;">
+<tbody>
+<tr>
+<td style="width: 158.4px; text-align: center;">Insert SD Card</td>
+<td style="width: 143.2px; text-align: center;">&nbsp; Connect to Router</td>
+<td style="width: 143.2px; text-align: center;">Connect Power</td>
+</tr>
+<tr>
+<td style="width: 158.4px;"><img src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" alt="" width="145" /></td>
+<td style="width: 143.2px;"><img src="https://files.readme.io/313d4ad-pi-ether.jpg" alt="" width="143" height="80" /></td>
+<td style="width: 143.2px;"><img src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" alt="" width="145" /></td>
+</tr>
+<tr>
+<td style="width: 158.4px; text-align: center;">Insert the WaveOS Micro SD Card into the SBC Device</td>
+<td style="width: 143.2px; text-align: center;"><span style="text-align: start;">&nbsp;Connect your device to your Wi-Fi Router with the ethernet cable.</span></td>
+<td style="width: 143.2px; text-align: center;">Power up the device&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Step-3</strong>. Connect to the Wave Hotspot and visit the menu to choose a mode of operation for each device</span></p>
-<p>SSID:: <em>Wave-Hotspot</em></p>
-<p>Password:: <em>makeitwave</em></p>
-<p>Default IP:: <em>http://192.168.42.1</em></p>
-<p><img src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="185" /></p>
-<p>* 1 must always be connected to the router (Hotspot-Mode)</p>
-<p>* the WAVEOS menu can also be accessed via the web browser of any mobile device connected to the Wi-Fi network</p>
+<p>* during boot-up (for the first time only) Wave will connect to our code source and self-configure some essential services like updates &amp; upgrades, the Wi-Fi and the set-up Menu. This process can take up to 15 minutes depending on internet speed</p>
+<p>&nbsp;</p>
+<table style="width: 464px; height: 85px;">
+<tbody>
+<tr>
+<td style="width: 79.8px;"><span style="color: #0000ff;"><strong>Step-4.</strong>&nbsp;&nbsp;</span></td>
+<td style="width: 372.2px;">&nbsp;<strong>Set-Up Wizard (Mode Select Menu)</strong></td>
+</tr>
+<tr>
+<td style="width: 452px;" colspan="2">
+<p>Fairly obvious step, but the sequence is important</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="width: 468.2px;">
+<tbody>
+<tr>
+<td style="width: 169px;">&nbsp; Connect</td>
+<td style="width: 169px; text-align: center;">&nbsp; Access Menu</td>
+<td style="width: 112.2px; text-align: center;">Select Mode</td>
+</tr>
+<tr>
+<td style="width: 169px; text-align: center;"><img src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" alt="" width="145" /></td>
+<td style="width: 169px; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="150" /></td>
+<td style="width: 112.2px;"><img src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="142" height="80" /></td>
+</tr>
+<tr>
+<td style="width: 169px; text-align: center;">
+<p style="text-align: left;">SSID: Wave-Hotspot</p>
+<p style="text-align: left;">Password: makeitwave</p>
+</td>
+<td style="width: 169px; text-align: center;">
+<p>&nbsp;</p>
+<p><a href="http://modeless/">http://modeless/</a>&nbsp; or&nbsp;</p>
+<p><a href="http://192.168.42.1/">http://192.168.42.1/</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 112.2px; text-align: center;">see below for more details</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>The Various Modes of Operation</strong></h3>
+<p>* 1 Unit in Hotspot-Mode must exist First &amp; Always</p>
+<p>* the mode-select menu can also be accessed via the web browser of any mobile device connected to the Wi-Fi network</p>
+<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -247,7 +330,7 @@
 </tr>
 </tbody>
 </table>
-<h2>&nbsp;</h2>
+<p>&nbsp;</p>
 <table style="width: 459px;">
 <tbody>
 <tr>
@@ -281,14 +364,12 @@
 </tr>
 </tbody>
 </table>
-<h2 id="mcetoc_1cb7hoqvd1b">&nbsp;</h2>
-<p><span style="text-decoration: underline;"><strong>Step-4. </strong>As soon as the mode of operation you selected has configured, your menu will refresh to provide further instructions</span>:</p>
 <p>A) in Energy Mode you will be instructed to unplug the device from your Router and connect to your Solar Inverter&nbsp;</p>
 <p>B) in Extender Mode you will be instructed to unplug the device from your Router and connect to your TV</p>
 <p>C) in Repeater Mode (Receiver) you will be instructed to unplug the device from your Router and connect to your other device which should be configured as a Repeater (Transmitter) beforehand (or vice versa)</p>
 <p>* warnings will ensure you don't make mistakes, so please read and take them onboard e.g. you must always have a unit set-up in Hotspot Mode before the other modes of operation can be expected to work&nbsp;</p>
 <h2><strong>Thanks</strong></h2>
-<p>The WaveOS Project would not have been possible without the incredible technologies listed below - a huge thanks to the teams behind these projects from all of us here at Wave:</p>
+<p>The WaveOS Project would not have been possible without the incredible technologies listed below - a huge thanks to all the teams behind these projects, not to mention our investors, lenders &amp; volunteers - from all of us here at Wave:</p>
 <table>
 <tbody>
 <tr>
