@@ -1,4 +1,4 @@
-<h1><strong>WaveOS</strong></h1>
+<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" alt="" width="237" height="62" /></h1>
 <p><strong>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</strong></p>
 <table style="width: 100%;">
 <tbody>
@@ -8,9 +8,9 @@
 <td style="text-align: center; width: 33.33;"><a href="https://paypalme.com/makeitwave/125"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100" /></a></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 33.33%;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Operating System Only</a></td>
+<td style="text-align: center; width: 33.33%;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Operating System Only - FREE</a></td>
 <td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/125">Plug &amp; Play Unit (x1 SBC) - $124.99</a></td>
-<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/675">Complete Smart Home Kit (x7 SBC's) - $675 USD</a></td>
+<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/675">Complete Smart Home Kit (x7 SBC's) - $675</a></td>
 </tr>
 </tbody>
 </table>
