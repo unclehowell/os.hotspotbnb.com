@@ -147,7 +147,7 @@
 </tr>
 <tr>
 <td style="width: 299.6px; text-align: center;"><a href="https://paypalme.com/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
-<td style="width: 73.4px;">
+<td style="width: 73.4px; text-align: center;">
 <p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></p>
 </td>
 <td style="width: 327px; text-align: center;"><a href="https://paypalme.com/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
