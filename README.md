@@ -7,7 +7,18 @@
 <td style="width: 299px; text-align: center;">
 <h1 id="mcetoc_1cb7hvoro1c"><strong>WaveOS</strong></h1>
 <p>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</p>
-<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Latest Release - 0.0.4 (150Mb)</a></p>
+<table style="height: 24px; width: 291px;">
+<tbody>
+<tr>
+<td style="width: 149.6px; text-align: center;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></td>
+<td style="width: 133.4px; text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://www.crazypi.com/image/cache/catalog/product/kits/RPi3_Kit/raspberry-pi-3-white-case-500x500.jpg" alt="" width="100" /></a></td>
+</tr>
+<tr>
+<td style="width: 149.6px;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">WaveOS - 0.4.0</a></td>
+<td style="width: 133.4px;"><a href="https://paypalme.com/makeitwave/125">Starter Kit $124.99</a></td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
@@ -81,32 +92,7 @@
 <p style="text-align: left;">&nbsp;</p>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
 <p><span style="text-decoration: underline;"><strong>Step-1.</strong>&nbsp;Obtain your physical hardware and download your FREE Copy of WaveOS</span></p>
-<table style="width: 504px; float: left;">
-<tbody>
-<tr>
-<td style="text-align: center; width: 202.4px;">
-<p><strong>Wave Smart Home Kit</strong></p>
-<p><strong> (x7 Units, PSU &amp; Cables)<br /></strong></p>
-</td>
-<td style="text-align: center; width: 201.6px;"><strong>Wave Operating System</strong></td>
-</tr>
-<tr>
-<td style="text-align: center; width: 202.4px;">&nbsp;$875 USD</td>
-<td style="text-align: center; width: 201.6px;">$0 (FREE)</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 202.4px;">&nbsp;<img src="https://thumb.ibb.co/kZYjbn/Wave_Hotspot.png" width="180" /></td>
-<td style="text-align: center; width: 201.6px;">
-<p><a href="https://github.com/unclehowell/WaveOS/blob/master/firmware.csv"><img src="https://thumb.ibb.co/g9Ue97/firmware.png" width="128" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 202.4px; text-align: center;">&nbsp;<a style="text-align: center;" href="http://paypal.me/makeitwave/875" target="_blank" rel="noopener">Order Now</a></td>
-<td style="text-align: center; width: 201.6px;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Download Now</a></td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-2.</strong> Plug &amp; Play</span></p>
 <p>A) use <a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a> to burn WaveOS to your Micro SD Card (don't forget to unzip it first) - 90 seconds to completion</p>
 <p>B) Insert the Micro SD Card into the device and connect your device to your Wi-Fi Router with the ethernet cable</p>
