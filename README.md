@@ -1,21 +1,7 @@
 <h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" alt="" width="237" height="62" /></h1>
 <p><strong>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</strong></p>
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td style="text-align: center; width: 33.33%;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></td>
-<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/125"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100" /></a></td>
-<td style="text-align: center; width: 33.33;"><a href="https://paypalme.com/makeitwave/125"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100" /></a></td>
-</tr>
-<tr>
-<td style="text-align: center; width: 33.33%;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Operating System Only - FREE</a></td>
-<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/125">Plug &amp; Play Unit (x1 SBC) - $124.99</a></td>
-<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/675">Complete Smart Home Kit (x7 SBC's) - $675</a></td>
-</tr>
-</tbody>
-</table>
-<h2 id="mcetoc_1cb7i0l8q1d"><strong><!-- pagebreak -->Software Features<br /></strong></h2>
-<p style="text-align: left;">WaveOS brings&nbsp;any home and/or small business into the&nbsp;21st Century. Here&nbsp;are just some of its many benefits:&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: left;">WaveOS brings&nbsp;any home and/or small business into the&nbsp;21st Century. Here&nbsp;are just some of our systems many benefits:&nbsp;</p>
 <table style="height: 1726px; width: 0px; float: left;">
 <tbody>
 <tr>
@@ -82,16 +68,148 @@
 </table>
 <p style="text-align: left;">&nbsp;</p>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
-<p><span style="text-decoration: underline;"><strong>Step-1.</strong>&nbsp;Obtain your physical hardware and download your FREE Copy of WaveOS</span></p>
+<table style="height: 37px; width: 497px;">
+<tbody>
+<tr>
+<td style="width: 77px;"><strong>Step-1.</strong>&nbsp;&nbsp;</td>
+<td style="width: 414px;">&nbsp;Dependancies&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 77px;" colspan="2">
+<p>4 great options to get you started, no matter what your situation or skillsets</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Step-2.</strong> Plug &amp; Play</span></p>
-<p>A) use <a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a> to burn WaveOS to your Micro SD Card (don't forget to unzip it first) - 90 seconds to completion</p>
-<p>B) Insert the Micro SD Card into the device and connect your device to your Wi-Fi Router with the ethernet cable</p>
-<p>C) Power up the device (the system will take 10 minutes to boot up for the first time)</p>
-<p>* at the current stage of development you will need to ensure your Wi-Fi router settings match the following credentials (<a href="https://support.google.com/wifi/answer/7571856?hl=en" target="_blank" rel="noopener">How-to Guide</a>)</p>
+<table style="height: 63px; width: 480px;">
+<tbody>
+<tr>
+<td style="width: 299.6px; text-align: center;" colspan="2">
+<p><strong>Newcomers</strong></p>
+</td>
+<td style="width: 327px; text-align: center;" colspan="2">
+<p><strong>Existing SBC Owners</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 299.6px;">
+<p style="text-align: center;"><strong>Option A</strong></p>
+</td>
+<td style="width: 73.4px; text-align: center;"><strong>Option B</strong></td>
+<td style="width: 327px;">
+<p style="text-align: center;"><strong style="text-align: center;">Option A</strong></p>
+</td>
+<td style="width: 327px;">
+<p style="text-align: center;"><strong style="text-align: center;">Option B</strong><span style="text-align: center;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 299.6px;">
+<p style="text-align: center;">Smart-Home Kit (x7 SBC's)</p>
+</td>
+<td style="width: 73.4px; text-align: center;">
+<p>Single Unit&nbsp; (x1 SBC)</p>
+</td>
+<td style="width: 327px;">
+<p style="text-align: center;">SD Only</p>
+</td>
+<td style="width: 327px;">
+<p style="text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</p>
+</td>
+</tr>
+<tr>
+<td style="width: 299.6px;">
+<p style="text-align: center;">$600 USD</p>
+</td>
+<td style="width: 73.4px; text-align: center;">
+<p>$125 USD</p>
+</td>
+<td style="width: 327px;">
+<p style="text-align: center;">$50 USD</p>
+</td>
+<td style="width: 327px; text-align: center;">FREE</td>
+</tr>
+<tr>
+<td style="width: 299.6px;">
+<p style="text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100" /></p>
+</td>
+<td style="width: 73.4px;">
+<p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100" /></a></p>
+</td>
+<td style="width: 327px; text-align: center;">
+<p><img src="https://thumb.ibb.co/c28408/sd_card.png" width="85" /></p>
+</td>
+<td style="width: 327px; text-align: center;">
+<p>&nbsp;</p>
+<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 299.6px; text-align: center;"><a href="https://paypalme.com/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
+<td style="width: 73.4px;">
+<p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></p>
+</td>
+<td style="width: 327px; text-align: center;"><a href="https://paypalme.com/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" alt="" width="85" /></a></td>
+<td style="width: 327px; text-align: center;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="40" /></a>&nbsp;<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="40" /></a></td>
+</tr>
+<tr>
+<td style="width: 299.6px;" colspan="2">
+<p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
+<p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
+<p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
+<p style="text-align: center;">*<em> all cables, PSU &amp; WaveOS pre-installer SD Cards included</em></p>
+</td>
+<td style="width: 327px; text-align: center;">Plug &amp; Play&nbsp;<em>(skip the manual installation process)</em></td>
+<td style="width: 327px; text-align: center;">
+<p>use&nbsp;<a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a>&nbsp;to burn WaveOS to your Micro SD Card</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p id="mcetoc_1cb7lorjn1f">&nbsp;</p>
+<table style="height: 25px; width: 480px;">
+<tbody>
+<tr>
+<td style="width: 70.2px;"><strong>Step-2.</strong>&nbsp;&nbsp;</td>
+<td style="width: 396.8px;">&nbsp;Update Your Router&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70.2px;" colspan="2">
+<p>WaveOS currently requires you to adjust a setting on your routers subnet e.g. Gateway and DHCP IP. We are working to eliminate this step in later versions of Wave, but for now it's mandatory</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="height: 49px;" width="485">
+<tbody>
+<tr>
+<td style="width: 154.4px;">&nbsp;a) login</td>
+<td style="width: 155.2px;">&nbsp;b) update subnet</td>
+<td style="width: 155.2px;">&nbsp;c) save &amp; reboot</td>
+</tr>
+<tr>
+<td style="width: 154.4px;">&nbsp;</td>
+<td style="width: 155.2px;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="155" height="97" /></td>
+<td style="width: 155.2px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 154.4px;">&nbsp;</td>
+<td style="width: 155.2px;">
 <p>Gateway:: 10.0.0.1</p>
 <p>DHCP:: 10.0.0.2 - 10.0.0.254</p>
+<p><a href="https://support.google.com/wifi/answer/7571856?hl=en" target="_blank" rel="noopener">How-to Guide</a></p>
+</td>
+<td style="width: 155.2px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>* at the current stage of development you will need to ensure your Wi-Fi router settings match the following credentials ()</p>
 <p>* it is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only the Wave Hotspot</p>
+<p>&nbsp;</p>
+<p>- Insert the Micro SD Card into the device and connect your device to your Wi-Fi Router with the ethernet cable</p>
+<p>- Power up the device (the system will take 10 minutes to boot up for the first time)</p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-3</strong>. Connect to the Wave Hotspot and visit the menu to choose a mode of operation for each device</span></p>
 <p>SSID:: <em>Wave-Hotspot</em></p>
@@ -130,36 +248,36 @@
 </tbody>
 </table>
 <h2>&nbsp;</h2>
-<table>
+<table style="width: 459px;">
 <tbody>
 <tr>
-<td>
+<td style="width: 254.8px;">
 <p style="text-align: center;"><strong><a>Energy-Mode</a></strong></p>
 </td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><strong><a>Repeater-Mode</a></strong></td>
+<td style="text-align: center; width: 10px;">&nbsp;</td>
+<td style="text-align: center; width: 199px;"><strong><a>Repeater-Mode</a></strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>
+<td style="width: 254.8px;">
 <p>&nbsp;Receiver</p>
 </td>
-<td>&nbsp;</td>
-<td>Receiver / Transmitter</td>
+<td style="width: 10px;">&nbsp;</td>
+<td style="width: 199px;">Receiver / Transmitter</td>
 </tr>
 <tr>
-<td style="text-align: center;">Ethernet</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;Wireless</td>
+<td style="text-align: center; width: 254.8px;">Ethernet</td>
+<td style="text-align: center; width: 10px;">&nbsp;</td>
+<td style="text-align: center; width: 199px;">&nbsp;Wireless</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
+<td style="text-align: center; width: 254.8px;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
+<td style="text-align: center; width: 10px;">&nbsp;</td>
+<td style="text-align: center; width: 199px;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
+<td style="text-align: center; width: 254.8px;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
+<td style="text-align: center; width: 10px;">&nbsp;</td>
+<td style="text-align: center; width: 199px;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
 </tr>
 </tbody>
 </table>
