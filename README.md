@@ -7,15 +7,15 @@
 <td style="width: 299px; text-align: center;">
 <h1 id="mcetoc_1cb7hvoro1c"><strong>WaveOS</strong></h1>
 <p>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</p>
-<table style="height: 24px; width: 291px;">
+<table style="height: 24px; width: 299px;">
 <tbody>
 <tr>
-<td style="width: 149.6px; text-align: center;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></td>
-<td style="width: 133.4px; text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://www.crazypi.com/image/cache/catalog/product/kits/RPi3_Kit/raspberry-pi-3-white-case-500x500.jpg" alt="" width="100" /></a></td>
+<td style="width: 160.2px; text-align: center;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></td>
+<td style="width: 135.8px; text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://www.crazypi.com/image/cache/catalog/product/kits/RPi3_Kit/raspberry-pi-3-white-case-500x500.jpg" alt="" width="100" /></a></td>
 </tr>
 <tr>
-<td style="width: 149.6px;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">WaveOS - 0.4.0</a></td>
-<td style="width: 133.4px;"><a href="https://paypalme.com/makeitwave/125">Starter Kit $124.99</a></td>
+<td style="width: 160.2px;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Operating System</a></td>
+<td style="width: 135.8px;"><a href="https://paypalme.com/makeitwave/125">Single Board Computer ($124.99)</a></td>
 </tr>
 </tbody>
 </table>
