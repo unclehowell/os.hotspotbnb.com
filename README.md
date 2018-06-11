@@ -1,25 +1,16 @@
-<table style="height: 209px; width: 565px;">
-<tbody>
-<tr>
-<td style="width: 252px;">
-<p>&nbsp;<img style="text-align: center;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="250" /></p>
-</td>
-<td style="width: 299px; text-align: center;">
-<h1 id="mcetoc_1cb7hvoro1c"><strong>WaveOS</strong></h1>
+<p><strong>WaveOS</strong></p>
 <p>The worlds first&nbsp;user-friendly Operating System for Single Board Computers (SBC's)&nbsp;</p>
-<table style="height: 24px; width: 299px;">
+<table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 160.2px; text-align: center;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></td>
-<td style="width: 135.8px; text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://www.crazypi.com/image/cache/catalog/product/kits/RPi3_Kit/raspberry-pi-3-white-case-500x500.jpg" alt="" width="100" /></a></td>
+<td style="text-align: center; width: 33.33%;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="75" /></a></td>
+<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/125"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100" /></a></td>
+<td style="text-align: center; width: 33.33;"><a href="https://paypalme.com/makeitwave/125"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100" /></a></td>
 </tr>
 <tr>
-<td style="width: 160.2px;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Operating System</a></td>
-<td style="width: 135.8px;"><a href="https://paypalme.com/makeitwave/125">Single Board Computer ($124.99)</a></td>
-</tr>
-</tbody>
-</table>
-</td>
+<td style="text-align: center; width: 33.33%;"><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;">Operating System Only</a></td>
+<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/125">Plug &amp; Play Unit (x1 SBC) - $124.99</a></td>
+<td style="text-align: center; width: 33.33%;"><a href="https://paypalme.com/makeitwave/675">Complete Smart Home Kit (x7 SBC's) - $675 USD</a></td>
 </tr>
 </tbody>
 </table>
