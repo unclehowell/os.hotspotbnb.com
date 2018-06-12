@@ -1,10 +1,10 @@
-<table>
+<table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 50%;">
-<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" style="max-width:200px;" /></h1>
+<td style="text-align:center;width: 50%;">
+<h1><img style="max-width:180px!important;" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
 </td>
-<td style="width: 50%;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" style="max-width:200px;" /></td>
+<td style="text-align:center; width: 50%;"><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" /></td>
 </tr>
 </tbody>
 </table>
@@ -104,8 +104,7 @@
 <td style="text-align: center;"><strong>Option-A</strong></td>
 <td style="text-align: center;"><strong>Option-B</strong></td>
 <td style="text-align: center;"><strong>Option-A</strong></td>
-<td style="text-align: center;"><strong>Option-B</strong>
-</td>
+<td style="text-align: center;"><strong>Option-B</strong></td>
 </tr>
 <tr>
 <td style="width: 25%;">
@@ -134,24 +133,20 @@
 <td style="width: 25%; text-align: center;">FREE</td>
 </tr>
 <tr>
-<td style="width: 25%; text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" style="max-width:150px;"/>
-</td>
-<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" style="max-width:150px;"/>
-</td>
-<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" style="max-width:150px;"/>
-</td>
-<td style="width: 25%; text-align: center;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" style="max-width:150px;" />
-</td>
+<td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></td>
+<td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></td>
+<td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
+<td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" /></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:150px; min-width:50px;"/></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:150px; min-width:50px;"/></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:150px; min-width:50px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:40px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:40px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:40px;"/></a></td>
 <td style="text-align: center; width: 25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a><a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></td>
 </tr>
 <tr>
 <td style="width: 66%;" colspan="2">
-</br><p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
+<p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
 <p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
 <p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
 <p style="text-align: center;">*<em> all cables, PSU &amp; WaveOS pre-installer SD Cards included</em></p>
@@ -185,9 +180,10 @@
 <td style="width: 33%; text-align: center;">Update subnet</td>
 <td style="width: 33%; text-align: center;">Save &amp; Reboot</td>
 </tr>
-<tr>
-<td style="width: 33%; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" alt="" width="100%" style="max-width:225px;" /></td>
-<td style="width: 33%; text-align: center;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="100%"  /></td><td style="width: 155.2px; text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" alt="" width="100%" style="max-width:225px;"/></td>
+<tr><td style="width: 33%; text-align: center;"><img style="max-width: 225px;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" alt="" width="100%" style="max-width:200px;"/></td>
+
+<td style="width: 33%; text-align: center;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="100%" style="max-width:200px;"/></td>
+<td style="width: 155.2px; text-align: center;"><img style="max-width: 225px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" alt="" width="100%" style="max-width:200px;"/></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">
@@ -228,9 +224,9 @@
 <td style="width: 33%; text-align: center;">Connect Power</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 33%;"><img src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" alt="" width="100%"  style="max-width:250px"/></td>
-<td style="text-align: center; width: 33%;"><img src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="100%"  style="max-width:250px"/></td>
-<td style="text-align: center; width: 33%;"><img src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" alt="" width="100%"  style="max-width:250px"/></td>
+<td style="text-align: center; width: 33%;"><img style="max-width: 250px;" src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" alt="" width="100%" style="max-width:200px;"/></td>
+<td style="text-align: center; width: 33%;"><img style="max-width: 250px;" src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="100%" style="max-width:200px;"/></td>
+<td style="text-align: center; width: 33%;"><img style="max-width: 250px;" src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" alt="" width="100%" style="max-width:200px;"/></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">Insert the WaveOS Micro SD Card into the SBC Device</td>
@@ -264,9 +260,9 @@
 <td style="width: 33%; text-align: center;">Select Mode</td>
 </tr>
 <tr>
-<td style="width: 33%; text-align: center;"><img src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" alt="" width="100%" style="max-width:250px" /></td>
-<td style="width: 33%; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="100%"  style="max-width:250px"/></td>
-<td style="width: 33%;"><img src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="100%"  style="max-width:250px"/></td>
+<td style="width: 33%; text-align: center;"><img style="max-width: 250px;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" alt="" width="100%" style="max-width:200px;"/></td>
+<td style="width: 33%; text-align: center;"><img style="max-width: 250px;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="100%" style="max-width:200px;"/></td>
+<td style="width: 33%;"><img style="max-width: 250px;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="100%" style="max-width:200px;"/></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">
@@ -302,8 +298,8 @@
 <td style="text-align: center; width: 50%;">HDMI</td>
 </tr>
 <tr>
-<td style="text-align:center;">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="100%" style="max-width:250px;"/></td>
-<td style="text-align:center;"><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="100%" style="max-width:250px;"/></td>
+<td style="text-align: center;">&nbsp;<img style="max-width: 250px;" src="https://thumb.ibb.co/ginj97/mode_1.png" width="100%" /></td>
+<td style="text-align: center;"><img style="max-width: 250px;" src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="100%" /></td>
 </tr>
 <tr>
 <td>In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
@@ -331,8 +327,8 @@
 <td style="text-align: center; width: 50%;">&nbsp;Wireless</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 50%;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="100%"  style="max-width:250px"/></td>
-<td style="text-align: center; width: 50%;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="100%" style="max-width:250px"/></td>
+<td style="text-align: center; width: 50%;">&nbsp;<img style="max-width: 250px;" src="https://image.ibb.co/mCwTay/inverter_mode.png" width="100%" /></td>
+<td style="text-align: center; width: 50%;"><img style="max-width: 250px;" src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="100%" /></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
