@@ -94,22 +94,22 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 372px; text-align: center;" colspan="2">
+<td style="width: 50%; text-align: center;" colspan="2">
 <p><strong>Newcomers</strong></p>
 </td>
-<td style="width: 654px; text-align: center;" colspan="2">
+<td style="width: 50%; text-align: center;" colspan="2">
 <p><strong>Existing SBC Owners</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 281.4px;">
+<td style="width: 25%;">
 <p style="text-align: center;"><strong>Option A</strong></p>
 </td>
-<td style="width: 90.6px; text-align: center;"><strong>Option B</strong></td>
-<td style="width: 327px;">
+<td style="text-align: center;"><strong>Option B</strong></td>
+<td style="width: 25%;">
 <p style="text-align: center;"><strong style="text-align: center;">Option A</strong></p>
 </td>
-<td style="width: 327px;">
+<td style="width: 25%;">
 <p style="text-align: center;"><strong style="text-align: center;">Option B</strong><span style="text-align: center;">&nbsp;</span></p>
 </td>
 </tr>
