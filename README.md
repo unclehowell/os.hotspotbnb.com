@@ -234,8 +234,8 @@
 <td style="text-align: center; width: 50%;">HDMI</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;<img style="max-width: 250px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumb.ibb.co/ginj97/mode_1.png" width="50%" /></td>
-<td style="text-align: center;"><img style="max-width: 250px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="100%" /></td>
+<td style="text-align: center;">&nbsp;<img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumb.ibb.co/ginj97/mode_1.png" width="50%" /></td>
+<td style="text-align: center;"><img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
@@ -263,8 +263,8 @@
 <td style="text-align: center; width: 50%;">&nbsp;Wireless</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 50%;">&nbsp;<img style="max-width: 250px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://image.ibb.co/mCwTay/inverter_mode.png" width="100%" /></td>
-<td style="text-align: center; width: 50%;"><img style="max-width: 200px;" src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="100%" /></td>
+<td style="text-align: center; width: 50%;">&nbsp;<img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://image.ibb.co/mCwTay/inverter_mode.png" width="50%" /></td>
+<td style="text-align: center; width: 50%;"><img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
