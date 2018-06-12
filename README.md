@@ -1,4 +1,3 @@
-<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="text-align: center; width: 50%;">
@@ -195,10 +194,10 @@
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Connect</td>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Access Menu</td>
-<td style="width: auto; min-width: 33%; text-align: center;" width="33%">Select a Mode</td>
+<td style="color: red; @media (max-width: 200px) { color: green }" width="33%">Select a Mode</td>
 </tr>
 <tr>
-<td style="width: auto; min-width: 33%; text-align: center;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" width="75%" /></td>
+<td style="width: auto; min-width: 33%; text-align: center;"><img style="color: red; @media (max-width: 200px) { color: green }" width="75%" /></td>
 <td style="width: auto; min-width: 33%; text-align: center;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
 <td style="width: auto; min-width: 33%;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="75%" /></td>
 </tr>
@@ -299,3 +298,4 @@
 <p>Make it Wave Ltd (Company ID: 11363386)</p>
 <p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">hywelapbuckler@gmail.com</a></p>
 <p><a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" width="40px" height="40px" /> </a></p>
+
