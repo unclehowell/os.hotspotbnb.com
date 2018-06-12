@@ -101,15 +101,10 @@
 </td>
 </tr>
 <tr>
-<td style="width: 25%;">
-<p style="text-align: center;"><strong>Option-A</strong></p>
-</td>
-<td style="text-align: center; width: 22.6464%;"><strong>Option-B</strong></td>
-<td style="width: 25%;">
-<p style="text-align: center;"><strong style="text-align: center;">Option-A</strong></p>
-</td>
-<td style="width: 25%;">
-<p style="text-align: center;"><strong style="text-align: center;">Option-B</strong><span style="text-align: center;">&nbsp;</span></p>
+<td style="text-align: center;"><strong>Option-A</strong></td>
+<td style="text-align: center;"><strong>Option-B</strong></td>
+<td style="text-align: center;"><strong>Option-A</strong></td>
+<td style="text-align: center;"><strong>Option-B</strong>
 </td>
 </tr>
 <tr>
@@ -139,29 +134,23 @@
 <td style="width: 25%; text-align: center;">FREE</td>
 </tr>
 <tr>
-<td style="width: 25%;">
-<p style="text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></p>
+<td style="width: 25%; text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" />
 </td>
-<td style="width: 25%;">
-<p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></a></p>
+<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" />
 </td>
-<td style="width: 25%; text-align: center;">
-<p><img src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></p>
+<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" />
 </td>
-<td style="width: 25%; text-align: center;">
-<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" /></a></p>
+<td style="width: 25%; text-align: center;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" />
 </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 25%;">
-<p><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></p>
-</td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="40" /></a>&nbsp;<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="39" height="39" /></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a><a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></td>
 </tr>
 <tr>
-<td style="width: 66.66%;" colspan="2">
+<td style="width: 66%;" colspan="2">
 <p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
 <p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
 <p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
@@ -178,11 +167,11 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 31.8004%;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
-<td style="width: 168.2%;">&nbsp;<strong>Set&nbsp;your Router&nbsp;</strong></td>
+<td style="width: 10%;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
+<td style="width: 90%;">&nbsp;<strong>Set&nbsp;your Router&nbsp;</strong></td>
 </tr>
 <tr>
-<td style="width: 200%;" colspan="2">
+<td style="width: 100%;" colspan="2">
 <p>WaveOS currently requires you to adjust a setting on your routers subnet e.g. Gateway and DHCP IP. We are working to eliminate this step in later versions of Wave, but for now it's mandatory</p>
 </td>
 </tr>
@@ -192,40 +181,40 @@
 <table width="100%">
 <tbody>
 <tr>
-<td style="width: 154.4px; text-align: center;">&nbsp;Login</td>
-<td style="width: 155.2px; text-align: center;">Update subnet</td>
-<td style="width: 155.2px; text-align: center;">Save &amp; Reboot</td>
+<td style="width: 33%; text-align: center;">&nbsp;Login</td>
+<td style="width: 33%; text-align: center;">Update subnet</td>
+<td style="width: 33%; text-align: center;">Save &amp; Reboot</td>
 </tr>
 <tr>
-<td style="width: 154.4px; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" alt="" width="150" /></td>
-<td style="width: 155.2px; text-align: center;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="155" height="97" /></td>
-<td style="width: 155.2px; text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" alt="" width="145" /></td>
+<td style="width: 33%; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" alt="" width="100%" /></td>
+<td style="width: 33%; text-align: center;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="100%"  /></td><td style="width: 155.2px; text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" alt="" width="100%" style="max-width:250px;"/></td>
+
 </tr>
 <tr>
-<td style="width: 154.4px; text-align: center;">
+<td style="width: 33%; text-align: center;">
 <p>Enter your router IP into the address bar to access its menu</p>
 <p><a href="https://www.linksys.com/us/support-article?articleNum=132891">How-to-Guide</a></p>
 </td>
-<td style="width: 155.2px; text-align: center;">
+<td style="width: 33%; text-align: center;">
 <p>Gateway: 10.0.0.1</p>
 <p>DHCP: 10.0.0.2 - 10.0.0.254</p>
 <p><a href="https://support.google.com/wifi/answer/7571856?hl=en" target="_blank" rel="noopener">How-to Guide</a></p>
 </td>
-<td style="width: 155.2px; text-align: center;">
+<td style="width: 33%; text-align: center;">
 <p>The LED indicator will say when the reboot has completed</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><em>* It is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only the Wave Hotspot</em></p>
-<table style="width: 469px;">
+<table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 74.8px;"><span style="color: #0000ff;"><strong>Step-3.</strong>&nbsp;</span>&nbsp;</td>
-<td style="width: 387.2px;">&nbsp;<strong>Plug &amp; Play</strong></td>
+<td style="width: 10%;"><span style="color: #0000ff;"><strong>Step-3.</strong>&nbsp;</span>&nbsp;</td>
+<td style="width: 90%;">&nbsp;<strong>Plug &amp; Play</strong></td>
 </tr>
 <tr>
-<td style="width: 462px;" colspan="2">
+<td style="width: 100%;" colspan="2">
 <p>Fairly obvious but the sequence is important</p>
 </td>
 </tr>
@@ -235,19 +224,19 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 158.4px; text-align: center;">Insert SD Card</td>
-<td style="width: 143.2px; text-align: center;">&nbsp; Connect to Router</td>
-<td style="width: 143.2px; text-align: center;">Connect Power</td>
+<td style="width: 33%; text-align: center;">Insert SD Card</td>
+<td style="width: 33%; text-align: center;">&nbsp; Connect to Router</td>
+<td style="width: 33%; text-align: center;">Connect Power</td>
 </tr>
 <tr>
-<td style="width: 158.4px;"><img src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" alt="" width="145" /></td>
-<td style="width: 143.2px;"><img src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="145" /></td>
-<td style="width: 143.2px;"><img src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" alt="" width="145" /></td>
+<td style="text-align: center; width: 33%;"><img src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" alt="" width="100%"  style="max-width:250px"/></td>
+<td style="text-align: center; width: 33%;"><img src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="100%"  style="max-width:250px"/></td>
+<td style="text-align: center; width: 33%;"><img src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" alt="" width="100%"  style="max-width:250px"/></td>
 </tr>
 <tr>
-<td style="width: 158.4px; text-align: center;">Insert the WaveOS Micro SD Card into the SBC Device</td>
-<td style="width: 143.2px; text-align: center;"><span style="text-align: start;">&nbsp;Connect your device to your Wi-Fi Router with the ethernet cable.</span></td>
-<td style="width: 143.2px; text-align: center;">Power up the device&nbsp;</td>
+<td style="width: 33%; text-align: center;">Insert the WaveOS Micro SD Card into the SBC Device</td>
+<td style="width: 33%; text-align: center;"><span style="text-align: start;">&nbsp;Connect your device to your Wi-Fi Router with the ethernet cable.</span></td>
+<td style="width: 33%; text-align: center;">Power up the device&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -271,14 +260,14 @@
 <table style="width: 99%;">
 <tbody>
 <tr>
-<td style="width: 33%;">&nbsp; Connect</td>
-<td style="width: 33%; text-align: center;">&nbsp; Access Menu</td>
+<td style="width: 33%; text-align: center;">Connect</td>
+<td style="width: 33%; text-align: center;">Access Menu</td>
 <td style="width: 33%; text-align: center;">Select Mode</td>
 </tr>
 <tr>
-<td style="width: 33%; text-align: center;"><img src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" alt="" width="145" /></td>
-<td style="width: 33%; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="150" /></td>
-<td style="width: 33%;"><img src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="142" height="80" /></td>
+<td style="width: 33%; text-align: center;"><img src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" alt="" width="100%" style="max-width:250px" /></td>
+<td style="width: 33%; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="100%"  style="max-width:250px"/></td>
+<td style="width: 33%;"><img src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" alt="" width="100%"  style="max-width:250px"/></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">
@@ -314,8 +303,8 @@
 <td style="text-align: center; width: 50%;">HDMI</td>
 </tr>
 <tr>
-<td>&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="100%" /></td>
-<td><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="100%" /></td>
+<td style="text-align:center;">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="100%" style="max-width:250px;"/></td>
+<td style="text-align:center;"><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="100%" style="max-width:250px;"/></td>
 </tr>
 <tr>
 <td>In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
@@ -343,8 +332,8 @@
 <td style="text-align: center; width: 50%;">&nbsp;Wireless</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 50%;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="100%" /></td>
-<td style="text-align: center; width: 50%;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="100%" /></td>
+<td style="text-align: center; width: 50%;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="100%"  style="max-width:250px"/></td>
+<td style="text-align: center; width: 50%;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="100%" style="max-width:250px"/></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
