@@ -1,4 +1,4 @@
-<table>
+<table style="width="100%">
 <tbody>
 <tr>
 <td style="width: 50%;">
@@ -8,13 +8,13 @@
 </tr>
 </tbody>
 </table>
-<p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p>
+<p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p></br>
 <p style="text-align: left;">Here&nbsp;are some of the benefits of WaveOS:&nbsp;</p>
-<table style="width: 100%;">
+<table style="width: 100%; ">
 <tbody>
 <tr>
-<td style="width: 50%;"><strong>Internet Speed Boosting</strong></td>
-<td style="width: 50%;"><strong>Media Library</strong></td>
+<td style="width: 50%; text-align: center;"><strong>Internet Speed Boosting</strong></td>
+<td style="width: 50%; text-align: center;"><strong>Media Library</strong></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; <a href="https://wiki.debian.org/Bind9">Bind9</a> to make your internet around x5 times faster</td>
@@ -178,7 +178,7 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100%;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
+<td style="width:100%;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
 <td style="width: 100%;">&nbsp;<strong>Set&nbsp;your Router&nbsp;</strong></td>
 </tr>
 <tr>
@@ -254,7 +254,7 @@
 <p>&nbsp;</p>
 <p>* during boot-up (for the first time only) Wave will connect to our code source and self-configure some essential services like updates &amp; upgrades, the Wi-Fi and the set-up Menu. This process can take up to 15 minutes depending on internet speed</p>
 <p>&nbsp;</p>
-<table style="width: 100%;">
+<table style="width: 100%">
 <tbody>
 <tr>
 <td style="width: 10%;"><span style="color: #0000ff;"><strong>Step-4.</strong>&nbsp;&nbsp;</span></td>
@@ -302,23 +302,28 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="text-align: center;"><strong><a>Hotspot-Mode</a></strong></td>
-<td style="text-align: center;"><strong><a>Extender-Mode</a></strong></td>
+<td style="text-align: center; width:50%;"><strong><a>Hotspot-Mode</a></strong></td>
+<td style="text-align: center; width:50%;">&nbsp;</td>
+<td style="text-align: center; width:50%;"><strong><a>Extender-Mode</a></strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">Broadcast</td>
-<td style="text-align: center;">Receiver</td>
+<td style="text-align: center; width:50%;">Broadcast</td>
+<td style="text-align: center; width:50%;">&nbsp;</td>
+<td style="text-align: center; width:50%;">Receiver</td>
 </tr>
 <tr>
-<td style="text-align: center;">Ethernet</td>
-<td style="text-align: center;">HDMI</td>
+<td style="text-align: center; width:50%;">Ethernet</td>
+<td style="text-align: center; width:50%;">&nbsp;</td>
+<td style="text-align: center; width:50%;">HDMI</td>
 </tr>
 <tr>
-<td>&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" /></td>
-<td><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="185" /></td>
+<td>&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="100%" /></td>
+<td>&nbsp;</td>
+<td><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="100%" /></td>
 </tr>
 <tr>
 <td>In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
+<td>&nbsp;</td>
 <td>In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
 </tr>
 </tbody>
@@ -330,24 +335,29 @@
 <td style="width: 50%;">
 <p style="text-align: center;"><strong><a>Energy-Mode</a></strong></p>
 </td>
+<td style="text-align: center; width: 50%;">&nbsp;</td>
 <td style="text-align: center; width: 50%;"><strong><a>Repeater-Mode</a></strong></td>
 </tr>
 <tr style="text-align: center;">
 <td style="width: 50%;">
 <p>&nbsp;Receiver</p>
 </td>
+<td style="width: 50%;">&nbsp;</td>
 <td style="width: 50%;">Receiver / Transmitter</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">Ethernet</td>
+<td style="text-align: center; width: 50%;">&nbsp;</td>
 <td style="text-align: center; width: 50%;">&nbsp;Wireless</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
+<td style="text-align: center; width: 50%;">&nbsp;</td>
 <td style="text-align: center; width: 50%;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
+<td style="text-align: center; width: 50%;">&nbsp;</td>
 <td style="text-align: center; width: 50%;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
 </tr>
 </tbody>
