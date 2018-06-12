@@ -1,7 +1,7 @@
 
 <link rel="stylesheet"
       type="text/css"
-      href="http://rawgit.com/unclehowell/WaveOS/master/data/css/readme-stylesheet.css"
+      href="http://cdn.rawgit.com/unclehowell/WaveOS/master/data/css/readme-stylesheet.css"
 />
 
 <table style="width: 100%;">
