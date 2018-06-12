@@ -139,9 +139,9 @@
 <td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" /></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:40px;"/></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:40px;"/></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:40px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:70px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:70px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 150px; min-width: 50px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:100px;min-width:70px;"/></a></td>
 <td style="text-align: center; width: 25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a><a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></td>
 </tr>
 <tr>
