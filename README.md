@@ -198,9 +198,9 @@
 <td style="width: 33%; text-align: center;">Select a Mode</td>
 </tr>
 <tr>
-<td style="width: 33%; text-align: center;"><img style="min-width: 100%; display: block; margin-left: auto; margin-right: auto; width: 33%;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" width="33%" /></td>
-<td style="width: 33%; text-align: center;"><img style="min-width: 100%; display: block; margin-left: auto; margin-right: auto; width: 33%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="33%" /></td>
-<td style="width: 33%; text-align: center;"><img style="min-width: 100%; display: block; margin-left: auto; margin-right: auto; width: 33%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="33%" /></td>
+<td style="width: 33%; text-align: center;"><img style="min-width: 100px; max-width: 300px; display: block; margin-left: auto; margin-right: auto;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" width="200px" /></td>
+<td style="width: 33%; text-align: center;"><img style="min-width: 100px; max-width: 300px; display: block; margin-left: auto; margin-right: auto;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="200px" /></td>
+<td style="width: 33%; text-align: center;"><img style="min-width: 100px; max-width: 300px; display: block; margin-left: auto; margin-right: auto;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="200px" /></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">
