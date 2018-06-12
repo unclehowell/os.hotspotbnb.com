@@ -6,7 +6,11 @@ html .html #html {
     background-color: black;   
 }
 
-
+logo #logo .logo {
+    zoom:0.1;
+    display: hidden;
+    
+}
 
 .4-col tr {
     display: table-row;
