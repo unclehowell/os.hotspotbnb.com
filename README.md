@@ -5,12 +5,6 @@
 />
 
 
-<link rel="stylesheet"
-      type="text/css"
-      href="https://cdn.rawgit.com/unclehowell/WaveOS/293f7017/data/css/readme-stylesheet.css"
-/>
-
-
 [![Build Status](https://travis-ci.org/PurpleBooth/git-lint-validators.svg?branch=master)](https://travis-ci.org/PurpleBooth/git-lint-validators)
 [![Latest Stable Version](https://poser.pugx.org/purplebooth/git-lint-validators/v/stable)](https://packagist.org/packages/purplebooth/git-lint-validators)
 [![License](https://poser.pugx.org/purplebooth/git-lint-validators/license)](https://packagist.org/packages/purplebooth/git-lint-validators)
