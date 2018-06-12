@@ -7,8 +7,8 @@
 }
 
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "unclehowell/WaveOS",
+    "description": "User Friendly OS for Single Board Computers",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.*"
