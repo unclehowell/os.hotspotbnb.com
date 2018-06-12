@@ -5,3 +5,12 @@
         "vendor/package3": "^0.4.0"
     }
 }
+
+{
+    "name": "your-vendor-name/package-name",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
