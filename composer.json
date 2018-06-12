@@ -4,12 +4,11 @@
         "vendor/package2": "0.*",
         "vendor/package3": "^0.4"
     }
-
-{
     "name": "unclehowell/WaveOS",
     "description": "User Friendly OS for Single Board Computers",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.*"
     }
+}
 }
