@@ -4,7 +4,6 @@
         "vendor/package2": "0.*",
         "vendor/package3": "^0.4"
     }
-}
 
 {
     "name": "unclehowell/WaveOS",
