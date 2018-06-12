@@ -21,8 +21,8 @@
 <td style="width: 50%; text-align: center;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" width="100%" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" width="100%" /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1"  /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" /></td>
 </tr>
 <tr>
 <td style="width: 50%;">&nbsp;</td>
