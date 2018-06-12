@@ -243,7 +243,7 @@
 </tr>
 <tr>
 <td style="width: 158.4px;"><img src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" alt="" width="145" /></td>
-<td style="width: 143.2px;"><img src="https://files.readme.io/313d4ad-pi-ether.jpg" alt="" width="143" height="80" /></td>
+<td style="width: 143.2px;"><img src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="145" /></td>
 <td style="width: 143.2px;"><img src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" alt="" width="145" /></td>
 </tr>
 <tr>
