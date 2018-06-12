@@ -2,9 +2,9 @@
 <tbody>
 <tr>
 <td style="width: 50%;">
-<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
+<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" style="max-width:300px;" /></h1>
 </td>
-<td style="width: 50%;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" /></td>
+<td style="width: 50%;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" style="max-width:300px;" /></td>
 </tr>
 </tbody>
 </table>
@@ -186,9 +186,8 @@
 <td style="width: 33%; text-align: center;">Save &amp; Reboot</td>
 </tr>
 <tr>
-<td style="width: 33%; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" alt="" width="100%" /></td>
-<td style="width: 33%; text-align: center;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="100%"  /></td><td style="width: 155.2px; text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" alt="" width="100%" style="max-width:250px;"/></td>
-
+<td style="width: 33%; text-align: center;"><img src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" alt="" width="100%" style="max-width:225px;" /></td>
+<td style="width: 33%; text-align: center;"><img src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" alt="" width="100%"  /></td><td style="width: 155.2px; text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" alt="" width="100%" style="max-width:225px;"/></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">
