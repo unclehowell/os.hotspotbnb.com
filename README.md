@@ -1,4 +1,4 @@
-<table style="width="100%">
+<table>
 <tbody>
 <tr>
 <td style="width: 50%;">
@@ -8,9 +8,9 @@
 </tr>
 </tbody>
 </table>
-<p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p></br>
+<p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p>
 <p style="text-align: left;">Here&nbsp;are some of the benefits of WaveOS:&nbsp;</p>
-<table style="width: 100%; ">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;"><strong>Internet Speed Boosting</strong></td>
@@ -79,11 +79,11 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 100%;"><span style="color: #0000ff;"><strong>Step-1.</strong>&nbsp;&nbsp;</span></td>
-<td style="width: 100%;">&nbsp;<strong>Obtain Hardware</strong></td>
+<td style="width: 33.0152%;"><span style="color: #0000ff;"><strong>Step-1.</strong>&nbsp;&nbsp;</span></td>
+<td style="width: 166.985%;">&nbsp;<strong>Obtain Hardware</strong></td>
 </tr>
 <tr>
-<td style="width: 77px;" colspan="2">
+<td style="width: 200%;" colspan="2">
 <p>There's 4 great options to get you started, no matter what your situation or skillsets</p>
 </td>
 </tr>
@@ -94,10 +94,10 @@
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;" colspan="2">
-<p><strong>No idea. I pay you</strong></p>
+<p><strong>Non-Technical</strong></p>
 </td>
 <td style="width: 50%; text-align: center;" colspan="2">
-<p><strong>I hack. Give me the code!</strong></p>
+<p><strong>Tech Savvy</strong></p>
 </td>
 </tr>
 <tr>
@@ -178,11 +178,11 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width:100%;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
-<td style="width: 100%;">&nbsp;<strong>Set&nbsp;your Router&nbsp;</strong></td>
+<td style="width: 31.8004%;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
+<td style="width: 168.2%;">&nbsp;<strong>Set&nbsp;your Router&nbsp;</strong></td>
 </tr>
 <tr>
-<td style="width: 70.2px;" colspan="2">
+<td style="width: 200%;" colspan="2">
 <p>WaveOS currently requires you to adjust a setting on your routers subnet e.g. Gateway and DHCP IP. We are working to eliminate this step in later versions of Wave, but for now it's mandatory</p>
 </td>
 </tr>
@@ -254,7 +254,7 @@
 <p>&nbsp;</p>
 <p>* during boot-up (for the first time only) Wave will connect to our code source and self-configure some essential services like updates &amp; upgrades, the Wi-Fi and the set-up Menu. This process can take up to 15 minutes depending on internet speed</p>
 <p>&nbsp;</p>
-<table style="width: 100%">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 10%;"><span style="color: #0000ff;"><strong>Step-4.</strong>&nbsp;&nbsp;</span></td>
@@ -302,28 +302,23 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="text-align: center; width:50%;"><strong><a>Hotspot-Mode</a></strong></td>
-<td style="text-align: center; width:50%;">&nbsp;</td>
-<td style="text-align: center; width:50%;"><strong><a>Extender-Mode</a></strong></td>
+<td style="text-align: center; width: 50%;"><strong><a>Hotspot-Mode</a></strong></td>
+<td style="text-align: center; width: 50%;"><strong><a>Extender-Mode</a></strong></td>
 </tr>
 <tr>
-<td style="text-align: center; width:50%;">Broadcast</td>
-<td style="text-align: center; width:50%;">&nbsp;</td>
-<td style="text-align: center; width:50%;">Receiver</td>
+<td style="text-align: center; width: 50%;">Broadcast</td>
+<td style="text-align: center; width: 50%;">Receiver</td>
 </tr>
 <tr>
-<td style="text-align: center; width:50%;">Ethernet</td>
-<td style="text-align: center; width:50%;">&nbsp;</td>
-<td style="text-align: center; width:50%;">HDMI</td>
+<td style="text-align: center; width: 50%;">Ethernet</td>
+<td style="text-align: center; width: 50%;">HDMI</td>
 </tr>
 <tr>
 <td>&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="100%" /></td>
-<td>&nbsp;</td>
 <td><img src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="100%" /></td>
 </tr>
 <tr>
 <td>In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
-<td>&nbsp;</td>
 <td>In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
 </tr>
 </tbody>
@@ -335,29 +330,24 @@
 <td style="width: 50%;">
 <p style="text-align: center;"><strong><a>Energy-Mode</a></strong></p>
 </td>
-<td style="text-align: center; width: 50%;">&nbsp;</td>
 <td style="text-align: center; width: 50%;"><strong><a>Repeater-Mode</a></strong></td>
 </tr>
 <tr style="text-align: center;">
 <td style="width: 50%;">
 <p>&nbsp;Receiver</p>
 </td>
-<td style="width: 50%;">&nbsp;</td>
 <td style="width: 50%;">Receiver / Transmitter</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">Ethernet</td>
-<td style="text-align: center; width: 50%;">&nbsp;</td>
 <td style="text-align: center; width: 50%;">&nbsp;Wireless</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 50%;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="185" /></td>
-<td style="text-align: center; width: 50%;">&nbsp;</td>
-<td style="text-align: center; width: 50%;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="185" /></td>
+<td style="text-align: center; width: 50%;">&nbsp;<img src="https://image.ibb.co/mCwTay/inverter_mode.png" width="100%" /></td>
+<td style="text-align: center; width: 50%;"><img src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="100%" /></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
-<td style="text-align: center; width: 50%;">&nbsp;</td>
 <td style="text-align: center; width: 50%;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
 </tr>
 </tbody>
