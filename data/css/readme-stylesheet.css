@@ -1,10 +1,12 @@
-body {  
+body .body #body {  
     background-color: black;  
 }
 
-html {    
+html .html #html {    
     background-color: black;   
 }
+
+
 
 .4-col tr {
     display: table-row;
