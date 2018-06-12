@@ -2,7 +2,7 @@
     "require": {
         "vendor/package": "0.4.0",
         "vendor/package2": "0.*",
-        "vendor/package3": "^0.4.0"
+        "vendor/package3": "^0.4"
     }
 }
 
