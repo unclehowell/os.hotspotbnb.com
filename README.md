@@ -1,9 +1,8 @@
-<html>
-<body><table style="width: 100%;">
+
 <tbody>
 <tr>
 <td style="text-align: center; width: 50%;">
-<h1><img style="max-width: 180px!important;" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
+<h1><img style="width:250px; @media (max-width: 200px) { width: 50px }" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
 </td>
 <td style="text-align: center; width: 50%;"><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" /></td>
 </tr>
@@ -196,10 +195,10 @@
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Connect</td>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Access Menu</td>
-<td style="width: auto; min-width: 33%; text-align: center;" width="33%">Select a Mode</td>
+<td width="33%"><p style="color: red; @media (max-width: 200px) { color: green }">Select a Mode</p></td>
 </tr>
 <tr>
-<td style="width: auto; min-width: 33%; text-align: center;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" width="75%" /></td>
+<td style="width: auto; min-width: 33%; text-align: center;"><img style="color: red; @media (max-width: 200px) { color: green }" width="75%" /></td>
 <td style="width: auto; min-width: 33%; text-align: center;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
 <td style="width: auto; min-width: 33%;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="75%" /></td>
 </tr>
@@ -302,5 +301,3 @@
 <p><a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" width="40px" height="40px" /> </a></p>
 
 
-</body>
-</html>
