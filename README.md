@@ -10,7 +10,7 @@
       href="https://cdn.rawgit.com/unclehowell/WaveOS/293f7017/data/css/readme-stylesheet.css"
 />
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/PurpleBooth/git-lint-validators/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/PurpleBooth/git-lint-validators/?branch=master)
+
 [![Build Status](https://travis-ci.org/PurpleBooth/git-lint-validators.svg?branch=master)](https://travis-ci.org/PurpleBooth/git-lint-validators)
 [![Latest Stable Version](https://poser.pugx.org/purplebooth/git-lint-validators/v/stable)](https://packagist.org/packages/purplebooth/git-lint-validators)
 [![License](https://poser.pugx.org/purplebooth/git-lint-validators/license)](https://packagist.org/packages/purplebooth/git-lint-validators)
