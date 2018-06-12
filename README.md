@@ -8,7 +8,7 @@
 <tbody>
 <tr>
 <td style="text-align: center; width: 50%;">
-<h1><img style="max-width: 180px!important;" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
+<h1><img class="logo" style="max-width: 180px!important;" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
 </td>
 <td style="text-align: center; width: 50%;"><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" /></td>
 </tr>
