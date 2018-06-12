@@ -2,9 +2,9 @@
 <tbody>
 <tr>
 <td style="width: 50%;">
-<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" style="max-width:250px;" /></h1>
+<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" style="max-width:200px;" /></h1>
 </td>
-<td style="width: 50%;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" style="max-width:250px;" /></td>
+<td style="width: 50%;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" style="max-width:200px;" /></td>
 </tr>
 </tbody>
 </table>
