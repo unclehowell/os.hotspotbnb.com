@@ -1,17 +1,17 @@
-<table style="height: 50px;" width="100%">
+<table style="height: 50px;" width="459">
 <tbody>
 <tr>
-<td style="width: 50%;">
-<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" alt="" width="100%" height="auto" /></h1>
+<td style="width: 221.6px;">
+<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" alt="" width="237" height="62" /></h1>
 </td>
-<td style="width: 50%;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" alt="" width="100%" height="auto" /></td>
+<td style="width: 222.4px;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" alt="" width="200" /></td>
 </tr>
 </tbody>
 </table>
-<p><strong>The First Single Board Computer (SBC) Operating System for non-programmers</strong></p>
+<p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p>
 <p>&nbsp;</p>
 <p style="text-align: left;">Here&nbsp;are some of the benefits of WaveOS:&nbsp;</p>
-<table style="height: 1726px; width: 0px; float: left;">
+<table style="width: 100%; float: left;">
 <tbody>
 <tr>
 <td style="width: 268px; text-align: center;"><strong>Internet Speed Boosting</strong></td>
@@ -77,7 +77,7 @@
 </table>
 <p style="text-align: left;">&nbsp;</p>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
-<table style="height: 37px; width: 497px;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 77px;"><span style="color: #0000ff;"><strong>Step-1.</strong>&nbsp;&nbsp;</span></td>
@@ -91,7 +91,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="height: 63px; width: 476px;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 372px; text-align: center;" colspan="2">
@@ -177,7 +177,7 @@
 </tbody>
 </table>
 <p id="mcetoc_1cb7lorjn1f">&nbsp;</p>
-<table style="height: 25px; width: 480px;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 70.2px;"><span style="color: #0000ff;"><strong>Step-2.</strong>&nbsp;</span>&nbsp;</td>
@@ -191,7 +191,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="height: 49px;" width="485">
+<table width="100%">
 <tbody>
 <tr>
 <td style="width: 154.4px; text-align: center;">&nbsp;Login</td>
@@ -234,7 +234,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="height: 49px; width: 465px;">
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 158.4px; text-align: center;">Insert SD Card</td>
@@ -301,7 +301,7 @@
 <p>* 1 Unit in Hotspot-Mode must exist First &amp; Always</p>
 <p>* the mode-select menu can also be accessed via the web browser of any mobile device connected to the Wi-Fi network</p>
 <p>&nbsp;</p>
-<table>
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td style="text-align: center;"><strong><a>Hotspot-Mode</a></strong></td>
@@ -370,7 +370,7 @@
 <p>* warnings will ensure you don't make mistakes, so please read and take them onboard e.g. you must always have a unit set-up in Hotspot Mode before the other modes of operation can be expected to work&nbsp;</p>
 <h2><strong>Thanks</strong></h2>
 <p>The WaveOS Project would not have been possible without the incredible technologies listed below - a huge thanks to all the teams behind these projects, not to mention our investors, lenders &amp; volunteers - from all of us here at Wave:</p>
-<table>
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td><a title="Google Chrome Browser" href="https://www.google.com/chrome/" target="_blank" rel="noopener"><img src="https://image.ibb.co/d2ONky/chrome.png" alt="Google Chrome" width="150" /></a></td>
