@@ -2,9 +2,9 @@
 <tbody>
 <tr>
 <td style="width: 221.6px;">
-<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" alt="" width="237" height="62" /></h1>
+<h1><img src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
 </td>
-<td style="width: 222.4px;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" alt="" width="200" /></td>
+<td style="width: 222.4px;"><img src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" /></td>
 </tr>
 </tbody>
 </table>
@@ -103,14 +103,14 @@
 </tr>
 <tr>
 <td style="width: 25%;">
-<p style="text-align: center;"><strong>Option A</strong></p>
+<p style="text-align: center;"><strong>Option-A</strong></p>
 </td>
-<td style="text-align: center;"><strong>Option B</strong></td>
+<td style="text-align: center;"><strong>Option-B</strong></td>
 <td style="width: 25%;">
-<p style="text-align: center;"><strong style="text-align: center;">Option A</strong></p>
+<p style="text-align: center;"><strong style="text-align: center;">Option-A</strong></p>
 </td>
 <td style="width: 25%;">
-<p style="text-align: center;"><strong style="text-align: center;">Option B</strong><span style="text-align: center;">&nbsp;</span></p>
+<p style="text-align: center;"><strong style="text-align: center;">Option-B</strong><span style="text-align: center;">&nbsp;</span></p>
 </td>
 </tr>
 <tr>
@@ -141,25 +141,24 @@
 </tr>
 <tr>
 <td style="width: 281.4px;">
-<p style="text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100" /></p>
+<p style="text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></p>
 </td>
 <td style="width: 90.6px;">
-<p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100" /></a></p>
+<p style="text-align: center;"><a href="https://paypalme.com/makeitwave/125"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></a></p>
 </td>
 <td style="width: 327px; text-align: center;">
-<p><img src="https://thumb.ibb.co/c28408/sd_card.png" width="85" /></p>
+<p><img src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></p>
 </td>
 <td style="width: 327px; text-align: center;">
-<p>&nbsp;</p>
-<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="65" /></a></p>
+<p><a href="https://mega.nz/#!YbpRgIKS!GEpuU9cKBb2Ef0SaEXsjgkXiZDcnIwBwt7lH-fQRA-A&quot;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" /></a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://paypal.me/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="85" /></a></td>
+<td style="text-align: center;"><a href="https://paypal.me/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center;">
-<p><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="85" /></a></p>
+<p><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></p>
 </td>
-<td style="text-align: center;"><a href="https://paypal.me/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="85" /></a></td>
+<td style="text-align: center;"><a href="https://paypal.me/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="width: 327px; text-align: center;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="40" /></a>&nbsp;<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="39" height="39" /></a></td>
 </tr>
 <tr>
