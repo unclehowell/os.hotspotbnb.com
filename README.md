@@ -167,7 +167,7 @@
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-3.</strong>&nbsp;<strong>Plug &amp; Play</strong></span></p>
 <p>Fairly obvious but the sequence is important&nbsp;</p>
-<table style="width: 100%; border-color: grey;" border="1">
+<table style="border-color: grey;" border="1" width="100%">
 <tbody>
 <tr>
 <td style="width: 33%; text-align: center;">Insert SD Card</td>
@@ -190,12 +190,12 @@
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-4.</strong>&nbsp;<strong>Set-Up Wizard (Mode Select Menu)</strong></span></p>
 <p>Fairly obvious step, but the sequence is important</p>
-<table style="width: 100%; border-color: grey;" border="1">
+<table style="border-color: grey;" border="1" width="100%">
 <tbody>
 <tr>
-<td style="width: auto; min-width: 33%; text-align: center;">Connect</td>
-<td style="width: auto; min-width: 33%; text-align: center;">Access Menu</td>
-<td style="width: auto; min-width: 33%; text-align: center;">Select a Mode</td>
+<td style="width: auto; min-width: 33%; text-align: center;" width="33%">Connect</td>
+<td style="width: auto; min-width: 33%; text-align: center;" width="33%">Access Menu</td>
+<td style="width: auto; min-width: 33%; text-align: center;" width="33%">Select a Mode</td>
 </tr>
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" width="75%" /></td>
