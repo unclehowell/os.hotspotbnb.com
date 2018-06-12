@@ -1,3 +1,9 @@
+
+<link rel="stylesheet"
+      type="text/css"
+      href="https://cdn.rawgit.com/unclehowell/WaveOS/master/data/css/readme-stylesheet.css"
+/>
+
 <table style="width: 100%;">
 <tbody>
 <tr>
