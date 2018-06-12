@@ -1,0 +1,31 @@
+.4-col tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    background-red;
+}
+
+.4-col td, th {
+    display: table-cell;
+    vertical-align: inherit;
+    background-green;
+
+}
+
+.3-col tr {
+   display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    background-pink;
+}
+
+.3-col td, th {
+    display: table-cell;
+    vertical-align: inherit;
+    background-grey;
+
+}
+
+.2-col  {
+
+}
