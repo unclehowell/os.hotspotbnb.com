@@ -143,9 +143,9 @@
 <td style="width: 33%; text-align: center;">Save &amp; Reboot</td>
 </tr>
 <tr>
-<td style="width: 33%; text-align: center;"><img style="max-width: 133px;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="100%" /></td>
-<td style="width: 33%; text-align: center;"><img style="max-width: 133px;" src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" width="100%" /></td>
-<td style="width: 155.2px; text-align: center;"><img style="max-width: 133px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" width="100%" /></td>
+<td style="width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
+<td style="width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" width="75%" /></td>
+<td style="width: 155.2px; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" width="75%" /></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">
@@ -175,9 +175,9 @@
 <td style="width: 33%; text-align: center;">Connect Power</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 33%;"><img style="max-width: 133px;" src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" width="100%" /></td>
-<td style="text-align: center; width: 33%;"><img style="max-width: 133px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="100%" /></td>
-<td style="text-align: center; width: 33%;"><img style="max-width: 133px;" src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" width="100%" /></td>
+<td style="text-align: center; width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" width="50%" /></td>
+<td style="text-align: center; width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="50%" /></td>
+<td style="text-align: center; width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" width="50%" /></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">Insert the WaveOS Micro SD Card into the SBC Device</td>
@@ -198,9 +198,9 @@
 <td style="width: 33%; text-align: center;">Select a Mode</td>
 </tr>
 <tr>
-<td style="width: 33%; text-align: center;"><img style="max-width: 133px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" width="100%" /></td>
-<td style="width: 33%; text-align: center;"><img style="max-width: 133px;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="100%" /></td>
-<td style="width: 33%; text-align: center;"><img style="max-width: 133px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="100%" /></td>
+<td style="width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2016/08/s7-wifi-settings-04.jpg?itok=eEoG8Ssq" width="75%" /></td>
+<td style="width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
+<td style="width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="75%" /></td>
 </tr>
 <tr>
 <td style="width: 33%; text-align: center;">
