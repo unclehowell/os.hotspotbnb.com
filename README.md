@@ -10,20 +10,11 @@
       href="https://cdn.rawgit.com/unclehowell/WaveOS/293f7017/data/css/readme-stylesheet.css"
 />
 
----
-title: "Title"
-author: "Author"
-date: "DATE"
-output: 
-  html_document:
-     css: font-awesome-4.4.0/css/font-awesome.css
-     self_contained: no
-
----
-<i class="fa fa-renren fa-5x"></i>
-
-To preview the correctly rendered html file, click 
-<a href="http://htmlpreview.github.io/?https://github.com/FlorianWanders/FAonGitHub/blob/master/MWE.html" title="preview on htmlpreview.github.io" target="_blank">here</a>.
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/PurpleBooth/git-lint-validators/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/PurpleBooth/git-lint-validators/?branch=master)
+[![Build Status](https://travis-ci.org/PurpleBooth/git-lint-validators.svg?branch=master)](https://travis-ci.org/PurpleBooth/git-lint-validators)
+[![Dependency Status](https://www.versioneye.com/user/projects/57a26855447bcc004d5ec866/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57a26855447bcc004d5ec866)
+[![Latest Stable Version](https://poser.pugx.org/purplebooth/git-lint-validators/v/stable)](https://packagist.org/packages/purplebooth/git-lint-validators)
+[![License](https://poser.pugx.org/purplebooth/git-lint-validators/license)](https://packagist.org/packages/purplebooth/git-lint-validators)
 
 
 <table style="width: 100%;">
