@@ -1,7 +1,8 @@
+
 <tbody>
 <tr>
 <td style="text-align: center; width: 50%;">
-<h1><img style="max-width: 180px!important;" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
+<h1><img style="width:250px; @media (max-width: 200px) { width: 50px }" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
 </td>
 <td style="text-align: center; width: 50%;"><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" /></td>
 </tr>
@@ -194,7 +195,7 @@
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Connect</td>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Access Menu</td>
-<td style="color: red; @media (max-width: 200px) { color: green }" width="33%">Select a Mode</td>
+<td width="33%"><p style="color: red; @media (max-width: 200px) { color: green }">Select a Mode</p></td>
 </tr>
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;"><img style="color: red; @media (max-width: 200px) { color: green }" width="75%" /></td>
