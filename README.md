@@ -134,24 +134,24 @@
 <td style="width: 25%; text-align: center;">FREE</td>
 </tr>
 <tr>
-<td style="width: 25%; text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" />
+<td style="width: 25%; text-align: center;"><img src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" style="max-width:150px;"/>
 </td>
-<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" />
+<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" style="max-width:150px;"/>
 </td>
-<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" />
+<td style="width: 25%; text-align: center;"><img src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" style="max-width:150px;"/>
 </td>
-<td style="width: 25%; text-align: center;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" />
+<td style="width: 25%; text-align: center;"><img src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" style="max-width:150px;" />
 </td>
 </tr>
 <tr>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:150px; min-width:50px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:150px; min-width:50px;"/></a></td>
+<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" style="max-width:150px; min-width:50px;"/></a></td>
 <td style="text-align: center; width: 25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a><a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></td>
 </tr>
 <tr>
 <td style="width: 66%;" colspan="2">
-<p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
+</br><p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
 <p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
 <p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
 <p style="text-align: center;">*<em> all cables, PSU &amp; WaveOS pre-installer SD Cards included</em></p>
