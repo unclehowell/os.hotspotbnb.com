@@ -1,10 +1,10 @@
 
-<tbody>
+<tbody style="width: 100%;">
 <tr>
 <td style="text-align: center; width: 50%;">
-<h1><img style="width:250px; @media (max-width: 200px) { width: 50px }" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="100%" /></h1>
+<img style="width:400px; @media (max-width: 200px) { width: 150px }" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true"  />
 </td>
-<td style="text-align: center; width: 50%;"><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="100%" /></td>
+<td style="width:400px; @media (max-width: 200px) { width: 150px }"><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" /></td>
 </tr>
 </tbody>
 </table>
@@ -21,8 +21,8 @@
 <td style="width: 50%; text-align: center;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" width="100%" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" width="100%" /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1"  /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" /></td>
 </tr>
 <tr>
 <td style="width: 50%;">&nbsp;</td>
@@ -53,8 +53,8 @@
 <td style="width: 50%; text-align: center;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://emoncms.org/Modules/site/emoncms_front.png" width="100%" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="http://i.imgur.com/Y07Lpwp.png" width="100%" /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://emoncms.org/Modules/site/emoncms_front.png"  /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="http://i.imgur.com/Y07Lpwp.png"  /></td>
 </tr>
 <tr>
 <td style="width: 50%;">&nbsp;</td>
@@ -69,8 +69,8 @@
 <td style="width: 50%; text-align: center;">In 'Hotspot Mode' Wave has Remote Access - granting users unlimited access to a single dashboard which can monitor and control your entire home or business 24/7</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;">&nbsp;<img style="max-width: 200px;" src="https://thumb.ibb.co/mDDwNS/Screen_Mirroring.png" width="100%" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://thumb.ibb.co/fRRNCS/remote_access.png" width="100%" /></td>
+<td style="width: 50%; text-align: center;">&nbsp;<img style="max-width: 200px;" src="https://thumb.ibb.co/mDDwNS/Screen_Mirroring.png" /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://thumb.ibb.co/fRRNCS/remote_access.png" /></td>
 </tr>
 </tbody>
 </table>
@@ -78,55 +78,55 @@
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
 <p style="text-align: left;"><span style="text-decoration: underline;"><strong>Step-1.&nbsp;</strong><strong>Obtain Hardware</strong></span></p>
 <p>There's 4 great options to get you started, no matter what your situation or skillsets&nbsp;</p>
-<table style="width: 100%; border-color: grey;" border="1">
+<table width="99%" style="width: 99%; border-color: grey;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%; text-align: center;" colspan="2">
+<td style="width: 49.5%; text-align: center;" colspan="2">
 <p><strong>Non-Technical</strong></p>
 </td>
-<td style="width: 50%; text-align: center;" colspan="2">
+<td style="width: 49.5%; text-align: center;" colspan="2">
 <p><strong>Tech Savvy</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 25%; text-align: center;"><strong>Option-A</strong></td>
-<td style="width: 25%; text-align: center;"><strong>Option-B</strong></td>
-<td style="width: 25%; text-align: center;"><strong>Option-A</strong></td>
-<td style="width: 25%; text-align: center;"><strong>Option-B</strong></td>
+<td style="width: 24.25%; text-align: center;"><strong>Option-A</strong></td>
+<td style="width: 24.25%; text-align: center;"><strong>Option-B</strong></td>
+<td style="width: 24.25%; text-align: center;"><strong>Option-A</strong></td>
+<td style="width: 24.25%; text-align: center;"><strong>Option-B</strong></td>
 </tr>
 <tr>
-<td style="width: 25%; text-align: center;">Smart-Home Kit (x7 SBC's)</td>
-<td style="width: 25%; text-align: center;">Single Unit&nbsp; (x1 SBC)</td>
-<td style="width: 25%; text-align: center;">SD Only</td>
-<td style="width: 25%; text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</td>
+<td style="width: 24.25%; text-align: center;">Smart-Home Kit (x7 SBC's)</td>
+<td style="width: 24.25%; text-align: center;">Single Unit&nbsp; (x1 SBC)</td>
+<td style="width: 24.25%; text-align: center;">SD Only</td>
+<td style="width: 24.25%; text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</td>
 </tr>
 <tr>
-<td style="width: 25%; text-align: center;">$600 USD</td>
-<td style="width: 25%; text-align: center;">$125 USD</td>
-<td style="width: 25%; text-align: center;">$50 USD</td>
-<td style="width: 25%; text-align: center;">FREE</td>
+<td style="width: 24.25%; text-align: center;">$600 USD</td>
+<td style="width: 24.25%; text-align: center;">$125 USD</td>
+<td style="width: 24.25%; text-align: center;">$50 USD</td>
+<td style="width: 24.25%; text-align: center;">FREE</td>
 </tr>
 <tr>
-<td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></td>
-<td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></td>
-<td style="width: 25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
-<td style="width: 25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" /></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a><a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></td>
+<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 24.25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a><a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></td>
 </tr>
 <tr>
-<td style="width: 66%;" colspan="2">
+<td style="width: 65%;" colspan="2">
 <p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
 <p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
 <p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
 <p style="text-align: center;">*<em> all cables, PSU &amp; WaveOS pre-installer SD Cards included</em></p>
 </td>
-<td style="width: 17.5%; text-align: center;">Plug &amp; Play&nbsp;<em>(skip the manual installation process)</em></td>
-<td style="width: 17.5%;">
+<td style="width: 17%; text-align: center;">Plug &amp; Play&nbsp;<em>(skip the manual installation process)</em></td>
+<td style="width: 17%; text-align: center;">
 <p style="text-align: center;">use&nbsp;<a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a>&nbsp;to burn WaveOS to your Micro SD Card</p>
 </td>
 </tr>
