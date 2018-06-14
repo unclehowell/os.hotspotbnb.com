@@ -1,10 +1,10 @@
-<p><img style="width: 400px; @media (max-width: 200px) { width: 150px };" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" /><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" /></p>
+<p><img style="width: 200px; @media (max-width: 200px) { width: 150px };" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" width="200" height="52" /><img style="width: 100px; @media (max-width: 200px) { width: 75px }; margin-right: auto; margin-left: auto;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="200" /></p>
 <p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p>
 <table>
 <tbody>
 <tr>
-<td><strong>NEW* - check out our interactive demo&nbsp;</strong></td>
-<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 50px; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="75%" /></a></td>
+<td><strong>NEW* - </strong><em>check out our interactive demo</em><strong>&nbsp;</strong></td>
+<td><a href="http://makeitwave.com/demo.html"><img style="width: 40px; @media (max-width: 200px) { width: 20px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="75%" /></a></td>
 </tr>
 </tbody>
 </table>
