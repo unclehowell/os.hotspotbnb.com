@@ -1,6 +1,14 @@
 <p><img style="width: 400px; @media (max-width: 200px) { width: 150px };" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" /><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" /></p>
 <p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p>
-<p><strong>NEW* - we're building an <a href="http://makeitwave.com/demo.html">online demo</a> right now</strong></p>
+<table>
+<tbody>
+<tr>
+<td><strong>NEW* - check out our interactive demo&nbsp;</strong></td>
+<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 50px; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="75%" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p style="text-align: left;">Here&nbsp;are some of the benefits of WaveOS:&nbsp;</p>
 <table style="width: 100%; border-color: grey;" border="1">
 <tbody>
