@@ -4,7 +4,7 @@
 <tbody>
 <tr>
 <td><strong>NEW* - </strong><em>check out our interactive demo</em><strong>&nbsp;</strong></td>
-<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 40px; @media (max-width: 200px) { width: 20px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="75%" /></a></td>
+<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 20px; @media (max-width: 200px) { width: 20px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="20px" height="20px" /></a></td>
 </tr>
 </tbody>
 </table>
