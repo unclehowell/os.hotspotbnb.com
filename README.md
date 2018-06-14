@@ -1,14 +1,6 @@
-
-<tbody style="width: 100%;">
-<tr>
-<td style="text-align: center; width: 50%;">
-<img style="width:400px; @media (max-width: 200px) { width: 150px }" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true"  />
-</td>
-<td style="width:400px; @media (max-width: 200px) { width: 150px }"><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" /></td>
-</tr>
-</tbody>
-</table>
+<p><img style="width: 400px; @media (max-width: 200px) { width: 150px };" src="https://github.com/unclehowell/WaveOS/blob/master/modeless/features/multistep-menu/images/waveos%20logo.png?raw=true" /><img style="max-width: 180px!important;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" /></p>
 <p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p>
+<p><strong>NEW* - we're building an <a href="http://makeitwave.com/demo.html">online demo</a> right now</strong></p>
 <p style="text-align: left;">Here&nbsp;are some of the benefits of WaveOS:&nbsp;</p>
 <table style="width: 100%; border-color: grey;" border="1">
 <tbody>
@@ -21,7 +13,7 @@
 <td style="width: 50%; text-align: center;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1"  /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" /></td>
 <td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" /></td>
 </tr>
 <tr>
@@ -53,8 +45,8 @@
 <td style="width: 50%; text-align: center;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://emoncms.org/Modules/site/emoncms_front.png"  /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="http://i.imgur.com/Y07Lpwp.png"  /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://emoncms.org/Modules/site/emoncms_front.png" /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="http://i.imgur.com/Y07Lpwp.png" /></td>
 </tr>
 <tr>
 <td style="width: 50%;">&nbsp;</td>
@@ -70,15 +62,15 @@
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">&nbsp;<img style="max-width: 200px;" src="https://thumb.ibb.co/mDDwNS/Screen_Mirroring.png" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://thumb.ibb.co/fRRNCS/remote_access.png" /></td>
+<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://thumb.ibb.co/fRRNCS/remote_access.png" width="180" height="180" /></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: left;">&nbsp;</p>
+<p>&nbsp;</p>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
 <p style="text-align: left;"><span style="text-decoration: underline;"><strong>Step-1.&nbsp;</strong><strong>Obtain Hardware</strong></span></p>
 <p>There's 4 great options to get you started, no matter what your situation or skillsets&nbsp;</p>
-<table width="99%" style="width: 99%; border-color: grey;" border="1">
+<table style="width: 99%; border-color: grey;" border="1" width="99%">
 <tbody>
 <tr>
 <td style="width: 49.5%; text-align: center;" colspan="2">
@@ -110,13 +102,16 @@
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="62" height="62" /></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 24.25%;"><a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a><a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></td>
+<td style="text-align: center; width: 24.25%;">
+<p>500Mb<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></p>
+<p>(or 150Mb<a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a>)</p>
+</td>
 </tr>
 <tr>
 <td style="width: 65%;" colspan="2">
@@ -195,12 +190,14 @@
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Connect</td>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Access Menu</td>
-<td width="33%"><p style="color: red; @media (max-width: 200px) { color: green }">Select a Mode</p></td>
+<td width="33%">
+<p style="color: red; @media (max-width: 200px) { color: green };">Select a Mode</p>
+</td>
 </tr>
 <tr>
-<td style="width: auto; min-width: 33%; text-align: center;"><img style="color: red; @media (max-width: 200px) { color: green }" width="75%" /></td>
-<td style="width: auto; min-width: 33%; text-align: center;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
-<td style="width: auto; min-width: 33%;"><img style="min-width: 150px!important; margin-left: auto; display: block; margin-right: auto; width: 75%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="75%" /></td>
+<td style="width: auto; min-width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://cdn.guidingtech.com/media/assets/WordPress-Import/2017/01/shutterstock_327654092.jpg" width="75%" /></td>
+<td style="width: auto; min-width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
+<td style="width: auto; min-width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="75%" /></td>
 </tr>
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;">
@@ -299,5 +296,3 @@
 <p>Make it Wave Ltd (Company ID: 11363386)</p>
 <p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">hywelapbuckler@gmail.com</a></p>
 <p><a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" width="40px" height="40px" /> </a></p>
-
-
