@@ -4,12 +4,11 @@
 <tbody>
 <tr>
 <td><strong>NEW* - </strong><em>check out our interactive demo</em><strong>&nbsp;</strong></td>
-<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 20px; @media (max-width: 200px) { width: 20px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="20px" height="20px" /></a></td>
+<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p style="text-align: left;">Here&nbsp;are some of the benefits of WaveOS:&nbsp;</p>
+<p style="text-align: left;"><br />Key Reasons to use WaveOS:&nbsp;</p>
 <table style="width: 100%; border-color: grey;" border="1">
 <tbody>
 <tr>
