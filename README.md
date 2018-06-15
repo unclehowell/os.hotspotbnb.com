@@ -1,4 +1,4 @@
-<p><img style="width: 200px; @media (max-width: 200px) { width: 150px };" src="https://s15.postimg.cc/ye5kpydff/waveos_logo.png" width="200" height="auto" /><img style="width: 100px; @media (max-width: 200px) { width: 75px }; margin-right: auto; margin-left: auto;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="200" /></p>
+<p><img style="width: 200px; @media (max-width: 200px) { width: 150px };" src="https://s15.postimg.cc/s1qffwsaz/waveos_logo.png" width="200" height="auto" /><img style="width: 100px; @media (max-width: 200px) { width: 75px }; margin-right: auto; margin-left: auto;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="200" /></p>
 <p><strong>The First Single Board Computer (SBC) Operating System for Regular People/ Non-Programmers</strong></p>
 <table>
 <tbody>
