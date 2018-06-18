@@ -117,7 +117,7 @@
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;">
 <p style="zoom:0.5;">500MB.img<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></p>
-<p style="zoom:0.5;">(150MB.zip<a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a></p>
+<p style="zoom:0.5;">150MB.zip<a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a></p>
 </td>
 </tr>
 <tr>
