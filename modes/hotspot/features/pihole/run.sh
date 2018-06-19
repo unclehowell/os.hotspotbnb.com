@@ -59,6 +59,19 @@ sudo /etc/init.d/lighttpd restart
 sudo service pihole-FTL restart
 
 
+# to make the user interface work (since it doesnt seem to play ball with autonomous install) I do this https://github.com/pi-hole/pi-hole/issues/576:
+
+sudo apt-get remove lighttpd -y
+sudo apt-get install lighttpd -y
+
+sudo apt-get install libapache2-mod-php -y
+# then I ran sudo a2enmod and selected to apply to all, but this step needs making autonomous)
+
+sudo systemctl restart lighttpd
+sudo service lighttpd start
+
+# not sure which thing fixed the issue, so its best to do them all as I did and revisit later when theres time
+
 
 # restore lighttpd.conf 
 # mv /etc/lighttpd/lighttpd.conf.orig /etc/lighttpd/lighttpd.conf
