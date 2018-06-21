@@ -1,25 +1,22 @@
   #!/usr/bin/env bash
-  
-   
-   # Updates should be consolidated into one script/patch file with the date as the name
-   # what happens now is this update file preps the run.sh file, to run that script/patch file
-   # so the final part of deploying a script/patch is to enter its filename/date below
-   # the cronjob will pull the latest version of the update file and run it
-   # the patch/script should be moved from the 'updates/current' folder and put into the 'updates/old' folder after the clients systems have all updated
-  
-     # sed 's/datenotsetyet/20180518/' run.sh > run.sh
-     # mv run2.sh run.sh
-     # cd 
 	 
-  # FOR NOW, INSERT THE LINK TO THE DAILY UPDATE SCRIPT HERE, MANUALLY
+  # So the new plan for updates atm is for this file to periodically run updates.sh files, which will be named as versions e.g. 00-04-01.sh is OS version 4 update 1
+  # If the update (file) already exists on the device, the wget and overwrite should fail (I wont use -r command), this should prevent a loop e.g. cron runs this file, this file gets update and runs it, cron runs this file, gets update again and runs again
+  # furthermore each update will cneed to conclude by erasing its own file content, but not the file 
+  # This way the updates will be carried out sequentially but it'll not be able to loop and the update will effectively be a run once, leaving a ghost/empty file so the update can be skipped on the next scheduled run of this file
 	 
    cd /var/WaveOS/master/updates/current/
-   wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/updates/current/20180518.sh
-   chmod +x 20180518.sh
-   sh 20180518.sh
+   wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/updates/current/00-04-01.sh
+   chmod +x /var/WaveOS/master/updates/current/*
+   sh 00-04-01.sh &
+   sh 00-04-02.sh &
+   sh 00-04-03.sh &
+   sh 00-04-04.sh &
+   sh 00-04-05.sh &
+   sh 00-04-06.sh &
+   sh 00-04-07.sh &
+   sh 00-04-08.sh &
+   sh 00-04-09.sh &
+   sh 00-04-10.sh
    cd
-   
-  
-    # later this process can be trimmed down and fixed up a bit
-    # sed -i "/^app_date=/capp_date=\"$(date +%m/%d/%Y)\".sh" run.sh > run2.sh
   
