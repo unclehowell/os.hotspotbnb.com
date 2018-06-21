@@ -8,15 +8,15 @@
    cd /var/WaveOS/master/updates/current/
    wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/updates/current/00-04-01.sh
    chmod +x /var/WaveOS/master/updates/current/*
-   sh 00-04-01.sh &
-   sh 00-04-02.sh &
-   sh 00-04-03.sh &
-   sh 00-04-04.sh &
-   sh 00-04-05.sh &
-   sh 00-04-06.sh &
-   sh 00-04-07.sh &
-   sh 00-04-08.sh &
-   sh 00-04-09.sh &
+   sh 00-04-01.sh &&
+   sh 00-04-02.sh &&
+   sh 00-04-03.sh &&
+   sh 00-04-04.sh &&
+   sh 00-04-05.sh &&
+   sh 00-04-06.sh &&
+   sh 00-04-07.sh &&
+   sh 00-04-08.sh &&
+   sh 00-04-09.sh &&
    sh 00-04-10.sh
    cd
   
