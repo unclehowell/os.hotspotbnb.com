@@ -3,6 +3,7 @@
 cd /var/www/html
 wget https://github.com/unclehowell/makeitwave.com/archive/master.zip
 unzip master.zip
+rm -r master.zip
 cd
 
 mv /var/www/html/makeitwave.com-master/docs/demo.html /var/www/html
