@@ -69,6 +69,7 @@ sudo apt-get install libapache2-mod-php -y
 
 sudo systemctl restart lighttpd
 sudo service lighttpd start
+# sudo reboot required - but this isn't done here, we cant have every app rebooting when it needs to
 
 # not sure which thing fixed the issue, so its best to do them all as I did and revisit later when theres time
 
