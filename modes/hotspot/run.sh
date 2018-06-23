@@ -6,6 +6,7 @@
 sh /var/WaveOS/modes/hotspot/features/dashboard/run.sh
 
 # app installing page - places an 'app installing page' in the dashboard frame until the apps installed
+sh /var/WaveOS/modes/hotspot/features/installing-page/run.sh
 
 # pihole - faster internet
 sh /var/WaveOS/modes/hotspot/features/pihole/run.sh
