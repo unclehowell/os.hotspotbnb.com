@@ -6,17 +6,17 @@
   # This way the updates will be carried out sequentially but it'll not be able to loop and the update will effectively be a run once, leaving a ghost/empty file so the update can be skipped on the next scheduled run of this file
 	 
    cd /var/WaveOS/master/updates/current/
-   wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/updates/current/00-04-01.sh
+   wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/updates/current/*
    chmod +x /var/WaveOS/master/updates/current/*
-   sh 00-04-01.sh &&
-   sh 00-04-02.sh &&
-   sh 00-04-03.sh &&
-   sh 00-04-04.sh &&
-   sh 00-04-05.sh &&
-   sh 00-04-06.sh &&
-   sh 00-04-07.sh &&
-   sh 00-04-08.sh &&
-   sh 00-04-09.sh &&
+   sh 00-04-01.sh ;
+   sh 00-04-02.sh ;
+   sh 00-04-03.sh ;
+   sh 00-04-04.sh ;
+   sh 00-04-05.sh ;
+   sh 00-04-06.sh ;
+   sh 00-04-07.sh ;
+   sh 00-04-08.sh ;
+   sh 00-04-09.sh ;
    sh 00-04-10.sh
    cd
   
