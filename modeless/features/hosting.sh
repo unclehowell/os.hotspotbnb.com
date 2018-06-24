@@ -6,3 +6,10 @@
 /DietPi/dietpi/dietpi-software install 125
 
 apt-get install apache2 -y
+
+# Then we need CGI & Perl running, so the buttons on the mode-select menu will run mode-activation script
+
+cd /etc/apache2/mods-enabled
+sudo ln -sT ../mods-available/cgi.load cgi.load
+
+
