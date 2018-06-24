@@ -12,3 +12,8 @@ apt-get install apache2 -y
 
 cd /etc/apache2/mods-enabled
 sudo ln -sT ../mods-available/cgi.load cgi.load
+cd
+
+# restart - always important
+
+sudo systemctl restart apache2

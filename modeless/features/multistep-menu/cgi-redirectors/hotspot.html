@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <!-- HTML meta refresh URL redirection -->
+   <meta http-equiv="refresh"
+   content="20; url=cgi-bin/hotspot.pl">
+     <link rel="stylesheet" href="../css/progress.css">
+     <link rel="stylesheet" href="../css/style.css">
+     <script>
+     // This script is used to animate the progress bar
+
+var increment = 0; //set a value of zero for the progress bar
+
+ window.setInterval( // loop adding 1
+ function () {
+        increment = increment + Math.round(Math.random()) * 5;
+        document.getElementById("determinate").value = increment;
+        document.getElementById("determinate-value").textContent = increment;
+        document.getElementById("progress3").value = increment * 1.2;
+        document.getElementById("progress4").value = increment * 0.85;
+
+        if (increment >= 100) {
+                increment = 0;
+        }
+ }, 500);
+     </script>
+
+</head>
+<body>
+
+        <div class="card">
+		   <p>We'll set up the menu first, so you can start navigating around. Then the apps will begin installing</p>
+                       <img src="../images/installing-dashboard.png" width="80%" height="auto"> <progress id="determinate" max="100" value="0"></progress>
+        </div>
+</body>
+</html>

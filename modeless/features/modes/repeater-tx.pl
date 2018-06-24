@@ -2,4 +2,4 @@
 
 #!/usr/bin/perl
 print "Content-type: text/html\n\n";
-print "Hello, World from the /usr/lib/cgi-bin - this script will set-up hotspot mode";
+print "Hello, World from the /usr/lib/cgi-bin - this script will set-up repeater-tx mode";
