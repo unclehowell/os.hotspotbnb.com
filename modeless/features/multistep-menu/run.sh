@@ -15,6 +15,7 @@ mkdir /var/www/html/cgi-redirectors
 
 # move the content to the right directories
 mv /var/WaveOS/modeless/features/multistep-menu/index.html /var/www/html
+mv /var/WaveOS/modeless/features/multistep-menu/version.txt /var/www/html
 mv /var/WaveOS/modeless/features/multistep-menu/js/* /var/www/html/js
 mv /var/WaveOS/modeless/features/multistep-menu/css/* /var/www/html/css
 mv /var/WaveOS/modeless/features/multistep-menu/images/* /var/www/html/images
