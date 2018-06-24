@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Self-Build Device to the stage of Mode Selector e.g. broadcasts ssid, hostname, mode-selector menu etc
+# Self-Build Device to the point the wi-fi can accessed and the Mode Selector menu appears e.g. broadcasts ssid, hostname, mode-selector menu etc
 
 # get the latest repo
 cd /var
