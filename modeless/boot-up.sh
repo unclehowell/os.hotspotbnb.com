@@ -38,6 +38,10 @@ sh /var/WaveOS/modeless/features/multistep-menu/run.sh  ;
 # need to edit this file to include /
 # ~/.config/chromium/Default/Preferences 
 
+# 4) perform updates
+
+sh /var/WaveOS/updates/current/update.sh
+
 
 ####### stop screen-saver
 # sudo su

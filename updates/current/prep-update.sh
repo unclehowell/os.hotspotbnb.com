@@ -10,3 +10,4 @@
    
    # next step - run the update
    sh /var/WaveOS/updates/current/update.sh
+   
