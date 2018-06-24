@@ -2,6 +2,9 @@
 
 # install hotspot-mode: features
 
+# remove the mode-select menu
+rm -r /var/www/html/*
+
 # dashboard
 sh /var/WaveOS/modes/hotspot/features/dashboard/run.sh
 

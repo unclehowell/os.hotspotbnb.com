@@ -2,8 +2,9 @@
 <html>
 <head>
    <!-- HTML meta refresh URL redirection -->
-   <meta http-equiv="refresh"
-   content="20; url=cgi-bin/hotspot.pl">
+   <meta http-equiv="refresh" content="30; url=http://192.168.42.1/index.html">
+     <link rel="stylesheet" href="../css/progress.css"
+ <meta http-equiv="refresh" content="20" />
      <link rel="stylesheet" href="../css/progress.css">
      <link rel="stylesheet" href="../css/style.css">
      <script>
@@ -26,11 +27,16 @@ var increment = 0; //set a value of zero for the progress bar
      </script>
 
 </head>
-<body>
+<body onload="runhotspotinstall();">
 
         <div class="card">
-		   <p>We'll set up the menu first, so you can start navigating around. Then the apps will begin installing</p>
-                       <img src="../images/installing-dashboard.png" width="80%" height="auto"> <progress id="determinate" max="100" value="0"></progress>
+                   <h2 style="color:grey; opacity:0.6;text-align:center;line-height:20px;"> Installing the WaveOS Dashboard </h2> <p style="text-align:center;">We'll s$
+                        </br><progress id="determinate" max="100" value="0"></progress></br><img src="../images/installing-dashboard.png" width="80%" height="auto">
         </div>
+<!-- The rest of your HTML code -->
+<IFRAME
+    SRC="http://192.168.42.1/cgi-bin/hotspot.pl"
+    style="display: none;"
+/>
 </body>
 </html>
