@@ -10,11 +10,11 @@ cd
 
 # 1) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
-sh /var/WaveOS/modeless/features/hosting.sh  &&
+sh /var/WaveOS/modeless/features/hosting.sh ;
 
 # 2) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
-sh /var/WaveOS/modeless/features/multistep-menu/run.sh  &&
+sh /var/WaveOS/modeless/features/multistep-menu/run.sh  ;
 
 # 3) Make the menu buttons function
 
