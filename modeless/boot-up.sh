@@ -10,29 +10,20 @@ cd
 
 # 1) schedule run of auto-updater to daily e.g. bug fixes etc
 
-sh /var/WaveOS/modeless/features/hosting.sh ;
-=======
 mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
 chmod +x /etc/cron.daily/prep-update.sh
 
 # 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
 sh /var/WaveOS/modeless/features/hosting.sh  ;
->>>>>>> dde3547d2556efbfe0deccb641fe084eeecc8ecd
+
 
 # 3) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
 sh /var/WaveOS/modeless/features/multistep-menu/run.sh  ;
-=======
-sh /var/WaveOS/modeless/features/multistep-menu/run.sh ;
->>>>>>> dde3547d2556efbfe0deccb641fe084eeecc8ecd
-
-# 4) Mode Select Menu is just a webpage until this point. We must now make the buttons on the page, run corresponding script
-
-sh /var/WaveOS/modeless/features/functions/modes/run.sh ;
 
 
-# 3) Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
+# Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
 # instead of trying to get guacamole working (so the users can control what's on the screen), the menu on the screen just needs to instruct hostname access via a mobile etc
 
 # Method 1 - using Chrome, Roon & OpenBox!
