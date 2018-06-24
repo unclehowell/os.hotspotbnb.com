@@ -10,7 +10,6 @@ cd
 
 # 1) schedule run of auto-updater to daily e.g. bug fixes etc
 
-<<<<<<< HEAD
 sh /var/WaveOS/modeless/features/hosting.sh ;
 =======
 mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
@@ -23,7 +22,6 @@ sh /var/WaveOS/modeless/features/hosting.sh  ;
 
 # 3) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
-<<<<<<< HEAD
 sh /var/WaveOS/modeless/features/multistep-menu/run.sh  ;
 =======
 sh /var/WaveOS/modeless/features/multistep-menu/run.sh ;

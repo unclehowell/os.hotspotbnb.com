@@ -5,7 +5,7 @@
 # not sure exactly why Tomcat has to be installed before apache2 - but this is the only way to make hosting work.
 /DietPi/dietpi/dietpi-software install 125
 
-<<<<<<< HEAD
+
 apt-get install apache2 -y
 =======
 apt-get install apache2 -y
