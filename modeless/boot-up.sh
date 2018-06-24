@@ -8,17 +8,22 @@ git clone https://github.com/unclehowell/WaveOS.git
 chmod +x /var/WaveOS/modeless/*
 cd
 
-# 1) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
+# 1) schedule run of auto-updater to daily e.g. bug fixes etc
 
-sh /var/WaveOS/modeless/features/hosting.sh  &&
+mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
+chmod +x /etc/cron.daily/prep-update.sh
 
-# 2) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
+# 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
-sh /var/WaveOS/modeless/features/multistep-menu/run.sh  &&
+sh /var/WaveOS/modeless/features/hosting.sh  ;
 
-# 3) Make the menu buttons function
+# 3) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
-sh /var/WaveOS/modeless/features/functions/run.sh  &&
+sh /var/WaveOS/modeless/features/multistep-menu/run.sh ;
+
+# 4) Mode Select Menu is just a webpage until this point. We must now make the buttons on the page, run corresponding script
+
+sh /var/WaveOS/modeless/features/functions/modes/run.sh ;
 
 
 # 3) Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
@@ -42,11 +47,6 @@ sh /var/WaveOS/modeless/features/functions/run.sh  &&
 # cd /etc/lightdm
 # sed 's/#xserver-command=X/xserver-command=X/' lightdm.conf > lightdm2.conf
 # mv lightdm2.conf lightdm.conf
-
-# cronjob to check daily for updates
-
-mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
-chmod +x /etc/cron.daily/prep-update.sh
 
 # LEFT UNTIL THE END  (CAUSES AUTO REBOOT)
 
