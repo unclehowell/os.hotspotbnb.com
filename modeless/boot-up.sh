@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-# Self-Build Device to the point the wi-fi can accessed and the Mode Selector menu appears e.g. broadcasts ssid, hostname, mode-selector menu etc
+# Self-Build Device to the point the wi-fi can accessed and the Mode Selector menu appears (redirect to splashpage prefereably) 
 
-# get the latest repo
+# get the latest repo onto the device
 cd /var
 git clone https://github.com/unclehowell/WaveOS.git
 chmod +x /var/WaveOS/modeless/*
