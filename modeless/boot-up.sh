@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Self-Build Device to the point the wi-fi can accessed and the Mode Selector menu appears (redirect to splashpage prefereably) 
+# Self-Build Device to the point the wi-fi can accessed and the Mode Selector menu appears (redirect to splashpage preferably) 
 
 # get the latest repo onto the device
 cd /var
@@ -21,6 +21,7 @@ sh /var/WaveOS/modeless/features/hosting.sh  ;
 # 3) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
 sh /var/WaveOS/modeless/features/multistep-menu/run.sh  ;
+rm -r /var/www/html/run.sh  ; # one less thing to cause confusion
 
 
 # Then we need to get the menu up on the screen to make it even more obvious that a mode needs to be selected from the menu
