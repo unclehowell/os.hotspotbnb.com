@@ -12,7 +12,7 @@
   
   # cp scripts to the WaveOS-updates folder
    mkdir /usr/lib/WaveOS-updates # if it exists already, this will be skipped. and this line can be removed in future versions, 1 less error
-   mv /var/WaveOS/updates/current/* /usr/lib/WaveOS-updates # shouldn't override the ones that exist in the target directory, if my understandings right
+   cp -n /var/WaveOS/updates/current/* /usr/lib/WaveOS-updates # shouldn't override the ones that exist in the target directory, if my understandings right
    cd /usr/lib/WaveOS-updates # go into the folder and run the updates in sequence. 
    sh 00-04-01.sh ;
    sh 00-04-02.sh ;
