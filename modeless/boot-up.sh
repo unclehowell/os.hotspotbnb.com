@@ -42,7 +42,7 @@ rm -r /var/www/html/run.sh  ; # one less thing to cause confusion
 
 # 4) force WaveOS update - to the latest version (the update process achieves this) 
 
-sh /var/WaveOS/updates/current/update.sh
+sh /etc/cron.daily/prep-update.sh ;
 
 
 ####### stop screen-saver

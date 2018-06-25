@@ -3,7 +3,7 @@
 <head>
    <!-- HTML meta refresh URL redirection -->
    <meta http-equiv="refresh" content="30; url=http://192.168.42.1/index.html">
-     <link rel="stylesheet" href="../css/style.css">
+     <link rel="stylesheet" href="../css/progress.css">
      <script>
      // This script is used to animate the progress bar
 
@@ -27,8 +27,9 @@ var increment = 0; //set a value of zero for the progress bar
 <body>
         <div class="card">
                    <h2 style="color:grey; opacity:0.6;text-align:center;line-height:20px; margin-top:100px;"> Installing the WaveOS Dashboard </h2> 
+				   <progress id="determinate" max="100" value="0" style="width:calc(40vw);"></progress>
 				   <p style="text-align:center;">In the background the Wave Dashboard is now installing. Upon completion you will be redirected to it </p>
-                        </br><progress id="determinate" max="100" value="0"></progress></br><div style="text-align:center;"><img src="../images/installing-dashboard.png" width="80%" height="auto"></div>
+                        </br></br><div style="text-align:center;"><img src="../images/installing-dashboard.png" width="80%" height="auto"></div>
         </div>
 <!-- The rest of your HTML code -->
 <IFRAME
