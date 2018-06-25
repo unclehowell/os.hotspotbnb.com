@@ -4,19 +4,20 @@
 
 # get the latest repo onto the device
 cd /var
+rm -r WaveOS
 git clone https://github.com/unclehowell/WaveOS.git
 chmod +x /var/WaveOS/modeless/*
 cd
 
 # 1) schedule run of auto-updater to daily e.g. bug fixes etc
 
+rm -r /etc/cron.daily/prep-update.sh
 mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
 chmod +x /etc/cron.daily/prep-update.sh
 
 # 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
 sh /var/WaveOS/modeless/features/hosting.sh  ;
-
 
 # 3) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 

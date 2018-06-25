@@ -29,3 +29,5 @@
 # here's where it gets good. If an update script was made, let's say version 0.4.2, then only files 00.04.01 will previously exist. 
 # when 00-04-01 tries to copy across it will fail because the file already exists. but when this script tries to run 00-04-01 the content is empty and it's skipped. 
 # this is because, if the scripts already run, the self-destruct script inside the update file erases it's content to avoid a loop.  
+
+# don't forget, if the updates go beyond xx-xx-10 this list needs extending, but hopefully by then we'll be onto the next version xx-x?-xx
