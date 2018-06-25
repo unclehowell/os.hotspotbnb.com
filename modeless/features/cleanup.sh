@@ -6,7 +6,7 @@
 timedatectl set-ntp true
 
 # avoid kernel fails
-rpi-update
+G_RPI_UPDATE #was rpi-update
 
 # fix a tonn of things
 apt-get update

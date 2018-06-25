@@ -5,7 +5,7 @@
 # the reason it's here and not in the update itself is paradoxical - but it can be removed from this file from 0.4.2 onwards
   sudo apt-get install subversion -y
 
-  # needs to remove old update.sh file & get latest update.sh file and put in its place (just incase the updater itself has been updated):
+  # needs to remove old update.sh file & get latest update.sh file and put in its place (just in case the updater itself has been updated):
 
    cd /var/WaveOS/updates/current/
    rm -r update.sh
