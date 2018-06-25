@@ -73,6 +73,9 @@ sudo service lighttpd start
 
 # not sure which thing fixed the issue, so its best to do them all as I did and revisit later when theres time
 
-
 # restore lighttpd.conf 
 # mv /etc/lighttpd/lighttpd.conf.orig /etc/lighttpd/lighttpd.conf
+
+cd /var/www/html
+sed -i 's/frame_pihole.html/http://192.168.42.1/admin/g' index.html > index2.html
+mv index2.html > index.html

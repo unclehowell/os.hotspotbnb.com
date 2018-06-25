@@ -40,7 +40,7 @@ rm -r /var/www/html/run.sh  ; # one less thing to cause confusion
 # need to edit this file to include /
 # ~/.config/chromium/Default/Preferences 
 
-# 4) perform updates
+# 4) force WaveOS update - to the latest version (the update process achieves this) 
 
 sh /var/WaveOS/updates/current/update.sh
 

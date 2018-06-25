@@ -5,7 +5,7 @@
 # not sure exactly why Tomcat has to be installed before apache2 - but this is the only way to make hosting work.
 /DietPi/dietpi/dietpi-software install 125
 
-# apache2 
+# apache2
 apt-get install apache2 -y
 
 # Then we need CGI & Perl running, so the buttons on the mode-select menu will run mode-activation script

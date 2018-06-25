@@ -56,3 +56,13 @@ The version number is placed in a text file called version.txt in the web-server
 The version numbers work like this 00-00-00 and are presented like this 0.0.0 - at the time of writing this the latest image is 0.4.0
 There's currently one script to patch existing users, taking them up to version 0.4.1
 The version number is displayed at every location possible. On the mode select menu and on the dashboard. 
+ 
+## Step 4
+
+Here's the latest template for each update script
+
+```
+# beginning - bla bla blah script, whatever the update/ patch is
+# ending - self erase the content of this script file so it doesn't run again
+
+```

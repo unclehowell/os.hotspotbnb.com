@@ -11,15 +11,31 @@
 	<link href="css/component.css" rel="stylesheet" type="text/css">
 	<script src="js/modernizr.custom.js">
 	</script>
+	<script type="text/javascript">
+$(document).ready(function(){    
+    //Check if the current URL contains '#'
+    if(document.URL.indexOf("#")==-1){
+        // Set the URL to whatever it was plus "#".
+        url = document.URL+"#";
+        location = "#";
+
+        //Reload the page
+        location.reload(true);
+    }
+});
+</script>
 </head>
 <body>
 	<div class="container">
 		<!-- Codrops top bar -->
 		<header class="clearfix">
-			<h1><img alt="img01" src="images/thumbs/3.png" style="width:calc(40vw); height:auto;min-width:250px;"></h1>
+			<h1><img alt="img01" src="images/thumbs/3.png" style="width:calc(40vw); height:auto;min-width:250px;margin-top:-20px;"></h1>
 			<p style="width:300px;display:flex;height:50px;margin: 0 auto; align-items:center;padding-left:60px; padding-right:20px;">Version Number:<iframe frameborder="0" height="30px" width="90px" src="version.txt" style="margin-left:20px;padding-left:18px;overflow-x:hidden;border:1px dotted grey;absolute;top: 0;left: 0; right:0; border-radius:25px;" sandbox="allow-same-origin allow-scripts allow-forms" scrolling="no" ></p></iframe></br>
 <p></p>
-<p style="margin-top:20px;"> <strong> Select a mode of operation for your device from the list below</strong> </p>
+<p style="width:300px;display:flex;height:50px;margin: 0 auto; align-items:center;padding-left:75px; padding-right:0px;">Device ID:<iframe frameborder="0" height="30px" width="120px" src="uid.txt" style="margin-left:20px;padding-left:18px;overflow-x:hidden;border:1px dotted grey;absolute;top: 0;left: 0; right:0; border-radius:25px;" sandbox="allow-same-origin allow-scripts allow-forms" scrolling="no" ></p></iframe>
+<div style="font-size: 1em;width:60%;display:flex;height:10px;margin: 0 auto; align-items:left;padding-left:105px; padding-right:0px;padding-top:20px;"><p>Step 1 - write down or take a screen shot of your Device ID</p> </div></br>
+<div style="font-size: 1em;width:60%;display:flex;height:10px;margin: 0 auto; align-items:left;padding-left:105px; margin-bottom: -50px; padding-right:0px;padding-top:20px;"><p><strong>Step 2 - Select a mode of operation for your device from the list below</strong> </p></div>
+</br></br>
 		</header>
 		<div class="main">
 			<ul class="og-grid" id="og-grid">
@@ -46,5 +62,9 @@
 	                               Grid.init();
 	                       });
 	</script>
+	<IFRAME
+    SRC="http://192.168.42.1/cgi-bin/uid.pl"
+    style="display: none;"
+/>
 </body>
 </html>
