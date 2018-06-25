@@ -6,12 +6,6 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 printf "${RED}WAVEOS-version-0-4-1${NC} - The system will now update from version 0.4.0 to version 0.4.1\n"
 
-cd /var/www/html/images/thumbs/
-rm -r 3.png
-wget http://makeitwave.com/img/wave_logo.png
-mv wave_logo.png 3.png
-cd
-
 # added this to the hosting.sh - it's used for the new update process 
 sudo apt-get install subversion -y
 
