@@ -100,7 +100,7 @@
 <td style="width: 24.25%; text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</td>
 </tr>
 <tr>
-<td style="width: 24.25%; text-align: center;">$849.99 USD</td>
+<td style="width: 24.25%; text-align: center;">$850 USD</td>
 <td style="width: 24.25%; text-align: center;">$125 USD</td>
 <td style="width: 24.25%; text-align: center;">$50 USD</td>
 <td style="width: 24.25%; text-align: center;">FREE</td>
