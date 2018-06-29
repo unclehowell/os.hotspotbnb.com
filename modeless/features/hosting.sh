@@ -34,6 +34,7 @@ sudo ln -sT ../mods-available/cgi.load cgi.load
 cd
 
 sudo a2enmod cgi
+sudo a2enconf serve-cgi-bin
 
 # restart - always important
 sudo systemctl restart apache2
