@@ -7,16 +7,22 @@
 
 # apache2
 apt-get install apache2 -y ;
-
 sudo systemctl stop apache2.service ;
 
 sleep 2 
+
+# put files in right places
 
 rm -r /etc/apache2/sites-available/000-default.conf
 mv /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
 
 rm -r /etc/apache2/apache2.conf
 mv /var/WaveOS/modeless/features/hosting/apache2.conf /etc/apache2/
+
+rm -r /usr/lib/cgi-bin/
+mv /var/WaveOS/modeless/features/modes/* /usr/lib/cgi-bin/
+sudo chmod 755 /usr/lib/cgi-bin
+sudo chown root.root /usr/lib/cgi-bin
 
 sleep 2
 
@@ -31,6 +37,7 @@ sudo a2enmod cgi
 
 # restart - always important
 sudo systemctl restart apache2
+sudo service apache2 restart
 
 # this is required for the update process
 sudo apt-get install subversion -y
