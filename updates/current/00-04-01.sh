@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# update the brand logo
-
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 printf "\n\n${RED}WAVEOS-version-0-4-1${NC} - The system will now update from version 0.4.0 to version 0.4.1\n\n"
