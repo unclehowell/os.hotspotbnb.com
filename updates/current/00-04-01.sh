@@ -21,7 +21,6 @@ cd /var/www/html/
 sed -i 's/0.4.0/0.4.1/g' version.txt
 cd
 
-
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 printf "\n\n${RED}WaveOS is now at version 0.4.1${NC} - Self-destructing this update script so it wont run again and create a loop\n\n" ;
