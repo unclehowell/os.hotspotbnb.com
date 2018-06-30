@@ -13,21 +13,21 @@ sleep 2
 
 # put files in right places
 
-rm -r /etc/apache2/sites-enabled/000-default.conf
-rm -r /etc/apache2/sites-available/000-default.conf
-cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-enabled/
-cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
+# rm -r /etc/apache2/sites-enabled/000-default.conf
+# rm -r /etc/apache2/sites-available/000-default.conf
+# cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-enabled/
+# cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
 
-rm -r /etc/apache2/apache2.conf
-mv /var/WaveOS/modeless/features/hosting/apache2.conf /etc/apache2/
+# rm -r /etc/apache2/apache2.conf
+# mv /var/WaveOS/modeless/features/hosting/apache2.conf /etc/apache2/
 
-rm -r /var/cgi-bin
-mkdir /var/cgi-bin
-mv /var/WaveOS/modeless/features/modes/* /var/cgi-bin/
-sudo chmod +x /var/cgi-bin/*
-sudo chown root.root /var/cgi-bin
+# rm -r /var/cgi-bin
+# mkdir /var/cgi-bin
+# mv /var/WaveOS/modeless/features/modes/* /var/cgi-bin/
+# sudo chmod +x /var/cgi-bin/*
+# sudo chown root.root /var/cgi-bin
 
-sleep 2
+# sleep 2
 
 sudo systemctl start apache2.service ;
 
@@ -40,8 +40,8 @@ sudo a2enmod cgid
 sudo a2enconf serve-cgi-bin
 
 #  create symbolic links
-ln -s /etc/apache2/mods-available/cgid.load /etc/apache2/mods-enabled/
-ln -s /etc/apache2/mods-available/cgid.conf /etc/apache2/mods-enabled/
+# ln -s /etc/apache2/mods-available/cgid.load /etc/apache2/mods-enabled/
+# ln -s /etc/apache2/mods-available/cgid.conf /etc/apache2/mods-enabled/
 
 # restart - always important
 sudo systemctl restart apache2
