@@ -27,9 +27,9 @@ cd
 
 # Then we systematically erase the content of this file to avoid it running again. 
 cd /usr/lib/WaveOS-updates
-printf 'sleep 5\n sudo rm -r /usr/lib/WaveOS-updates/00-04-01.sh\n sudo touch /usr/lib/WaveOS-updates/00-04-01.sh\n' > 00-04-01-01.sh
+printf 'sleep 15\n sudo rm -r /usr/lib/WaveOS-updates/00-04-01.sh\n sudo touch /usr/lib/WaveOS-updates/00-04-01.sh\n' > 00-04-01-01.sh
 chmod +x 00-04-01-01.sh
-sudo sh /usr/lib/WaveOS-updates/00-04-01-01.sh
+sudo sh 00-04-01-01.sh
 cd
 
 exit 0
