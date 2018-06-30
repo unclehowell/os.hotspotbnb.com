@@ -13,17 +13,19 @@ sleep 2
 
 # put files in right places
 
+rm -r /etc/apache2/sites-enabled/000-default.conf
 rm -r /etc/apache2/sites-available/000-default.conf
-mv /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
+cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-enabled/
+cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
 
 rm -r /etc/apache2/apache2.conf
 mv /var/WaveOS/modeless/features/hosting/apache2.conf /etc/apache2/
 
-rm -r /usr/lib/cgi-bin
-mkdir /usr/lib/cgi-bin
-mv /var/WaveOS/modeless/features/modes/* /usr/lib/cgi-bin/
-sudo chmod 750 /usr/lib/cgi-bin
-sudo chown root.root /usr/lib/cgi-bin
+rm -r /var/cgi-bin
+mkdir /var/cgi-bin
+mv /var/WaveOS/modeless/features/modes/* /var/cgi-bin/
+sudo chmod +x /var/cgi-bin/*
+sudo chown root.root /var/cgi-bin
 
 sleep 2
 
