@@ -19,7 +19,8 @@ mv /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-ava
 rm -r /etc/apache2/apache2.conf
 mv /var/WaveOS/modeless/features/hosting/apache2.conf /etc/apache2/
 
-rm -r /usr/lib/cgi-bin/
+rm -r /usr/lib/cgi-bin
+mkdir /usr/lib/cgi-bin
 mv /var/WaveOS/modeless/features/modes/* /usr/lib/cgi-bin/
 sudo chmod 750 /usr/lib/cgi-bin
 sudo chown root.root /usr/lib/cgi-bin
