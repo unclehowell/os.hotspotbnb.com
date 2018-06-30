@@ -34,8 +34,12 @@ cd /etc/apache2/mods-enabled
 sudo ln -sT ../mods-available/cgi.load cgi.load
 cd
 
-sudo a2enmod cgi
+sudo a2enmod cgid
 sudo a2enconf serve-cgi-bin
+
+#  create symbolic links
+ln -s /etc/apache2/mods-available/cgid.load /etc/apache2/mods-enabled/
+ln -s /etc/apache2/mods-available/cgid.conf /etc/apache2/mods-enabled/
 
 # restart - always important
 sudo systemctl restart apache2
