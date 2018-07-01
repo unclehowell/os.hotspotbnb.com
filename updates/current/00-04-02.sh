@@ -20,7 +20,8 @@ chmod +x /var/WaveOS/modeless/*
 cd
 sh /var/WaveOS/modeless/features/hosting.sh
 
-
+# introduce the UID of the device (will happen during first boot on new installs)
+sh /var/WaveOS/modeless/features/uid/run.sh
 
 RED='\033[0;31m'
 NC='\033[0m' # No Color
