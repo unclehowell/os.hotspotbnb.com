@@ -100,7 +100,7 @@
 <td style="width: 24.25%; text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</td>
 </tr>
 <tr>
-<td style="width: 24.25%; text-align: center;">$600 USD</td>
+<td style="width: 24.25%; text-align: center;">$850 USD</td>
 <td style="width: 24.25%; text-align: center;">$125 USD</td>
 <td style="width: 24.25%; text-align: center;">$50 USD</td>
 <td style="width: 24.25%; text-align: center;">FREE</td>
@@ -112,7 +112,7 @@
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="62" height="62" /></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/850"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;">
