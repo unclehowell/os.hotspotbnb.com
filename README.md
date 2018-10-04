@@ -4,7 +4,7 @@
 <tbody>
 <tr>
 <td><strong>NEW* - </strong><em>check out our interactive demo</em><strong>&nbsp;</strong></td>
-<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
+<td><a href="https://makeitwave.com/multistep-menu/index.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
 </tr>
 </tbody>
 </table>
@@ -71,12 +71,31 @@
 <td style="width: 50%; text-align: center;">&nbsp;<img style="max-width: 200px;" src="https://thumb.ibb.co/mDDwNS/Screen_Mirroring.png" /></td>
 <td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://thumb.ibb.co/fRRNCS/remote_access.png" width="180" height="180" /></td>
 </tr>
+<tr>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><strong>Vehicle Tracking</strong></td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">Tracking a vehicle has never been so easy. With some additional hardware upgrades, it is possible to also fit Wave to your vehicles so that you are able to track them.&nbsp;</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><img src="https://images-na.ssl-images-amazon.com/images/I/51knGD2H2ML._SX425_.jpg" alt="" width="200" /></p>
+</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
 <p style="text-align: left;"><span style="text-decoration: underline;"><strong>Step-1.&nbsp;</strong><strong>Obtain Hardware</strong></span></p>
 <p>There's 4 great options to get you started, no matter what your situation or skillsets&nbsp;</p>
+<p>&nbsp;</p>
 <table style="width: 99%; border-color: grey;" border="1" width="99%">
 <tbody>
 <tr>
@@ -94,30 +113,30 @@
 <td style="width: 24.25%; text-align: center;"><strong>Option-B</strong></td>
 </tr>
 <tr>
-<td style="width: 24.25%; text-align: center;">Smart-Home Kit (x7 SBC's)</td>
+<td style="width: 24.25%; text-align: center;">&nbsp;</td>
 <td style="width: 24.25%; text-align: center;">Single Unit&nbsp; (x1 SBC)</td>
 <td style="width: 24.25%; text-align: center;">SD Only</td>
 <td style="width: 24.25%; text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</td>
 </tr>
 <tr>
-<td style="width: 24.25%; text-align: center;">$850 USD</td>
-<td style="width: 24.25%; text-align: center;">$125 USD</td>
+<td style="width: 24.25%; text-align: center;">&nbsp;</td>
+<td style="width: 24.25%; text-align: center;">$200 USD</td>
 <td style="width: 24.25%; text-align: center;">$50 USD</td>
 <td style="width: 24.25%; text-align: center;">FREE</td>
 </tr>
 <tr>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></td>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;">&nbsp;</td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="http://makeitwave.com/img/productbox.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="62" height="62" /></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/850"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 24.25%;">&nbsp;</td>
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;">
-<p style="zoom:0.5;">500MB.img<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></p>
-<p style="zoom:0.5;">150MB.zip<a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a></p>
+<p>500MB.img<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></p>
+<p>150MB.zip<a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a></p>
 </td>
 </tr>
 <tr>
@@ -198,7 +217,7 @@
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Connect</td>
 <td style="width: auto; min-width: 33%; text-align: center;" width="33%">Access Menu</td>
 <td width="33%">
-<p style="color: red; @media (max-width: 200px) { color: green };">Select a Mode</p>
+<p style="color: red; text-align: center;">Select a Mode</p>
 </td>
 </tr>
 <tr>
@@ -208,8 +227,8 @@
 </tr>
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;">
-<p style="text-align: left;">SSID: Wave-Hotspot</p>
-<p style="text-align: left;">Password: makeitwave</p>
+<p>SSID: Wave-Hotspot</p>
+<p>Password: makeitwave</p>
 </td>
 <td style="width: auto; min-width: 33%; text-align: center;">
 <p>&nbsp;</p>
@@ -221,8 +240,8 @@
 </tr>
 </tbody>
 </table>
+<h3>&nbsp;</h3>
 <h3><strong>The Various Modes of Operation</strong></h3>
-<p>&nbsp;</p>
 <table style="width: 100%; border-color: grey;" border="1">
 <tbody>
 <tr>
@@ -276,6 +295,32 @@
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<table style="width: 580px;" border="1">
+<tbody>
+<tr>
+<td style="width: 295px; text-align: center;"><strong><a>Tracking-Mode</a></strong></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 295px; text-align: center;">Broadcast</td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 295px; text-align: center;">Cellular/ USSD/ GPRS</td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 295px; text-align: center;">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="50%" /></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 295px; text-align: center;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p>* 1 Unit in Hotspot-Mode must exist (first &amp; always)</p>
 <p>* the mode-select menu can also be accessed via the web browser of any mobile device connected to the Modeless Hotspot</p>
 <p>&nbsp;</p>
