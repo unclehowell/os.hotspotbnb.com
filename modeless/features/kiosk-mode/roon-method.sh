@@ -25,7 +25,7 @@ npm install
 
 sudo su
 
-mv /var/WaveOS/modeless/features/kiosk-mode/roon-web-controller.service /lib/systemd/system
+mv /var/UnclehowellOS/modeless/features/kiosk-mode/roon-web-controller.service /lib/systemd/system
 
 cd /lib/systemd/system
 
@@ -75,7 +75,7 @@ cd ~
 
 nano .xsession
 
-mv /var/WaveOS/modeless/features/kiosk-mode/.xsession /home/dietpi
+mv /var/UnclehowellOS/modeless/features/kiosk-mode/.xsession /home/dietpi
 
 # System configuration
 

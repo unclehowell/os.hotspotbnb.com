@@ -6,14 +6,14 @@
   # This way the updates will be carried out sequentially but it'll not be able to loop and the update will effectively be a run once, leaving a ghost/empty file so the update can be skipped on the next scheduled run of this file
   
   # remove the old updates folder and get the latest one
-   cd /var/WaveOS/
+   cd /var/UnclehowellOS/
    rm -r updates
-   svn checkout https://github.com/unclehowell/WaveOS/trunk/updates
+   svn checkout https://github.com/unclehowell/UnclehowellOS/trunk/updates
   
-  # cp scripts to the WaveOS-updates folder
-   mkdir /usr/lib/WaveOS-updates # if it exists already, this will be skipped. and this line can be removed in future versions, 1 less error
-   cp -n /var/WaveOS/updates/current/* /usr/lib/WaveOS-updates # shouldn't override the ones that exist in the target directory, if my understandings right
-   cd /usr/lib/WaveOS-updates # go into the folder and run the updates in sequence. 
+  # cp scripts to the UnclehowellOS-updates folder
+   mkdir /usr/lib/UnclehowellOS-updates # if it exists already, this will be skipped. and this line can be removed in future versions, 1 less error
+   cp -n /var/UnclehowellOS/updates/current/* /usr/lib/UnclehowellOS-updates # shouldn't override the ones that exist in the target directory, if my understandings right
+   cd /usr/lib/UnclehowellOS-updates # go into the folder and run the updates in sequence. 
    sh 00-04-01.sh ;
    sh 00-04-02.sh ;
    sh 00-04-03.sh ;

@@ -4,11 +4,11 @@
 <tbody>
 <tr>
 <td><strong>NEW* - </strong><em>check out our interactive demo</em><strong>&nbsp;</strong></td>
-<td><a href="https://makeitwave.com/multistep-menu/index.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
+<td><a href="https://makeitUnclehowell.com/multistep-menu/index.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: left;"><br />Key Reasons to use WaveOS:&nbsp;</p>
+<p style="text-align: left;"><br />Key Reasons to use UnclehowellOS:&nbsp;</p>
 <table style="width: 100%; border-color: grey;" border="1">
 <tbody>
 <tr>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
-<td style="width: 50%; text-align: center;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
+<td style="width: 50%; text-align: center;">Since the Unclehowell Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://emoncms.org/Modules/site/emoncms_front.png" /></td>
@@ -64,8 +64,8 @@
 <td style="width: 50%; text-align: center;"><strong>Remote Access</strong></td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;">In 'Extender Mode' Wave can be displayed on multiple devices simultaniously, permitting one device to control other in any combination.</td>
-<td style="width: 50%; text-align: center;">In 'Hotspot Mode' Wave has Remote Access - granting users unlimited access to a single dashboard which can monitor and control your entire home or business 24/7</td>
+<td style="width: 50%; text-align: center;">In 'Extender Mode' Unclehowell can be displayed on multiple devices simultaniously, permitting one device to control other in any combination.</td>
+<td style="width: 50%; text-align: center;">In 'Hotspot Mode' Unclehowell has Remote Access - granting users unlimited access to a single dashboard which can monitor and control your entire home or business 24/7</td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">&nbsp;<img style="max-width: 200px;" src="https://thumb.ibb.co/mDDwNS/Screen_Mirroring.png" /></td>
@@ -80,7 +80,7 @@
 <td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;">Tracking a vehicle has never been so easy. With some additional hardware upgrades, it is possible to also fit Wave to your vehicles so that you are able to track them.&nbsp;</td>
+<td style="width: 50%; text-align: center;">Tracking a vehicle has never been so easy. With some additional hardware upgrades, it is possible to also fit Unclehowell to your vehicles so that you are able to track them.&nbsp;</td>
 <td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@
 <td style="width: 24.25%; text-align: center;">&nbsp;</td>
 <td style="width: 24.25%; text-align: center;">Single Unit&nbsp; (x1 SBC)</td>
 <td style="width: 24.25%; text-align: center;">SD Only</td>
-<td style="width: 24.25%; text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</td>
+<td style="width: 24.25%; text-align: center;">UnclehowellOS&nbsp; &nbsp;version 0.4</td>
 </tr>
 <tr>
 <td style="width: 24.25%; text-align: center;">&nbsp;</td>
@@ -126,14 +126,14 @@
 </tr>
 <tr>
 <td style="width: 24.25%; text-align: center;">&nbsp;</td>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="http://makeitwave.com/img/productbox.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="http://makeitUnclehowell.com/img/productbox.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="62" height="62" /></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 24.25%;">&nbsp;</td>
-<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitUnclehowell/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
+<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitUnclehowell/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
 <td style="text-align: center; width: 24.25%;">
 <p>500MB.img<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></p>
 <p>150MB.zip<a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a></p>
@@ -141,21 +141,21 @@
 </tr>
 <tr>
 <td style="width: 65%;" colspan="2">
-<p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
-<p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
+<p style="text-align: center;">Unclehowell must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
+<p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate UnclehowellOS smart home experience.&nbsp;&nbsp;</p>
 <p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
-<p style="text-align: center;">*<em> all cables, PSU &amp; WaveOS pre-installer SD Cards included</em></p>
+<p style="text-align: center;">*<em> all cables, PSU &amp; UnclehowellOS pre-installer SD Cards included</em></p>
 </td>
 <td style="width: 17%; text-align: center;">Plug &amp; Play&nbsp;<em>(skip the manual installation process)</em></td>
 <td style="width: 17%; text-align: center;">
-<p style="text-align: center;">use&nbsp;<a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a>&nbsp;to burn WaveOS to your Micro SD Card</p>
+<p style="text-align: center;">use&nbsp;<a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a>&nbsp;to burn UnclehowellOS to your Micro SD Card</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p id="mcetoc_1cb7lorjn1f">&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-2.</strong>&nbsp;</span><strong><span style="text-decoration: underline;">Set&nbsp;your Router</span>&nbsp;</strong></p>
-<p>WaveOS currently requires you to adjust a setting on your routers subnet e.g. Gateway and DHCP IP. We are working to eliminate this step in later versions of Wave, but for now it's mandator&nbsp;</p>
+<p>UnclehowellOS currently requires you to adjust a setting on your routers subnet e.g. Gateway and DHCP IP. We are working to eliminate this step in later versions of Unclehowell, but for now it's mandator&nbsp;</p>
 <table style="border-color: grey;" border="1" width="100%">
 <tbody>
 <tr>
@@ -184,7 +184,7 @@
 </tr>
 </tbody>
 </table>
-<p><em>* It is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only the Wave Hotspot</em></p>
+<p><em>* It is also recommended, once up and running with Unclehowell, that you disable your old routers Wi-Fi and use only the Unclehowell Hotspot</em></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-3.</strong>&nbsp;<strong>Plug &amp; Play</strong></span></p>
 <p>Fairly obvious but the sequence is important&nbsp;</p>
@@ -201,13 +201,13 @@
 <td style="text-align: center; width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" width="50%" /></td>
 </tr>
 <tr>
-<td style="width: 33%; text-align: center;">Insert the WaveOS Micro SD Card into the SBC Device</td>
+<td style="width: 33%; text-align: center;">Insert the UnclehowellOS Micro SD Card into the SBC Device</td>
 <td style="width: 33%; text-align: center;"><span style="text-align: start;">&nbsp;Connect your device to your Wi-Fi Router with the ethernet cable.</span></td>
 <td style="width: 33%; text-align: center;">Power up the device&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<p>* during boot-up (for the first time only) Wave will connect to our code source and self-configure some essential services like updates &amp; upgrades, the Wi-Fi and the set-up Menu. This process can take up to 15 minutes depending on internet speed</p>
+<p>* during boot-up (for the first time only) Unclehowell will connect to our code source and self-configure some essential services like updates &amp; upgrades, the Wi-Fi and the set-up Menu. This process can take up to 15 minutes depending on internet speed</p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Step-4.</strong>&nbsp;<strong>Set-Up Wizard (Mode Select Menu)</strong></span></p>
 <p>Fairly obvious step, but the sequence is important</p>
@@ -227,8 +227,8 @@
 </tr>
 <tr>
 <td style="width: auto; min-width: 33%; text-align: center;">
-<p>SSID: Wave-Hotspot</p>
-<p>Password: makeitwave</p>
+<p>SSID: Unclehowell-Hotspot</p>
+<p>Password: makeitUnclehowell</p>
 </td>
 <td style="width: auto; min-width: 33%; text-align: center;">
 <p>&nbsp;</p>
@@ -261,8 +261,8 @@
 <td style="text-align: center;"><img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="50%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
-<td style="text-align: center;">In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
+<td style="text-align: center;">In Hotspot Mode Unclehowell creates a new Wi-Fi Station with Faster Internet Speeds. Unclehowell's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Unclehowell' into the web browser)</td>
+<td style="text-align: center;">In Extender Mode Unclehowell displays its Menu &amp; Apps on any HDMI connected display. Typing 'Unclehowell' into your mobiles web browser will also allow you to select and control the display.</td>
 </tr>
 </tbody>
 </table>
@@ -315,7 +315,7 @@
 <td style="width: 287px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 295px; text-align: center;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
+<td style="width: 295px; text-align: center;">In Hotspot Mode Unclehowell creates a new Wi-Fi Station with Faster Internet Speeds. Unclehowell's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Unclehowell' into the web browser)</td>
 <td style="width: 287px;">&nbsp;</td>
 </tr>
 </tbody>
@@ -325,7 +325,7 @@
 <p>* the mode-select menu can also be accessed via the web browser of any mobile device connected to the Modeless Hotspot</p>
 <p>&nbsp;</p>
 <h2><strong>Thanks</strong></h2>
-<p>The WaveOS Project would not have been possible without the incredible technologies listed below - a huge thanks to all the teams behind these projects, not to mention our investors, lenders &amp; volunteers - from all of us here at Wave:</p>
+<p>The UnclehowellOS Project would not have been possible without the incredible technologies listed below - a huge thanks to all the teams behind these projects, not to mention our investors, lenders &amp; volunteers - from all of us here at Unclehowell:</p>
 <table style="width: 100%;">
 <tbody>
 <tr>
@@ -345,6 +345,6 @@
 <p>&nbsp;</p>
 <p>Sion (Hywel Ap)Buckler</p>
 <p>Founder &amp; CEO</p>
-<p>Make it Wave Ltd (Company ID: 11363386)</p>
+<p>Make it Unclehowell Ltd (Company ID: 11363386)</p>
 <p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">hywelapbuckler@gmail.com</a></p>
-<p><a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" width="40px" height="40px" /> </a></p>
+<p><a href="https://www.facebook.com/makeitUnclehowell/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" width="40px" height="40px" /> </a></p>

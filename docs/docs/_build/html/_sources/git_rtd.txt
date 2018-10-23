@@ -20,14 +20,14 @@ To create a directory just go to your profile (e.g. https://github.com/your_user
 
 When repository is created, copy **Subversion checkout URL** which can be found in right panel of repository view. In my case it's::
 
-    https://github.com/Wave/test_repo
+    https://github.com/Unclehowell/test_repo
 
 Cloning repository
 ------------------
 
 Open terminal and choose folder where you'd like to clone your repository. In my case it is just my home directory. Go to this folder and run::
 
-    git clone https://github.com/Wave/test_repo
+    git clone https://github.com/Unclehowell/test_repo
 
 ``cd`` inside this folder. You should see LICENCE and README (in case you've created them) but it might be empty if you haven't insert anything through browser to your repository yet.
 
@@ -139,7 +139,7 @@ Go to the `ReadTheDocs <https://readthedocs.org/>`_ and create an account there.
 
 Click on the dasboard and then on **import**. Name your project and add your git url inside **Repo**. In my case it's::
 
-    https://github.com/Wave/test_repo
+    https://github.com/Unclehowell/test_repo
 
 Repository type is **Git** and documentation **Sphinx Html**. Rest is basicaly optional. Now just click on **Create** and wait. 
 

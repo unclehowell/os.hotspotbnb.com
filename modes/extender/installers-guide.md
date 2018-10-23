@@ -1,4 +1,4 @@
-<h2 id="mcetoc_1cbbra1cc2"><strong>Wave - Extender Mode: (Installers&nbsp;Guide)</strong></h2>
+<h2 id="mcetoc_1cbbra1cc2"><strong>Unclehowell - Extender Mode: (Installers&nbsp;Guide)</strong></h2>
 <table style="width: 134px; float: left;">
 <tbody>
 <tr>
@@ -14,8 +14,8 @@
 </tr>
 <tr style="text-align: center;">
 <td style="width: 20px; text-align: justify;" colspan="2">&nbsp;
-<p>In Extender Mode the Wave unit can be connected via HDMI to your Big Screen TV -&nbsp;You can also use your mobile phones web-browser&nbsp;to control the menu.&nbsp;In Extender Mode the&nbsp;Menu &amp; Apps from the Wave Hotspot to appear on your big screen TV the moment you turn it on.</p>
-<p>To use your mobile phone as a remote control, all you need to do is type 'wave'/ 'wave.local' into your mobiles web browser and navigate to the display you want to control (requires further set-up). What is displayed on&nbsp;your big screen will mirror onto your mobile device,&nbsp;making it easier control.&nbsp;</p>
+<p>In Extender Mode the Unclehowell unit can be connected via HDMI to your Big Screen TV -&nbsp;You can also use your mobile phones web-browser&nbsp;to control the menu.&nbsp;In Extender Mode the&nbsp;Menu &amp; Apps from the Unclehowell Hotspot to appear on your big screen TV the moment you turn it on.</p>
+<p>To use your mobile phone as a remote control, all you need to do is type 'Unclehowell'/ 'Unclehowell.local' into your mobiles web browser and navigate to the display you want to control (requires further set-up). What is displayed on&nbsp;your big screen will mirror onto your mobile device,&nbsp;making it easier control.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -27,7 +27,7 @@
 <tbody>
 <tr>
 <td style="width: 35px;">&nbsp;a)</td>
-<td style="width: 445px;">Download 'WaveOS: Modeless' &amp; burn to SD Card</td>
+<td style="width: 445px;">Download 'UnclehowellOS: Modeless' &amp; burn to SD Card</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)</td>
@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;d)</td>
-<td style="width: 445px;">Connect (Wi-Fi SSID: Wave-Hotspot,&nbsp;PASS: makeitwave)</td>
+<td style="width: 445px;">Connect (Wi-Fi SSID: Unclehowell-Hotspot,&nbsp;PASS: makeitUnclehowell)</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;e)</td>

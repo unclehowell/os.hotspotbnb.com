@@ -49,7 +49,7 @@ Sometimes I might be improper in explaining some terms or details. This might be
 
 I hope I'll be able to explain all things somehow *human-likely*. If you want to know technical details, just find them on your own :) .
 
-On GitHub repository of this `guide <https://GitHub.com/Farence/tutos>`_ you can find some of my configs from both of my machines - laptop which I use as a work station and for fun and RPi which is server for several of my websites, FTP, SSH...
+On GitHub repository of this `guide <https://GitHub.com/Farence/WaveOS>`_ you can find some of my configs from both of my machines - laptop which I use as a work station and for fun and RPi which is server for several of my websites, FTP, SSH...
 
 One extremely important remark - **USE GOOGLE**!
 

@@ -49,7 +49,7 @@ types {
     application/x-rar-compressed          rar;
     application/x-redhat-package-manager  rpm;
     application/x-sea                     sea;
-    application/x-shockwave-flash         swf;
+    application/x-shockUnclehowell-flash         swf;
     application/x-stuffit                 sit;
     application/x-tcl                     tcl tk;
     application/x-x509-ca-cert            der pem crt;

@@ -74,7 +74,7 @@ AUTO_SETUP_LOCALE=en_GB.UTF-8
 AUTO_SETUP_KEYBOARD_LAYOUT=gb
 #
 #  3-30-2018 - run the custom script. 0 disables. 1 generates errors. 2 is best. 
-AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://raw.githubusercontent.com/unclehowell/WaveOS/master/modeless/boot-up.sh
+AUTO_SETUP_CUSTOM_SCRIPT_EXEC=https://raw.githubusercontent.com/unclehowell/UnclehowellOS/master/modeless/boot-up.sh
 #
 CONFIG_HDMI_OUTPUT=1
 #
@@ -158,9 +158,9 @@ SOFTWARE_OWNCLOUD_DATADIR=/mnt/dietpi_userdata/owncloud_data
 #
 SOFTWARE_NEXTCLOUD_DATADIR=/mnt/dietpi_userdata/nextcloud_data
 #
-SOFTWARE_WIFI_HOTSPOT_SSID=Wave-HotSpot
+SOFTWARE_WIFI_HOTSPOT_SSID=Unclehowell-HotSpot
 #
-SOFTWARE_WIFI_HOTSPOT_KEY=makeitwave
+SOFTWARE_WIFI_HOTSPOT_KEY=makeitUnclehowell
 #
 SOFTWARE_WIFI_HOTSPOT_CHANNEL=3
 #

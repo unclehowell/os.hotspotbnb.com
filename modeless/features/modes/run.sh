@@ -6,5 +6,5 @@
 
 # 1) the perl scripts have to be moved from the repo to the correct directories and permissions set
 
-mv /var/WaveOS/modeless/features/modes/* /usr/lib/cgi-bin
+mv /var/UnclehowellOS/modeless/features/modes/* /usr/lib/cgi-bin
 chmod a+x /usr/lib/cgi-bin/*

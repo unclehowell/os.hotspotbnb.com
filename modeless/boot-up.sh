@@ -4,24 +4,24 @@
 
 # get the latest repo onto the device
 cd /var
-rm -r WaveOS
-git clone https://github.com/unclehowell/WaveOS.git
-chmod +x /var/WaveOS/modeless/*
+rm -r UnclehowellOS
+git clone https://github.com/unclehowell/UnclehowellOS.git
+chmod +x /var/UnclehowellOS/modeless/*
 cd
 
 # 1) schedule run of auto-updater to daily e.g. bug fixes etc
 
 rm -r /etc/cron.daily/prep-update.sh
-mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
+mv /var/UnclehowellOS/updates/current/prep-update.sh /etc/cron.daily/
 chmod +x /etc/cron.daily/prep-update.sh
 
 # 2) Hosting: The Pi will need to have hosting capabilities so that the menu can be hosted
 
-sh /var/WaveOS/modeless/features/hosting.sh  ;
+sh /var/UnclehowellOS/modeless/features/hosting.sh  ;
 
 # 3) Then the menu needs to be placed into the www/ directory so it appears in the browser when the hostname is entered
 
-sh /var/WaveOS/modeless/features/multistep-menu/run.sh  ;
+sh /var/UnclehowellOS/modeless/features/multistep-menu/run.sh  ;
 rm -r /var/www/html/run.sh  ; # one less thing to cause confusion
 
 
@@ -30,8 +30,8 @@ rm -r /var/www/html/run.sh  ; # one less thing to cause confusion
 
 # Method 1 - using Chrome, Roon & OpenBox!
 
-# chmod +x /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh
-# sh /var/WaveOS/modeless/features/kiosk-mode/roon-method.sh  &&
+# chmod +x /var/UnclehowellOS/modeless/features/kiosk-mode/roon-method.sh
+# sh /var/UnclehowellOS/modeless/features/kiosk-mode/roon-method.sh  &&
 
 # Method 2 - using Chrome on LXDE! 
 
@@ -40,7 +40,7 @@ rm -r /var/www/html/run.sh  ; # one less thing to cause confusion
 # need to edit this file to include /
 # ~/.config/chromium/Default/Preferences 
 
-# 4) force WaveOS update - to the latest version (the update process achieves this) 
+# 4) force UnclehowellOS update - to the latest version (the update process achieves this) 
 
 sh /etc/cron.daily/prep-update.sh ;
 
@@ -53,7 +53,7 @@ sh /etc/cron.daily/prep-update.sh ;
 
 # LEFT UNTIL THE END  (CAUSES AUTO REBOOT)
 
-sh /var/WaveOS/modeless/features/cleanup.sh
+sh /var/UnclehowellOS/modeless/features/cleanup.sh
 
 # The IP will need to change to avoid conflict with a 2nd, 3rd device which may connect to the network. 
 # For this to happen, we may need to scan the network, see which IP's are available and allocate one as as fixed-IP. Solution Needed Here!

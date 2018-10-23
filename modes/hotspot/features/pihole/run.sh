@@ -1,7 +1,7 @@
 # pihole pre-requisits (place config file)
 
 mkdir /etc/pihole
-cp /var/WaveOS/modes/hotspot/features/pihole/setupVars.conf /etc/pihole
+cp /var/UnclehowellOS/modes/hotspot/features/pihole/setupVars.conf /etc/pihole
 
 
 #  install the version of dnsmasq that supports the extra flag (v2.76)
@@ -38,10 +38,10 @@ curl -L https://install.pi-hole.net | bash /dev/stdin --unattended
 #pihole checkout core FTLDNS 
 #pihole checkout web FTLDNS
 
-# use the pihole version of the lighttpd.conf - with X-Frame=Allow (so it appears in the Wave Dashboard)
+# use the pihole version of the lighttpd.conf - with X-Frame=Allow (so it appears in the Unclehowell Dashboard)
 # and restart the lighttpd service
 
-cp /var/WaveOS/modes/hotspot/features/pihole/lighttpd.conf /etc/lighttpd
+cp /var/UnclehowellOS/modes/hotspot/features/pihole/lighttpd.conf /etc/lighttpd
 
 sudo /etc/init.d/lighttpd restart
 

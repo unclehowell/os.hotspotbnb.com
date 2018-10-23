@@ -1,4 +1,4 @@
-<h2 id="mcetoc_1cbbra1cc2"><strong>Wave - Extender Mode (User Guide)</strong></h2>
+<h2 id="mcetoc_1cbbra1cc2"><strong>Unclehowell - Extender Mode (User Guide)</strong></h2>
 <table style="width: 134px; float: left;">
 <tbody>
 <tr>
@@ -14,7 +14,7 @@
 </tr>
 <tr style="text-align: center;">
 <td style="width: 20px; text-align: justify;" colspan="2">&nbsp;
-<p>In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</p>
+<p>In Extender Mode Unclehowell displays its Menu &amp; Apps on any HDMI connected display. Typing 'Unclehowell' into your mobiles web browser will also allow you to select and control the display.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -26,7 +26,7 @@
 <tbody>
 <tr>
 <td style="width: 35px;">&nbsp;a)&nbsp;</td>
-<td style="width: 445px;">&nbsp;Confirm Wave Device is connected via HDMI to Display&nbsp;</td>
+<td style="width: 445px;">&nbsp;Confirm Unclehowell Device is connected via HDMI to Display&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)&nbsp;</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;c)&nbsp;</td>
-<td style="width: 445px;">&nbsp;The Display should now show the Wave Menu</td>
+<td style="width: 445px;">&nbsp;The Display should now show the Unclehowell Menu</td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@
 <tbody>
 <tr>
 <td style="width: 35px;">&nbsp;a)&nbsp;</td>
-<td style="width: 463px;">&nbsp;Enter 'Wave' into the web-browser of your mobile</td>
+<td style="width: 463px;">&nbsp;Enter 'Unclehowell' into the web-browser of your mobile</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)&nbsp;</td>
@@ -65,7 +65,7 @@
 <tbody>
 <tr>
 <td style="width: 35px;">&nbsp;a)&nbsp;</td>
-<td style="width: 445px;">&nbsp;Power Up the Wave Device</td>
+<td style="width: 445px;">&nbsp;Power Up the Unclehowell Device</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)&nbsp;</td>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;d)&nbsp;</td>
-<td style="width: 445px;">&nbsp;Enter Wave Hotspot SSID &amp; Password</td>
+<td style="width: 445px;">&nbsp;Enter Unclehowell Hotspot SSID &amp; Password</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;e)&nbsp;</td>
@@ -90,7 +90,7 @@
 <tbody>
 <tr>
 <td style="width: 35px;">&nbsp;a)&nbsp;</td>
-<td style="width: 445px;">&nbsp;Open the&nbsp;Wave Hotspot Menu&nbsp; &amp; select 'Smart Control'&nbsp;&nbsp;</td>
+<td style="width: 445px;">&nbsp;Open the&nbsp;Unclehowell Hotspot Menu&nbsp; &amp; select 'Smart Control'&nbsp;&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)&nbsp;</td>
@@ -124,7 +124,7 @@
 <tbody>
 <tr>
 <td style="width: 35px;">&nbsp;a)</td>
-<td style="width: 445px;">&nbsp;Download WaveOS (your&nbsp;pref subnet e.g. same as router IP)</td>
+<td style="width: 445px;">&nbsp;Download UnclehowellOS (your&nbsp;pref subnet e.g. same as router IP)</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)</td>
@@ -145,7 +145,7 @@
 <tbody>
 <tr>
 <td style="width: 35px;">&nbsp;a)&nbsp;</td>
-<td style="width: 445px;">&nbsp;When&nbsp;Wi-Fi Station is on, Connect! (SSID: Wave-Hotspot)</td>
+<td style="width: 445px;">&nbsp;When&nbsp;Wi-Fi Station is on, Connect! (SSID: Unclehowell-Hotspot)</td>
 </tr>
 <tr>
 <td style="width: 35px;">&nbsp;b)</td>

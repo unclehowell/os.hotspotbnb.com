@@ -1,4 +1,4 @@
-# Wave - Hotspot Mode
+# Unclehowell - Hotspot Mode
 
 <table style="width: 154px; float: left;">
 <tbody>
@@ -14,7 +14,7 @@
 <td style="width: 20px;" colspan="2">&nbsp;<img src="https://thumb.ibb.co/ginj97/mode_1.png" width="185" />&nbsp;</td>
 </tr>
 <tr style="text-align: center;">
-<td style="width: 20px; text-align: justify;" colspan="2">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)&nbsp;</td>
+<td style="width: 20px; text-align: justify;" colspan="2">In Hotspot Mode Unclehowell creates a new Wi-Fi Station with Faster Internet Speeds. Unclehowell's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Unclehowell' into the web browser)&nbsp;</td>
 </tr>
 </tbody>
 </table>

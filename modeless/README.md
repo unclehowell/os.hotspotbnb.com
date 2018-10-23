@@ -9,7 +9,7 @@ This area is for scripts which will be used across all the device modes to self-
   <tbody>
     <tr>
       <td style="width: 35px;">&nbsp;a)</td>
-      <td style="width: 445px;">&nbsp;Download WaveOS (your&nbsp;pref subnet e.g. same as router IP)</td>
+      <td style="width: 445px;">&nbsp;Download UnclehowellOS (your&nbsp;pref subnet e.g. same as router IP)</td>
     </tr>
     <tr>
       <td style="width: 35px;">&nbsp;b)</td>
@@ -30,7 +30,7 @@ This area is for scripts which will be used across all the device modes to self-
   <tbody>
     <tr>
       <td style="width: 35px;">&nbsp;a)&nbsp;</td>
-      <td style="width: 445px;">&nbsp;Connect&nbsp;your Mobile&nbsp;(SSID:Wave-Hotspot, Psw: makeitwave)</td>
+      <td style="width: 445px;">&nbsp;Connect&nbsp;your Mobile&nbsp;(SSID:Unclehowell-Hotspot, Psw: makeitUnclehowell)</td>
     </tr>
     <tr>
       <td style="width: 35px;">&nbsp;b)</td>

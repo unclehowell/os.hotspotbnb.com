@@ -6,7 +6,7 @@
 In the boot-up.sh script, which runs after dietpi is installed and upgraded to the latest version, you will see this line of code
 
 ```
-mv /var/WaveOS/updates/current/prep-update.sh /etc/cron.daily/
+mv /var/UnclehowellOS/updates/current/prep-update.sh /etc/cron.daily/
 chmod +x /etc/cron.daily/prep-update.sh
 ```
 
@@ -17,14 +17,14 @@ chmod +x /etc/cron.daily/prep-update.sh
 The pre-update script (which runs daily) gets the latest copy of the update process, then sets permissions and runs it 
 
 ```
- cd /var/WaveOS/updates/current/
+ cd /var/UnclehowellOS/updates/current/
    rm -r update.sh
-   wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/updates/current/update.sh
+   wget https://raw.githubusercontent.com/unclehowell/UnclehowellOS/master/updates/current/update.sh
    chmod +x update.sh
    cd
    
    # next step - run the update
-   sh /var/WaveOS/updates/current/update.sh
+   sh /var/UnclehowellOS/updates/current/update.sh
 ```
 
 ## Step 3
@@ -33,9 +33,9 @@ The update script will place the latest update scripts onto the device, set perm
 To prevent falling into a loop, the end of each script contains a script that self-erases the content of the file
 
 ```
-  cd /var/WaveOS/master/updates/current/
-   wget https://raw.githubusercontent.com/unclehowell/WaveOS/master/updates/current/*
-   chmod +x /var/WaveOS/master/updates/current/*
+  cd /var/UnclehowellOS/master/updates/current/
+   wget https://raw.githubusercontent.com/unclehowell/UnclehowellOS/master/updates/current/*
+   chmod +x /var/UnclehowellOS/master/updates/current/*
    sh 00-04-01.sh ;
    sh 00-04-02.sh ;
    sh 00-04-03.sh ;

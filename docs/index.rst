@@ -1,11 +1,11 @@
-Welcome to WaveOS Docs
+Welcome to UnclehowellOS Docs
 ======================
 
-`WaveOS`_  is a free smart home operating system, which you can get by visiting makeitwave.com.
+`UnclehowellOS`_  is a free smart home operating system, which you can get by visiting makeitUnclehowell.com.
 
 The code is open source, and `available on GitHub`_.
 
-.. _Read the docs: https://waveos.readthedocs.io/en/latest/
+.. _Read the docs: https://Unclehowellos.readthedocs.io/en/latest/
 .. _available on GitHub: http://github.com/rtfd/readthedocs.org
 
 The main documentation for the site is organized into a couple sections:
@@ -40,7 +40,7 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: About WaveOS
+   :caption: About UnclehowellOS
 
    contribute
    roadmap
