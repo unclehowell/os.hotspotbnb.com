@@ -4,35 +4,28 @@ Introduction
 Who am I?
 ----------
 
-I'm student of technical university in Czech republic and one of my hobbies is IT. I'm user of Arch Linux on my laptop and I'm also running small home server hosting several websites of my friends and myself. 
+I'm Sion Buckler, ex British Forces, a Life Member of the Royal Signals and a British Public Servant in Oath until 2024. My engineering background is extensive, both in education and experience. Begining with study of diplomas in Industrial Electronics, Electronic Engineering and moving onto Networking (CCNA, MCSE etc) then Cyber Warfare (programming telephone exchanges, satellites, full spectrum radios, Pen Testing and Source Code).
 
-Everything I've learned I've learned on the internet, which is full of great guides and tips. But sometimes it was really stressful - 10 different guides from different authors on different versions of specific software.
+Everything I've learned has been in a classroom, on the internet and from years of experience on various projects for clients like Fujitsu, Santander and even Google. The pinnacle of all my knowledge is now being invested into Wave: my own Operating System which is intended to make any Single Board Computer a Plug & Play Smart Home Hub which is capable of offering a Smart Home Solution so intelligent it makes internet and energy Freer and/or completely free. In addition to some cool apps such as a IPTV/ Media Center, IPCCTV DVR, IoT Smart Home Control, Vehicle Tracking and Energy Monitoring. 
 
-There is also missing bridge between guides for beginners (or **normal** users) and for professionals. Unfortunately for me I'm somewhere middle of this two groups.
-
-Second motivation for me was also the fact that I've terrible memory and started to forget all useful things. So this also serves as kind of a notebook for me.
-
-What are these guides about
+What is  this guide about
 ----------------------------
 
-So I decided to write guides for this **middle** class. In these guides I'm going to cover several topics as it's coming to my mind.
+This guide cover several topics relating to WaveOS:
 
-Main areas of these guides are:
+The main areas of these guides are:
 
-* Linux (mainly Arch Linux)
-* systemd (I'm happy user :) )
-* Raspberry Pi
-* Configuration of server
-* Domains, IP addresses, redirecting
+* End-User
+* Distributors and Resellers
+* Developers
 
 Disclaimer
 ----------
 
-Keep in mind that I'm not profesional. 
+Keep in mind that I am a profesional engineer however this is the first product I have developed and the work on it is ongoing. 
+I myself have an extensive engineering background, but the latest practices for Documentation, Source Code and some other expectations of this day and age are still new to me. However, from what I can gather these methodologies are wise to impliment and I remain open to suggestions as the project moves forward. 
 
-Everything you find here is without absolutly no waranty and I'm not responsible for any inconveniences or issues that might occurs. 
-
-Solutions I propose also don't have to be the best or might be far from perfect! On several parts of these guides exists different configurations, tools, packages... This is just one of them which I chose. Feel free to find more about them and find which fits you best!
+Everything you find here is without waranty and I accept not responsible for any inconveniences or issues that might occur as a result of use of this new Operating System: WaveOS. 
 
 Some remarks
 ------------
@@ -44,19 +37,19 @@ Somewhere is necessary to know some basics about Linux and terminal. I'll try to
  
 Sometimes I might be improper in explaining some terms or details. This might be mainly because of two reasons:
 
-1. I don't understand enough to explain it better  
+1. I don't understand a subject enough to explain it better  
 2. It's not necessary you to know it for our purpose
 
 I hope I'll be able to explain all things somehow *human-likely*. If you want to know technical details, just find them on your own :) .
 
-On GitHub repository of this `guide <https://GitHub.com/Farence/WaveOS>`_ you can find some of my configs from both of my machines - laptop which I use as a work station and for fun and RPi which is server for several of my websites, FTP, SSH...
+On GitHub repository of this `guide <https://GitHub.com/unclehowell/WaveOS>`_ you can find all the latest source code for WaveOS. 
 
 One extremely important remark - **USE GOOGLE**!
 
 My English
 -----------
 
-My English isn't great, but I believe it's good enough to understand what I'm trying to explain.
+I'm Welsh and all my basic education was actually done in Welsh, techically English is my second language, but I've spoken and written in English much of my life and my level of education is high enough that there should be no issues with ability to convey information in English. 
 
 Feedback
 --------
