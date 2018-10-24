@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# waveos documentation build configuration file, created by
-# sphinx-quickstart on Wed Oct 24 01:36:33 2018.
+# WaveOS documentation build configuration file, created by
+# sphinx-quickstart on Wed Oct 24 02:18:20 2018.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -35,6 +35,11 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
+    'sphinx.ext.coverage',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.githubpages',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -54,7 +59,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'waveos'
+project = 'WaveOS'
 copyright = '2018, unclehowell'
 author = 'unclehowell'
 
@@ -125,7 +130,7 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "sphinx_rtd_theme"
+html_theme = 'alabaster'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -134,12 +139,12 @@ html_theme = "sphinx_rtd_theme"
 # html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-# html_theme_path = ["_themes", ]
+# html_theme_path = []
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'waveos v0.0.4'
+# html_title = 'WaveOS v0.0.4'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -239,7 +244,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'waveosdoc'
+htmlhelp_basename = 'WaveOSdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -265,7 +270,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'waveos.tex', 'waveos Documentation',
+    (master_doc, 'WaveOS.tex', 'WaveOS Documentation',
      'unclehowell', 'manual'),
 ]
 
@@ -307,7 +312,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'waveos', 'waveos Documentation',
+    (master_doc, 'waveos', 'WaveOS Documentation',
      [author], 1)
 ]
 
@@ -322,8 +327,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'waveos', 'waveos Documentation',
-     author, 'waveos', 'One line description of project.',
+    (master_doc, 'WaveOS', 'WaveOS Documentation',
+     author, 'WaveOS', 'One line description of project.',
      'Miscellaneous'),
 ]
 
