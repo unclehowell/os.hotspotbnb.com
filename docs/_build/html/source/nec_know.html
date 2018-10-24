@@ -1,0 +1,301 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Necessary knowledge &mdash; WaveOS 0.0.4 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="How domains, IP addresses and servers works" href="domains_ip_servers.html" />
+    <link rel="prev" title="Introduction" href="intro.html" /> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> WaveOS
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.0.4
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Introduction</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Necessary knowledge</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#vim">Vim</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#systemd">Systemd</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#example">Example</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="domains_ip_servers.html">How domains, IP addresses and servers works</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ndg.html">Deploying nginx + django + python 3</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Arch.html">Installing Arch Linux on laptop and how to make it usable</a></li>
+<li class="toctree-l1"><a class="reference internal" href="RPi.html">Making Raspberry Pi usable</a></li>
+<li class="toctree-l1"><a class="reference internal" href="git_rtd.html">Simple GitHub repo and ReadTheDocs set up</a></li>
+<li class="toctree-l1"><a class="reference internal" href="git_workflow.html">Integration with GitHub</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">WaveOS</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>Necessary knowledge</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/source/nec_know.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="necessary-knowledge">
+<h1>Necessary knowledge<a class="headerlink" href="#necessary-knowledge" title="Permalink to this headline">¶</a></h1>
+<p>Here I cover two things that I encourage to use during this guide.</p>
+<div class="section" id="vim">
+<h2>Vim<a class="headerlink" href="#vim" title="Permalink to this headline">¶</a></h2>
+<p>We’ll need text editor to configure everything and most of our time
+we’ll spend in command line. How to edit files inside terminal? There
+are multiple console-based terminal. I chose one of them, which is
+called <a class="reference external" href="http://en.wikipedia.org/wiki/Vim_(text_editor)">vim</a>. We
+will install it in next chapters, but I will tell you some basics here
+(you can try them later).</p>
+<p>You can edit a file in vim by typing <code class="docutils literal notranslate"><span class="pre">vim</span> <span class="pre">&lt;file&gt;</span></code>. Vim has three
+modes, while I will tell you about two of them. Command and insert mode.
+In command mode, you press special keys to make something. It’s the
+basic mode and you cannot edit file in it. Press <code class="docutils literal notranslate"><span class="pre">ESC</span></code> to get into
+command mode. To edit a file, press <code class="docutils literal notranslate"><span class="pre">i</span></code>. Now you are in insert mode
+and you can navigate by arrows and type, delete etc. as you know from
+other text editors.</p>
+<p>After you make a change, you can save the file. To do it, get to command
+mode (<code class="docutils literal notranslate"><span class="pre">ESC</span></code>). Now write <code class="docutils literal notranslate"><span class="pre">:w</span></code>. This will save the file. To exit, type
+<code class="docutils literal notranslate"><span class="pre">:q</span></code>. That’s all you need for now. More about <code class="docutils literal notranslate"><span class="pre">vim</span></code> is under command
+<code class="docutils literal notranslate"><span class="pre">vimtutor</span></code>.</p>
+<p>Of course feel free to use other editor.</p>
+</div>
+<div class="section" id="systemd">
+<h2>Systemd<a class="headerlink" href="#systemd" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://en.wikipedia.org/wiki/Systemd">systemd</a> is astonishingly
+great and also astonishingly hated package, but that’s not necessary to
+know now. Briefly - <code class="docutils literal notranslate"><span class="pre">systemd</span></code> cares about running processes in the
+background. These are called daemons. For example in next chapter we
+will use SSH - it will run at background. There is also package, which
+takes care of automatically connect to internet (again in next
+chapters).</p>
+<p><code class="docutils literal notranslate"><span class="pre">systemd</span></code> is controlled by <code class="docutils literal notranslate"><span class="pre">systemctl</span></code>. To start some program, which
+is in this context called <strong>service</strong> (and we will stick to that), just
+run <code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">start</span> <span class="pre">&lt;unit&gt;</span></code>. There are other useful (and that’s 90%
+of what you need to know about systemctl) commands (all starts with
+<code class="docutils literal notranslate"><span class="pre">systemctl</span></code> and ends with <code class="docutils literal notranslate"><span class="pre">desired_unit</span></code> - watch example):</p>
+<ul class="simple">
+<li>enable - this allow to run service after boot (but it will not start
+immediately)</li>
+<li>disable - this will make device not to start after boot</li>
+<li>start - this will immediately start a service (but will not enable it
+- it won’t be run after boot)</li>
+<li>stop - stop service immediately (but not disable)</li>
+<li>status - this will print out all information in pretty format - you
+can find if it is enabled, started, if <strong>there are any errors</strong> etc.</li>
+</ul>
+<div class="section" id="example">
+<h3>Example<a class="headerlink" href="#example" title="Permalink to this headline">¶</a></h3>
+<p>There is service, which takes care about connection to
+network. We will cover it in special chapter for RPi, but we will just play with
+that for a minute now. It’s called <code class="docutils literal notranslate"><span class="pre">systemd-networkd</span></code>. Try to start it,
+enable it, disable it and then stop it and get status to see what every
+command does by trying these:</p>
+<ul class="simple">
+<li><code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">start</span> <span class="pre">systemd-networkd</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">status</span> <span class="pre">systemd-networkd</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">enable</span> <span class="pre">systemd-networkd</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">status</span> <span class="pre">systemd-networkd</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">disable</span> <span class="pre">systemd-networkd</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">status</span> <span class="pre">systemd-networkd</span></code></li>
+<li><code class="docutils literal notranslate"><span class="pre">systemctl</span> <span class="pre">stop</span> <span class="pre">systemd-networkd</span></code></li>
+</ul>
+<p>Last thing you need to know about systemd for our guide is where these
+services has it’s own configuration files. They are all stored in
+<code class="docutils literal notranslate"><span class="pre">/usr/lib/systemd/system/</span></code>. For example, I’ve noticed SSH service.
+Configuration file for this service is in
+<code class="docutils literal notranslate"><span class="pre">/usr/lib/systemd/system/sshd.service</span></code>. You can type
+<code class="docutils literal notranslate"><span class="pre">cat</span> <span class="pre">/usr/lib/systemd/system/sshd.service</span></code> to see what is inside and
+of course it can be edited.</p>
+<p><code class="docutils literal notranslate"><span class="pre">systemctl</span></code> just looks inside these folders when you call command for
+starting/enabling/… specific unit.</p>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="domains_ip_servers.html" class="btn btn-neutral float-right" title="How domains, IP addresses and servers works" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="intro.html" class="btn btn-neutral" title="Introduction" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, Unclehowell
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../_static/jquery.js"></script>
+        <script type="text/javascript" src="../_static/underscore.js"></script>
+        <script type="text/javascript" src="../_static/doctools.js"></script>
+        <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
+  
+
+  <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
