@@ -1,0 +1,41 @@
+Editions
+============
+
+Software Editions determin what function/ role your device will perform day to day. When you first use WaveOS, it will present you with a choice of which Edition of the software you would like to operate your device. This is the only decision Wave will ask you to make before you can use and enjoy the technology. This option is only presented the first time WaveOS runs on a device or if you decide to go into the settings and switch the edition. Everything concerning configuration and installation before and after this prompt, is fully automatic. Here are the various Editions of WaveOS for your consideration:
+
+Home Hub
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After you boot-up the device for the first time it will broadcast the wireless SSID: Wave-Hotspot, which you must connect to in order to access the menu (from any web-browser). This menu will ask which edition of Wave you wish to install. Select one and follow the onscreen instructions to complete the installation of WaveOS to your device.  Here are the various Editions of WaveOS for your consideration:
+
+Applications
+---------------
+
+Emby
+**********
+
+OpenHaB
+**********
+
+sub 2
+---------------
+
+hyperlink
+~~~~~~~~~
+
+Vehicle Tracker
+~~~~~~~~~~~~~~~~
+
+Energy Monitor
+~~~~~~~~~~~~~~~
+
+Signal Booster
+~~~~~~~~~~~~~~~
+
+Multi-Room
+~~~~~~~~~~~~~~~
+
+Storage Device
+~~~~~~~~~~~~~~~
+
+
