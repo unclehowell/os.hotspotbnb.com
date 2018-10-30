@@ -1,42 +1,6 @@
-Upgrades
-========
+Upgrading
+=========
 
-hyperlink
-~~~~~~~~~
-
-Hyperlink `here <http://Arch Linuxarm.org/platforms/armv6/raspberry-pi>`__, 
-
-command lines
-~~~~~~~~~~~~~~~~~
-
-like this: ``192.168.0.x``, ``10.0.0.14x`` or 
-
-Enough of networking for now. We'll set a proper network configuration later in this guide, but first some *musthaves*.
-
-
-text block
------------
-
-::
-
-    passwd  # change root password to something important
-    rm -rf /etc/localtime  # dont care about this
-    ln -s /usr/share/zoneinfo/Europe/Prague /etc/localtime  # set appropriate timezone
-    echo "my_raspberry" >  /etc/hostname  # set name of your RPi
-
-    useradd -m -aG wheel -s /usr/bin/bash common_user # 
-    groupadd webdata  # for sharing
-    useradd -M -aG webdata -s /usr/bin/false nginx
-    usermod -aG webdata common_user
-
-    visudo  # uncomment this line:  %wheel ALL=(ALL) ALL
-
-    pacman -Syu 
-
-
-**bold text**
-
--  bullet
--  point
+The term 'Upgrade' is a term reserved for an alteration made to the software build itself, in which case an increase to the second but last digit is made to reflect this e.g. ``0.X.0``.  An Upgrade will more than likely require the user to re-download and install the software. The exception to this rule is in the case of major updates which can change the user experience so dramatically we mark the occasion by changing the second but one digit of the version (as we do in the case of upgrades e.g. ``0.X.0``)
 
 

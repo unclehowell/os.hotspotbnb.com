@@ -1,4 +1,4 @@
-After Install Config
+Preferences
 ====================
 
 hyperlink

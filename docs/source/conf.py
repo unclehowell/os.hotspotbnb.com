@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Wave'
+project = u'Wave Operating System'
 copyright = u'2018, Make it Wave Ltd'
-author = u'Make it Wave Ltd'
+author = u'Unclehowell'
 
 # The short X.Y version
 version = u''
@@ -150,7 +150,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'Wave', u'Wave Documentation',
-     author, 'Wave', 'One line description of project.',
+     author, 'Wave', 'Freer Energy & Internet',
      'Miscellaneous'),
 ]
 

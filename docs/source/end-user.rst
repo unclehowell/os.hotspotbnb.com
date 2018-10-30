@@ -1,5 +1,5 @@
-Using Wave
-==========
+General Usage
+=====================
 
 What is WaveOS?
 ---------------

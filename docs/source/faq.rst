@@ -1,4 +1,4 @@
-FAQ's & Additional Resources
+FAQ's & Other Resources
 ============================
 
 hyperlink

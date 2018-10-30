@@ -1,5 +1,5 @@
-Product Care & Maintenance
-==========================
+Device Upkeep
+==============
 
 hyperlink
 ~~~~~~~~~

@@ -1,30 +1,30 @@
-.. Wave documentation master file, created by
-   sphinx-quickstart on Wed Oct 24 14:16:17 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Wave Operating System
+=====================
 
-Welcome to Wave's documentation!
-================================
+User Guide & Instruction Manual
+-----------------------------------
 
-Contents:
+Welcome to the Wave Operating System technical library. Contained within in clear and helpful information to help you understand and navigate WaveOS.
+
+Index:
 
 .. toctree::
    :maxdepth: 3
     
    releasenotes
-   gettingstarted
    preperation
+   gettingstarted
    installation
-   afterinstallconfig
-   upgrading
-   integration
    end-user
    productmaint
-   networkmaint
-   developers
+   afterinstallconfig
+   integration
+   upgrading
    troubleshooting
    docsandvideos
    faq
+   developers
+   networkmaint
 
 Indices and tables
 ==================
