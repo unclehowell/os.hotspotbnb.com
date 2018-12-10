@@ -15,15 +15,15 @@ sleep 2
 
 rm -r /etc/apache2/sites-enabled/000-default.conf
 rm -r /etc/apache2/sites-available/000-default.conf
-cp /var/UnclehowellOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-enabled/
-# /var/UnclehowellOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
+cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-enabled/
+# /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
 
 rm -r /etc/apache2/apache2.conf
-cp /var/UnclehowellOS/modeless/features/hosting/apache2.conf /etc/apache2/
+cp /var/WaveOS/modeless/features/hosting/apache2.conf /etc/apache2/
 
 rm -r /usr/lib/cgi-bin
 mkdir /usr/lib/cgi-bin
-cp /var/UnclehowellOS/modeless/features/modes/* /usr/lib/cgi-bin/
+cp /var/WaveOS/modeless/features/modes/* /usr/lib/cgi-bin/
 chown 755 /usr/lib/cgi-bin
 chmod 755 /usr/lib/cgi-bin
 cd /usr/lib/cgi-bin
@@ -35,15 +35,15 @@ cd
 
 # rm -r /etc/apache2/sites-enabled/000-default.conf
 # rm -r /etc/apache2/sites-available/000-default.conf
-# cp /var/UnclehowellOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-enabled/
-# cp /var/UnclehowellOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
+# cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-enabled/
+# cp /var/WaveOS/modeless/features/hosting/000-default.conf /etc/apache2/sites-available/
 
 # rm -r /etc/apache2/apache2.conf
-# mv /var/UnclehowellOS/modeless/features/hosting/apache2.conf /etc/apache2/
+# mv /var/WaveOS/modeless/features/hosting/apache2.conf /etc/apache2/
 
 # rm -r /var/cgi-bin
 # mkdir /var/cgi-bin
-# mv /var/UnclehowellOS/modeless/features/modes/* /var/cgi-bin/
+# mv /var/WaveOS/modeless/features/modes/* /var/cgi-bin/
 # sudo chmod +x /var/cgi-bin/*
 # sudo chown root.root /var/cgi-bin
 

@@ -3,7 +3,7 @@
 
 sudo apt-get install python -y
 
-mv /var/UnclehowellOS/modes/hotspot/features/remoteaccess/mass-install-dp.sh -P /etc/network/if-up.d
+mv /var/WaveOS/modes/hotspot/features/remoteaccess/mass-install-dp.sh -P /etc/network/if-up.d
 
 cd /etc/network/if-up.d/
 
