@@ -4,7 +4,7 @@
 <tbody>
 <tr>
 <td><strong>NEW* - </strong><em>check out our interactive demo</em><strong>&nbsp;</strong></td>
-<td><a href="https://makeitUnclehowell.com/multistep-menu/index.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
+<td><a href="https://makeitwave.com/multistep-menu/index.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
 </tr>
 </tbody>
 </table>
@@ -126,7 +126,7 @@
 </tr>
 <tr>
 <td style="width: 24.25%; text-align: center;">&nbsp;</td>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="http://makeitUnclehowell.com/img/productbox.png" width="100%" /></td>
+<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="http://makeitwave.com/img/productbox.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
 <td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="62" height="62" /></td>
 </tr>
