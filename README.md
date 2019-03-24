@@ -1,305 +1,182 @@
-<p><img style="width: 200px; @media (max-width: 200px) { width: 150px };" src="https://s15.postimg.cc/5gt9k91dn/new_idea_logo.png" width="200" height="auto" /><img style="width: 100px; @media (max-width: 200px) { width: 75px }; margin-right: auto; margin-left: auto;" src="https://www.wiltronics.com.au/wp-content/uploads/pages/official-raspberry-pi-23-enclosure.jpg" width="200" /></p>
-<p><strong>The First User-Friendly Operating System for Single Board Computer(SBC)</strong></p>
-<table>
-<tbody>
-<tr>
-<td><strong>NEW* - </strong><em>check out our interactive demo</em><strong>&nbsp;</strong></td>
-<td><a href="http://makeitwave.com/demo.html"><img style="max-width: 60px; @media (max-width: 200px) { width: 40px }; margin-right: auto; margin-left: auto;" src="http://theessentialtools.com/wp-content/uploads/2018/01/demo-graphic-desktop.jpg" width="60px" height="60px" /></a></td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: left;"><br />Key Reasons to use WaveOS:&nbsp;</p>
-<table style="width: 100%; border-color: grey;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%; text-align: center;"><strong>Internet Speed Boosting</strong></td>
-<td style="width: 50%; text-align: center;"><strong>Media Library</strong></td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;">Using the absolute latest technologies from <a href="https://pi-hole.net">PiHole</a>, <a href="https://squidproxy.org">Squid3</a> &amp; <a href="https://wiki.debian.org/Bind9">Bind9</a> to make your internet around x5 times faster</td>
-<td style="width: 50%; text-align: center;">Todays most powerful Media Library is <a href="https://emby.media">Emby</a>, it turns your movies and music into your own personal Netflix. It even automatically locates subtitled &amp; audio in all languages</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://i0.wp.com/pi-hole.net/wp-content/uploads/2016/12/dashboard212.png?resize=525%2C336&amp;ssl=1" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://lh3.googleusercontent.com/HemYqsE8tkSnuLGd7Xil9QTtwpliOHG5-OQN5oYcA8sbWy0SYdZ2LWI9Jchknw4lDvRZmvVkCw=w640-h400-e365" /></td>
-</tr>
-<tr>
-<td style="width: 50%;">&nbsp;</td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><strong>Smart Home Control</strong></td>
-<td style="width: 50%; text-align: center;"><strong>Cameras (IPCCTV)</strong></td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;">The cutting edge of smart home control from <a href="https://www.openhab.org">OpenHAB</a>. Gives users Wi-Fi control of everything&nbsp;surrounding them e.g. Air Conditioning, Lights, Locks etc</td>
-<td style="width: 50%; text-align: center;">IP Cameras made very simple with <a href="https://github.com/ccrisan/motioneye/wiki">MotionEye</a>. This is by far the fastest and easiest solution, to get started with your IP Cameras</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://docs.openhab.org/addons/uis/habpanel/doc/images/habpanel_screenshot1.png" width="100%" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://iu8cri.altervista.org/wp-content/uploads/2017/09/motioneye_3.png" width="100%" /></td>
-</tr>
-<tr>
-<td style="width: 50%;">&nbsp;</td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><strong>Energy Monitoring</strong></td>
-<td style="width: 50%; text-align: center;"><strong>HD IPTV(+ EPG)</strong></td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><a href="https://emoncms.org">EmonCMS</a> transforms the way we view &amp; manage our energy consumption/&nbsp; production, with sharp and visually stunning&nbsp;graphs</td>
-<td style="width: 50%; text-align: center;">Since the Wave Hotspot boosts your internet speed so well, it's now possible to stream HD Satellite TV from any Country in the World with just 1Mbps of speed</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://emoncms.org/Modules/site/emoncms_front.png" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="http://i.imgur.com/Y07Lpwp.png" /></td>
-</tr>
-<tr>
-<td style="width: 50%;">&nbsp;</td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><strong>Display Mirroring</strong></td>
-<td style="width: 50%; text-align: center;"><strong>Remote Access</strong></td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;">In 'Extender Mode' Wave can be displayed on multiple devices simultaniously, permitting one device to control other in any combination.</td>
-<td style="width: 50%; text-align: center;">In 'Hotspot Mode' Wave has Remote Access - granting users unlimited access to a single dashboard which can monitor and control your entire home or business 24/7</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;">&nbsp;<img style="max-width: 200px;" src="https://thumb.ibb.co/mDDwNS/Screen_Mirroring.png" /></td>
-<td style="width: 50%; text-align: center;"><img style="max-width: 200px;" src="https://thumb.ibb.co/fRRNCS/remote_access.png" width="180" height="180" /></td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<h2 id="mcetoc_1cb7lorjn1f" style="text-align: left;">Getting Started&nbsp;</h2>
-<p style="text-align: left;"><span style="text-decoration: underline;"><strong>Step-1.&nbsp;</strong><strong>Obtain Hardware</strong></span></p>
-<p>There's 4 great options to get you started, no matter what your situation or skillsets&nbsp;</p>
-<table style="width: 99%; border-color: grey;" border="1" width="99%">
-<tbody>
-<tr>
-<td style="width: 49.5%; text-align: center;" colspan="2">
-<p><strong>Non-Technical</strong></p>
-</td>
-<td style="width: 49.5%; text-align: center;" colspan="2">
-<p><strong>Tech Savvy</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 24.25%; text-align: center;"><strong>Option-A</strong></td>
-<td style="width: 24.25%; text-align: center;"><strong>Option-B</strong></td>
-<td style="width: 24.25%; text-align: center;"><strong>Option-A</strong></td>
-<td style="width: 24.25%; text-align: center;"><strong>Option-B</strong></td>
-</tr>
-<tr>
-<td style="width: 24.25%; text-align: center;">Smart-Home Kit (x7 SBC's)</td>
-<td style="width: 24.25%; text-align: center;">Single Unit&nbsp; (x1 SBC)</td>
-<td style="width: 24.25%; text-align: center;">SD Only</td>
-<td style="width: 24.25%; text-align: center;">WaveOS&nbsp; &nbsp;version 0.4</td>
-</tr>
-<tr>
-<td style="width: 24.25%; text-align: center;">$600 USD</td>
-<td style="width: 24.25%; text-align: center;">$125 USD</td>
-<td style="width: 24.25%; text-align: center;">$50 USD</td>
-<td style="width: 24.25%; text-align: center;">FREE</td>
-</tr>
-<tr>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://image.ibb.co/h45Hno/7_PIS.png" width="100%" /></td>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/nNTeRn/hotspot_only.png" width="100%" /></td>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 150px;" src="https://thumb.ibb.co/c28408/sd_card.png" width="100%" /></td>
-<td style="width: 24.25%; text-align: center;"><img style="max-width: 100px;" src="http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-74-Software-Install-icon.png" width="62" height="62" /></td>
-</tr>
-<tr>
-<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/600"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/125"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 24.25%;"><a href="https://paypal.me/makeitwave/50"><img style="max-width: 100px; min-width: 70px;" src="https://rmchildren.org/wp-content/uploads/2014/12/Online-Ordering-Button.png" width="90%" /></a></td>
-<td style="text-align: center; width: 24.25%;">
-<p style="zoom:0.5;">500MB.img<a href="https://mega.nz/#!4aYSiJiS!S2VeWes_0SPgtxJD2yVxAYrVlQEsvFT_D1ft0Tt5As8"><img src="http://www.filetypes.ru/uploads/ext/2933.png" width="25%" /></a></p>
-<p style="zoom:0.5;">150MB.zip<a href="https://mega.nz/#!0a4TgCzJ!uIMdWcIw7mlIHDW9Wmo7NC3sXgxjv4YvwP-Oq21kR88"><img src="http://www.iconsalot.com/asset/icons/smashicons/file-types/512/zip-icon.png" alt="" width="25%" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 65%;" colspan="2">
-<p style="text-align: center;">Wave must be hosted on a Single Board Computer (SBC), so you should order one before proceeding</p>
-<p style="text-align: center;">A pack of 7 is the recommended number of units for the ultimate WaveOS smart home experience.&nbsp;&nbsp;</p>
-<p style="text-align: center;">e.g. connect 1 onto your router (mandatory) and the remainder onto devices you wish to monitor &amp; control e.g. TV's/ Solar Inverter. Two can also pair together to extend Wi-Fi</p>
-<p style="text-align: center;">*<em> all cables, PSU &amp; WaveOS pre-installer SD Cards included</em></p>
-</td>
-<td style="width: 17%; text-align: center;">Plug &amp; Play&nbsp;<em>(skip the manual installation process)</em></td>
-<td style="width: 17%; text-align: center;">
-<p style="text-align: center;">use&nbsp;<a href="https://sourceforge.net/projects/win32diskimager/" target="_blank" rel="noopener">Win32 DiskImager</a>&nbsp;to burn WaveOS to your Micro SD Card</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p id="mcetoc_1cb7lorjn1f">&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Step-2.</strong>&nbsp;</span><strong><span style="text-decoration: underline;">Set&nbsp;your Router</span>&nbsp;</strong></p>
-<p>WaveOS currently requires you to adjust a setting on your routers subnet e.g. Gateway and DHCP IP. We are working to eliminate this step in later versions of Wave, but for now it's mandator&nbsp;</p>
-<table style="border-color: grey;" border="1" width="100%">
-<tbody>
-<tr>
-<td style="width: 33%; text-align: center;">&nbsp;Login</td>
-<td style="width: 33%; text-align: center;">Update subnet</td>
-<td style="width: 33%; text-align: center;">Save &amp; Reboot</td>
-</tr>
-<tr>
-<td style="width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
-<td style="width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://assets.pcmag.com/media/images/509537-03-access-your-wifi-router.jpg?thumb=y" width="75%" /></td>
-<td style="width: 155.2px; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtjngMAUCFAGnzjW8TpjE58IFeU4lre0zgAH5FrfeCkwGNNgp" width="75%" /></td>
-</tr>
-<tr>
-<td style="width: 33%; text-align: center;">
-<p>Enter your router IP into the address bar to access its menu</p>
-<p><a href="https://www.linksys.com/us/support-article?articleNum=132891">How-to-Guide</a></p>
-</td>
-<td style="width: 33%; text-align: center;">
-<p>Gateway: 10.0.0.1</p>
-<p>DHCP: 10.0.0.2 - 10.0.0.254</p>
-<p><a href="https://support.google.com/wifi/answer/7571856?hl=en" target="_blank" rel="noopener">How-to Guide</a></p>
-</td>
-<td style="width: 33%; text-align: center;">
-<p>The LED indicator will say when the reboot has completed</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>* It is also recommended, once up and running with Wave, that you disable your old routers Wi-Fi and use only the Wave Hotspot</em></p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Step-3.</strong>&nbsp;<strong>Plug &amp; Play</strong></span></p>
-<p>Fairly obvious but the sequence is important&nbsp;</p>
-<table style="border-color: grey;" border="1" width="100%">
-<tbody>
-<tr>
-<td style="width: 33%; text-align: center;">Insert SD Card</td>
-<td style="width: 33%; text-align: center;">&nbsp; Connect to Router</td>
-<td style="width: 33%; text-align: center;">Connect Power</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://sudodblog.files.wordpress.com/2014/07/pi-sd-3.jpg" width="50%" /></td>
-<td style="text-align: center; width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://www.openmediacentre.com.au/fileadmin/user_upload/raspberry_pi_router.jpg" width="50%" /></td>
-<td style="text-align: center; width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="http://iuniker.com/Uploads/Products/20171110/5a0543fa71858.jpg" width="50%" /></td>
-</tr>
-<tr>
-<td style="width: 33%; text-align: center;">Insert the WaveOS Micro SD Card into the SBC Device</td>
-<td style="width: 33%; text-align: center;"><span style="text-align: start;">&nbsp;Connect your device to your Wi-Fi Router with the ethernet cable.</span></td>
-<td style="width: 33%; text-align: center;">Power up the device&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>* during boot-up (for the first time only) Wave will connect to our code source and self-configure some essential services like updates &amp; upgrades, the Wi-Fi and the set-up Menu. This process can take up to 15 minutes depending on internet speed</p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Step-4.</strong>&nbsp;<strong>Set-Up Wizard (Mode Select Menu)</strong></span></p>
-<p>Fairly obvious step, but the sequence is important</p>
-<table style="border-color: grey;" border="1" width="100%">
-<tbody>
-<tr>
-<td style="width: auto; min-width: 33%; text-align: center;" width="33%">Connect</td>
-<td style="width: auto; min-width: 33%; text-align: center;" width="33%">Access Menu</td>
-<td width="33%">
-<p style="color: red; @media (max-width: 200px) { color: green };">Select a Mode</p>
-</td>
-</tr>
-<tr>
-<td style="width: auto; min-width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://cdn.guidingtech.com/media/assets/WordPress-Import/2017/01/shutterstock_327654092.jpg" width="75%" /></td>
-<td style="width: auto; min-width: 33%; text-align: center;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://thumbs.dreamstime.com/z/perspective-secure-web-site-browser-address-bar-illustration-www-cursor-pointing-blank-space-30863206.jpg" width="75%" /></td>
-<td style="width: auto; min-width: 33%;"><img style="max-width: 125px; display: block; margin-left: auto; margin-right: auto; width: 75%;" src="https://preview.ibb.co/hwMTay/IMG_20180524_WA0002.jpg" width="75%" /></td>
-</tr>
-<tr>
-<td style="width: auto; min-width: 33%; text-align: center;">
-<p style="text-align: left;">SSID: Wave-Hotspot</p>
-<p style="text-align: left;">Password: makeitwave</p>
-</td>
-<td style="width: auto; min-width: 33%; text-align: center;">
-<p>&nbsp;</p>
-<p><a href="http://modeless/">http://modeless/</a>&nbsp; or&nbsp;</p>
-<p><a href="http://192.168.42.1/">http://192.168.42.1/</a></p>
-<p>&nbsp;</p>
-</td>
-<td style="width: auto; min-width: 33%; text-align: center;">see below for more details</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>The Various Modes of Operation</strong></h3>
-<p>&nbsp;</p>
-<table style="width: 100%; border-color: grey;" border="1">
-<tbody>
-<tr>
-<td style="text-align: center; width: 50%;"><strong><a>Hotspot-Mode</a></strong></td>
-<td style="text-align: center; width: 50%;"><strong><a>Extender-Mode</a></strong></td>
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;">Broadcast</td>
-<td style="text-align: center; width: 50%;">Receiver</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;">Ethernet</td>
-<td style="text-align: center; width: 50%;">HDMI</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;<img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumb.ibb.co/ginj97/mode_1.png" width="50%" /></td>
-<td style="text-align: center;"><img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://thumb.ibb.co/iw6i2S/mode_2.png" width="50%" /></td>
-</tr>
-<tr>
-<td style="text-align: center;">In Hotspot Mode Wave creates a new Wi-Fi Station with Faster Internet Speeds. Wave's Menu &amp; Apps can be also accessed from any device connected to the Hotspot (by simply typing 'Wave' into the web browser)</td>
-<td style="text-align: center;">In Extender Mode Wave displays its Menu &amp; Apps on any HDMI connected display. Typing 'Wave' into your mobiles web browser will also allow you to select and control the display.</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<table style="width: 100%; border-color: grey;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;">
-<p style="text-align: center;"><strong><a>Energy-Mode</a></strong></p>
-</td>
-<td style="text-align: center; width: 50%;"><strong><a>Repeater-Mode</a></strong></td>
-</tr>
-<tr style="text-align: center;">
-<td style="width: 50%;">
-<p>&nbsp;Receiver</p>
-</td>
-<td style="width: 50%;">Receiver / Transmitter</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;">Ethernet</td>
-<td style="text-align: center; width: 50%;">&nbsp;Wireless</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;">&nbsp;<img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://image.ibb.co/mCwTay/inverter_mode.png" width="50%" /></td>
-<td style="text-align: center; width: 50%;"><img style="max-width: 200px; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://image.ibb.co/jNSWTJ/repeater_mode.png" width="50%" /></td>
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;">In Energy Mode your device will collect data from your Solar Inverter which can be used to autonomously reduce your energy costs e.g. as your battery level falls below 90% your high consumption devices can all turn off automatically, subsequently extending your battery life by as much as 10 years</td>
-<td style="text-align: center; width: 50%;">In repeater mode your device will interface with a secondary unit (also in repeater mode) to extend your Wi-Fi by as much as 25 Meters. The extenders also feature technologies to speed up your extended internet in the process.&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>* 1 Unit in Hotspot-Mode must exist (first &amp; always)</p>
-<p>* the mode-select menu can also be accessed via the web browser of any mobile device connected to the Modeless Hotspot</p>
-<p>&nbsp;</p>
-<h2><strong>Thanks</strong></h2>
-<p>The WaveOS Project would not have been possible without the incredible technologies listed below - a huge thanks to all the teams behind these projects, not to mention our investors, lenders &amp; volunteers - from all of us here at Wave:</p>
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td><a title="Google Chrome Browser" href="https://www.google.com/chrome/" target="_blank" rel="noopener"><img src="https://image.ibb.co/d2ONky/chrome.png" alt="Google Chrome" width="150" /></a></td>
-<td><a title="DietPi" href="https://dietpi.com" target="_blank" rel="noopener"><img src="https://image.ibb.co/nP74yJ/dietpi.png" alt="DietPi" width="150" /></a></td>
-<td><a title="Emby" href="https://emby.media" target="_blank" rel="noopener"><img src="https://image.ibb.co/h2R8Qy/emby.png" alt="Emby" width="150" /></a></td>
-</tr>
-<tr>
-<td><a title="Linux" href="https://www.linuxfoundation.org" target="_blank" rel="noopener"><img src="https://image.ibb.co/ffTcJJ/linux.png" alt="" width="150" /></a></td>
-<td><a title="OpenHAB" href="https://www.openhab.org" target="_blank" rel="noopener"><img src="https://image.ibb.co/mzK6Cd/openhab.png" alt="OpenHAB" width="150" /></a></td>
-<td><a href="https://emoncms.org" target="_blank" rel="noopener"><img src="https://image.ibb.co/b4esJJ/emoncms.png" alt="" width="150" /></a></td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Help &amp; Support</strong></span></p>
-<p>&nbsp;</p>
-<p>Sion (Hywel Ap)Buckler</p>
-<p>Founder &amp; CEO</p>
-<p>Make it Wave Ltd (Company ID: 11363386)</p>
-<p>e-mail:&nbsp;<a href="mailto:hywelapbuckler@gmail.com">hywelapbuckler@gmail.com</a></p>
-<p><a href="https://www.facebook.com/makeitwave/"> <img src="https://www.shareicon.net/download/2015/06/01/47311_facebook_350x350.png" width="40px" height="40px" /> </a></p>
+# WaveOS_New
+WaveOS Version 5+. Rebuilt using RetroPie Image to feature Gaming & Virtual Gamepads.
+4G/LTE Support also introduced. 
+A USB Dongle via USB will function until the hardware solution is ready.
+(The hardware solution will include an LTE Cat 1 Modem Hat on a Pi Zero, with a bullion bar shaped 3D plastic shell).  
+
+Introduction
+--------------------------------------------------------
+
+Before switching cores, we need to get the theory of WaveOS Version 5.0 working in practice.
+There's a lot of places to begin, such as installing raspian or dietpi (as was the case in version 4.0). 
+However, at this stage, we're going to build this proof of concept using the latest RetroPie Image. 
+Then the modified SD Card image can be shrunk, compressed and sent out to beta testers and investors. 
+
+For the public release (version 6) we plan to iron out bugs and attempt to re-build again using PiCore (lightweight).
+Furthmore the image will be under 100Mb, since the system will self-build and install on initial boot (only). 
+
+Building this prototype is near enough built from memory. 
+Our Hardware is an armv7 BCM2835 Raspberry Pi3 and a ZTE Hauwaei 4G/LTE > Wi-Fi Dongle. 
+So here goes .. WaveOS Version 5 Prototype: 
+
+
+STEP 1: Internet Access
+--------------------------------------------------------
+New with Version 5.0 is installing the HSPA+/4G/LTE Dongle/ HAT:
+
+- Here's [the guide](https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial) we followed to get the internet running via the Hauwei dongle, which is connected via USB on the prototype. On the actual hardware solution there's a 4G/LTE CAT1 HAT Board, but we'll come back to that later. 
+
+- we open /etc/ppp/options and enabled ipcp-max-failure (unhash) and set it to 30 .And enabled ms-dns .And set the ip to a default one (8.8.8.8 8.8.4.4). This was just a good practice according to what we read, not sure what difference it might have made. 
+
+
+STEP 2: Wi-Fi Hotspot
+--------------------------------------------------------
+Next we make it a Wi-Fi Hotspot as well (effectively transforming the rpi3 into a standard dongle: 
+
+- there was a [long tangent of trial and error](https://pastebin.com/V028nYqN) to get the Wi-Fi Hotspot broadcasting with internet access and localhost apps, dashboard etc. 
+  but then we followed [this guide](https://esther.codes/post-pi_router_story/) and got a result. 
+
+- At this point we can/ should be able to access the device via ssh using the wifi to the dongle (it's a wifi hotspot as well) or via the wifi the rpi3 is broadcasting. 
+	
+Now we have a celluar to Wi-Fi hotspot.  Running the command 'netstat -r command' gives us this: 
+
+		Kernel IP routing table
+		Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+		default         192.168.0.1     0.0.0.0         UG        0 0          0 usb0
+		10.3.141.0      0.0.0.0         255.255.255.0   U         0 0          0 wlan0
+		link-local      0.0.0.0         255.255.0.0     U         0 0          0 wlan0
+		192.168.0.0     0.0.0.0         255.255.255.0   U         0 0          0 usb0 
+
+
+	
+STEP 4: Applications
+--------------------------------------------------------
+
+All the apps need installing according to their own installation guides: 
+
++ Wave Dashboard - Installing dependancies from WaveOS version 4.0 wasn't difficult.  Basically just apt-get install followed by the packages e.g. Apache2, Python, etc etc   
+   - Then we clone the dashboard from the [website demo](https://makeitwave.com/demo.html). Some small changes are made to transform it from a demo to an actual UI
+   -  In the U4VL Streaming Server files there's a face recognition app which (with some small tweaks) serves as a nice dual-screen/ web-based display for within the 'games' tab of the Wave Dashboard. Cgi has been a headache. This is a requirement for the buttons on the menu to trigger shell and perl scripts, which reboot the device, escape kiosk mode, launch the gaming emulation station etc. 
+	
++ Raspi-AP GUI - So the user can change the Wi-Fi SSID & Password with a UI (no coding required)
+   - Need to get rid of the password access to all the apps. Motioneye, Emby, PiHole etc. Until there's a one for all administrator level solution. 
+	
++ PiHole - This is likely to be removed once the ad replacement part comes into play, but for the meanwhile it's awesome for all the things Raspi Access Point is missing in its   DHCP and cache. PiHole has something called an FTL-Engine which just rocks, plain and simple. Point to note, the configuration is as follows: 
+	
+-  enabled DHCP Server 10.3.141.50 - ...254 and set router to 10.3.141.1
+-  Listen only on interface wlan0
+-  Google & Cloud Flare as DNS
+-  enable DHCP rapid commit (fast address assignment)
+-  set xframe to ALLOW in the config, so that it will appear in the Wave Dashboard
+					
+
++ OpenHAB - standard setup:
+
+- Was a few conflics, like tomcat using port 8080, so removed tomcat altogether, not needed. 
+- Also, javasdk isn't the best option anymore, openhab-config menu presents other solutions. 
+- Linked to a Wemo Wi-Fi plug, added a button and BOOM! ... controlling a fan from every device in the house. 
+
++ MotionEye - standard install:
+	
+- added 1 IP Camera just to prove it works. 
+			
++ Emby (iptv, media center etc):
+	
+- bummer alert! recently, Emby made Live TV (even IPTV) a premium paid feature:
+- So apparently some cool people did a fork called jellyfin, but as of March 2019 Jellyfin doesn't work on arm7 processors, no matter which way we try to install.
+- so there's some other solutions like mythweb (myth-tv). We also considered iptvx (port:8085), but that's a digression. 
+- What we have decided to do is a 'jellyfin' ourselves:
+	- get the last free iptv version of emby wget https://github.com/MediaBrowser/Emby.Releases/releases/download/3.5.2.0/emby-server-deb_3.5.2.0_armhf.deb -O 41.deb
+	- look at dependacies: dpkg-deb -I 41.deb (seems to be one big one, that's libc6. checked this with command: apt-cache policy libc6)
+	- install it with command: dpkg -i 41.deb
+	- prevent it from updating with the command: sudo apt-mark hold emby-server
+	- start with command: service ebmy-server start , (starts on reboot thereafter, no cronjob etc needed for that)
+
+	- for future reference, ONLY if the dependacy libc6 isn't there .....		
+	- get this dependacy: http://deb.debian.org/debian/pool/main/g/glibc/libc6_2.24-11+deb9u3_armhf.deb # Download the Stretch package
+	- install it with the command: dpkg -i libc6_2.24-11+deb9u3_armhf.deb # Install the Stretch package
+
+	- removed the alert to update as well. Edited dashboard.html the same [way jellyfin does it](https://github.com/jellyfin/jellyfin/pull/164/files).
+	- emby lets you add custom css in settings, so this went in as well to fix a scrolling issue: .dashboardDocument .skinBody {overflow: scroll!important;}
+
++ Then added some iptv channels with epg data and a sample (licence free) short movie and music:
+	
+	- Download XMLTV [from here](https://github.com/rocky4546/script.xmltv.tvheadend/releases)
+	- Unzip the release
+	- Run the command ./install.sh
+	- wget the [zap2xml.pl](http://zap2xml.awardspace.info/) file and placed in ~/xmltv/ & set permission (chmod 775 zap2xml.pl)
+	- change the xx.zap2xmlrc to .zap2xmlrc and edited it to have the right email/password and username. Then placed it in home folder ~
+	- generated an xmltv_default.xml file by running the command: ./zap2xml.pl -D -S 3
+	- Took a while to get the EPG.
+	- Renamed the xmltv_default.xml output file to xmltv.xml (this part will all be done remotely in the beta release, so clients fetch the epg output twice daily)
+	- went into emby. linked to the m3u file in Wave's repo. and linked to the xml output & mapped the two together. 
+	- BOOM! A Media Center with IPTV & EPG.
+	- BUT US CHANNELS ONLY, NEED UK
+	- got hold of UK channel streams
+
++ Then added a sample movie (Bunny Buck), but in x264 not mp4 (in order to test the real time transcoding and overclocking, especially across multiple devices. ) 
+  
+		
+STEP 5: Customisations
+--------------------------------------------------------
+
+There's a few customisations which bring it all together:
+
+- for 2nd screen viewing, we just modified a uv4l demo project called face detect. And used port 9080, since 8080 has issues. 
+- kiosk mode, which brings the menu up on boot, instead of retropie's emulationstation
+- more, will list here as they get done/ figured out
+- made clean: removed all welcome text/ intro's/ logo's etc in the command line (seen between events): ~/.bashrc
+- stopped HDMI from sleeping by;
+	-	editing /etc/rc.local to include: setterm -blank 0 -powerdown 0
+	-	editing /etc/X11/Xsession.d/40x11-common_xsessionrc to include: setterm -blank 0 -powerdown 0; xset s off; xset -dpms
+- openhab on mobile doesn't show well. So the mobile dashboard UI (there's a seperate on for TV), needs what the game controller has e.g. a notice to say turn your device to landscape before the UI is displayed. 
+- chromium-browser in kiosk mode, with the Wave Dashboard as the homepage (a TV homepage UI needs creating, different from the mobile one e.g. no gamepads needed to begin with)
+- can also be upgraded from 65 to latests. As detailed at the end of [this forum post](https://raspberrypi.stackexchange.com/questions/92301/is-it-possible-to-upgrade-chromium-past-v65)
+
+
+STEP 6: Version 5.0 Release (Try it for Yourself) 
+--------------------------------------------------------
+
+The shrinking and compressing of this image is a major point. Since it's not straightforward. Had to get virtualbox installed, with enough space to copy pishrink and the image into it (since shared file approach is a nightmare for pishrink). 
+
+
+STEP 7: Cheats & Hacks
+--------------------------------------------------------
+
+- the dashboard is running in chromium-browser, so a simple CONTROL + N will open a new tab (to view youtube, webpages etc). To switch between tabs it's CONTROL + SHIFT + TAB. 
+- FYI - The Wave Dashboard will run in background when you open new tabs, so feel free to play music while you surf the web. 
+- The only method to return to the dashboard seems to be to close all tabs. But you can type localhost in a new tab as well to bring the dashboard back up. But this isn't advised since you can overload the system if you have multiple instances of the dashboard open in the background. Will need to revisit this. 
+
+
+Final Notes
+--------------------------------------------------------
+
+Nothing is mentioned about the monetisation, but here's some notes;
+
+-   the JSE Mining privacy bar prompts in kiosk mode after boot and the first tab is the emby server, which displays a 'still loading' text. This is ugly. 
+-   there needs to be a clean 'loading apps' screen while openhab, emby, motioneye, pihole etc are all loading. While that's happening on initial boot, users will have a moment to accept the mining prompt. 
+
+Also need to change 'settings' to 'more' and make the settings menu look more like addition apps:
+
+-   web browser mode toggle (re-load kiosk mode with address bars)
+-   game mode toggle (logs out of kiosk mode to command line and runs emulation station
+	- games can also get stuck and there's no escaping them with the virtual game controllers, so there should be a button here for that too
+-   In the new browser tab in this demo prototype build of version 5 it would also be good to have netflix and youtube as web apps
+-   craspi-Ap and pihole already here, but as icons, not links, it'll look much cooler. 
+-   U4VL second screen option should be here and only display if conditions are met e.g. chrome with support, viewport size etc (basically a laptop). 
+-   the free internet aspect can also be in here. It can display the ISP details, rate for data, revenue generated and if qualifying, users can opt-in for free internet. 
+		
+Also, to commemorate our version of technology projects others began, we should name our forks of these apps accordingly:
+-   emby henceforce becomes WavePlayer
+-   uv4l henceforce becomes WaveCast
+-   openhab henceforce becomes WaveHomeControl
+-   motioneye henceforce becomes WaveSurveillance
+-   raspi-ap henceforce becomes WaveHotspot
+-   ppp & usb_modemswitch to become WaveCell
+		
+
+PACKAGES IN VERSION 5
+--------------------------------------------------------
+
+Too many too list here. Something in the region of 1700. A Past bin link for this is coming ... 
+
