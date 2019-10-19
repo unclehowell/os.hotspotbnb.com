@@ -76,16 +76,16 @@
 <td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><strong>Vehicle Tracking</strong></td>
+<td style="width: 50%; text-align: center;"><strong></strong></td>
 <td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;">Tracking a vehicle has never been so easy. With some additional hardware upgrades, it is possible to also fit Unclehowell to your vehicles so that you are able to track them.&nbsp;</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
 <td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">
-<p><img src="https://images-na.ssl-images-amazon.com/images/I/51knGD2H2ML._SX425_.jpg" alt="" width="200" /></p>
+<p></p>
 </td>
 <td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
