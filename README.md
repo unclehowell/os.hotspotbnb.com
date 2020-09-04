@@ -1,2 +1,2 @@
-# Wave is now part of HotspotBnB
-Learn more: https://github.com/unclehowell/HBnB/releases
+# Wave is now part of DATRO Consortium
+Learn more: https://github.com/unclehowell/datro/
